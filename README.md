@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rishabh, a developer, who is always working on a new project</div>  
   
 
-- 🔭 I’m currently working on [drift-linux](https://github.com/rishabh-live/drift-linux)  
+- 🔭 I’m currently working on [Drift-Desk](https://github.com/Drift-Desk/)  
   
 
 - 🌱 I’m currently learning Blockchain  
