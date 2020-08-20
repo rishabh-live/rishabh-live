@@ -55,6 +55,14 @@
 <br/>  
 
 
+## Languages Used
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-live" align="center" />
+</div>
+
+
+<br/>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/rishabh-live" target="_blank">
