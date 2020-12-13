@@ -18,7 +18,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend
+<h3> Frontend </h3>
 
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -31,7 +31,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" />  
 </div></td><td valign="top" width="33%">
 
-### Backend
+<h3> Backend </h3>
 
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" height="50" />  
@@ -45,7 +45,7 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div></td><td valign="top" width="33%">
 
-### DevOps
+<h3> DevOps </h3>
 
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
