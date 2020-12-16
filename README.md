@@ -65,7 +65,7 @@
 
 
 <br/>
-## My recent Activity's
+## My recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
