@@ -15,7 +15,7 @@ del fileArray[indexPos+1:endPos]
 # print(fileArray)
 # print(indexPos)
 
-writeData = "<!-- START:github_activity --> \n"
+writeData = "<!-- START:github_activity -->\n"
 url = "https://api.github.com/users/rishabh-live/events"
 
 response = urllib.request.urlopen(url)
@@ -23,6 +23,8 @@ response = urllib.request.urlopen(url)
 data = json.loads(response.read())
 i = 1
 for x in data:
+    if i >=11:
+        break
     event = x["payload"]["commits"][0]["message"]
     repoName = x["repo"]["name"]
     url = x["repo"]["url"]
