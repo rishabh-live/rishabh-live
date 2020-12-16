@@ -67,7 +67,7 @@
 <br/>
 
 ## My recent Activity
-<!-- START:github_activity --> 
+<!-- START:github_activity -->
 1) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Global Config Changed ( rishabh-live/rishabh-live )</a>
 2) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
 3) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Added git auto deployement ( rishabh-live/rishabh-live )</a>
