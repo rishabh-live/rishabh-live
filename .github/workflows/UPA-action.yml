@@ -17,15 +17,13 @@ jobs:
         with:
           python-version: '3.7' # Version range or exact version of a Python version to use, using SemVer's version range syntax
       - run: python update-github-activity.py
-      - name: switching from HTTPS to SSH
-        run: git remote set-url origin ${{ secrets.ssh }}
       - name: check for changes
         run: git status
       - name: stage changed files
         run: git add .
       - name: commit changed files
-        run: git commit -m "Auto updating Reacent Activity"
+        run: git commit -m "Auto updating Recent Activity"
       - name: fetch from master
         run: git fetch origin master
       - name: push code to master
-        run: git push origin HEAD:master
+        run: git push origin master
