@@ -67,12 +67,38 @@
 <br/>
 
 ## My recent Activity
-<!-- START:github_activity -->
-1. 🎉 Merged PR [#1](https://github.com/rishabh-live/edition-semicolon/pull/1) in [rishabh-live/edition-semicolon](https://github.com/rishabh-live/edition-semicolon)
-2. 🎉 Merged PR [#4](https://github.com/rishabh-live/team53/pull/4) in [rishabh-live/team53](https://github.com/rishabh-live/team53)
-3. 💪 Opened PR [#8](https://github.com/gladiolus-language-nectar-profile/languagenectar.com-next.js/pull/8) in [gladiolus-language-nectar-profile/languagenectar.com-next.js](https://github.com/gladiolus-language-nectar-profile/languagenectar.com-next.js)
-4. 🎉 Merged PR [#2](https://github.com/Gladiolus-Language-Nectar/languagenectar.com-next.js/pull/2) in [Gladiolus-Language-Nectar/languagenectar.com-next.js](https://github.com/Gladiolus-Language-Nectar/languagenectar.com-next.js)
-5. 💪 Opened PR [#2](https://github.com/Gladiolus-Language-Nectar/languagenectar.com-next.js/pull/2) in [Gladiolus-Language-Nectar/languagenectar.com-next.js](https://github.com/Gladiolus-Language-Nectar/languagenectar.com-next.js)
+<!-- START:github_activity --> 
+1) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Global Config Changed ( rishabh-live/rishabh-live )</a>
+2) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+3) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Added git auto deployement ( rishabh-live/rishabh-live )</a>
+4) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">File Changes to be Commited ( rishabh-live/rishabh-live )</a>
+5) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+6) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+7) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update update-github-activity.py ( rishabh-live/rishabh-live )</a>
+8) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+9) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+10) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update README.md ( rishabh-live/rishabh-live )</a>
+11) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+12) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Delete updateRecentActivity.yml ( rishabh-live/rishabh-live )</a>
+13) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Create UPA-action.yml ( rishabh-live/rishabh-live )</a>
+14) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Create update-github-activity.py ( rishabh-live/rishabh-live )</a>
+15) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Removed Spotify ( rishabh-live/rishabh-live )</a>
+16) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update README.md ( rishabh-live/rishabh-live )</a>
+17) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update README.md ( rishabh-live/rishabh-live )</a>
+18) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update and rename main.yml to updateRecentActivity.yml ( rishabh-live/rishabh-live )</a>
+19) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Recent Activity Section Added ( rishabh-live/rishabh-live )</a>
+20) <a href="https://api.github.com/repos/rishabh-live/rishabh-live.github.io">Added My Articles in menu ( rishabh-live/rishabh-live.github.io )</a>
+21) <a href="https://api.github.com/repos/rishabh-live/rishabh-live-nextjs">Added My Articles in menu ( rishabh-live/rishabh-live-nextjs )</a>
+22) <a href="https://api.github.com/repos/rishabh-live/rishabh-live.github.io">Added Google Analytics ( rishabh-live/rishabh-live.github.io )</a>
+23) <a href="https://api.github.com/repos/rishabh-live/rishabh-live-nextjs">Added Google Analytics ( rishabh-live/rishabh-live-nextjs )</a>
+24) <a href="https://api.github.com/repos/rishabh-live/rishabh-live.github.io">Updated Slug Rederer ( rishabh-live/rishabh-live.github.io )</a>
+25) <a href="https://api.github.com/repos/rishabh-live/rishabh-live-nextjs">Blog Article Card Hard Coded for Desktop ( rishabh-live/rishabh-live-nextjs )</a>
+26) <a href="https://api.github.com/repos/rishabh-live/rishabh-live-nextjs">Updated Slug Rederer ( rishabh-live/rishabh-live-nextjs )</a>
+27) <a href="https://api.github.com/repos/rishabh-live/rishabh-live.github.io">Blogs Home Page Build Started ( rishabh-live/rishabh-live.github.io )</a>
+28) <a href="https://api.github.com/repos/rishabh-live/rishabh-live-nextjs">Updated Banner styling to classy Banner style ( rishabh-live/rishabh-live-nextjs )</a>
+29) <a href="https://api.github.com/repos/rishabh-live/rishabh-live-nextjs">BOx Shadow Issue FIx ( rishabh-live/rishabh-live-nextjs )</a>
+30) <a href="https://api.github.com/repos/rishabh-live/rishabh-live-nextjs">Min Styel Changed ( rishabh-live/rishabh-live-nextjs )</a>
+
 <!-- END:github_activity -->
 
 
@@ -115,3 +141,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
