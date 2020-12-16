@@ -65,8 +65,8 @@
 
 
 <br/>
-## My recent Activity
 
+## My recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/rishabh-live/edition-semicolon/pull/1) in [rishabh-live/edition-semicolon](https://github.com/rishabh-live/edition-semicolon)
 2. 🎉 Merged PR [#4](https://github.com/rishabh-live/team53/pull/4) in [rishabh-live/team53](https://github.com/rishabh-live/team53)
