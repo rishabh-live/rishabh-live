@@ -65,6 +65,13 @@
 
 
 <br/>
+## My recent Activity's
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+<br/>
 
 ## Connect with me  
 <div align="center">
