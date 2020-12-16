@@ -1,4 +1,4 @@
-import urllib
+import urllib.request
 import json
 
 USERNAME = "rishabh-live"
@@ -18,7 +18,7 @@ del fileArray[indexPos+1:endPos]
 writeData = "<!-- START:github_activity --> \n"
 url = "https://api.github.com/users/rishabh-live/events"
 
-response = urllib.urlopen(url)
+response = urllib.request.urlopen(url)
 
 data = json.loads(response.read())
 i = 1
