@@ -27,7 +27,7 @@ for x in data:
         break
     event = x["payload"]["commits"][0]["message"]
     repoName = x["repo"]["name"]
-    url = x["repo"]["url"]
+    url = x["payload"]["commits"][0]["url"]
 
     writeData = writeData + str(i) + ") <a href=\"" + \
         url+"\">"+event+" ( "+repoName+" )</a>\n"
