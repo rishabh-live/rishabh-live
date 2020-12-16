@@ -68,16 +68,16 @@
 
 ## My recent Activity
 <!-- START:github_activity -->
-1) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">[Bug] Erased unwanted space ( rishabh-live/rishabh-live )</a>
-2) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Bug Fixed ( rishabh-live/rishabh-live )</a>
-3) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Global Config Changed ( rishabh-live/rishabh-live )</a>
-4) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
-5) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Added git auto deployement ( rishabh-live/rishabh-live )</a>
-6) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">File Changes to be Commited ( rishabh-live/rishabh-live )</a>
-7) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
-8) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
-9) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update update-github-activity.py ( rishabh-live/rishabh-live )</a>
-10) <a href="https://api.github.com/repos/rishabh-live/rishabh-live">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+1) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/68c33e53404efe879633a747e6ab31486d0a0ea5">[UPDATE] Url changed to Commits ( rishabh-live/rishabh-live )</a>
+2) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/3145ba284a697a823fc9231dda93c531f6efa223">[Bug] Erased unwanted space ( rishabh-live/rishabh-live )</a>
+3) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/a3b40ae6e49b326fff832613ff159eb22089c3a7">Bug Fixed ( rishabh-live/rishabh-live )</a>
+4) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/f8491f926a28edf82d1f780f093152b59e6a12d1">Global Config Changed ( rishabh-live/rishabh-live )</a>
+5) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/b630dd812f439d8f96a3f221b211d6a5a8797c02">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+6) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/7cad86a25263e79b6e6ce815f236cfd194556049">Added git auto deployement ( rishabh-live/rishabh-live )</a>
+7) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/5b0f118a0d9dfb469e29b7b044648cd3c3ab8e42">File Changes to be Commited ( rishabh-live/rishabh-live )</a>
+8) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/922477049def47f748f9493e0d6831d2b58fa35a">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+9) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/70c2131aa6eddebeb1f1224d1fe0a9931e496224">Update UPA-action.yml ( rishabh-live/rishabh-live )</a>
+10) <a href="https://api.github.com/repos/rishabh-live/rishabh-live/commits/f6203c2aa156914bab1ac934482cc8efe5857f64">Update update-github-activity.py ( rishabh-live/rishabh-live )</a>
 
 <!-- END:github_activity -->
 
@@ -121,5 +121,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 
