@@ -67,13 +67,13 @@
 <br/>
 
 ## My recent Activity
-<!--START_SECTION:activity-->
+<!-- START:github_activity -->
 1. 🎉 Merged PR [#1](https://github.com/rishabh-live/edition-semicolon/pull/1) in [rishabh-live/edition-semicolon](https://github.com/rishabh-live/edition-semicolon)
 2. 🎉 Merged PR [#4](https://github.com/rishabh-live/team53/pull/4) in [rishabh-live/team53](https://github.com/rishabh-live/team53)
 3. 💪 Opened PR [#8](https://github.com/gladiolus-language-nectar-profile/languagenectar.com-next.js/pull/8) in [gladiolus-language-nectar-profile/languagenectar.com-next.js](https://github.com/gladiolus-language-nectar-profile/languagenectar.com-next.js)
 4. 🎉 Merged PR [#2](https://github.com/Gladiolus-Language-Nectar/languagenectar.com-next.js/pull/2) in [Gladiolus-Language-Nectar/languagenectar.com-next.js](https://github.com/Gladiolus-Language-Nectar/languagenectar.com-next.js)
 5. 💪 Opened PR [#2](https://github.com/Gladiolus-Language-Nectar/languagenectar.com-next.js/pull/2) in [Gladiolus-Language-Nectar/languagenectar.com-next.js](https://github.com/Gladiolus-Language-Nectar/languagenectar.com-next.js)
-<!--END_SECTION:activity-->
+<!-- END:github_activity -->
 
 
 <br/>
