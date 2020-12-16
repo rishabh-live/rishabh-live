@@ -102,8 +102,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishabh-live&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316bxwkcdqbzksnkt5unnigaf5tq&cover_image=true" /></div>  
+<!--
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316bxwkcdqbzksnkt5unnigaf5tq&cover_image=true" /></div> --> 
 
 <br/>  
 
