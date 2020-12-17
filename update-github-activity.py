@@ -16,7 +16,7 @@ del fileArray[indexPos+1:endPos]
 # print(indexPos)
 
 writeData = "<!-- START:github_activity -->\n"
-url = "https://api.github.com/users/rishabh-live/events"
+url = "https://api.github.com/users/"+USERNAME+"/events"
 
 response = urllib.request.urlopen(url)
 
@@ -27,7 +27,7 @@ for x in data:
         break
     event = x["payload"]["commits"][0]["message"]
     repoName = x["repo"]["name"]
-    url = x["repo"]["url"]
+    url = "https://github.com/"+repoName
 
     writeData = writeData + str(i) + ") 📜 <a href=\"" + \
         url+"\">"+event+" ( "+repoName+" )</a>\n"
