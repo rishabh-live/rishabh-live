@@ -25,6 +25,8 @@ i = 1
 for x in data:
     if i >=11:
         break
+    if x["type"] == "WatchEvent":
+        continue
     event = x["payload"]["commits"][0]["message"]
     repoName = x["repo"]["name"]
     url = "https://github.com/"+repoName
