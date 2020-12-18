@@ -70,16 +70,16 @@
 
 ## My recent Activity
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] WatchEvent bUg Fix ( rishabh-live/rishabh-live )</a>
-2) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Changed Layout To Compact ( rishabh-live/rishabh-live )</a>
-3) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Update README.md ( rishabh-live/rishabh-live )</a>
-4) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Updated] Changed to make a dynamic USERNAME ( rishabh-live/rishabh-live )</a>
-5) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Added Emoji for bot ( rishabh-live/rishabh-live )</a>
-6) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Added] Added Emoji ( rishabh-live/rishabh-live )</a>
-7) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[UPDATE] Url changed to Commits ( rishabh-live/rishabh-live )</a>
-8) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] Erased unwanted space ( rishabh-live/rishabh-live )</a>
-9) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Bug Fixed ( rishabh-live/rishabh-live )</a>
-10) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Global Config Changed ( rishabh-live/rishabh-live )</a>
+1) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Improved Static Site Loading ( rishabh-live/rishabh-live-nextjs )</a>
+2) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] WatchEvent bUg Fix ( rishabh-live/rishabh-live )</a>
+3) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Changed Layout To Compact ( rishabh-live/rishabh-live )</a>
+4) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Update README.md ( rishabh-live/rishabh-live )</a>
+5) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Updated] Changed to make a dynamic USERNAME ( rishabh-live/rishabh-live )</a>
+6) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Added Emoji for bot ( rishabh-live/rishabh-live )</a>
+7) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Added] Added Emoji ( rishabh-live/rishabh-live )</a>
+8) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[UPDATE] Url changed to Commits ( rishabh-live/rishabh-live )</a>
+9) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] Erased unwanted space ( rishabh-live/rishabh-live )</a>
+10) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Bug Fixed ( rishabh-live/rishabh-live )</a>
 
 <!-- END:github_activity -->
 
@@ -118,6 +118,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishabh-live&&style=flat-square" align="center" />
 </div>
+
 
 
 
