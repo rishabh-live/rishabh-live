@@ -23,7 +23,7 @@ response = urllib.request.urlopen(url)
 data = json.loads(response.read())
 i = 1
 for x in data:
-    if i >=11:
+    if i >= 11:
         break
     if x["type"] == "WatchEvent":
         continue
@@ -41,6 +41,8 @@ fileArray[indexPos] = writeData
 theData = ""
 for words in fileArray:
     theData = theData + words + "\n"
+
+theData = theData.strip()
 
 f = open("./README.md", "w")
 f.write(theData)
