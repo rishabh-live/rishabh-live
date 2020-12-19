@@ -25,15 +25,18 @@ i = 1
 for x in data:
     if i >= 11:
         break
-    if x["type"] == "WatchEvent":
-        continue
-    event = x["payload"]["commits"][0]["message"]
-    repoName = x["repo"]["name"]
-    url = "https://github.com/"+repoName
+    try:
+        if x["type"] == "WatchEvent":
+            continue
+        event = x["payload"]["commits"][0]["message"]
+        repoName = x["repo"]["name"]
+        url = "https://github.com/"+repoName
 
-    writeData = writeData + str(i) + ") 📜 <a href=\"" + \
-        url+"\">"+event+" ( "+repoName+" )</a>\n"
-    i = i + 1
+        writeData = writeData + str(i) + ") 📜 <a href=\"" + \
+            url+"\">"+event+" ( "+repoName+" )</a>\n"
+        i = i + 1
+    except:
+        pass
 
 fileArray[indexPos] = writeData
 # print(fileArray)

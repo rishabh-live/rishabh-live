@@ -4,19 +4,16 @@
   
 <br/>
 
-### <div align="center">I'm Rishabh, a developer, who is always working on a new project</div>  
-  
+### <div align="center">I'm Rishabh, a developer, who is always working on a new project</div>
 
-- 🔭 I’m currently working on [My Website](https://rishabh.live)  
-  
+- 🔭 I’m currently working on [My Website](https://rishabh.live)
 
-- 🌱 I’m currently learning Blockchain  
-  
+- 🌱 I’m currently learning Blockchain
 
-<br/>  
+<br/>
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 <h3> Frontend </h3>
@@ -54,39 +51,40 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div></td></tr></table>  
+</div></td></tr></table>
 
-<br/>  
-
+<br/>
 
 ## Languages Used
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-live&layout=compact" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabhlive" align="center" />
 </div>
 
-
 <br/>
 
 ## My recent Activity
+
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Improved Static Site Loading ( rishabh-live/rishabh-live-nextjs )</a>
-2) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] WatchEvent bUg Fix ( rishabh-live/rishabh-live )</a>
-3) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Changed Layout To Compact ( rishabh-live/rishabh-live )</a>
-4) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Update README.md ( rishabh-live/rishabh-live )</a>
-5) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Updated] Changed to make a dynamic USERNAME ( rishabh-live/rishabh-live )</a>
-6) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Added Emoji for bot ( rishabh-live/rishabh-live )</a>
-7) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Added] Added Emoji ( rishabh-live/rishabh-live )</a>
-8) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[UPDATE] Url changed to Commits ( rishabh-live/rishabh-live )</a>
-9) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] Erased unwanted space ( rishabh-live/rishabh-live )</a>
-10) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Bug Fixed ( rishabh-live/rishabh-live )</a>
+
+1. 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Improved Static Site Loading ( rishabh-live/rishabh-live-nextjs )</a>
+2. 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] WatchEvent bUg Fix ( rishabh-live/rishabh-live )</a>
+3. 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Changed Layout To Compact ( rishabh-live/rishabh-live )</a>
+4. 📜 <a href="https://github.com/rishabh-live/rishabh-live">Update README.md ( rishabh-live/rishabh-live )</a>
+5. 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Updated] Changed to make a dynamic USERNAME ( rishabh-live/rishabh-live )</a>
+6. 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Added Emoji for bot ( rishabh-live/rishabh-live )</a>
+7. 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Added] Added Emoji ( rishabh-live/rishabh-live )</a>
+8. 📜 <a href="https://github.com/rishabh-live/rishabh-live">[UPDATE] Url changed to Commits ( rishabh-live/rishabh-live )</a>
+9. 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] Erased unwanted space ( rishabh-live/rishabh-live )</a>
+10. 📜 <a href="https://github.com/rishabh-live/rishabh-live">Bug Fixed ( rishabh-live/rishabh-live )</a>
 
 <!-- END:github_activity -->
 
-
 <br/>
 
-## Connect with me  
+## Connect with me
+
 <div align="center">
 <a href="https://github.com/rishabh-live" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -101,99 +99,20 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishabh-live&show_icons=true&count_private=true" align="center" /></div>  
+<br/>
+
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishabh-live&show_icons=true&count_private=true" align="center" /></div>
 
 <br/>  
 <!--
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316bxwkcdqbzksnkt5unnigaf5tq&cover_image=true" /></div> --> 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316bxwkcdqbzksnkt5unnigaf5tq&cover_image=true" /></div> -->
 
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishabh-live&&style=flat-square" align="center" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
