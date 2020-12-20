@@ -21,13 +21,5 @@ jobs:
         run : |
               git config --global user.email "rishabh12536@gmail.com"
               git config --global user.name "Rishabh"
-      - name: check for changes
-        run: git status
-      - name: stage changed files
-        run: git add .
-      - name: commit changed files
-        run: git commit -m "[BOT] 🎅🏼 Santa Updated Recent Activity "
-      - name: fetch from master
-        run: git fetch origin master
-      - name: push code to master
-        run: git push origin master
+      - name: Update Activity Changes
+        run: git status && git add . && git commit -m "[BOT] 🎅🏼 Santa Updated Recent Activity" && git fetch origin master && git push origin master
