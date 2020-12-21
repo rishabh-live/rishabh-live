@@ -67,16 +67,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">[Update] Improved Static Site Loading ( rishabh-live/rishabh-live.github.io )</a>
-2) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[NEW]Fotter added and Mobile response HP improved ( rishabh-live/rishabh-live-nextjs )</a>
-3) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] git exectuion changes ( rishabh-live/rishabh-live )</a>
-4) 📜 <a href="https://github.com/rishabh-live/rishabh-live">added try catch in write data ( rishabh-live/rishabh-live )</a>
-5) 📜 <a href="https://github.com/rishabh-live/rishabh-live">added strip function to the final data ( rishabh-live/rishabh-live )</a>
-6) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Improved Static Site Loading ( rishabh-live/rishabh-live-nextjs )</a>
-7) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] WatchEvent bUg Fix ( rishabh-live/rishabh-live )</a>
-8) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] Changed Layout To Compact ( rishabh-live/rishabh-live )</a>
-9) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Update README.md ( rishabh-live/rishabh-live )</a>
-10) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Updated] Changed to make a dynamic USERNAME ( rishabh-live/rishabh-live )</a>
+1) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Updated Theme of the site ( rishabh-live/rishabh-live-nextjs )</a>
+2) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] made blog page mobile reasponsive ( rishabh-live/rishabh-live-nextjs )</a>
+3) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Change DP on the home page ( rishabh-live/rishabh-live-nextjs )</a>
+4) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">[Update] Improved Static Site Loading ( rishabh-live/rishabh-live.github.io )</a>
+5) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[NEW]Fotter added and Mobile response HP improved ( rishabh-live/rishabh-live-nextjs )</a>
+6) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Update] git exectuion changes ( rishabh-live/rishabh-live )</a>
+7) 📜 <a href="https://github.com/rishabh-live/rishabh-live">added try catch in write data ( rishabh-live/rishabh-live )</a>
+8) 📜 <a href="https://github.com/rishabh-live/rishabh-live">added strip function to the final data ( rishabh-live/rishabh-live )</a>
+9) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Improved Static Site Loading ( rishabh-live/rishabh-live-nextjs )</a>
+10) 📜 <a href="https://github.com/rishabh-live/rishabh-live">[Bug] WatchEvent bUg Fix ( rishabh-live/rishabh-live )</a>
 
 <!-- END:github_activity -->
 
