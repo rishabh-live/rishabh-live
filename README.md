@@ -67,16 +67,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Added Curly Braces for Debugging PRP ( rishabh-live/react-gatsby-portfolio )</a>
-2) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">RDPP ( rishabh-live/react-gatsby-portfolio )</a>
-3) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Setting Local Item Storage theme ( rishabh-live/react-gatsby-portfolio )</a>
-4) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Bug Fix ( rishabh-live/react-gatsby-portfolio )</a>
-5) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">added elese setIsDark("light") ( rishabh-live/react-gatsby-portfolio )</a>
-6) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">[Update] Change DP on the home page ( rishabh-live/rishabh-live.github.io )</a>
-7) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Sitemap Update with latest URL ( rishabh-live/rishabh-live-nextjs )</a>
-8) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Updated Theme of the site ( rishabh-live/rishabh-live-nextjs )</a>
-9) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] made blog page mobile reasponsive ( rishabh-live/rishabh-live-nextjs )</a>
-10) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Change DP on the home page ( rishabh-live/rishabh-live-nextjs )</a>
+1) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Value checking ( rishabh-live/react-gatsby-portfolio )</a>
+2) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Debugging Console Log ( rishabh-live/react-gatsby-portfolio )</a>
+3) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Added Curly Braces for Debugging PRP ( rishabh-live/react-gatsby-portfolio )</a>
+4) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">RDPP ( rishabh-live/react-gatsby-portfolio )</a>
+5) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Setting Local Item Storage theme ( rishabh-live/react-gatsby-portfolio )</a>
+6) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Bug Fix ( rishabh-live/react-gatsby-portfolio )</a>
+7) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">added elese setIsDark("light") ( rishabh-live/react-gatsby-portfolio )</a>
+8) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">[Update] Change DP on the home page ( rishabh-live/rishabh-live.github.io )</a>
+9) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Sitemap Update with latest URL ( rishabh-live/rishabh-live-nextjs )</a>
+10) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[Update] Updated Theme of the site ( rishabh-live/rishabh-live-nextjs )</a>
 
 <!-- END:github_activity -->
 
