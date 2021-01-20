@@ -59,7 +59,14 @@
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-live&layout=compact" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabhlive" align="center" />
+</div>
+
+<br/>
+
+## Coding Activity
+
+<div align="center">
+   <img src="https://wakatime.com/share/@rishabhlive/a1c9ac8c-5cc5-4ae4-a3ca-61d6050580e9.png" />
 </div>
 
 <br/>
