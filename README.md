@@ -74,16 +74,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">8 _c completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">8_c remaining ( rishabh-live/oop-w-cpp-4-sem )</a>
-3) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Added coding Activity Chart ( rishabh-live/rishabh-live )</a>
-4) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Value checking ( rishabh-live/react-gatsby-portfolio )</a>
-5) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Debugging Console Log ( rishabh-live/react-gatsby-portfolio )</a>
-6) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Added Curly Braces for Debugging PRP ( rishabh-live/react-gatsby-portfolio )</a>
-7) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">RDPP ( rishabh-live/react-gatsby-portfolio )</a>
-8) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Setting Local Item Storage theme ( rishabh-live/react-gatsby-portfolio )</a>
-9) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Bug Fix ( rishabh-live/react-gatsby-portfolio )</a>
-10) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">added elese setIsDark("light") ( rishabh-live/react-gatsby-portfolio )</a>
+1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Created first PDF ( rishabh-live/oop-w-cpp-4-sem )</a>
+2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Started creating Lab Manual File ( rishabh-live/oop-w-cpp-4-sem )</a>
+3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">8 _c completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">8_c remaining ( rishabh-live/oop-w-cpp-4-sem )</a>
+5) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Added coding Activity Chart ( rishabh-live/rishabh-live )</a>
+6) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Value checking ( rishabh-live/react-gatsby-portfolio )</a>
+7) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Debugging Console Log ( rishabh-live/react-gatsby-portfolio )</a>
+8) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Added Curly Braces for Debugging PRP ( rishabh-live/react-gatsby-portfolio )</a>
+9) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">RDPP ( rishabh-live/react-gatsby-portfolio )</a>
+10) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Setting Local Item Storage theme ( rishabh-live/react-gatsby-portfolio )</a>
 
 <!-- END:github_activity -->
 
