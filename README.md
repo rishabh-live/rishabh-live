@@ -74,16 +74,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 3 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab Work done ( rishabh-live/oop-w-cpp-4-sem )</a>
-3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">PDF of Lab 2 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Added Outputs ( rishabh-live/oop-w-cpp-4-sem )</a>
-5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Created first PDF ( rishabh-live/oop-w-cpp-4-sem )</a>
-6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Started creating Lab Manual File ( rishabh-live/oop-w-cpp-4-sem )</a>
-7) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">8 _c completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-8) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">8_c remaining ( rishabh-live/oop-w-cpp-4-sem )</a>
-9) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Added coding Activity Chart ( rishabh-live/rishabh-live )</a>
-10) 📜 <a href="https://github.com/rishabh-live/react-gatsby-portfolio">Value checking ( rishabh-live/react-gatsby-portfolio )</a>
+1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">classwork done ( rishabh-live/oop-w-cpp-4-sem )</a>
+2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 3 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab Work done ( rishabh-live/oop-w-cpp-4-sem )</a>
+4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">PDF of Lab 2 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Added Outputs ( rishabh-live/oop-w-cpp-4-sem )</a>
+6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Created first PDF ( rishabh-live/oop-w-cpp-4-sem )</a>
+7) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Started creating Lab Manual File ( rishabh-live/oop-w-cpp-4-sem )</a>
+8) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">8 _c completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+9) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">8_c remaining ( rishabh-live/oop-w-cpp-4-sem )</a>
+10) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Added coding Activity Chart ( rishabh-live/rishabh-live )</a>
 
 <!-- END:github_activity -->
 
