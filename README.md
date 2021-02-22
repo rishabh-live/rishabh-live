@@ -74,16 +74,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Genrated Manual ( rishabh-live/oop-w-cpp-4-sem )</a>
-2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Function overloading completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 6 done ( rishabh-live/oop-w-cpp-4-sem )</a>
-4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab wor k completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab Work 4 Completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 4 ~ almost done ( rishabh-live/oop-w-cpp-4-sem )</a>
-7) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">question 3 comleted ( rishabh-live/oop-w-cpp-4-sem )</a>
-8) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">classwork done ( rishabh-live/oop-w-cpp-4-sem )</a>
-9) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 3 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-10) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab Work done ( rishabh-live/oop-w-cpp-4-sem )</a>
+1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Classwork Copleted ( rishabh-live/oop-w-cpp-4-sem )</a>
+2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Genrated Manual ( rishabh-live/oop-w-cpp-4-sem )</a>
+3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Function overloading completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 6 done ( rishabh-live/oop-w-cpp-4-sem )</a>
+5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab wor k completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab Work 4 Completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+7) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 4 ~ almost done ( rishabh-live/oop-w-cpp-4-sem )</a>
+8) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">question 3 comleted ( rishabh-live/oop-w-cpp-4-sem )</a>
+9) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">classwork done ( rishabh-live/oop-w-cpp-4-sem )</a>
+10) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 3 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
 
 <!-- END:github_activity -->
 
