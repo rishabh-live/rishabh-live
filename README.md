@@ -79,16 +79,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added Title ( rishabh-live/edition-semicolon )</a>
-2) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">added event handler ( rishabh-live/edition-semicolon )</a>
-3) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[3] ( rishabh-live/edition-semicolon )</a>
-4) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[2] ( rishabh-live/edition-semicolon )</a>
-5) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[1] ( rishabh-live/edition-semicolon )</a>
-6) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[1] ( rishabh-live/edition-semicolon )</a>
-7) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added state[0] ( rishabh-live/edition-semicolon )</a>
-8) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Function Bug Fix[1] ( rishabh-live/edition-semicolon )</a>
-9) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Adding publish Function ( rishabh-live/edition-semicolon )</a>
-10) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Rearranged Github Activity ( rishabh-live/rishabh-live )</a>
+1) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Open Document in a new tab ( rishabh-live/edition-semicolon )</a>
+2) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Publish button Styling Fix ( rishabh-live/edition-semicolon )</a>
+3) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">async issue ( rishabh-live/edition-semicolon )</a>
+4) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Publish function added ( rishabh-live/edition-semicolon )</a>
+5) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added Cool Styling ( rishabh-live/edition-semicolon )</a>
+6) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">re-issue fix ( rishabh-live/edition-semicolon )</a>
+7) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">stylesheet fix ( rishabh-live/edition-semicolon )</a>
+8) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added Title ( rishabh-live/edition-semicolon )</a>
+9) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">added event handler ( rishabh-live/edition-semicolon )</a>
+10) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[3] ( rishabh-live/edition-semicolon )</a>
 
 <!-- END:github_activity -->
 
