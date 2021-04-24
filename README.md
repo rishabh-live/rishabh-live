@@ -79,16 +79,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[2] ( rishabh-live/edition-semicolon )</a>
-2) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[1] ( rishabh-live/edition-semicolon )</a>
-3) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[1] ( rishabh-live/edition-semicolon )</a>
-4) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added state[0] ( rishabh-live/edition-semicolon )</a>
-5) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Function Bug Fix[1] ( rishabh-live/edition-semicolon )</a>
-6) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Adding publish Function ( rishabh-live/edition-semicolon )</a>
-7) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Rearranged Github Activity ( rishabh-live/rishabh-live )</a>
-8) 📜 <a href="https://github.com/Durgesh-NathSingh/school-autonomus">Modified Urls ( Durgesh-NathSingh/school-autonomus )</a>
-9) 📜 <a href="https://github.com/rishabh-live/vercel-examples">Delete php-laminas directory ( rishabh-live/vercel-examples )</a>
-10) 📜 <a href="https://github.com/rishabh-live/vercel-examples">Delete php-composer directory ( rishabh-live/vercel-examples )</a>
+1) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added Title ( rishabh-live/edition-semicolon )</a>
+2) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">added event handler ( rishabh-live/edition-semicolon )</a>
+3) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[3] ( rishabh-live/edition-semicolon )</a>
+4) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[2] ( rishabh-live/edition-semicolon )</a>
+5) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[1] ( rishabh-live/edition-semicolon )</a>
+6) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">state bug[1] ( rishabh-live/edition-semicolon )</a>
+7) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added state[0] ( rishabh-live/edition-semicolon )</a>
+8) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Function Bug Fix[1] ( rishabh-live/edition-semicolon )</a>
+9) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Adding publish Function ( rishabh-live/edition-semicolon )</a>
+10) 📜 <a href="https://github.com/rishabh-live/rishabh-live">Rearranged Github Activity ( rishabh-live/rishabh-live )</a>
 
 <!-- END:github_activity -->
 
