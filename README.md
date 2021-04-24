@@ -79,16 +79,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/edition-semicolon-vscode-extension">updated version number ( rishabh-live/edition-semicolon-vscode-extension )</a>
-2) 📜 <a href="https://github.com/rishabh-live/edition-semicolon-vscode-extension">OPen Url in the default web browser ( rishabh-live/edition-semicolon-vscode-extension )</a>
-3) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added Images and Updated Readme ( rishabh-live/edition-semicolon )</a>
-4) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Open Document in a new tab ( rishabh-live/edition-semicolon )</a>
-5) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Publish button Styling Fix ( rishabh-live/edition-semicolon )</a>
-6) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">async issue ( rishabh-live/edition-semicolon )</a>
-7) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Publish function added ( rishabh-live/edition-semicolon )</a>
-8) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added Cool Styling ( rishabh-live/edition-semicolon )</a>
-9) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">re-issue fix ( rishabh-live/edition-semicolon )</a>
-10) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">stylesheet fix ( rishabh-live/edition-semicolon )</a>
+1) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Link issue fixed ( rishabh-live/edition-semicolon )</a>
+2) 📜 <a href="https://github.com/rishabh-live/edition-semicolon-vscode-extension">updated version number ( rishabh-live/edition-semicolon-vscode-extension )</a>
+3) 📜 <a href="https://github.com/rishabh-live/edition-semicolon-vscode-extension">OPen Url in the default web browser ( rishabh-live/edition-semicolon-vscode-extension )</a>
+4) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added Images and Updated Readme ( rishabh-live/edition-semicolon )</a>
+5) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Open Document in a new tab ( rishabh-live/edition-semicolon )</a>
+6) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Publish button Styling Fix ( rishabh-live/edition-semicolon )</a>
+7) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">async issue ( rishabh-live/edition-semicolon )</a>
+8) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Publish function added ( rishabh-live/edition-semicolon )</a>
+9) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Added Cool Styling ( rishabh-live/edition-semicolon )</a>
+10) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">re-issue fix ( rishabh-live/edition-semicolon )</a>
 
 <!-- END:github_activity -->
 
