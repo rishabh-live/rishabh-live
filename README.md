@@ -79,16 +79,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/faunadb-php">create, setDefault  , usedefault collection ( rishabh-live/faunadb-php )</a>
-2) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">Updated Background color ( rishabh-live/rishabh-live-nextjs )</a>
-3) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">Added Particle Effect on landing section ( rishabh-live/rishabh-live.github.io )</a>
-4) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">changed first appearance background color ( rishabh-live/rishabh-live.github.io )</a>
-5) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">Updated Background color ( rishabh-live/rishabh-live.github.io )</a>
-6) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">Minor Spelling Fixes ( rishabh-live/rishabh-live.github.io )</a>
-7) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">Minor Spelling Fixes ( rishabh-live/rishabh-live-nextjs )</a>
-8) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Link issue fixed ( rishabh-live/edition-semicolon )</a>
-9) 📜 <a href="https://github.com/rishabh-live/edition-semicolon-vscode-extension">updated version number ( rishabh-live/edition-semicolon-vscode-extension )</a>
-10) 📜 <a href="https://github.com/rishabh-live/edition-semicolon-vscode-extension">OPen Url in the default web browser ( rishabh-live/edition-semicolon-vscode-extension )</a>
+1) 📜 <a href="https://github.com/rishabh-live/faunadb-php">createDatabse, createCollection ( rishabh-live/faunadb-php )</a>
+2) 📜 <a href="https://github.com/rishabh-live/faunadb-php">create, setDefault  , usedefault collection ( rishabh-live/faunadb-php )</a>
+3) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">Updated Background color ( rishabh-live/rishabh-live-nextjs )</a>
+4) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">Added Particle Effect on landing section ( rishabh-live/rishabh-live.github.io )</a>
+5) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">changed first appearance background color ( rishabh-live/rishabh-live.github.io )</a>
+6) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">Updated Background color ( rishabh-live/rishabh-live.github.io )</a>
+7) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">Minor Spelling Fixes ( rishabh-live/rishabh-live.github.io )</a>
+8) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">Minor Spelling Fixes ( rishabh-live/rishabh-live-nextjs )</a>
+9) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Link issue fixed ( rishabh-live/edition-semicolon )</a>
+10) 📜 <a href="https://github.com/rishabh-live/edition-semicolon-vscode-extension">updated version number ( rishabh-live/edition-semicolon-vscode-extension )</a>
 
 <!-- END:github_activity -->
 
