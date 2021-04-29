@@ -79,16 +79,43 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/faunadb-php">Corrected Readme ( rishabh-live/faunadb-php )</a>
-2) 📜 <a href="https://github.com/rishabh-live/faunadb-php">Root Directoery Restructured ( rishabh-live/faunadb-php )</a>
-3) 📜 <a href="https://github.com/rishabh-live/rishabh-live">update currently working on ( rishabh-live/rishabh-live )</a>
-4) 📜 <a href="https://github.com/rishabh-live/faunadb-php">CodeRefactor ( rishabh-live/faunadb-php )</a>
-5) 📜 <a href="https://github.com/rishabh-live/faunadb-php">Created Basic README ( rishabh-live/faunadb-php )</a>
-6) 📜 <a href="https://github.com/rishabh-live/faunadb-php">createDatabse, createCollection ( rishabh-live/faunadb-php )</a>
-7) 📜 <a href="https://github.com/rishabh-live/faunadb-php">create, setDefault  , usedefault collection ( rishabh-live/faunadb-php )</a>
-8) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">Updated Background color ( rishabh-live/rishabh-live-nextjs )</a>
-9) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">Added Particle Effect on landing section ( rishabh-live/rishabh-live.github.io )</a>
-10) 📜 <a href="https://github.com/rishabh-live/rishabh-live.github.io">changed first appearance background color ( rishabh-live/rishabh-live.github.io )</a>
+1) 📜 <a href="https://github.com/rishabh-live/team53">Bump y18n from 3.2.1 to 3.2.2 in /startbootstrap-agency-gh-pages
+
+Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 3.2.2.
+- [Release notes](https://github.com/yargs/y18n/releases)
+- [Changelog](https://github.com/yargs/y18n/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/yargs/y18n/commits)
+
+Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/team53 )</a>
+2) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump ssri from 6.0.1 to 6.0.2
+
+Bumps [ssri](https://github.com/npm/ssri) from 6.0.1 to 6.0.2.
+- [Release notes](https://github.com/npm/ssri/releases)
+- [Changelog](https://github.com/npm/ssri/blob/v6.0.2/CHANGELOG.md)
+- [Commits](https://github.com/npm/ssri/compare/v6.0.1...v6.0.2)
+
+Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/edition-semicolon )</a>
+3) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump elliptic from 6.5.3 to 6.5.4
+
+Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
+- [Release notes](https://github.com/indutny/elliptic/releases)
+- [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
+
+Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/edition-semicolon )</a>
+4) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump y18n from 4.0.0 to 4.0.3
+
+Bumps [y18n](https://github.com/yargs/y18n) from 4.0.0 to 4.0.3.
+- [Release notes](https://github.com/yargs/y18n/releases)
+- [Changelog](https://github.com/yargs/y18n/blob/y18n-v4.0.3/CHANGELOG.md)
+- [Commits](https://github.com/yargs/y18n/compare/v4.0.0...y18n-v4.0.3)
+
+Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/edition-semicolon )</a>
+5) 📜 <a href="https://github.com/rishabh-live/faunadb-php">Corrected Readme ( rishabh-live/faunadb-php )</a>
+6) 📜 <a href="https://github.com/rishabh-live/faunadb-php">Root Directoery Restructured ( rishabh-live/faunadb-php )</a>
+7) 📜 <a href="https://github.com/rishabh-live/rishabh-live">update currently working on ( rishabh-live/rishabh-live )</a>
+8) 📜 <a href="https://github.com/rishabh-live/faunadb-php">CodeRefactor ( rishabh-live/faunadb-php )</a>
+9) 📜 <a href="https://github.com/rishabh-live/faunadb-php">Created Basic README ( rishabh-live/faunadb-php )</a>
+10) 📜 <a href="https://github.com/rishabh-live/faunadb-php">createDatabse, createCollection ( rishabh-live/faunadb-php )</a>
 
 <!-- END:github_activity -->
 
