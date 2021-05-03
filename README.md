@@ -79,30 +79,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 11 ( rishabh-live/oop-w-cpp-4-sem )</a>
-2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 10 ( rishabh-live/oop-w-cpp-4-sem )</a>
-3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 9 ( rishabh-live/oop-w-cpp-4-sem )</a>
-4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 8 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 7 and Bug fixed ( rishabh-live/oop-w-cpp-4-sem )</a>
-6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 6 done ( rishabh-live/oop-w-cpp-4-sem )</a>
-7) 📜 <a href="https://github.com/rishabh-live/aws-rishabh-live">Base Code ( rishabh-live/aws-rishabh-live )</a>
-8) 📜 <a href="https://github.com/rishabh-live/postleaf">Create ignite.md ( rishabh-live/postleaf )</a>
-9) 📜 <a href="https://github.com/rishabh-live/team53">Bump y18n from 3.2.1 to 3.2.2 in /startbootstrap-agency-gh-pages
-
-Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 3.2.2.
-- [Release notes](https://github.com/yargs/y18n/releases)
-- [Changelog](https://github.com/yargs/y18n/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/yargs/y18n/commits)
-
-Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/team53 )</a>
-10) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump ssri from 6.0.1 to 6.0.2
-
-Bumps [ssri](https://github.com/npm/ssri) from 6.0.1 to 6.0.2.
-- [Release notes](https://github.com/npm/ssri/releases)
-- [Changelog](https://github.com/npm/ssri/blob/v6.0.2/CHANGELOG.md)
-- [Commits](https://github.com/npm/ssri/compare/v6.0.1...v6.0.2)
-
-Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/edition-semicolon )</a>
+1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Final LAb reports updated ( rishabh-live/oop-w-cpp-4-sem )</a>
+2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 12 ( rishabh-live/oop-w-cpp-4-sem )</a>
+3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 11 ( rishabh-live/oop-w-cpp-4-sem )</a>
+4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 10 ( rishabh-live/oop-w-cpp-4-sem )</a>
+5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 9 ( rishabh-live/oop-w-cpp-4-sem )</a>
+6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 8 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+7) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 7 and Bug fixed ( rishabh-live/oop-w-cpp-4-sem )</a>
+8) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 6 done ( rishabh-live/oop-w-cpp-4-sem )</a>
+9) 📜 <a href="https://github.com/rishabh-live/aws-rishabh-live">Base Code ( rishabh-live/aws-rishabh-live )</a>
+10) 📜 <a href="https://github.com/rishabh-live/postleaf">Create ignite.md ( rishabh-live/postleaf )</a>
 
 <!-- END:github_activity -->
 
