@@ -79,9 +79,13 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/aws-rishabh-live">Base Code ( rishabh-live/aws-rishabh-live )</a>
-2) 📜 <a href="https://github.com/rishabh-live/postleaf">Create ignite.md ( rishabh-live/postleaf )</a>
-3) 📜 <a href="https://github.com/rishabh-live/team53">Bump y18n from 3.2.1 to 3.2.2 in /startbootstrap-agency-gh-pages
+1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 9 ( rishabh-live/oop-w-cpp-4-sem )</a>
+2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 8 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 7 and Bug fixed ( rishabh-live/oop-w-cpp-4-sem )</a>
+4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 6 done ( rishabh-live/oop-w-cpp-4-sem )</a>
+5) 📜 <a href="https://github.com/rishabh-live/aws-rishabh-live">Base Code ( rishabh-live/aws-rishabh-live )</a>
+6) 📜 <a href="https://github.com/rishabh-live/postleaf">Create ignite.md ( rishabh-live/postleaf )</a>
+7) 📜 <a href="https://github.com/rishabh-live/team53">Bump y18n from 3.2.1 to 3.2.2 in /startbootstrap-agency-gh-pages
 
 Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 3.2.2.
 - [Release notes](https://github.com/yargs/y18n/releases)
@@ -89,7 +93,7 @@ Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 3.2.2.
 - [Commits](https://github.com/yargs/y18n/commits)
 
 Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/team53 )</a>
-4) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump ssri from 6.0.1 to 6.0.2
+8) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump ssri from 6.0.1 to 6.0.2
 
 Bumps [ssri](https://github.com/npm/ssri) from 6.0.1 to 6.0.2.
 - [Release notes](https://github.com/npm/ssri/releases)
@@ -97,14 +101,14 @@ Bumps [ssri](https://github.com/npm/ssri) from 6.0.1 to 6.0.2.
 - [Commits](https://github.com/npm/ssri/compare/v6.0.1...v6.0.2)
 
 Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/edition-semicolon )</a>
-5) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump elliptic from 6.5.3 to 6.5.4
+9) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump elliptic from 6.5.3 to 6.5.4
 
 Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.3 to 6.5.4.
 - [Release notes](https://github.com/indutny/elliptic/releases)
 - [Commits](https://github.com/indutny/elliptic/compare/v6.5.3...v6.5.4)
 
 Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/edition-semicolon )</a>
-6) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump y18n from 4.0.0 to 4.0.3
+10) 📜 <a href="https://github.com/rishabh-live/edition-semicolon">Bump y18n from 4.0.0 to 4.0.3
 
 Bumps [y18n](https://github.com/yargs/y18n) from 4.0.0 to 4.0.3.
 - [Release notes](https://github.com/yargs/y18n/releases)
@@ -112,10 +116,6 @@ Bumps [y18n](https://github.com/yargs/y18n) from 4.0.0 to 4.0.3.
 - [Commits](https://github.com/yargs/y18n/compare/v4.0.0...y18n-v4.0.3)
 
 Signed-off-by: dependabot[bot] <support@github.com> ( rishabh-live/edition-semicolon )</a>
-7) 📜 <a href="https://github.com/rishabh-live/faunadb-php">Corrected Readme ( rishabh-live/faunadb-php )</a>
-8) 📜 <a href="https://github.com/rishabh-live/faunadb-php">Root Directoery Restructured ( rishabh-live/faunadb-php )</a>
-9) 📜 <a href="https://github.com/rishabh-live/rishabh-live">update currently working on ( rishabh-live/rishabh-live )</a>
-10) 📜 <a href="https://github.com/rishabh-live/faunadb-php">CodeRefactor ( rishabh-live/faunadb-php )</a>
 
 <!-- END:github_activity -->
 
