@@ -79,16 +79,16 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">lab exam completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-2) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Final LAb reports updated ( rishabh-live/oop-w-cpp-4-sem )</a>
-3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 12 ( rishabh-live/oop-w-cpp-4-sem )</a>
-4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 11 ( rishabh-live/oop-w-cpp-4-sem )</a>
-5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 10 ( rishabh-live/oop-w-cpp-4-sem )</a>
-6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 9 ( rishabh-live/oop-w-cpp-4-sem )</a>
-7) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 8 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-8) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 7 and Bug fixed ( rishabh-live/oop-w-cpp-4-sem )</a>
-9) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 6 done ( rishabh-live/oop-w-cpp-4-sem )</a>
-10) 📜 <a href="https://github.com/rishabh-live/aws-rishabh-live">Base Code ( rishabh-live/aws-rishabh-live )</a>
+1) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[ADDED] cloud-computing-assignment-1.pdf ( rishabh-live/rishabh-live-nextjs )</a>
+2) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">Create null.md ( rishabh-live/rishabh-live-nextjs )</a>
+3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">lab exam completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Final LAb reports updated ( rishabh-live/oop-w-cpp-4-sem )</a>
+5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 12 ( rishabh-live/oop-w-cpp-4-sem )</a>
+6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 11 ( rishabh-live/oop-w-cpp-4-sem )</a>
+7) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 10 ( rishabh-live/oop-w-cpp-4-sem )</a>
+8) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 9 ( rishabh-live/oop-w-cpp-4-sem )</a>
+9) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 8 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
+10) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 7 and Bug fixed ( rishabh-live/oop-w-cpp-4-sem )</a>
 
 <!-- END:github_activity -->
 
