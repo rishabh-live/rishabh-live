@@ -86,17 +86,17 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table align="center"><tr><td><b>Commit</b></td><td><b>Repository</b></td></tr>
-<tr><td>[UPDATED] Recent Activuty published as table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td></tr>
-<tr><td>[ADDED] Github Profile Summary</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td></tr>
-<tr><td>[ADDED] cloud-computing-assignment-1.pdf</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td></tr>
-<tr><td>Create null.md</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td></tr>
-<tr><td>lab exam completed</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
-<tr><td>Final LAb reports updated</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
-<tr><td>Lab work 12</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
-<tr><td>Lab work 11</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
-<tr><td>Lab 10</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
-<tr><td>Lab 9</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
+<table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>[UPDATE] Added latest hash in table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/60b6ace3ca7102f53dbf8712dba730fde823b714">60b6ace3ca7102f53dbf8712dba730fde823b714</a></td></tr>
+<tr><td>[UPDATE] Center the table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/8fc5d39f4c9e9842aff2995456930f97b39112dd">8fc5d39f4c9e9842aff2995456930f97b39112dd</a></td></tr>
+<tr><td>[UPDATED] Recent Activuty published as table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/e4a3785291d03eacd7bec6e5b7c2cf6bf92dbe23">e4a3785291d03eacd7bec6e5b7c2cf6bf92dbe23</a></td></tr>
+<tr><td>[ADDED] Github Profile Summary</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/65fd4579628804fe95aee54070753f65c755dd2b">65fd4579628804fe95aee54070753f65c755dd2b</a></td></tr>
+<tr><td>[ADDED] cloud-computing-assignment-1.pdf</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/b263f3e0fbda4bd60faca564ea2ebde50ccc6b19">b263f3e0fbda4bd60faca564ea2ebde50ccc6b19</a></td></tr>
+<tr><td>Create null.md</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/468409d19f5d3b006e697ae4bc80bd7b4522f6bf">468409d19f5d3b006e697ae4bc80bd7b4522f6bf</a></td></tr>
+<tr><td>lab exam completed</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/df6cd7cc4a1e7ec648c2103f3c86772cde8d9439">df6cd7cc4a1e7ec648c2103f3c86772cde8d9439</a></td></tr>
+<tr><td>Final LAb reports updated</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/bf3b8e75f15f55d06c40548b325e060b17b6ce00">bf3b8e75f15f55d06c40548b325e060b17b6ce00</a></td></tr>
+<tr><td>Lab work 12</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/52190008b708f2968de6805c71a161ee3f2f4290">52190008b708f2968de6805c71a161ee3f2f4290</a></td></tr>
+<tr><td>Lab work 11</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/889ebcb05685c576fb9c4bce8c5aab89c4d97553">889ebcb05685c576fb9c4bce8c5aab89c4d97553</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
