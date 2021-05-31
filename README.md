@@ -12,6 +12,13 @@
 
 <br/>
 
+## Github Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh-live&theme=monokai" align="center" /></div>
+
+<br/>
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -71,7 +78,7 @@
 ## Coding Activity
 
 <div align="center">
-   <img src="https://wakatime.com/share/@rishabhlive/a1c9ac8c-5cc5-4ae4-a3ca-61d6050580e9.png" />
+   <img src="https://wakatime.com/share/@rishabhlive/a1c9ac8c-5cc5-4ae4-a3ca-61d6050580e9.png" height="300"/>
 </div>
 
 <br/>
@@ -116,7 +123,7 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishabh-live&show_icons=true&count_private=true" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-live" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishabh-live&show_icons=true&count_private=true" align="center" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh-live&theme=monokai" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-live" align="center" /></div>
 
 <br/>  
 
