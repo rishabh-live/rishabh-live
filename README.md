@@ -83,10 +83,10 @@
 
 <br/>
 
-## My recent Activity
+## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit</b></td><td><b>Repository</b></td></tr>
+<table align="center"><tr><td><b>Commit</b></td><td><b>Repository</b></td></tr>
 <tr><td>[UPDATED] Recent Activuty published as table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td></tr>
 <tr><td>[ADDED] Github Profile Summary</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td></tr>
 <tr><td>[ADDED] cloud-computing-assignment-1.pdf</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td></tr>
@@ -125,7 +125,7 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishabh-live&show_icons=true&count_private=true" align="center" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh-live&theme=monokai" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-live" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishabh-live&show_icons=true&count_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-live" /></div>
 
 <br/>  
 
