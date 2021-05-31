@@ -32,7 +32,7 @@ for x in data:
         repoName = x["repo"]["name"]
         url = "https://github.com/"+repoName
         hashKey =  x["payload"]["head"]
-        hashUrl = "https://github.com/rishabh-live/rishabh-live/commit/"+hashKey
+        hashUrl = "https://github.com/"+repoName+"/commit/"+hashKey
 
         writeData = writeData +"<tr><td>"+event+"</td><td><a href=\"" +url+"\">"+repoName+"</a></td><td><a href=\"" +hashUrl+"\">"+hashKey+"</a></td></tr>\n"
         i = i + 1
