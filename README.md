@@ -86,16 +86,18 @@
 ## My recent Activity
 
 <!-- START:github_activity -->
-1) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">[ADDED] cloud-computing-assignment-1.pdf ( rishabh-live/rishabh-live-nextjs )</a>
-2) 📜 <a href="https://github.com/rishabh-live/rishabh-live-nextjs">Create null.md ( rishabh-live/rishabh-live-nextjs )</a>
-3) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">lab exam completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-4) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Final LAb reports updated ( rishabh-live/oop-w-cpp-4-sem )</a>
-5) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 12 ( rishabh-live/oop-w-cpp-4-sem )</a>
-6) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab work 11 ( rishabh-live/oop-w-cpp-4-sem )</a>
-7) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 10 ( rishabh-live/oop-w-cpp-4-sem )</a>
-8) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 9 ( rishabh-live/oop-w-cpp-4-sem )</a>
-9) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 8 completed ( rishabh-live/oop-w-cpp-4-sem )</a>
-10) 📜 <a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">Lab 7 and Bug fixed ( rishabh-live/oop-w-cpp-4-sem )</a>
+<table><tr><td><b>Commit</b></td><td><b>Repository</b></td></tr>
+<tr><td>[UPDATED] Recent Activuty published as table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td></tr>
+<tr><td>[ADDED] Github Profile Summary</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td></tr>
+<tr><td>[ADDED] cloud-computing-assignment-1.pdf</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td></tr>
+<tr><td>Create null.md</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td></tr>
+<tr><td>lab exam completed</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
+<tr><td>Final LAb reports updated</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
+<tr><td>Lab work 12</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
+<tr><td>Lab work 11</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
+<tr><td>Lab 10</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
+<tr><td>Lab 9</td><td><a href="https://github.com/rishabh-live/oop-w-cpp-4-sem">rishabh-live/oop-w-cpp-4-sem</a></td></tr>
+</table>
 
 <!-- END:github_activity -->
 
