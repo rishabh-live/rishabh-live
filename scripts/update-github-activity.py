@@ -15,7 +15,7 @@ del fileArray[indexPos+1:endPos]
 # print(fileArray)
 # print(indexPos)
 
-writeData = "<!-- START:github_activity -->\n"
+writeData = "<!-- START:github_activity -->\n<table><tr><td><b>Commit</b></td><td><b>Repository</b></td></tr>\n"
 url = "https://api.github.com/users/"+USERNAME+"/events"
 
 response = urllib.request.urlopen(url)
@@ -32,13 +32,12 @@ for x in data:
         repoName = x["repo"]["name"]
         url = "https://github.com/"+repoName
 
-        writeData = writeData + str(i) + ") 📜 <a href=\"" + \
-            url+"\">"+event+" ( "+repoName+" )</a>\n"
+        writeData = writeData +"<tr><td>"+event+"</td><td><a href=\"" +url+"\">"+repoName+"</a></td></tr>\n"
         i = i + 1
     except:
         pass
 
-fileArray[indexPos] = writeData
+fileArray[indexPos] = writeData+"</table>\n"
 # print(fileArray)
 
 theData = ""
