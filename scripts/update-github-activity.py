@@ -15,7 +15,7 @@ del fileArray[indexPos+1:endPos]
 # print(fileArray)
 # print(indexPos)
 
-writeData = "<!-- START:github_activity -->\n<table><tr><td><b>Commit</b></td><td><b>Repository</b></td></tr>\n"
+writeData = "<!-- START:github_activity -->\n<table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>\n"
 url = "https://api.github.com/users/"+USERNAME+"/events"
 
 response = urllib.request.urlopen(url)
@@ -31,8 +31,10 @@ for x in data:
         event = x["payload"]["commits"][0]["message"]
         repoName = x["repo"]["name"]
         url = "https://github.com/"+repoName
+        hashKey =  x["payload"]["head"]
+        hashUrl = "https://github.com/rishabh-live/rishabh-live/commit/"+hashKey
 
-        writeData = writeData +"<tr><td>"+event+"</td><td><a href=\"" +url+"\">"+repoName+"</a></td></tr>\n"
+        writeData = writeData +"<tr><td>"+event+"</td><td><a href=\"" +url+"\">"+repoName+"</a></td><td><a href=\"" +hashUrl+"\">"+hashKey+"</a></td></tr>\n"
         i = i + 1
     except:
         pass
