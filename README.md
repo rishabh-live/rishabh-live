@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>updated game title</td><td><a href="https://github.com/rishabh-live/the-Pig-Game">rishabh-live/the-Pig-Game</a></td><td><a href="https://github.com/rishabh-live/the-Pig-Game/commit/18f3c5747478dff82a1bcfadc0c02ecba9c3b178">18f3c5747478dff82a1bcfadc0c02ecba9c3b178</a></td></tr>
 <tr><td>New Package Update</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/daaecbdb60427e0485966ebdbf88d50b22bf3111">daaecbdb60427e0485966ebdbf88d50b22bf3111</a></td></tr>
 <tr><td>next downgraded</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/5884b025623efac695d812ab20432f0c0a7b6b98">5884b025623efac695d812ab20432f0c0a7b6b98</a></td></tr>
 <tr><td>config updates</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/cc01158a2183a93c404e0fa24df33966cd405b12">cc01158a2183a93c404e0fa24df33966cd405b12</a></td></tr>
@@ -96,7 +97,6 @@
 <tr><td>[UPDATE] Center the table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/8fc5d39f4c9e9842aff2995456930f97b39112dd">8fc5d39f4c9e9842aff2995456930f97b39112dd</a></td></tr>
 <tr><td>[UPDATED] Recent Activuty published as table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/e4a3785291d03eacd7bec6e5b7c2cf6bf92dbe23">e4a3785291d03eacd7bec6e5b7c2cf6bf92dbe23</a></td></tr>
 <tr><td>[ADDED] Github Profile Summary</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/65fd4579628804fe95aee54070753f65c755dd2b">65fd4579628804fe95aee54070753f65c755dd2b</a></td></tr>
-<tr><td>[ADDED] cloud-computing-assignment-1.pdf</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/b263f3e0fbda4bd60faca564ea2ebde50ccc6b19">b263f3e0fbda4bd60faca564ea2ebde50ccc6b19</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
