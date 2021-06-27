@@ -87,6 +87,8 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Create codeql-analysis.yml</td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/3b5b8451b776880fe3f09980939322ceef2fa975">3b5b8451b776880fe3f09980939322ceef2fa975</a></td></tr>
+<tr><td>Create SECURITY.md</td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/e8ede9f93580977511bdfc706669395ea7114622">e8ede9f93580977511bdfc706669395ea7114622</a></td></tr>
 <tr><td>updated game title</td><td><a href="https://github.com/rishabh-live/the-Pig-Game">rishabh-live/the-Pig-Game</a></td><td><a href="https://github.com/rishabh-live/the-Pig-Game/commit/18f3c5747478dff82a1bcfadc0c02ecba9c3b178">18f3c5747478dff82a1bcfadc0c02ecba9c3b178</a></td></tr>
 <tr><td>New Package Update</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/daaecbdb60427e0485966ebdbf88d50b22bf3111">daaecbdb60427e0485966ebdbf88d50b22bf3111</a></td></tr>
 <tr><td>next downgraded</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/5884b025623efac695d812ab20432f0c0a7b6b98">5884b025623efac695d812ab20432f0c0a7b6b98</a></td></tr>
@@ -95,8 +97,6 @@
 <tr><td>[BUG] Fixed Head URL buged</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/3a47ec3089e0c41a0a919fd8b6e831c3ae4975b4">3a47ec3089e0c41a0a919fd8b6e831c3ae4975b4</a></td></tr>
 <tr><td>[UPDATE] Added latest hash in table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/60b6ace3ca7102f53dbf8712dba730fde823b714">60b6ace3ca7102f53dbf8712dba730fde823b714</a></td></tr>
 <tr><td>[UPDATE] Center the table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/8fc5d39f4c9e9842aff2995456930f97b39112dd">8fc5d39f4c9e9842aff2995456930f97b39112dd</a></td></tr>
-<tr><td>[UPDATED] Recent Activuty published as table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/e4a3785291d03eacd7bec6e5b7c2cf6bf92dbe23">e4a3785291d03eacd7bec6e5b7c2cf6bf92dbe23</a></td></tr>
-<tr><td>[ADDED] Github Profile Summary</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/65fd4579628804fe95aee54070753f65c755dd2b">65fd4579628804fe95aee54070753f65c755dd2b</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
