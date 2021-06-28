@@ -87,6 +87,19 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Bump lodash from 4.17.20 to 4.17.21
+
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
+
+---
+updated-dependencies:
+- dependency-name: lodash
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/695d8605bceafaea8c245bc4aae2287e5282d301">695d8605bceafaea8c245bc4aae2287e5282d301</a></td></tr>
 <tr><td>Create codeql-analysis.yml</td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/3b5b8451b776880fe3f09980939322ceef2fa975">3b5b8451b776880fe3f09980939322ceef2fa975</a></td></tr>
 <tr><td>Create SECURITY.md</td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/e8ede9f93580977511bdfc706669395ea7114622">e8ede9f93580977511bdfc706669395ea7114622</a></td></tr>
 <tr><td>updated game title</td><td><a href="https://github.com/rishabh-live/the-Pig-Game">rishabh-live/the-Pig-Game</a></td><td><a href="https://github.com/rishabh-live/the-Pig-Game/commit/18f3c5747478dff82a1bcfadc0c02ecba9c3b178">18f3c5747478dff82a1bcfadc0c02ecba9c3b178</a></td></tr>
@@ -96,7 +109,6 @@
 <tr><td>Footer added and changed site theme color</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/2d768a6b1c508955c982534ec52110dae4cd65fa">2d768a6b1c508955c982534ec52110dae4cd65fa</a></td></tr>
 <tr><td>[BUG] Fixed Head URL buged</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/3a47ec3089e0c41a0a919fd8b6e831c3ae4975b4">3a47ec3089e0c41a0a919fd8b6e831c3ae4975b4</a></td></tr>
 <tr><td>[UPDATE] Added latest hash in table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/60b6ace3ca7102f53dbf8712dba730fde823b714">60b6ace3ca7102f53dbf8712dba730fde823b714</a></td></tr>
-<tr><td>[UPDATE] Center the table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/8fc5d39f4c9e9842aff2995456930f97b39112dd">8fc5d39f4c9e9842aff2995456930f97b39112dd</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
