@@ -87,6 +87,9 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Reverted to Banner.png</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/9204387d92ade80147b95f85a2fcd5b9d295ff39">9204387d92ade80147b95f85a2fcd5b9d295ff39</a></td></tr>
+<tr><td>Added null background image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/06c0adcaa2c473d9092c42b4740c2f763da13b74">06c0adcaa2c473d9092c42b4740c2f763da13b74</a></td></tr>
+<tr><td>Removed Background for image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/8c1c93ce85a3a14437468f18a76574d9609f71a4">8c1c93ce85a3a14437468f18a76574d9609f71a4</a></td></tr>
 <tr><td>Bump lodash from 4.17.20 to 4.17.21
 
 Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
@@ -106,9 +109,6 @@ Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://git
 <tr><td>New Package Update</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/daaecbdb60427e0485966ebdbf88d50b22bf3111">daaecbdb60427e0485966ebdbf88d50b22bf3111</a></td></tr>
 <tr><td>next downgraded</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/5884b025623efac695d812ab20432f0c0a7b6b98">5884b025623efac695d812ab20432f0c0a7b6b98</a></td></tr>
 <tr><td>config updates</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/cc01158a2183a93c404e0fa24df33966cd405b12">cc01158a2183a93c404e0fa24df33966cd405b12</a></td></tr>
-<tr><td>Footer added and changed site theme color</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/2d768a6b1c508955c982534ec52110dae4cd65fa">2d768a6b1c508955c982534ec52110dae4cd65fa</a></td></tr>
-<tr><td>[BUG] Fixed Head URL buged</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/3a47ec3089e0c41a0a919fd8b6e831c3ae4975b4">3a47ec3089e0c41a0a919fd8b6e831c3ae4975b4</a></td></tr>
-<tr><td>[UPDATE] Added latest hash in table</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/60b6ace3ca7102f53dbf8712dba730fde823b714">60b6ace3ca7102f53dbf8712dba730fde823b714</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
