@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>updated twitter handle</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/3b8801c68dda723d56e4619419213e78da2c8a7d">3b8801c68dda723d56e4619419213e78da2c8a7d</a></td></tr>
 <tr><td>Reverted to Banner.png</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/9204387d92ade80147b95f85a2fcd5b9d295ff39">9204387d92ade80147b95f85a2fcd5b9d295ff39</a></td></tr>
 <tr><td>Added null background image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/06c0adcaa2c473d9092c42b4740c2f763da13b74">06c0adcaa2c473d9092c42b4740c2f763da13b74</a></td></tr>
 <tr><td>Removed Background for image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/8c1c93ce85a3a14437468f18a76574d9609f71a4">8c1c93ce85a3a14437468f18a76574d9609f71a4</a></td></tr>
@@ -108,7 +109,6 @@ Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://git
 <tr><td>updated game title</td><td><a href="https://github.com/rishabh-live/the-Pig-Game">rishabh-live/the-Pig-Game</a></td><td><a href="https://github.com/rishabh-live/the-Pig-Game/commit/18f3c5747478dff82a1bcfadc0c02ecba9c3b178">18f3c5747478dff82a1bcfadc0c02ecba9c3b178</a></td></tr>
 <tr><td>New Package Update</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/daaecbdb60427e0485966ebdbf88d50b22bf3111">daaecbdb60427e0485966ebdbf88d50b22bf3111</a></td></tr>
 <tr><td>next downgraded</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/5884b025623efac695d812ab20432f0c0a7b6b98">5884b025623efac695d812ab20432f0c0a7b6b98</a></td></tr>
-<tr><td>config updates</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/cc01158a2183a93c404e0fa24df33966cd405b12">cc01158a2183a93c404e0fa24df33966cd405b12</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
