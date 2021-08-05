@@ -87,6 +87,43 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Bump lodash from 4.17.19 to 4.17.21 in /startbootstrap-agency-gh-pages
+
+Bumps [lodash](https://github.com/lodash/lodash) from 4.17.19 to 4.17.21.
+- [Release notes](https://github.com/lodash/lodash/releases)
+- [Commits](https://github.com/lodash/lodash/compare/4.17.19...4.17.21)
+
+Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/207f62afce2c85a13778ffdd697f81e1410f6d7c">207f62afce2c85a13778ffdd697f81e1410f6d7c</a></td></tr>
+<tr><td>Bump hosted-git-info in /startbootstrap-agency-gh-pages
+
+Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.7.1 to 2.8.9.
+- [Release notes](https://github.com/npm/hosted-git-info/releases)
+- [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
+- [Commits](https://github.com/npm/hosted-git-info/compare/v2.7.1...v2.8.9)
+
+Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/1da8532d9c493bc872571701cee91113a0408ded">1da8532d9c493bc872571701cee91113a0408ded</a></td></tr>
+<tr><td>Bump browserslist in /startbootstrap-agency-gh-pages
+
+Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.6.6 to 4.16.6.
+- [Release notes](https://github.com/browserslist/browserslist/releases)
+- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/browserslist/browserslist/compare/4.6.6...4.16.6)
+
+Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/f2e77f4987d789d7231ab7de128cec509155451b">f2e77f4987d789d7231ab7de128cec509155451b</a></td></tr>
+<tr><td>Bump postcss from 7.0.17 to 7.0.36 in /startbootstrap-agency-gh-pages
+
+Bumps [postcss](https://github.com/postcss/postcss) from 7.0.17 to 7.0.36.
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/7.0.17...7.0.36)
+
+---
+updated-dependencies:
+- dependency-name: postcss
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/80ab4a457b75624c13fb7b9e3e696241d27ec46b">80ab4a457b75624c13fb7b9e3e696241d27ec46b</a></td></tr>
 <tr><td>updated twitter handle</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/3b8801c68dda723d56e4619419213e78da2c8a7d">3b8801c68dda723d56e4619419213e78da2c8a7d</a></td></tr>
 <tr><td>Reverted to Banner.png</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/9204387d92ade80147b95f85a2fcd5b9d295ff39">9204387d92ade80147b95f85a2fcd5b9d295ff39</a></td></tr>
 <tr><td>Added null background image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/06c0adcaa2c473d9092c42b4740c2f763da13b74">06c0adcaa2c473d9092c42b4740c2f763da13b74</a></td></tr>
@@ -105,10 +142,6 @@ updated-dependencies:
 
 Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/695d8605bceafaea8c245bc4aae2287e5282d301">695d8605bceafaea8c245bc4aae2287e5282d301</a></td></tr>
 <tr><td>Create codeql-analysis.yml</td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/3b5b8451b776880fe3f09980939322ceef2fa975">3b5b8451b776880fe3f09980939322ceef2fa975</a></td></tr>
-<tr><td>Create SECURITY.md</td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/e8ede9f93580977511bdfc706669395ea7114622">e8ede9f93580977511bdfc706669395ea7114622</a></td></tr>
-<tr><td>updated game title</td><td><a href="https://github.com/rishabh-live/the-Pig-Game">rishabh-live/the-Pig-Game</a></td><td><a href="https://github.com/rishabh-live/the-Pig-Game/commit/18f3c5747478dff82a1bcfadc0c02ecba9c3b178">18f3c5747478dff82a1bcfadc0c02ecba9c3b178</a></td></tr>
-<tr><td>New Package Update</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/daaecbdb60427e0485966ebdbf88d50b22bf3111">daaecbdb60427e0485966ebdbf88d50b22bf3111</a></td></tr>
-<tr><td>next downgraded</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/5884b025623efac695d812ab20432f0c0a7b6b98">5884b025623efac695d812ab20432f0c0a7b6b98</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
