@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added REadme</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/f8e3a7fbde7433f87099ddb08d64a8e11a5bd445">f8e3a7fbde7433f87099ddb08d64a8e11a5bd445</a></td></tr>
 <tr><td>Encryption Level Incresed</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/d15dc614509da3850850decdeee9147d909a6e30">d15dc614509da3850850decdeee9147d909a6e30</a></td></tr>
 <tr><td>Bump lodash from 4.17.19 to 4.17.21 in /startbootstrap-agency-gh-pages
 
@@ -129,19 +130,6 @@ Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://git
 <tr><td>Reverted to Banner.png</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/9204387d92ade80147b95f85a2fcd5b9d295ff39">9204387d92ade80147b95f85a2fcd5b9d295ff39</a></td></tr>
 <tr><td>Added null background image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/06c0adcaa2c473d9092c42b4740c2f763da13b74">06c0adcaa2c473d9092c42b4740c2f763da13b74</a></td></tr>
 <tr><td>Removed Background for image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/8c1c93ce85a3a14437468f18a76574d9609f71a4">8c1c93ce85a3a14437468f18a76574d9609f71a4</a></td></tr>
-<tr><td>Bump lodash from 4.17.20 to 4.17.21
-
-Bumps [lodash](https://github.com/lodash/lodash) from 4.17.20 to 4.17.21.
-- [Release notes](https://github.com/lodash/lodash/releases)
-- [Commits](https://github.com/lodash/lodash/compare/4.17.20...4.17.21)
-
----
-updated-dependencies:
-- dependency-name: lodash
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/edition-semicolon">rishabh-live/edition-semicolon</a></td><td><a href="https://github.com/rishabh-live/edition-semicolon/commit/695d8605bceafaea8c245bc4aae2287e5282d301">695d8605bceafaea8c245bc4aae2287e5282d301</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
