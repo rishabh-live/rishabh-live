@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Preview website link</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/eb733588d750961db23c0399e1867a2398342b73">eb733588d750961db23c0399e1867a2398342b73</a></td></tr>
 <tr><td>Added REadme</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/f8e3a7fbde7433f87099ddb08d64a8e11a5bd445">f8e3a7fbde7433f87099ddb08d64a8e11a5bd445</a></td></tr>
 <tr><td>Encryption Level Incresed</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/d15dc614509da3850850decdeee9147d909a6e30">d15dc614509da3850850decdeee9147d909a6e30</a></td></tr>
 <tr><td>Bump lodash from 4.17.19 to 4.17.21 in /startbootstrap-agency-gh-pages
@@ -129,7 +130,6 @@ Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://git
 <tr><td>updated twitter handle</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/3b8801c68dda723d56e4619419213e78da2c8a7d">3b8801c68dda723d56e4619419213e78da2c8a7d</a></td></tr>
 <tr><td>Reverted to Banner.png</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/9204387d92ade80147b95f85a2fcd5b9d295ff39">9204387d92ade80147b95f85a2fcd5b9d295ff39</a></td></tr>
 <tr><td>Added null background image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/06c0adcaa2c473d9092c42b4740c2f763da13b74">06c0adcaa2c473d9092c42b4740c2f763da13b74</a></td></tr>
-<tr><td>Removed Background for image</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/8c1c93ce85a3a14437468f18a76574d9609f71a4">8c1c93ce85a3a14437468f18a76574d9609f71a4</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
