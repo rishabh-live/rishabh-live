@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Time Complexity Increased</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/4d35725bcafa3da2bec486450e7fd07cac07ce0d">4d35725bcafa3da2bec486450e7fd07cac07ce0d</a></td></tr>
 <tr><td>Added Resume site link</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/2d214c05cd159b54e6d77e9903f91493c7926d82">2d214c05cd159b54e6d77e9903f91493c7926d82</a></td></tr>
 <tr><td>Added Preview website link</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/eb733588d750961db23c0399e1867a2398342b73">eb733588d750961db23c0399e1867a2398342b73</a></td></tr>
 <tr><td>Added REadme</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/f8e3a7fbde7433f87099ddb08d64a8e11a5bd445">f8e3a7fbde7433f87099ddb08d64a8e11a5bd445</a></td></tr>
@@ -129,7 +130,6 @@ updated-dependencies:
 
 Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/80ab4a457b75624c13fb7b9e3e696241d27ec46b">80ab4a457b75624c13fb7b9e3e696241d27ec46b</a></td></tr>
 <tr><td>updated twitter handle</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/3b8801c68dda723d56e4619419213e78da2c8a7d">3b8801c68dda723d56e4619419213e78da2c8a7d</a></td></tr>
-<tr><td>Reverted to Banner.png</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/9204387d92ade80147b95f85a2fcd5b9d295ff39">9204387d92ade80147b95f85a2fcd5b9d295ff39</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
