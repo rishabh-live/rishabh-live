@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Lambda Functions Forlder Init</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/6228bc4ebbfb620748d334564b55405d47a68c1a">6228bc4ebbfb620748d334564b55405d47a68c1a</a></td></tr>
 <tr><td>Server Said HI on /hello</td><td><a href="https://github.com/rishabh-live/springboot-lessons">rishabh-live/springboot-lessons</a></td><td><a href="https://github.com/rishabh-live/springboot-lessons/commit/8ce869793a69388a3acf853c1b8d420b8760082d">8ce869793a69388a3acf853c1b8d420b8760082d</a></td></tr>
 <tr><td>dom4j removed</td><td><a href="https://github.com/rishabh-live/springboot-lessons">rishabh-live/springboot-lessons</a></td><td><a href="https://github.com/rishabh-live/springboot-lessons/commit/657f10e97104aefe42cce8fe61322a52ffd80cf4">657f10e97104aefe42cce8fe61322a52ffd80cf4</a></td></tr>
 <tr><td>Time Complexity Increased</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/4d35725bcafa3da2bec486450e7fd07cac07ce0d">4d35725bcafa3da2bec486450e7fd07cac07ce0d</a></td></tr>
@@ -109,14 +110,6 @@ Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.7.1 to 2.
 - [Commits](https://github.com/npm/hosted-git-info/compare/v2.7.1...v2.8.9)
 
 Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/1da8532d9c493bc872571701cee91113a0408ded">1da8532d9c493bc872571701cee91113a0408ded</a></td></tr>
-<tr><td>Bump browserslist in /startbootstrap-agency-gh-pages
-
-Bumps [browserslist](https://github.com/browserslist/browserslist) from 4.6.6 to 4.16.6.
-- [Release notes](https://github.com/browserslist/browserslist/releases)
-- [Changelog](https://github.com/browserslist/browserslist/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/browserslist/browserslist/compare/4.6.6...4.16.6)
-
-Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/f2e77f4987d789d7231ab7de128cec509155451b">f2e77f4987d789d7231ab7de128cec509155451b</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
