@@ -87,6 +87,21 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Bump junit in /src code/itDeptMagazine/itDeptMagazine
+
+Bumps [junit](https://github.com/junit-team/junit4) from 4.11 to 4.13.1.
+- [Release notes](https://github.com/junit-team/junit4/releases)
+- [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.11.md)
+- [Commits](https://github.com/junit-team/junit4/compare/r4.11...r4.13.1)
+
+---
+updated-dependencies:
+- dependency-name: junit:junit
+  dependency-type: direct:development
+...
+
+Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/ce5f71694baea3b1c2d79cfce447f0403ddfe4ab">ce5f71694baea3b1c2d79cfce447f0403ddfe4ab</a></td></tr>
+<tr><td>OTP File Created</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/20218cc96dad3fabebaa12d51752cc6e75035a2d">20218cc96dad3fabebaa12d51752cc6e75035a2d</a></td></tr>
 <tr><td>Lambda Functions Forlder Init</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/6228bc4ebbfb620748d334564b55405d47a68c1a">6228bc4ebbfb620748d334564b55405d47a68c1a</a></td></tr>
 <tr><td>Server Said HI on /hello</td><td><a href="https://github.com/rishabh-live/springboot-lessons">rishabh-live/springboot-lessons</a></td><td><a href="https://github.com/rishabh-live/springboot-lessons/commit/8ce869793a69388a3acf853c1b8d420b8760082d">8ce869793a69388a3acf853c1b8d420b8760082d</a></td></tr>
 <tr><td>dom4j removed</td><td><a href="https://github.com/rishabh-live/springboot-lessons">rishabh-live/springboot-lessons</a></td><td><a href="https://github.com/rishabh-live/springboot-lessons/commit/657f10e97104aefe42cce8fe61322a52ffd80cf4">657f10e97104aefe42cce8fe61322a52ffd80cf4</a></td></tr>
@@ -95,21 +110,6 @@
 <tr><td>Added Preview website link</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/eb733588d750961db23c0399e1867a2398342b73">eb733588d750961db23c0399e1867a2398342b73</a></td></tr>
 <tr><td>Added REadme</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/f8e3a7fbde7433f87099ddb08d64a8e11a5bd445">f8e3a7fbde7433f87099ddb08d64a8e11a5bd445</a></td></tr>
 <tr><td>Encryption Level Incresed</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/d15dc614509da3850850decdeee9147d909a6e30">d15dc614509da3850850decdeee9147d909a6e30</a></td></tr>
-<tr><td>Bump lodash from 4.17.19 to 4.17.21 in /startbootstrap-agency-gh-pages
-
-Bumps [lodash](https://github.com/lodash/lodash) from 4.17.19 to 4.17.21.
-- [Release notes](https://github.com/lodash/lodash/releases)
-- [Commits](https://github.com/lodash/lodash/compare/4.17.19...4.17.21)
-
-Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/207f62afce2c85a13778ffdd697f81e1410f6d7c">207f62afce2c85a13778ffdd697f81e1410f6d7c</a></td></tr>
-<tr><td>Bump hosted-git-info in /startbootstrap-agency-gh-pages
-
-Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.7.1 to 2.8.9.
-- [Release notes](https://github.com/npm/hosted-git-info/releases)
-- [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
-- [Commits](https://github.com/npm/hosted-git-info/compare/v2.7.1...v2.8.9)
-
-Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/1da8532d9c493bc872571701cee91113a0408ded">1da8532d9c493bc872571701cee91113a0408ded</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
