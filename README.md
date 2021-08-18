@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>uploaded recording 2 of lab 1</td><td><a href="https://github.com/rishabh-live/Computer-Grahics-Lab">rishabh-live/Computer-Grahics-Lab</a></td><td><a href="https://github.com/rishabh-live/Computer-Grahics-Lab/commit/498b63400ffdabd2c59d129905a5325d154cd6cf">498b63400ffdabd2c59d129905a5325d154cd6cf</a></td></tr>
 <tr><td>Bump junit in /src code/itDeptMagazine/itDeptMagazine
 
 Bumps [junit](https://github.com/junit-team/junit4) from 4.11 to 4.13.1.
@@ -109,7 +110,6 @@ Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://git
 <tr><td>Added Resume site link</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/2d214c05cd159b54e6d77e9903f91493c7926d82">2d214c05cd159b54e6d77e9903f91493c7926d82</a></td></tr>
 <tr><td>Added Preview website link</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/eb733588d750961db23c0399e1867a2398342b73">eb733588d750961db23c0399e1867a2398342b73</a></td></tr>
 <tr><td>Added REadme</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/f8e3a7fbde7433f87099ddb08d64a8e11a5bd445">f8e3a7fbde7433f87099ddb08d64a8e11a5bd445</a></td></tr>
-<tr><td>Encryption Level Incresed</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/d15dc614509da3850850decdeee9147d909a6e30">d15dc614509da3850850decdeee9147d909a6e30</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
