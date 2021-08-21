@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Otp Send from app completed</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/638f8c24a93026b0eb1e05df32f744733608a2f7">638f8c24a93026b0eb1e05df32f744733608a2f7</a></td></tr>
 <tr><td>request-otp endpoint done and code refactor</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/d14e5ae57befc7be763d57957c1d1571f45416ac">d14e5ae57befc7be763d57957c1d1571f45416ac</a></td></tr>
 <tr><td>Email Sending Working</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/313985767d4d5afd1e347a98435653f00a675a22">313985767d4d5afd1e347a98435653f00a675a22</a></td></tr>
 <tr><td>second push</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/785dd5352a29ace6976499fb80593dcd72310eef">785dd5352a29ace6976499fb80593dcd72310eef</a></td></tr>
@@ -109,7 +110,6 @@ Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://git
 <tr><td>Lambda Functions Forlder Init</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/6228bc4ebbfb620748d334564b55405d47a68c1a">6228bc4ebbfb620748d334564b55405d47a68c1a</a></td></tr>
 <tr><td>Server Said HI on /hello</td><td><a href="https://github.com/rishabh-live/springboot-lessons">rishabh-live/springboot-lessons</a></td><td><a href="https://github.com/rishabh-live/springboot-lessons/commit/8ce869793a69388a3acf853c1b8d420b8760082d">8ce869793a69388a3acf853c1b8d420b8760082d</a></td></tr>
 <tr><td>dom4j removed</td><td><a href="https://github.com/rishabh-live/springboot-lessons">rishabh-live/springboot-lessons</a></td><td><a href="https://github.com/rishabh-live/springboot-lessons/commit/657f10e97104aefe42cce8fe61322a52ffd80cf4">657f10e97104aefe42cce8fe61322a52ffd80cf4</a></td></tr>
-<tr><td>Time Complexity Increased</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/4d35725bcafa3da2bec486450e7fd07cac07ce0d">4d35725bcafa3da2bec486450e7fd07cac07ce0d</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
