@@ -87,6 +87,8 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Updated Profile Picture</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/30809bf6e68acf1039197728f2c32773295c903e">30809bf6e68acf1039197728f2c32773295c903e</a></td></tr>
+<tr><td>Updated Profile Picture</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/47e83f2b0f6757662ed1d880f18a808b8b1aed87">47e83f2b0f6757662ed1d880f18a808b8b1aed87</a></td></tr>
 <tr><td>removed proccesing request label</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/d03acd98fbe356dee69dd74910474e481229ed9a">d03acd98fbe356dee69dd74910474e481229ed9a</a></td></tr>
 <tr><td>Otp Send from app completed</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/638f8c24a93026b0eb1e05df32f744733608a2f7">638f8c24a93026b0eb1e05df32f744733608a2f7</a></td></tr>
 <tr><td>request-otp endpoint done and code refactor</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/d14e5ae57befc7be763d57957c1d1571f45416ac">d14e5ae57befc7be763d57957c1d1571f45416ac</a></td></tr>
@@ -108,8 +110,6 @@ updated-dependencies:
 
 Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/ce5f71694baea3b1c2d79cfce447f0403ddfe4ab">ce5f71694baea3b1c2d79cfce447f0403ddfe4ab</a></td></tr>
 <tr><td>OTP File Created</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/20218cc96dad3fabebaa12d51752cc6e75035a2d">20218cc96dad3fabebaa12d51752cc6e75035a2d</a></td></tr>
-<tr><td>Lambda Functions Forlder Init</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/6228bc4ebbfb620748d334564b55405d47a68c1a">6228bc4ebbfb620748d334564b55405d47a68c1a</a></td></tr>
-<tr><td>Server Said HI on /hello</td><td><a href="https://github.com/rishabh-live/springboot-lessons">rishabh-live/springboot-lessons</a></td><td><a href="https://github.com/rishabh-live/springboot-lessons/commit/8ce869793a69388a3acf853c1b8d420b8760082d">8ce869793a69388a3acf853c1b8d420b8760082d</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
