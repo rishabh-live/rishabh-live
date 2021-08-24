@@ -87,6 +87,8 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Readme</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/317f13bf7e8c224944f90b1213123527c3819df3">317f13bf7e8c224944f90b1213123527c3819df3</a></td></tr>
+<tr><td>Added Readme</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/baff522f47d4b7c5e0e90f66712aab66fc81d2a6">baff522f47d4b7c5e0e90f66712aab66fc81d2a6</a></td></tr>
 <tr><td>Updated Profile Picture</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/30809bf6e68acf1039197728f2c32773295c903e">30809bf6e68acf1039197728f2c32773295c903e</a></td></tr>
 <tr><td>Updated Profile Picture</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/47e83f2b0f6757662ed1d880f18a808b8b1aed87">47e83f2b0f6757662ed1d880f18a808b8b1aed87</a></td></tr>
 <tr><td>removed proccesing request label</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/d03acd98fbe356dee69dd74910474e481229ed9a">d03acd98fbe356dee69dd74910474e481229ed9a</a></td></tr>
@@ -95,21 +97,6 @@
 <tr><td>Email Sending Working</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/313985767d4d5afd1e347a98435653f00a675a22">313985767d4d5afd1e347a98435653f00a675a22</a></td></tr>
 <tr><td>second push</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/785dd5352a29ace6976499fb80593dcd72310eef">785dd5352a29ace6976499fb80593dcd72310eef</a></td></tr>
 <tr><td>uploaded recording 2 of lab 1</td><td><a href="https://github.com/rishabh-live/Computer-Grahics-Lab">rishabh-live/Computer-Grahics-Lab</a></td><td><a href="https://github.com/rishabh-live/Computer-Grahics-Lab/commit/498b63400ffdabd2c59d129905a5325d154cd6cf">498b63400ffdabd2c59d129905a5325d154cd6cf</a></td></tr>
-<tr><td>Bump junit in /src code/itDeptMagazine/itDeptMagazine
-
-Bumps [junit](https://github.com/junit-team/junit4) from 4.11 to 4.13.1.
-- [Release notes](https://github.com/junit-team/junit4/releases)
-- [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.11.md)
-- [Commits](https://github.com/junit-team/junit4/compare/r4.11...r4.13.1)
-
----
-updated-dependencies:
-- dependency-name: junit:junit
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/ce5f71694baea3b1c2d79cfce447f0403ddfe4ab">ce5f71694baea3b1c2d79cfce447f0403ddfe4ab</a></td></tr>
-<tr><td>OTP File Created</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/20218cc96dad3fabebaa12d51752cc6e75035a2d">20218cc96dad3fabebaa12d51752cc6e75035a2d</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
