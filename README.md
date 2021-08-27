@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Updated lab1/one</td><td><a href="https://github.com/rishabh-live/OS_LAB">rishabh-live/OS_LAB</a></td><td><a href="https://github.com/rishabh-live/OS_LAB/commit/181ca48b3cfce7c346f57d6b6159b01430a7f351">181ca48b3cfce7c346f57d6b6159b01430a7f351</a></td></tr>
 <tr><td>Takes User inputs now</td><td><a href="https://github.com/rishabh-live/OS_LAB">rishabh-live/OS_LAB</a></td><td><a href="https://github.com/rishabh-live/OS_LAB/commit/e6e476f933e4c51e1f1e879c752e0fd1570cadd6">e6e476f933e4c51e1f1e879c752e0fd1570cadd6</a></td></tr>
 <tr><td>Lab Work 1</td><td><a href="https://github.com/rishabh-live/OS_LAB">rishabh-live/OS_LAB</a></td><td><a href="https://github.com/rishabh-live/OS_LAB/commit/b134f35d6d2bb12cf55852e03b82dcba3d02d83f">b134f35d6d2bb12cf55852e03b82dcba3d02d83f</a></td></tr>
 <tr><td>Added Resume site link</td><td><a href="https://github.com/rishabh-live/rishabh-live.github.io">rishabh-live/rishabh-live.github.io</a></td><td><a href="https://github.com/rishabh-live/rishabh-live.github.io/commit/9d0bcfb7f9fe8ad952faede16cbc6f01b908100e">9d0bcfb7f9fe8ad952faede16cbc6f01b908100e</a></td></tr>
@@ -98,7 +99,6 @@
 <tr><td>Added Readme</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/baff522f47d4b7c5e0e90f66712aab66fc81d2a6">baff522f47d4b7c5e0e90f66712aab66fc81d2a6</a></td></tr>
 <tr><td>Updated Profile Picture</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/30809bf6e68acf1039197728f2c32773295c903e">30809bf6e68acf1039197728f2c32773295c903e</a></td></tr>
 <tr><td>Updated Profile Picture</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/47e83f2b0f6757662ed1d880f18a808b8b1aed87">47e83f2b0f6757662ed1d880f18a808b8b1aed87</a></td></tr>
-<tr><td>removed proccesing request label</td><td><a href="https://github.com/rishabh-live/itDeptMagazine">rishabh-live/itDeptMagazine</a></td><td><a href="https://github.com/rishabh-live/itDeptMagazine/commit/d03acd98fbe356dee69dd74910474e481229ed9a">d03acd98fbe356dee69dd74910474e481229ed9a</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
