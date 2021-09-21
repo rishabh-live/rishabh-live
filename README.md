@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Update README.md</td><td><a href="https://github.com/rishabh-live/am-i-sexy">rishabh-live/am-i-sexy</a></td><td><a href="https://github.com/rishabh-live/am-i-sexy/commit/d219ee607f0d7776db6c09285509eadce59b0083">d219ee607f0d7776db6c09285509eadce59b0083</a></td></tr>
 <tr><td>Lab work two</td><td><a href="https://github.com/rishabh-live/OS_LAB">rishabh-live/OS_LAB</a></td><td><a href="https://github.com/rishabh-live/OS_LAB/commit/831682e0cc73a6181832dc0b43b040e599ae8cc7">831682e0cc73a6181832dc0b43b040e599ae8cc7</a></td></tr>
 <tr><td>Updated lab1/one</td><td><a href="https://github.com/rishabh-live/OS_LAB">rishabh-live/OS_LAB</a></td><td><a href="https://github.com/rishabh-live/OS_LAB/commit/181ca48b3cfce7c346f57d6b6159b01430a7f351">181ca48b3cfce7c346f57d6b6159b01430a7f351</a></td></tr>
 <tr><td>Takes User inputs now</td><td><a href="https://github.com/rishabh-live/OS_LAB">rishabh-live/OS_LAB</a></td><td><a href="https://github.com/rishabh-live/OS_LAB/commit/e6e476f933e4c51e1f1e879c752e0fd1570cadd6">e6e476f933e4c51e1f1e879c752e0fd1570cadd6</a></td></tr>
@@ -98,7 +99,6 @@
 <tr><td>code refactor</td><td><a href="https://github.com/rishabh-live/rishabh-live.github.io">rishabh-live/rishabh-live.github.io</a></td><td><a href="https://github.com/rishabh-live/rishabh-live.github.io/commit/daaecbdb60427e0485966ebdbf88d50b22bf3111">daaecbdb60427e0485966ebdbf88d50b22bf3111</a></td></tr>
 <tr><td>Added Readme</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/317f13bf7e8c224944f90b1213123527c3819df3">317f13bf7e8c224944f90b1213123527c3819df3</a></td></tr>
 <tr><td>Added Readme</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/baff522f47d4b7c5e0e90f66712aab66fc81d2a6">baff522f47d4b7c5e0e90f66712aab66fc81d2a6</a></td></tr>
-<tr><td>Updated Profile Picture</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/30809bf6e68acf1039197728f2c32773295c903e">30809bf6e68acf1039197728f2c32773295c903e</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
