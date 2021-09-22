@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Linktree</td><td><a href="https://github.com/dept-it-smit/dept-it-smit">dept-it-smit/dept-it-smit</a></td><td><a href="https://github.com/dept-it-smit/dept-it-smit/commit/803feca0cabd93d7b1505a07d38efce49543eb17">803feca0cabd93d7b1505a07d38efce49543eb17</a></td></tr>
 <tr><td>Added Profile Page</td><td><a href="https://github.com/dept-it-smit/dept-it-smit">dept-it-smit/dept-it-smit</a></td><td><a href="https://github.com/dept-it-smit/dept-it-smit/commit/15d0a0a6d92094b5d2991d9beeecc8cef166501e">15d0a0a6d92094b5d2991d9beeecc8cef166501e</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/rishabh-live/am-i-sexy">rishabh-live/am-i-sexy</a></td><td><a href="https://github.com/rishabh-live/am-i-sexy/commit/d219ee607f0d7776db6c09285509eadce59b0083">d219ee607f0d7776db6c09285509eadce59b0083</a></td></tr>
 <tr><td>Lab work two</td><td><a href="https://github.com/rishabh-live/OS_LAB">rishabh-live/OS_LAB</a></td><td><a href="https://github.com/rishabh-live/OS_LAB/commit/831682e0cc73a6181832dc0b43b040e599ae8cc7">831682e0cc73a6181832dc0b43b040e599ae8cc7</a></td></tr>
@@ -98,7 +99,6 @@
 
 [Dev]</td><td><a href="https://github.com/rishabh-live/rishabh-live.github.io">rishabh-live/rishabh-live.github.io</a></td><td><a href="https://github.com/rishabh-live/rishabh-live.github.io/commit/317f13bf7e8c224944f90b1213123527c3819df3">317f13bf7e8c224944f90b1213123527c3819df3</a></td></tr>
 <tr><td>code refactor</td><td><a href="https://github.com/rishabh-live/rishabh-live.github.io">rishabh-live/rishabh-live.github.io</a></td><td><a href="https://github.com/rishabh-live/rishabh-live.github.io/commit/daaecbdb60427e0485966ebdbf88d50b22bf3111">daaecbdb60427e0485966ebdbf88d50b22bf3111</a></td></tr>
-<tr><td>Added Readme</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/317f13bf7e8c224944f90b1213123527c3819df3">317f13bf7e8c224944f90b1213123527c3819df3</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
