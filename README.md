@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>check commit</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/50ce9b827207d7865e43681bf9a301e84e300c32">50ce9b827207d7865e43681bf9a301e84e300c32</a></td></tr>
 <tr><td>google analytics fix</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/c6b0250653065c364420ca6421135f00f197372b">c6b0250653065c364420ca6421135f00f197372b</a></td></tr>
 <tr><td>crossorigin added</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/550452bae997c3bae485dd2ebdd51c9d66ba0ce0">550452bae997c3bae485dd2ebdd51c9d66ba0ce0</a></td></tr>
 <tr><td>basic page modified</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/72576978437aa35c713d13e7e6d2d6701eaa722a">72576978437aa35c713d13e7e6d2d6701eaa722a</a></td></tr>
@@ -96,7 +97,6 @@
 <tr><td>New Intro Post Added</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/cffddf69810730ac82a9af978b100c3f15642516">cffddf69810730ac82a9af978b100c3f15642516</a></td></tr>
 <tr><td>README added</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/17ccb3b6998ddcce30e76c27e7eb376af19b1969">17ccb3b6998ddcce30e76c27e7eb376af19b1969</a></td></tr>
 <tr><td>removed Extra Space</td><td><a href="https://github.com/dept-it-smit/dept-it-smit">dept-it-smit/dept-it-smit</a></td><td><a href="https://github.com/dept-it-smit/dept-it-smit/commit/b82b15271d82a3f555b2f3a6b5c0236216ea1625">b82b15271d82a3f555b2f3a6b5c0236216ea1625</a></td></tr>
-<tr><td>removed Extra Space</td><td><a href="https://github.com/Drift-Desk/dept-it-smit">Drift-Desk/dept-it-smit</a></td><td><a href="https://github.com/Drift-Desk/dept-it-smit/commit/339ab260d0de2642dc3b6640b6bf1424a413433b">339ab260d0de2642dc3b6640b6bf1424a413433b</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
