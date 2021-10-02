@@ -87,6 +87,8 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Updated Banner in notification</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/5630fad7b6cf1fe80be4d00102cd30f76a562604">5630fad7b6cf1fe80be4d00102cd30f76a562604</a></td></tr>
+<tr><td>Uploaded Banner For Hactoberfest Notification</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/aa41dc6f660186b8bc9eb70c01de100ff0ea3d0d">aa41dc6f660186b8bc9eb70c01de100ff0ea3d0d</a></td></tr>
 <tr><td>Added Contributing.md</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/1d8fbed8255cd64e0631f3211e93a22d0c0b312c">1d8fbed8255cd64e0631f3211e93a22d0c0b312c</a></td></tr>
 <tr><td>Added simple game of rock, paper, scissors using
 python.</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/1d8fbed8255cd64e0631f3211e93a22d0c0b312c">1d8fbed8255cd64e0631f3211e93a22d0c0b312c</a></td></tr>
@@ -96,8 +98,6 @@ python.</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2
 <tr><td>Links Modified</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/46a3df3d2e9888fe880cff8e1d1cab79165f03a5">46a3df3d2e9888fe880cff8e1d1cab79165f03a5</a></td></tr>
 <tr><td>Hacktoberfest 2021 Update</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/e2d18cd6e41457fef6157a5b692b0790463abd52">e2d18cd6e41457fef6157a5b692b0790463abd52</a></td></tr>
 <tr><td>Update CONTRIBUTING.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/aa24f6c04c46312d2d48425eea35cafc57718d67">aa24f6c04c46312d2d48425eea35cafc57718d67</a></td></tr>
-<tr><td>Update README.md</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/eff1e7ff63f09c5009461353b7d3408072315a97">eff1e7ff63f09c5009461353b7d3408072315a97</a></td></tr>
-<tr><td>Update CONTRIBUTING.md</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/71cfff4f594a403cf2270c929a183749ee7d70f1">71cfff4f594a403cf2270c929a183749ee7d70f1</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
