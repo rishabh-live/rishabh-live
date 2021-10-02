@@ -87,10 +87,10 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Contributing.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/648ffd7b4ead695528d1f4055ad39ca2c855ee51">648ffd7b4ead695528d1f4055ad39ca2c855ee51</a></td></tr>
+<tr><td>Create CONTRIBUTE.md</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/0c22d647b62a506ab3a880a0d8a8fae2c7f2a111">0c22d647b62a506ab3a880a0d8a8fae2c7f2a111</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/85a299022c867666cb0338eea2ae13b1965ae905">85a299022c867666cb0338eea2ae13b1965ae905</a></td></tr>
 <tr><td>Added Manual Sitemap</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/2fa0eac220ba385f85a477fb950029bd57deada5">2fa0eac220ba385f85a477fb950029bd57deada5</a></td></tr>
-<tr><td>Added Manual Sitemap</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/d7d31ea79226fb6309775577e71ff7a2b17058c6">d7d31ea79226fb6309775577e71ff7a2b17058c6</a></td></tr>
-<tr><td>Dark Tehme added</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/f0e05349255a803ebfbfd83a7e36d04db7d8b9fb">f0e05349255a803ebfbfd83a7e36d04db7d8b9fb</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
