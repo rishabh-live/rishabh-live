@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Contributing.md</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/1d8fbed8255cd64e0631f3211e93a22d0c0b312c">1d8fbed8255cd64e0631f3211e93a22d0c0b312c</a></td></tr>
 <tr><td>Added simple game of rock, paper, scissors using
 python.</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/1d8fbed8255cd64e0631f3211e93a22d0c0b312c">1d8fbed8255cd64e0631f3211e93a22d0c0b312c</a></td></tr>
 <tr><td>did solution for distance-queries cses problem set (website)</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/df4962c930cf452a4259b77d9321ee930d5fe889">df4962c930cf452a4259b77d9321ee930d5fe889</a></td></tr>
