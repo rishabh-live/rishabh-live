@@ -87,6 +87,9 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Update CONTRIBUTING.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/aa24f6c04c46312d2d48425eea35cafc57718d67">aa24f6c04c46312d2d48425eea35cafc57718d67</a></td></tr>
+<tr><td>Update README.md</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/eff1e7ff63f09c5009461353b7d3408072315a97">eff1e7ff63f09c5009461353b7d3408072315a97</a></td></tr>
+<tr><td>Update CONTRIBUTING.md</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/71cfff4f594a403cf2270c929a183749ee7d70f1">71cfff4f594a403cf2270c929a183749ee7d70f1</a></td></tr>
 <tr><td>Rewrote and formatted Readme</td><td><a href="https://github.com/rishabh-live/3x-plus-1">rishabh-live/3x-plus-1</a></td><td><a href="https://github.com/rishabh-live/3x-plus-1/commit/5934c95c196e2b5a1af17e0801b25e7af4d5448e">5934c95c196e2b5a1af17e0801b25e7af4d5448e</a></td></tr>
 <tr><td>sessionstorage => localstorage</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/57823287177e41ac180f7e901e1aee056b919e93">57823287177e41ac180f7e901e1aee056b919e93</a></td></tr>
 <tr><td>sessionstorage => localstorage</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/9f030a992dfe174b0b243897e146488f07cd391c">9f030a992dfe174b0b243897e146488f07cd391c</a></td></tr>
