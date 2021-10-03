@@ -91,7 +91,6 @@
 <tr><td>did solution for vertex cover problem on spoj website</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/ea0d123ad0150ce33e3d4b449498fbf9c577b325">ea0d123ad0150ce33e3d4b449498fbf9c577b325</a></td></tr>
 <tr><td>Updated Banner in notification</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/5630fad7b6cf1fe80be4d00102cd30f76a562604">5630fad7b6cf1fe80be4d00102cd30f76a562604</a></td></tr>
 <tr><td>Uploaded Banner For Hactoberfest Notification</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/aa41dc6f660186b8bc9eb70c01de100ff0ea3d0d">aa41dc6f660186b8bc9eb70c01de100ff0ea3d0d</a></td></tr>
-<tr><td>Added Contributing.md</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/1d8fbed8255cd64e0631f3211e93a22d0c0b312c">1d8fbed8255cd64e0631f3211e93a22d0c0b312c</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
