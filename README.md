@@ -95,7 +95,6 @@
 python.</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/1d8fbed8255cd64e0631f3211e93a22d0c0b312c">1d8fbed8255cd64e0631f3211e93a22d0c0b312c</a></td></tr>
 <tr><td>did solution for distance-queries cses problem set (website)</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/df4962c930cf452a4259b77d9321ee930d5fe889">df4962c930cf452a4259b77d9321ee930d5fe889</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/c08379b2731bc71027ac4a88669139d9f413fce5">c08379b2731bc71027ac4a88669139d9f413fce5</a></td></tr>
-<tr><td>Update CONTRIBUTING.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/01738bbe9d9f181839eeb9511586f76dbb20fdd0">01738bbe9d9f181839eeb9511586f76dbb20fdd0</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
