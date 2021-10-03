@@ -87,6 +87,9 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Removed unwanted logs</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/09043f447de4c2babce619b5316efacb5cccea70">09043f447de4c2babce619b5316efacb5cccea70</a></td></tr>
+<tr><td>Bugs Fixed</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9fbc84d89f6e4e004f933f11336d28a9946f4132">9fbc84d89f6e4e004f933f11336d28a9946f4132</a></td></tr>
+<tr><td>Added Contributors List</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/b65c47ac166037fa040610b7457ea1a0d303ce75">b65c47ac166037fa040610b7457ea1a0d303ce75</a></td></tr>
 <tr><td>Updated CONTRIBUTING.md file</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/b6c4846ed42b673f985b4fb9e144f0da8e71a22a">b6c4846ed42b673f985b4fb9e144f0da8e71a22a</a></td></tr>
 <tr><td>Program to Swap Two Number Without Third Variable in Dart Language</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/b6c4846ed42b673f985b4fb9e144f0da8e71a22a">b6c4846ed42b673f985b4fb9e144f0da8e71a22a</a></td></tr>
 <tr><td>modified Contributiors link</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/393f98773d41d9c10ea1144107ea11664dede4d2">393f98773d41d9c10ea1144107ea11664dede4d2</a></td></tr>
@@ -94,9 +97,6 @@
 <tr><td>Updated CONTRIBUTING.md file</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/88726b4eea651fc8aec9397c698404c0c78bc916">88726b4eea651fc8aec9397c698404c0c78bc916</a></td></tr>
 <tr><td>modified Contributiors link</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/200e238162c0124210520bed853792f77e4fea5e">200e238162c0124210520bed853792f77e4fea5e</a></td></tr>
 <tr><td>Added Participating Students Section</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9b827e09fc10b814777be97ce901f1f742d89530">9b827e09fc10b814777be97ce901f1f742d89530</a></td></tr>
-<tr><td>Create password_generator.py</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/9b827e09fc10b814777be97ce901f1f742d89530">9b827e09fc10b814777be97ce901f1f742d89530</a></td></tr>
-<tr><td>Added Participating Students Section</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/051ffa002dce79047e854701095f5870fe69accb">051ffa002dce79047e854701095f5870fe69accb</a></td></tr>
-<tr><td>Added Participating Students Section</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/8b5f7b666039180a6f17bcc1f57a18f68d8ef7df">8b5f7b666039180a6f17bcc1f57a18f68d8ef7df</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
