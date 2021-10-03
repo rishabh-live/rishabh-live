@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>[BOT] Contributors List Updated</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/a5f4f49d93f88b7ee93c8222dd76ce12a086f21b">a5f4f49d93f88b7ee93c8222dd76ce12a086f21b</a></td></tr>
 <tr><td>changed dir names with issue created</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9cae586c68606c48e2495430b375439f29ef4327">9cae586c68606c48e2495430b375439f29ef4327</a></td></tr>
 <tr><td>MOdified Table</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/977bfb6b5bbbdc175dc6f842884be7fd378393b9">977bfb6b5bbbdc175dc6f842884be7fd378393b9</a></td></tr>
 <tr><td>changed dir names with issue created</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/e450316bc1f54c8aa0dbcc7ae0d843af02c77807">e450316bc1f54c8aa0dbcc7ae0d843af02c77807</a></td></tr>
@@ -96,7 +97,6 @@
 <tr><td>added solution for bubble sort with documentation</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9a4729da172aad56be0eae780f6e62875bfc9ad7">9a4729da172aad56be0eae780f6e62875bfc9ad7</a></td></tr>
 <tr><td>Revert "added solution for pairs in array"</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/35a0ef23a78357d8218afa93ddea462e6220a838">35a0ef23a78357d8218afa93ddea462e6220a838</a></td></tr>
 <tr><td>Revert "added solution for bubble sort with documentation"</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/94c3353f4c6cee2f03d0e661c7f12c36c114fa23">94c3353f4c6cee2f03d0e661c7f12c36c114fa23</a></td></tr>
-<tr><td>added solution for bubble sort with documentation</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/fd4396f3c47a4f46901d88d9e6a9d3ea71b83214">fd4396f3c47a4f46901d88d9e6a9d3ea71b83214</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
