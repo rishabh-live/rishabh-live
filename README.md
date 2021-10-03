@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>added pairs in array problem in java</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/261f74cc791279b7fe37f1605b8b973731815e05">261f74cc791279b7fe37f1605b8b973731815e05</a></td></tr>
 <tr><td>Linear Search using JavaScript</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/3f9cffbf4f5e89632be5b47843f2944b19a96ce0">3f9cffbf4f5e89632be5b47843f2944b19a96ce0</a></td></tr>
 <tr><td>linear search in python 202000165</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/78e40c6eb319fc919311216d0541331c6c65b6ed">78e40c6eb319fc919311216d0541331c6c65b6ed</a></td></tr>
 </table>
