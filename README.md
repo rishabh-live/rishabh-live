@@ -87,6 +87,8 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>changed dir names with issue created</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9cae586c68606c48e2495430b375439f29ef4327">9cae586c68606c48e2495430b375439f29ef4327</a></td></tr>
+<tr><td>MOdified Table</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/977bfb6b5bbbdc175dc6f842884be7fd378393b9">977bfb6b5bbbdc175dc6f842884be7fd378393b9</a></td></tr>
 <tr><td>changed dir names with issue created</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/e450316bc1f54c8aa0dbcc7ae0d843af02c77807">e450316bc1f54c8aa0dbcc7ae0d843af02c77807</a></td></tr>
 <tr><td>Added Contributors List</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/fe18e03b3fe7c135c79a5c586a1d2857cab918ed">fe18e03b3fe7c135c79a5c586a1d2857cab918ed</a></td></tr>
 <tr><td>Refrence brach changed</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/dd002fdaf834075883cbd58d6439d7b312f0aea6">dd002fdaf834075883cbd58d6439d7b312f0aea6</a></td></tr>
@@ -95,8 +97,6 @@
 <tr><td>Revert "added solution for pairs in array"</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/35a0ef23a78357d8218afa93ddea462e6220a838">35a0ef23a78357d8218afa93ddea462e6220a838</a></td></tr>
 <tr><td>Revert "added solution for bubble sort with documentation"</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/94c3353f4c6cee2f03d0e661c7f12c36c114fa23">94c3353f4c6cee2f03d0e661c7f12c36c114fa23</a></td></tr>
 <tr><td>added solution for bubble sort with documentation</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/fd4396f3c47a4f46901d88d9e6a9d3ea71b83214">fd4396f3c47a4f46901d88d9e6a9d3ea71b83214</a></td></tr>
-<tr><td>Removed unwanted logs</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/09043f447de4c2babce619b5316efacb5cccea70">09043f447de4c2babce619b5316efacb5cccea70</a></td></tr>
-<tr><td>Bugs Fixed</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9fbc84d89f6e4e004f933f11336d28a9946f4132">9fbc84d89f6e4e004f933f11336d28a9946f4132</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
