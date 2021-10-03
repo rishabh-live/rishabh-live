@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Updated CONTRIBUTING.md file</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/b6c4846ed42b673f985b4fb9e144f0da8e71a22a">b6c4846ed42b673f985b4fb9e144f0da8e71a22a</a></td></tr>
 <tr><td>Program to Swap Two Number Without Third Variable in Dart Language</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/b6c4846ed42b673f985b4fb9e144f0da8e71a22a">b6c4846ed42b673f985b4fb9e144f0da8e71a22a</a></td></tr>
 <tr><td>modified Contributiors link</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/393f98773d41d9c10ea1144107ea11664dede4d2">393f98773d41d9c10ea1144107ea11664dede4d2</a></td></tr>
 <tr><td>Updated CONTRIBUTING.md file</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/fca3ff76bc99ca67f4630979dec04db75bfbd4e2">fca3ff76bc99ca67f4630979dec04db75bfbd4e2</a></td></tr>
@@ -96,7 +97,6 @@
 <tr><td>Create password_generator.py</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/9b827e09fc10b814777be97ce901f1f742d89530">9b827e09fc10b814777be97ce901f1f742d89530</a></td></tr>
 <tr><td>Added Participating Students Section</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/051ffa002dce79047e854701095f5870fe69accb">051ffa002dce79047e854701095f5870fe69accb</a></td></tr>
 <tr><td>Added Participating Students Section</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/8b5f7b666039180a6f17bcc1f57a18f68d8ef7df">8b5f7b666039180a6f17bcc1f57a18f68d8ef7df</a></td></tr>
-<tr><td>did solution for vertex cover problem on spoj website</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/261f74cc791279b7fe37f1605b8b973731815e05">261f74cc791279b7fe37f1605b8b973731815e05</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
