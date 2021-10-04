@@ -93,7 +93,6 @@
 <tr><td>changed dir names with issue created</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9cae586c68606c48e2495430b375439f29ef4327">9cae586c68606c48e2495430b375439f29ef4327</a></td></tr>
 <tr><td>MOdified Table</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/977bfb6b5bbbdc175dc6f842884be7fd378393b9">977bfb6b5bbbdc175dc6f842884be7fd378393b9</a></td></tr>
 <tr><td>changed dir names with issue created</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/e450316bc1f54c8aa0dbcc7ae0d843af02c77807">e450316bc1f54c8aa0dbcc7ae0d843af02c77807</a></td></tr>
-<tr><td>Added Contributors List</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/fe18e03b3fe7c135c79a5c586a1d2857cab918ed">fe18e03b3fe7c135c79a5c586a1d2857cab918ed</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
