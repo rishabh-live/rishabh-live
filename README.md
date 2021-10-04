@@ -96,7 +96,6 @@
 <tr><td>Refrence brach changed</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/dd002fdaf834075883cbd58d6439d7b312f0aea6">dd002fdaf834075883cbd58d6439d7b312f0aea6</a></td></tr>
 <tr><td>Updated Workflow STructure</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/3459bc6962e2a9b264f30e17f8d48bdb49bfcf8a">3459bc6962e2a9b264f30e17f8d48bdb49bfcf8a</a></td></tr>
 <tr><td>added solution for bubble sort with documentation</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9a4729da172aad56be0eae780f6e62875bfc9ad7">9a4729da172aad56be0eae780f6e62875bfc9ad7</a></td></tr>
-<tr><td>Revert "added solution for pairs in array"</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/35a0ef23a78357d8218afa93ddea462e6220a838">35a0ef23a78357d8218afa93ddea462e6220a838</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
