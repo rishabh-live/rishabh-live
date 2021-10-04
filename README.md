@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Binary Search Algorithm without recutsion</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/ce0ad95f8b0da121adec6f84932a53f9578c5a54">ce0ad95f8b0da121adec6f84932a53f9578c5a54</a></td></tr>
 <tr><td>Merge pull request #30 from rishabh-live/main</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/c069a62b40776e0c9429a026b40fa0f8a39eda49">c069a62b40776e0c9429a026b40fa0f8a39eda49</a></td></tr>
 <tr><td>[BOT] Contributors List Updated</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/a5f4f49d93f88b7ee93c8222dd76ce12a086f21b">a5f4f49d93f88b7ee93c8222dd76ce12a086f21b</a></td></tr>
 <tr><td>changed dir names with issue created</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/9cae586c68606c48e2495430b375439f29ef4327">9cae586c68606c48e2495430b375439f29ef4327</a></td></tr>
