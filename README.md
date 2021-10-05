@@ -87,6 +87,9 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added a python project which is a PDF Merger</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/3683988487add01615d670dda510004068f8faf2">3683988487add01615d670dda510004068f8faf2</a></td></tr>
+<tr><td>Modified Badges</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/c711609e92fe785180d40cb8f51b999c2bec525c">c711609e92fe785180d40cb8f51b999c2bec525c</a></td></tr>
+<tr><td>Modified Badges</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/1d0385e8b3641037603512e543415faa21810a7e">1d0385e8b3641037603512e543415faa21810a7e</a></td></tr>
 <tr><td>Added Badges to the repo</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/03adfe9565a56c4e8fe9f0ffdc027c0222b485f7">03adfe9565a56c4e8fe9f0ffdc027c0222b485f7</a></td></tr>
 <tr><td>[BOT] Contributors List Updated</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/03adfe9565a56c4e8fe9f0ffdc027c0222b485f7">03adfe9565a56c4e8fe9f0ffdc027c0222b485f7</a></td></tr>
 <tr><td>Added Badges to the repo</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/fd6e0c567fd38dc713c3cc4898f777c896be6f1a">fd6e0c567fd38dc713c3cc4898f777c896be6f1a</a></td></tr>
@@ -94,8 +97,6 @@
 <tr><td>Added a simple game of tic_tac_toe</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/e97a9e119b8fc3eaefb4163309ecad6cb383d949">e97a9e119b8fc3eaefb4163309ecad6cb383d949</a></td></tr>
 <tr><td>Bot emoji added</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/25d99bdfb8c23e065ea007aafdbe4d2dd56443b0">25d99bdfb8c23e065ea007aafdbe4d2dd56443b0</a></td></tr>
 <tr><td>email id updated for bot</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/52e830aeb565d71a973a77b20e47afd36a154890">52e830aeb565d71a973a77b20e47afd36a154890</a></td></tr>
-<tr><td>Bubble sort in python.</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/9738a54ce91607498d4f3157ac7d87b5230c435e">9738a54ce91607498d4f3157ac7d87b5230c435e</a></td></tr>
-<tr><td>Added Binary Search Algorithm without recutsion</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/ce0ad95f8b0da121adec6f84932a53f9578c5a54">ce0ad95f8b0da121adec6f84932a53f9578c5a54</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
