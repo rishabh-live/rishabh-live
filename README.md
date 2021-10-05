@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/d185723aeb59df84fe49074eb54654c67aad7f56">d185723aeb59df84fe49074eb54654c67aad7f56</a></td></tr>
 <tr><td>Added a python project which is a PDF Merger</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/3683988487add01615d670dda510004068f8faf2">3683988487add01615d670dda510004068f8faf2</a></td></tr>
 <tr><td>Modified Badges</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/c711609e92fe785180d40cb8f51b999c2bec525c">c711609e92fe785180d40cb8f51b999c2bec525c</a></td></tr>
 <tr><td>Modified Badges</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/1d0385e8b3641037603512e543415faa21810a7e">1d0385e8b3641037603512e543415faa21810a7e</a></td></tr>
@@ -96,7 +97,6 @@
 <tr><td>Bubble sort in python.</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/8f285341682ea8af12770e9d139695557c3db5c3">8f285341682ea8af12770e9d139695557c3db5c3</a></td></tr>
 <tr><td>Added a simple game of tic_tac_toe</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/e97a9e119b8fc3eaefb4163309ecad6cb383d949">e97a9e119b8fc3eaefb4163309ecad6cb383d949</a></td></tr>
 <tr><td>Bot emoji added</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/25d99bdfb8c23e065ea007aafdbe4d2dd56443b0">25d99bdfb8c23e065ea007aafdbe4d2dd56443b0</a></td></tr>
-<tr><td>email id updated for bot</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/52e830aeb565d71a973a77b20e47afd36a154890">52e830aeb565d71a973a77b20e47afd36a154890</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
