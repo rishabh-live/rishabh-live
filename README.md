@@ -87,6 +87,8 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Repository Summary</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/5716283d022b4a727497e0db33a97758da692bfa">5716283d022b4a727497e0db33a97758da692bfa</a></td></tr>
+<tr><td>Added Repository Summary</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/6d76f33129df31c393aafee49a36e5c82b72e78b">6d76f33129df31c393aafee49a36e5c82b72e78b</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/377a856da6afd14698c84c588003ec2aded016cd">377a856da6afd14698c84c588003ec2aded016cd</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/d10f377e858c75d3d193b86872057b33d3d10393">d10f377e858c75d3d193b86872057b33d3d10393</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/d185723aeb59df84fe49074eb54654c67aad7f56">d185723aeb59df84fe49074eb54654c67aad7f56</a></td></tr>
@@ -95,8 +97,6 @@
 <tr><td>Modified Badges</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/1d0385e8b3641037603512e543415faa21810a7e">1d0385e8b3641037603512e543415faa21810a7e</a></td></tr>
 <tr><td>Added Badges to the repo</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/03adfe9565a56c4e8fe9f0ffdc027c0222b485f7">03adfe9565a56c4e8fe9f0ffdc027c0222b485f7</a></td></tr>
 <tr><td>[BOT] Contributors List Updated</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/03adfe9565a56c4e8fe9f0ffdc027c0222b485f7">03adfe9565a56c4e8fe9f0ffdc027c0222b485f7</a></td></tr>
-<tr><td>Added Badges to the repo</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/fd6e0c567fd38dc713c3cc4898f777c896be6f1a">fd6e0c567fd38dc713c3cc4898f777c896be6f1a</a></td></tr>
-<tr><td>Bubble sort in python.</td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE">rishabh-live/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/rishabh-live/DSA-OPEN-SOURCE/commit/8f285341682ea8af12770e9d139695557c3db5c3">8f285341682ea8af12770e9d139695557c3db5c3</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
