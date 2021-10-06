@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Merge Sort Algo</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/571229945b53065d0bf062a79f73eb6bc98d8c7d">571229945b53065d0bf062a79f73eb6bc98d8c7d</a></td></tr>
 <tr><td>Create LICENSE</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/be8d7856380ae3515cac72fbc55434b584f516bf">be8d7856380ae3515cac72fbc55434b584f516bf</a></td></tr>
 <tr><td>Added Sumarry to the profile</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/87bb6232c56a342a4166d2841b2e7e7558633262">87bb6232c56a342a4166d2841b2e7e7558633262</a></td></tr>
 <tr><td>Added Repository Summary</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/5716283d022b4a727497e0db33a97758da692bfa">5716283d022b4a727497e0db33a97758da692bfa</a></td></tr>
@@ -95,7 +96,6 @@
 <tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/d10f377e858c75d3d193b86872057b33d3d10393">d10f377e858c75d3d193b86872057b33d3d10393</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/d185723aeb59df84fe49074eb54654c67aad7f56">d185723aeb59df84fe49074eb54654c67aad7f56</a></td></tr>
 <tr><td>Added a python project which is a PDF Merger</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/3683988487add01615d670dda510004068f8faf2">3683988487add01615d670dda510004068f8faf2</a></td></tr>
-<tr><td>Modified Badges</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/c711609e92fe785180d40cb8f51b999c2bec525c">c711609e92fe785180d40cb8f51b999c2bec525c</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
