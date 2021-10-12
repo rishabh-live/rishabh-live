@@ -87,6 +87,9 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Updates svg-icons.html
+
+made social media links open in new page</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/2ed3399b7335848cbba339b643c8ba2c7e9c586b">2ed3399b7335848cbba339b643c8ba2c7e9c586b</a></td></tr>
 <tr><td>Linkedin in footer added</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/57d323550dff5c8cd649794c1b3dd24188096973">57d323550dff5c8cd649794c1b3dd24188096973</a></td></tr>
 <tr><td>Linkedin in footer added</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/c99e997c5425cd1f3fc2b54ecaa78e75d39678fe">c99e997c5425cd1f3fc2b54ecaa78e75d39678fe</a></td></tr>
 <tr><td>Joined LInkedin post Added</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/de2714a1696410ff295678868c07998272176027">de2714a1696410ff295678868c07998272176027</a></td></tr>
@@ -96,7 +99,6 @@
 <tr><td>Boolean updated</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/3234d76f42fa5214f0274894cef912bb68a151b2">3234d76f42fa5214f0274894cef912bb68a151b2</a></td></tr>
 <tr><td>Maintainer Tag Added</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/1f795a3108f8ddd72f7fb9c0739f330a822dd872">1f795a3108f8ddd72f7fb9c0739f330a822dd872</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/9836d42075e8f376fc41f8408bfd3199c4eda370">9836d42075e8f376fc41f8408bfd3199c4eda370</a></td></tr>
-<tr><td>[BOT] 🤖 Contributors List Updated</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/ff86652a5d98f7ba7f8661251997eba5e8992b80">ff86652a5d98f7ba7f8661251997eba5e8992b80</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
