@@ -87,6 +87,8 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Bug Fix Return added</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/86fb914134b21cd89a30218c9221941d9025b411">86fb914134b21cd89a30218c9221941d9025b411</a></td></tr>
+<tr><td>Added Meet</td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs">rishabh-live/rishabh-live-nextjs</a></td><td><a href="https://github.com/rishabh-live/rishabh-live-nextjs/commit/ba07137197c8df88692057feeb9c8aad54c9ad5f">ba07137197c8df88692057feeb9c8aad54c9ad5f</a></td></tr>
 <tr><td>Merge pull request #5 from rishabh-live/main</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/2ed3399b7335848cbba339b643c8ba2c7e9c586b">2ed3399b7335848cbba339b643c8ba2c7e9c586b</a></td></tr>
 <tr><td>Updates svg-icons.html
 
@@ -97,8 +99,6 @@ made social media links open in new page</td><td><a href="https://github.com/for
 <tr><td>Added Repository Summary</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/c2c72dfc913f6764ab6ca0cc185340786d9ac00d">c2c72dfc913f6764ab6ca0cc185340786d9ac00d</a></td></tr>
 <tr><td>Joined LInkedin post Added</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/daef661e400474534d001545f31f1c0d90f99c1a">daef661e400474534d001545f31f1c0d90f99c1a</a></td></tr>
 <tr><td>Basic Implementation of Linear Search</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/14d1fc7bcbc0bc2ab1e0e733dfc4b5abbb6203c2">14d1fc7bcbc0bc2ab1e0e733dfc4b5abbb6203c2</a></td></tr>
-<tr><td>Boolean updated</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/3234d76f42fa5214f0274894cef912bb68a151b2">3234d76f42fa5214f0274894cef912bb68a151b2</a></td></tr>
-<tr><td>Maintainer Tag Added</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/1f795a3108f8ddd72f7fb9c0739f330a822dd872">1f795a3108f8ddd72f7fb9c0739f330a822dd872</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
