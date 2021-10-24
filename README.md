@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Include</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/cdb76072ae973dbe7d4985c0f3e27152d2006ea7">cdb76072ae973dbe7d4985c0f3e27152d2006ea7</a></td></tr>
 <tr><td>Brave Rewards publisher verification file</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/98542d0c6796343ad8558949e56a00c7d5a30f62">98542d0c6796343ad8558949e56a00c7d5a30f62</a></td></tr>
 <tr><td>Added top dynamic programming programs flie</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/2530c350b4c3206c034e13f6829289a4b3a0c622">2530c350b4c3206c034e13f6829289a4b3a0c622</a></td></tr>
 <tr><td>Added Binary Trees</td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE">forum2k-smit/DSA-OPEN-SOURCE</a></td><td><a href="https://github.com/forum2k-smit/DSA-OPEN-SOURCE/commit/c0627a0c0ee8cc177690847da5bfc6c42abade4f">c0627a0c0ee8cc177690847da5bfc6c42abade4f</a></td></tr>
@@ -98,7 +99,6 @@
 made social media links open in new page</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/2ed3399b7335848cbba339b643c8ba2c7e9c586b">2ed3399b7335848cbba339b643c8ba2c7e9c586b</a></td></tr>
 <tr><td>Linkedin in footer added</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/57d323550dff5c8cd649794c1b3dd24188096973">57d323550dff5c8cd649794c1b3dd24188096973</a></td></tr>
 <tr><td>Linkedin in footer added</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/c99e997c5425cd1f3fc2b54ecaa78e75d39678fe">c99e997c5425cd1f3fc2b54ecaa78e75d39678fe</a></td></tr>
-<tr><td>Joined LInkedin post Added</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/de2714a1696410ff295678868c07998272176027">de2714a1696410ff295678868c07998272176027</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
