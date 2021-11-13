@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added LDC COP</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/e1ec957922fbf7a08cfa6606d7ee7d8a9dbc6c20">e1ec957922fbf7a08cfa6606d7ee7d8a9dbc6c20</a></td></tr>
 <tr><td>UPdated Cover FIle</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/dcc4b25f3999e97cc49856f1932b37bb71cba2e9">dcc4b25f3999e97cc49856f1932b37bb71cba2e9</a></td></tr>
 <tr><td>UPdated Cover FIle</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/da18e1adf7314cbf1c1811fe8f638378bfa83a2f">da18e1adf7314cbf1c1811fe8f638378bfa83a2f</a></td></tr>
 <tr><td>Notification Updated</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/640937983fd9b07b0c4bdd3e06d1c1552b9964a5">640937983fd9b07b0c4bdd3e06d1c1552b9964a5</a></td></tr>
@@ -96,7 +97,6 @@
 <tr><td>Bitmag news</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/a01df1ed92f427204021a7aaf03adf1bb5d114aa">a01df1ed92f427204021a7aaf03adf1bb5d114aa</a></td></tr>
 <tr><td>Bitmag news</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/f9af7a8d67884d346ca497c7f923f48f4b975d7e">f9af7a8d67884d346ca497c7f923f48f4b975d7e</a></td></tr>
 <tr><td>Added Bitmag Embed</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/478f4a719e76ac04b65f04a2aa0e4a69749527b4">478f4a719e76ac04b65f04a2aa0e4a69749527b4</a></td></tr>
-<tr><td>Added Bitmag Embed</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/d423d03e5a65126c589f6c32a987a26f438acf27">d423d03e5a65126c589f6c32a987a26f438acf27</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
