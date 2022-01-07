@@ -87,6 +87,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Redirect added</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/96fd1567342a842fe314ba9011befebb71d5fd06">96fd1567342a842fe314ba9011befebb71d5fd06</a></td></tr>
 <tr><td>spelling check</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/ae207d97ac6ac676fd03bf6483160da746b6cd5d">ae207d97ac6ac676fd03bf6483160da746b6cd5d</a></td></tr>
 <tr><td>Added LDC COP</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/e1ec957922fbf7a08cfa6606d7ee7d8a9dbc6c20">e1ec957922fbf7a08cfa6606d7ee7d8a9dbc6c20</a></td></tr>
 <tr><td>UPdated Cover FIle</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/dcc4b25f3999e97cc49856f1932b37bb71cba2e9">dcc4b25f3999e97cc49856f1932b37bb71cba2e9</a></td></tr>
@@ -96,7 +97,6 @@
 <tr><td>Error Fixed</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/cfc3a8e9245890393f94aa543a7bf6bdc0d56d47">cfc3a8e9245890393f94aa543a7bf6bdc0d56d47</a></td></tr>
 <tr><td>Error Fixed</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/9aaa3f4bd4438978f70edbc9eccdf4b7f01d58f8">9aaa3f4bd4438978f70edbc9eccdf4b7f01d58f8</a></td></tr>
 <tr><td>Bitmag news</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/a01df1ed92f427204021a7aaf03adf1bb5d114aa">a01df1ed92f427204021a7aaf03adf1bb5d114aa</a></td></tr>
-<tr><td>Bitmag news</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/f9af7a8d67884d346ca497c7f923f48f4b975d7e">f9af7a8d67884d346ca497c7f923f48f4b975d7e</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
