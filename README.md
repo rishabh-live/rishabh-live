@@ -87,6 +87,19 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Bump path-parse from 1.0.6 to 1.0.7 in /startbootstrap-agency-gh-pages
+
+Bumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.
+- [Release notes](https://github.com/jbgutierrez/path-parse/releases)
+- [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)
+
+---
+updated-dependencies:
+- dependency-name: path-parse
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/9c6dd243e0e0d4ced03c5ace7b6251e211fc41e0">9c6dd243e0e0d4ced03c5ace7b6251e211fc41e0</a></td></tr>
 <tr><td>updated about  smit</td><td><a href="https://github.com/dept-it-smit/dept-it-smit">dept-it-smit/dept-it-smit</a></td><td><a href="https://github.com/dept-it-smit/dept-it-smit/commit/df5acfaa0a79ad639f98e21173c47dd201b2e9bc">df5acfaa0a79ad639f98e21173c47dd201b2e9bc</a></td></tr>
 <tr><td>Redirect added</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/96fd1567342a842fe314ba9011befebb71d5fd06">96fd1567342a842fe314ba9011befebb71d5fd06</a></td></tr>
 <tr><td>spelling check</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/ae207d97ac6ac676fd03bf6483160da746b6cd5d">ae207d97ac6ac676fd03bf6483160da746b6cd5d</a></td></tr>
@@ -96,7 +109,6 @@
 <tr><td>Notification Updated</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/640937983fd9b07b0c4bdd3e06d1c1552b9964a5">640937983fd9b07b0c4bdd3e06d1c1552b9964a5</a></td></tr>
 <tr><td>Notification Updated</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/2bfe17dc5e1c7466a5976efcfacf03dcc5a83b43">2bfe17dc5e1c7466a5976efcfacf03dcc5a83b43</a></td></tr>
 <tr><td>Error Fixed</td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io">forum2k-smit/forum2k-smit.github.io</a></td><td><a href="https://github.com/forum2k-smit/forum2k-smit.github.io/commit/cfc3a8e9245890393f94aa543a7bf6bdc0d56d47">cfc3a8e9245890393f94aa543a7bf6bdc0d56d47</a></td></tr>
-<tr><td>Error Fixed</td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io">rishabh-live/forum2k-smit.github.io</a></td><td><a href="https://github.com/rishabh-live/forum2k-smit.github.io/commit/9aaa3f4bd4438978f70edbc9eccdf4b7f01d58f8">9aaa3f4bd4438978f70edbc9eccdf4b7f01d58f8</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
