@@ -117,7 +117,6 @@ Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://git
 <tr><td>updated about  smit</td><td><a href="https://github.com/dept-it-smit/dept-it-smit">dept-it-smit/dept-it-smit</a></td><td><a href="https://github.com/dept-it-smit/dept-it-smit/commit/df5acfaa0a79ad639f98e21173c47dd201b2e9bc">df5acfaa0a79ad639f98e21173c47dd201b2e9bc</a></td></tr>
 <tr><td>Redirect added</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/96fd1567342a842fe314ba9011befebb71d5fd06">96fd1567342a842fe314ba9011befebb71d5fd06</a></td></tr>
 <tr><td>spelling check</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/ae207d97ac6ac676fd03bf6483160da746b6cd5d">ae207d97ac6ac676fd03bf6483160da746b6cd5d</a></td></tr>
-<tr><td>Added LDC COP</td><td><a href="https://github.com/forum2k-smit/certificates">forum2k-smit/certificates</a></td><td><a href="https://github.com/forum2k-smit/certificates/commit/e1ec957922fbf7a08cfa6606d7ee7d8a9dbc6c20">e1ec957922fbf7a08cfa6606d7ee7d8a9dbc6c20</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
