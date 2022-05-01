@@ -114,7 +114,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/9c6dd243e0e0d4ced03c5ace7b6251e211fc41e0">9c6dd243e0e0d4ced03c5ace7b6251e211fc41e0</a></td></tr>
-<tr><td>updated about  smit</td><td><a href="https://github.com/dept-it-smit/dept-it-smit">dept-it-smit/dept-it-smit</a></td><td><a href="https://github.com/dept-it-smit/dept-it-smit/commit/df5acfaa0a79ad639f98e21173c47dd201b2e9bc">df5acfaa0a79ad639f98e21173c47dd201b2e9bc</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
