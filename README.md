@@ -87,33 +87,6 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
-<tr><td>Bump copy-props from 2.0.4 to 2.0.5 in /startbootstrap-agency-gh-pages
-
-Bumps [copy-props](https://github.com/gulpjs/copy-props) from 2.0.4 to 2.0.5.
-- [Release notes](https://github.com/gulpjs/copy-props/releases)
-- [Changelog](https://github.com/gulpjs/copy-props/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/gulpjs/copy-props/compare/2.0.4...2.0.5)
-
----
-updated-dependencies:
-- dependency-name: copy-props
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/5c919aa6329746f94fdc177a74aacacf81d3dd1d">5c919aa6329746f94fdc177a74aacacf81d3dd1d</a></td></tr>
-<tr><td>Bump path-parse from 1.0.6 to 1.0.7 in /startbootstrap-agency-gh-pages
-
-Bumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.
-- [Release notes](https://github.com/jbgutierrez/path-parse/releases)
-- [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)
-
----
-updated-dependencies:
-- dependency-name: path-parse
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] <support@github.com></td><td><a href="https://github.com/rishabh-live/team53">rishabh-live/team53</a></td><td><a href="https://github.com/rishabh-live/team53/commit/9c6dd243e0e0d4ced03c5ace7b6251e211fc41e0">9c6dd243e0e0d4ced03c5ace7b6251e211fc41e0</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
