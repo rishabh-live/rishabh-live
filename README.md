@@ -19,6 +19,13 @@
 
 <br/>
 
+## My Holopin Badges
+<div align="center">
+
+  [![@rishabhlive's Holopin board](https://holopin.io/api/user/board?user=rishabhlive)](https://holopin.io/@rishabhlive)
+
+</div>
+
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
