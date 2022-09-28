@@ -94,6 +94,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Added Holopin Badge Sheet</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/961aa2b8a21405c28faf8b9cb95b764bfa48428e">961aa2b8a21405c28faf8b9cb95b764bfa48428e</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
