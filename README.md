@@ -139,5 +139,7 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishabh-live&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rishabh-live&style=flat-square" align="center" />
+  <br>
+  <img src="https://wakatime.com/badge/user/cc787671-9010-4b81-8f50-cab84faf9026.svg?style=flat-square" align="center" />
 </div>
