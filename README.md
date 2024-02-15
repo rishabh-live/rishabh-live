@@ -94,7 +94,20 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
-<tr><td>Added Holopin Badge Sheet</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/961aa2b8a21405c28faf8b9cb95b764bfa48428e">961aa2b8a21405c28faf8b9cb95b764bfa48428e</a></td></tr>
+<tr><td>Added Wakatime Hours</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/688f728b26dcaf2f5bc149299954d34c6b580b75">688f728b26dcaf2f5bc149299954d34c6b580b75</a></td></tr>
+<tr><td>fix: dummy files added</td><td><a href="https://github.com/ngtv-repos/node-template">ngtv-repos/node-template</a></td><td><a href="https://github.com/ngtv-repos/node-template/commit/48ab1c000c158234a691cc6f205ec631650539f2">48ab1c000c158234a691cc6f205ec631650539f2</a></td></tr>
+<tr><td>feat: Version 1 Added For Testing</td><td><a href="https://github.com/ngtv-repos/node-template">ngtv-repos/node-template</a></td><td><a href="https://github.com/ngtv-repos/node-template/commit/2f524138391498ca20357760732bdce0988c0b42">2f524138391498ca20357760732bdce0988c0b42</a></td></tr>
+<tr><td>Income Controller</td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend">Mitra-Fintech/dms-laravel-backend</a></td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend/commit/de99d56b696036db5901cfba11eab88ece278b39">de99d56b696036db5901cfba11eab88ece278b39</a></td></tr>
+<tr><td>validor rule updated</td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend">Mitra-Fintech/dms-laravel-backend</a></td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend/commit/93238dc6fa57e8deee671e8d4dbc44e48ebc8b5e">93238dc6fa57e8deee671e8d4dbc44e48ebc8b5e</a></td></tr>
+<tr><td>Agent File Changes</td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend">Mitra-Fintech/dms-laravel-backend</a></td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend/commit/6a82c74f27537c67ad9964e7fe722915a1fb60cc">6a82c74f27537c67ad9964e7fe722915a1fb60cc</a></td></tr>
+<tr><td>Add files via upload
+
+Signed-off-by: Rishabh <34997913+rishabh-live@users.noreply.github.com></td><td><a href="https://github.com/Mitra-Fintech/cdn-project-b">Mitra-Fintech/cdn-project-b</a></td><td><a href="https://github.com/Mitra-Fintech/cdn-project-b/commit/ab849d9711892d33bb1ab1684f1a1b4d0c774a79">ab849d9711892d33bb1ab1684f1a1b4d0c774a79</a></td></tr>
+<tr><td>updates</td><td><a href="https://github.com/Mitra-Fintech/buhrata-website">Mitra-Fintech/buhrata-website</a></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website/commit/2afa5b2980f44d1c33fe57f04d33ac5274db158e">2afa5b2980f44d1c33fe57f04d33ac5274db158e</a></td></tr>
+<tr><td>Update README.md
+
+Signed-off-by: Rishabh <34997913+rishabh-live@users.noreply.github.com></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website">Mitra-Fintech/buhrata-website</a></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website/commit/875f7137c148044bc0a5aa3e5fc00b5b21a5b8c2">875f7137c148044bc0a5aa3e5fc00b5b21a5b8c2</a></td></tr>
+<tr><td>Corrections</td><td><a href="https://github.com/Mitra-Fintech/buhrata-website">Mitra-Fintech/buhrata-website</a></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website/commit/5cf30ea8151857d381a08b45836451b272d186d0">5cf30ea8151857d381a08b45836451b272d186d0</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
