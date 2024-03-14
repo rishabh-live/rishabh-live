@@ -107,7 +107,6 @@ Signed-off-by: Rishabh <34997913+rishabh-live@users.noreply.github.com></td><td>
 <tr><td>Update README.md
 
 Signed-off-by: Rishabh <34997913+rishabh-live@users.noreply.github.com></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website">Mitra-Fintech/buhrata-website</a></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website/commit/875f7137c148044bc0a5aa3e5fc00b5b21a5b8c2">875f7137c148044bc0a5aa3e5fc00b5b21a5b8c2</a></td></tr>
-<tr><td>Corrections</td><td><a href="https://github.com/Mitra-Fintech/buhrata-website">Mitra-Fintech/buhrata-website</a></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website/commit/5cf30ea8151857d381a08b45836451b272d186d0">5cf30ea8151857d381a08b45836451b272d186d0</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
