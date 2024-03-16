@@ -104,9 +104,6 @@
 
 Signed-off-by: Rishabh <34997913+rishabh-live@users.noreply.github.com></td><td><a href="https://github.com/Mitra-Fintech/cdn-project-b">Mitra-Fintech/cdn-project-b</a></td><td><a href="https://github.com/Mitra-Fintech/cdn-project-b/commit/ab849d9711892d33bb1ab1684f1a1b4d0c774a79">ab849d9711892d33bb1ab1684f1a1b4d0c774a79</a></td></tr>
 <tr><td>updates</td><td><a href="https://github.com/Mitra-Fintech/buhrata-website">Mitra-Fintech/buhrata-website</a></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website/commit/2afa5b2980f44d1c33fe57f04d33ac5274db158e">2afa5b2980f44d1c33fe57f04d33ac5274db158e</a></td></tr>
-<tr><td>Update README.md
-
-Signed-off-by: Rishabh <34997913+rishabh-live@users.noreply.github.com></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website">Mitra-Fintech/buhrata-website</a></td><td><a href="https://github.com/Mitra-Fintech/buhrata-website/commit/875f7137c148044bc0a5aa3e5fc00b5b21a5b8c2">875f7137c148044bc0a5aa3e5fc00b5b21a5b8c2</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
