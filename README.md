@@ -99,7 +99,6 @@
 <tr><td>feat: Version 1 Added For Testing</td><td><a href="https://github.com/ngtv-repos/node-template">ngtv-repos/node-template</a></td><td><a href="https://github.com/ngtv-repos/node-template/commit/2f524138391498ca20357760732bdce0988c0b42">2f524138391498ca20357760732bdce0988c0b42</a></td></tr>
 <tr><td>Income Controller</td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend">Mitra-Fintech/dms-laravel-backend</a></td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend/commit/de99d56b696036db5901cfba11eab88ece278b39">de99d56b696036db5901cfba11eab88ece278b39</a></td></tr>
 <tr><td>validor rule updated</td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend">Mitra-Fintech/dms-laravel-backend</a></td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend/commit/93238dc6fa57e8deee671e8d4dbc44e48ebc8b5e">93238dc6fa57e8deee671e8d4dbc44e48ebc8b5e</a></td></tr>
-<tr><td>Agent File Changes</td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend">Mitra-Fintech/dms-laravel-backend</a></td><td><a href="https://github.com/Mitra-Fintech/dms-laravel-backend/commit/6a82c74f27537c67ad9964e7fe722915a1fb60cc">6a82c74f27537c67ad9964e7fe722915a1fb60cc</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
