@@ -95,8 +95,6 @@
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
 <tr><td>Added Wakatime Hours</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/688f728b26dcaf2f5bc149299954d34c6b580b75">688f728b26dcaf2f5bc149299954d34c6b580b75</a></td></tr>
-<tr><td>fix: dummy files added</td><td><a href="https://github.com/ngtv-repos/node-template">ngtv-repos/node-template</a></td><td><a href="https://github.com/ngtv-repos/node-template/commit/48ab1c000c158234a691cc6f205ec631650539f2">48ab1c000c158234a691cc6f205ec631650539f2</a></td></tr>
-<tr><td>feat: Version 1 Added For Testing</td><td><a href="https://github.com/ngtv-repos/node-template">ngtv-repos/node-template</a></td><td><a href="https://github.com/ngtv-repos/node-template/commit/2f524138391498ca20357760732bdce0988c0b42">2f524138391498ca20357760732bdce0988c0b42</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
