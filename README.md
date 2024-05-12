@@ -94,6 +94,9 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Update backupmaster.sh
+
+Signed-off-by: Rishabh <34997913+rishabh-live@users.noreply.github.com></td><td><a href="https://github.com/Mitra-Fintech/mongo-backup-template">Mitra-Fintech/mongo-backup-template</a></td><td><a href="https://github.com/Mitra-Fintech/mongo-backup-template/commit/54edea6083a0ff4e8e2608d3930cdf62fdb10915">54edea6083a0ff4e8e2608d3930cdf62fdb10915</a></td></tr>
 <tr><td>Added Wakatime Hours</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/688f728b26dcaf2f5bc149299954d34c6b580b75">688f728b26dcaf2f5bc149299954d34c6b580b75</a></td></tr>
 </table>
 
