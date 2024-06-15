@@ -94,6 +94,8 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Publishing Configs</td><td><a href="https://github.com/LightSpeedPay/android-java">LightSpeedPay/android-java</a></td><td><a href="https://github.com/LightSpeedPay/android-java/commit/b9465a971da2272df213b7106dd9ecc7a351cd81">b9465a971da2272df213b7106dd9ecc7a351cd81</a></td></tr>
+<tr><td>Publishing Configs</td><td><a href="https://github.com/LightSpeedPay/android-java">LightSpeedPay/android-java</a></td><td><a href="https://github.com/LightSpeedPay/android-java/commit/a81d89567721836cbe768a3774faa3467391224f">a81d89567721836cbe768a3774faa3467391224f</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/LightSpeedPay/callback-example-nodejs">LightSpeedPay/callback-example-nodejs</a></td><td><a href="https://github.com/LightSpeedPay/callback-example-nodejs/commit/9a418c7a9e406f39299c1dcada9f1b5f43cfc116">9a418c7a9e406f39299c1dcada9f1b5f43cfc116</a></td></tr>
 <tr><td>master push</td><td><a href="https://github.com/ngtv-repos/node-template">ngtv-repos/node-template</a></td><td><a href="https://github.com/ngtv-repos/node-template/commit/76abe29079472a0b487aeac6d005214ca427ca03">76abe29079472a0b487aeac6d005214ca427ca03</a></td></tr>
 <tr><td>Update backupmaster.sh
