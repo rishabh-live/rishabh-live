@@ -98,9 +98,6 @@
 <tr><td>Publishing Configs</td><td><a href="https://github.com/LightSpeedPay/android-java">LightSpeedPay/android-java</a></td><td><a href="https://github.com/LightSpeedPay/android-java/commit/a81d89567721836cbe768a3774faa3467391224f">a81d89567721836cbe768a3774faa3467391224f</a></td></tr>
 <tr><td>Update README.md</td><td><a href="https://github.com/LightSpeedPay/callback-example-nodejs">LightSpeedPay/callback-example-nodejs</a></td><td><a href="https://github.com/LightSpeedPay/callback-example-nodejs/commit/9a418c7a9e406f39299c1dcada9f1b5f43cfc116">9a418c7a9e406f39299c1dcada9f1b5f43cfc116</a></td></tr>
 <tr><td>master push</td><td><a href="https://github.com/ngtv-repos/node-template">ngtv-repos/node-template</a></td><td><a href="https://github.com/ngtv-repos/node-template/commit/76abe29079472a0b487aeac6d005214ca427ca03">76abe29079472a0b487aeac6d005214ca427ca03</a></td></tr>
-<tr><td>Update backupmaster.sh
-
-Signed-off-by: Rishabh <34997913+rishabh-live@users.noreply.github.com></td><td><a href="https://github.com/Mitra-Fintech/mongo-backup-template">Mitra-Fintech/mongo-backup-template</a></td><td><a href="https://github.com/Mitra-Fintech/mongo-backup-template/commit/54edea6083a0ff4e8e2608d3930cdf62fdb10915">54edea6083a0ff4e8e2608d3930cdf62fdb10915</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
