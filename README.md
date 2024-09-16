@@ -94,8 +94,6 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
-<tr><td>Publishing Configs</td><td><a href="https://github.com/LightSpeedPay/android-java">LightSpeedPay/android-java</a></td><td><a href="https://github.com/LightSpeedPay/android-java/commit/b9465a971da2272df213b7106dd9ecc7a351cd81">b9465a971da2272df213b7106dd9ecc7a351cd81</a></td></tr>
-<tr><td>Publishing Configs</td><td><a href="https://github.com/LightSpeedPay/android-java">LightSpeedPay/android-java</a></td><td><a href="https://github.com/LightSpeedPay/android-java/commit/a81d89567721836cbe768a3774faa3467391224f">a81d89567721836cbe768a3774faa3467391224f</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
