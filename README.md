@@ -94,9 +94,6 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
-<tr><td>Create README.md</td><td><a href="https://github.com/rishabh-live/chatweaver-global">rishabh-live/chatweaver-global</a></td><td><a href="https://github.com/rishabh-live/chatweaver-global/commit/0bb4a4f94c480f119f36e06032e3050847a3f06a">0bb4a4f94c480f119f36e06032e3050847a3f06a</a></td></tr>
-<tr><td>Add files via upload</td><td><a href="https://github.com/rishabh-live/chatweaver-global">rishabh-live/chatweaver-global</a></td><td><a href="https://github.com/rishabh-live/chatweaver-global/commit/14550e304d71d75493f8fc006f0fea74a508573a">14550e304d71d75493f8fc006f0fea74a508573a</a></td></tr>
-<tr><td>Create a</td><td><a href="https://github.com/rishabh-live/chatweaver-global">rishabh-live/chatweaver-global</a></td><td><a href="https://github.com/rishabh-live/chatweaver-global/commit/6925d10e17b88ae844ff3c6dec3640356f533781">6925d10e17b88ae844ff3c6dec3640356f533781</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
