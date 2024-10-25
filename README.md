@@ -94,6 +94,9 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
+<tr><td>Delete data/pdfs/gitea use.pdf</td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag">rishabh-live/lightspeedpay-rag</a></td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag/commit/8f3f193dead03f218a9a0f034dc1952cc1056805">8f3f193dead03f218a9a0f034dc1952cc1056805</a></td></tr>
+<tr><td>Delete data/mds/gitea use.md</td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag">rishabh-live/lightspeedpay-rag</a></td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag/commit/a169cdfb7cea02b892c5ac6ad6cf9a6e03cbc85a">a169cdfb7cea02b892c5ac6ad6cf9a6e03cbc85a</a></td></tr>
+<tr><td>v1</td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag">rishabh-live/lightspeedpay-rag</a></td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag/commit/8d3b827dcd2fc58a07628fe873297e88cdeb2b37">8d3b827dcd2fc58a07628fe873297e88cdeb2b37</a></td></tr>
 </table>
 
 <!-- END:github_activity -->
