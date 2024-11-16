@@ -6,9 +6,9 @@
 
 ### <div align="center">I'm Rishabh, a developer, who is always working on a new project</div>
 
-- 🔭 I’m currently working on [faunadb-php library](https://github.com/rishabh-live/faunadb-php)
+- 🔭 I’m currently working on [open source email server](https://github.com/rishabh-live/open-mail-server)
 
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m AI Developer
 
 <br/>
 
