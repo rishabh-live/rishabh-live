@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
 <tr><td><a href='https://www.blueorigin.com/terawave'>TeraWave Satellite Communications Network</a></td></tr>
+<tr><td><a href='https://docs.freebsd.org/en/books/handbook/'>FreeBSD</a></td></tr>
 <tr><td><a href='https://www.linuxfromscratch.org/lfs/view/stable/'>Linux from Scratch</a></td></tr>
-<tr><td><a href='https://www.yyzkevin.com/picopcmcia/'>PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts</a></td></tr>
 <tr><td><a href='https://skip.dev/blog/skip-is-free/'>Skip Is Now Free and Open Source</a></td></tr>
 </table>
 <!-- END:news -->
