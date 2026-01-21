@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.linuxfromscratch.org/lfs/view/stable/'>Linux from Scratch</a></td></tr>
 <tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
 <tr><td><a href='https://www.blueorigin.com/terawave'>TeraWave Satellite Communications Network</a></td></tr>
-<tr><td><a href='https://tildeweb.nl/~michiel/jxl/'>JPEG XL Test Page</a></td></tr>
-<tr><td><a href='https://www.yyzkevin.com/picopcmcia/'>PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts</a></td></tr>
+<tr><td><a href='https://railsui.com/'>Show HN: Rails UI</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-new-constitution'>Claude&#x27;s New Constitution</a></td></tr>
 </table>
 <!-- END:news -->
 
