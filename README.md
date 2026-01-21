@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arstechnica.com/tech-policy/2026/01/annas-archive-said-spotify-scrape-didnt-cause-domain-suspension-it-was-wrong/'>Spotify won court order against Anna&#x27;s Archive, taking down .org domain</a></td></tr>
 <tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
+<tr><td><a href='https://terabytedeals.com'>Show HN: TerabyteDeals – Compare storage prices by $&#x2F;TB</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-new-constitution'>Claude&#x27;s new constitution</a></td></tr>
-<tr><td><a href='https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect'>Challenges in join optimization</a></td></tr>
+<tr><td><a href='https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python'>Golfing APL&#x2F;K in 90 Lines of Python</a></td></tr>
 <tr><td><a href='https://skip.dev/blog/skip-is-free/'>Skip is now free and open source</a></td></tr>
 </table>
 <!-- END:news -->
