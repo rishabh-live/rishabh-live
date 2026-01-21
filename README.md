@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://docs.freebsd.org/en/books/handbook/'>FreeBSD</a></td></tr>
 <tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
-<tr><td><a href='https://www.blueorigin.com/terawave'>TeraWave Satellite Communications Network</a></td></tr>
-<tr><td><a href='https://www.linuxfromscratch.org/lfs/view/stable/'>Linux from Scratch</a></td></tr>
-<tr><td><a href='https://skip.dev/blog/skip-is-free/'>Skip Is Now Free and Open Source</a></td></tr>
+<tr><td><a href='https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect'>Challenges in join optimization</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-new-constitution'>Claude&#x27;s new constitution</a></td></tr>
+<tr><td><a href='https://www.blueorigin.com/news/blue-origin-introduces-terawave-space-based-network-for-global-connectivity'>TeraWave Satellite Communications Network</a></td></tr>
+<tr><td><a href='https://railsui.com/'>Show HN: Rails UI</a></td></tr>
 </table>
 <!-- END:news -->
 
