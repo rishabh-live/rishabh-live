@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
 <tr><td><a href='https://terabytedeals.com'>Show HN: TerabyteDeals – Compare storage prices by $&#x2F;TB</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-new-constitution'>Claude&#x27;s new constitution</a></td></tr>
+<tr><td><a href='https://www.media.mit.edu/publications/your-brain-on-chatgpt/'>Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant</a></td></tr>
 <tr><td><a href='https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python'>Golfing APL&#x2F;K in 90 Lines of Python</a></td></tr>
-<tr><td><a href='https://skip.dev/blog/skip-is-free/'>Skip is now free and open source</a></td></tr>
 </table>
 <!-- END:news -->
 
