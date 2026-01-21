@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
 <tr><td><a href='https://docs.smartos.org/'>SmartOS</a></td></tr>
-<tr><td><a href='https://www.yyzkevin.com/picopcmcia/'>PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts</a></td></tr>
 <tr><td><a href='https://tildeweb.nl/~michiel/jxl/'>JPEG XL Demo Page</a></td></tr>
-<tr><td><a href='https://susam.net/nested-code-fences.html'>Nested Code Fences in Markdown</a></td></tr>
+<tr><td><a href='https://www.yyzkevin.com/picopcmcia/'>PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts</a></td></tr>
+<tr><td><a href='https://skip.dev/blog/skip-is-free/'>Skip Is Now Free and Open Source</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
