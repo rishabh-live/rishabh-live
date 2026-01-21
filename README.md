@@ -12,6 +12,26 @@
 
 <br/>
 
+<!-- START:quote -->
+**Daily Wisdom**: _Simplicity is the soul of efficiency._ - **Austin Freeman**
+<!-- END:quote -->
+
+<br/>
+
+<!-- START:news -->
+### 📰 Latest Tech News
+<table>
+<tr><td><a href='https://www.eu-inc.org/'>EU–INC – One Europe. One Standard. – Pan-European Legal Entity</a></td></tr>
+<tr><td><a href='https://matklad.github.io/2026/01/20/vibecoding-2.html'>Vibecoding #2</a></td></tr>
+<tr><td><a href='https://setiathome.berkeley.edu/'>SETI@home is in hiberation</a></td></tr>
+<tr><td><a href='https://elliotarledge.com/blog/batmobile'>Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/original_performance_takehome'>Anthropic&#x27;s original take home assignment open sourced</a></td></tr>
+</table>
+<!-- END:news -->
+
+<br/>
+
+
 ## Github Profile Summary
 
 <div align="center">
@@ -93,13 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit</b></td><td><b>Repository</b></td><td><b>Commit Head</b></td></tr>
-<tr><td>Update README.md</td><td><a href="https://github.com/rishabh-live/rishabh-live">rishabh-live/rishabh-live</a></td><td><a href="https://github.com/rishabh-live/rishabh-live/commit/5dcde156b7d4c97f92cd21f31f8d00e4a3d108da">5dcde156b7d4c97f92cd21f31f8d00e4a3d108da</a></td></tr>
-<tr><td>Delete data/pdfs/gitea use.pdf</td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag">rishabh-live/lightspeedpay-rag</a></td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag/commit/8f3f193dead03f218a9a0f034dc1952cc1056805">8f3f193dead03f218a9a0f034dc1952cc1056805</a></td></tr>
-<tr><td>Delete data/mds/gitea use.md</td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag">rishabh-live/lightspeedpay-rag</a></td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag/commit/a169cdfb7cea02b892c5ac6ad6cf9a6e03cbc85a">a169cdfb7cea02b892c5ac6ad6cf9a6e03cbc85a</a></td></tr>
-<tr><td>v1</td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag">rishabh-live/lightspeedpay-rag</a></td><td><a href="https://github.com/rishabh-live/lightspeedpay-rag/commit/8d3b827dcd2fc58a07628fe873297e88cdeb2b37">8d3b827dcd2fc58a07628fe873297e88cdeb2b37</a></td></tr>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
 </table>
-
 <!-- END:github_activity -->
 
 <br/>
