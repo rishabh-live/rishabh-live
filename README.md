@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/'>AI Destroys Institutions</a></td></tr>
 <tr><td><a href='https://www.eu-inc.org/'>EU–INC – One Europe. One Standard. – Pan-European Legal Entity</a></td></tr>
 <tr><td><a href='https://matklad.github.io/2026/01/20/vibecoding-2.html'>Vibecoding #2</a></td></tr>
 <tr><td><a href='https://setiathome.berkeley.edu/'>SETI@home is in hiberation</a></td></tr>
-<tr><td><a href='https://elliotarledge.com/blog/batmobile'>Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks</a></td></tr>
 <tr><td><a href='https://github.com/anthropics/original_performance_takehome'>Anthropic&#x27;s original take home assignment open sourced</a></td></tr>
 </table>
 <!-- END:news -->
