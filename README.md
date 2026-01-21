@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
 <tr><td><a href='https://docs.smartos.org/'>SmartOS</a></td></tr>
+<tr><td><a href='https://www.yyzkevin.com/picopcmcia/'>PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts</a></td></tr>
+<tr><td><a href='https://tildeweb.nl/~michiel/jxl/'>JPEG XL Demo Page</a></td></tr>
 <tr><td><a href='https://susam.net/nested-code-fences.html'>Nested Code Fences in Markdown</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/original_performance_takehome'>Anthropic&#x27;s original take home assignment open sourced</a></td></tr>
-<tr><td><a href='https://www.eu-inc.org/'>EU–INC – A new pan-European legal entity</a></td></tr>
 </table>
 <!-- END:news -->
 
