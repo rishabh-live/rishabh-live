@@ -2,6 +2,9 @@
 name: Update Recent Activity
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: '1/30 * * * *'
   workflow_dispatch:
