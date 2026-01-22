@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gptzero.me/news/neurips/'>GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></td></tr>
-<tr><td><a href='https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/'>Why does SSH send 100 packets per keystroke?</a></td></tr>
 <tr><td><a href='https://cannoneyed.com/isometric-nyc/'>Show HN: isometric.nyc – giant isometric pixel art map of NYC</a></td></tr>
-<tr><td><a href='https://github.com/google-gemini/gemini-cli/issues/16728'>It looks like the status&#x2F;need-triage label was removed</a></td></tr>
+<tr><td><a href='https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/'>Why does SSH send 100 packets per keystroke?</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3tts-0115'>Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation</a></td></tr>
+<tr><td><a href='https://github.com/google-gemini/gemini-cli/issues/16728'>It looks like the status&#x2F;need-triage label was removed</a></td></tr>
 </table>
 <!-- END:news -->
 
