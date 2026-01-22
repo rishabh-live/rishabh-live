@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/'>Internet voting is insecure and should not be used in public elections</a></td></tr>
-<tr><td><a href='https://github.com/freedomofpress/dangerzone'>Convert potentially dangerous PDFs to safe PDFs</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2201.01174'>Binary fuse filters: Fast and smaller than xor filters (2022)</a></td></tr>
 <tr><td><a href='https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/'>Threat actors expand abuse of Microsoft Visual Studio Code</a></td></tr>
-<tr><td><a href='https://operand.online/chronicle/pass.zoom'>I&#x27;ll pass on your zoom call.</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2201.01174'>Binary fuse filters: Fast and smaller than xor filters (2022)</a></td></tr>
+<tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-new-constitution'>Claude&#x27;s new constitution</a></td></tr>
+<tr><td><a href='https://terabytedeals.com'>Show HN: TerabyteDeals – Compare storage prices by $&#x2F;TB</a></td></tr>
 </table>
 <!-- END:news -->
 
