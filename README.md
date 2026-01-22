@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://gptzero.me/news/neurips/'>GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></td></tr>
 <tr><td><a href='https://cannoneyed.com/isometric-nyc/'>Show HN: isometric.nyc – giant isometric pixel art map of NYC</a></td></tr>
+<tr><td><a href='https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/'>Capital One to acquire Brex for $5.15B</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3tts-0115'>Qwen3-TTS family is now open sourced: Voice design, clone, and generation</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/research/anthropic-economic-index-january-2026-report'>Anthropic Economic Index economic primitives</a></td></tr>
-<tr><td><a href='https://www.medievalists.net/2025/12/medieval-ship-discovered-copenhagen/'>Viking Ship Museum in Denmark announces the discovery of the largest cog</a></td></tr>
 </table>
 <!-- END:news -->
 
