@@ -24,8 +24,8 @@
 <tr><td><a href='https://gptzero.me/news/neurips/'>GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></td></tr>
 <tr><td><a href='https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels'>In Europe, Wind and Solar Overtake Fossil Fuels</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3tts-0115'>Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation</a></td></tr>
-<tr><td><a href='https://www.designorate.com/design-thinking-books/'>Design Thinking Books You Must Read</a></td></tr>
 <tr><td><a href='https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/'>Tree-sitter vs. Language Servers</a></td></tr>
+<tr><td><a href='https://www.designorate.com/design-thinking-books/'>Design Thinking Books You Must Read</a></td></tr>
 </table>
 <!-- END:news -->
 
