@@ -24,7 +24,7 @@
 <tr><td><a href='https://huggingface.co/sweepai/sweep-next-edit-1.5B'>Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete</a></td></tr>
 <tr><td><a href='https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims'>Doctors in Brazil using tilapia fish skin to treat burn victims</a></td></tr>
 <tr><td><a href='https://www.jsoftware.com/papers/perlis77.htm'>In Praise of APL (1977)</a></td></tr>
-<tr><td><a href='https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/'>From stealth blackout to whitelisting: Inside the Iranian shutdown</a></td></tr>
+<tr><td><a href='https://rselbach.com/your-sub-is-now-my-weekend-project'>App Subscription is now my Weekend Project</a></td></tr>
 <tr><td><a href='https://labs.iximiuz.com/tutorials/unikernels-intro-93976514'>Hands-On Introduction to Unikernels</a></td></tr>
 </table>
 <!-- END:news -->
