@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/'>Threat actors expand abuse of Microsoft Visual Studio Code</a></td></tr>
 <tr><td><a href='https://huggingface.co/sweepai/sweep-next-edit-1.5B'>Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete</a></td></tr>
+<tr><td><a href='https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/'>Threat actors expand abuse of Microsoft Visual Studio Code</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2201.01174'>Binary fuse filters: Fast and smaller than xor filters (2022)</a></td></tr>
+<tr><td><a href='https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/'>From stealth blackout to whitelisting: Inside the Iranian shutdown</a></td></tr>
 <tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-new-constitution'>Claude&#x27;s new constitution</a></td></tr>
 </table>
 <!-- END:news -->
 
