@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims'>Doctors in Brazil using tilapia fish skin to treat burn victims</a></td></tr>
 <tr><td><a href='https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/'>From stealth blackout to whitelisting: Inside the Iranian shutdown</a></td></tr>
 <tr><td><a href='https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/'>Threat actors expand abuse of Microsoft Visual Studio Code</a></td></tr>
-<tr><td><a href='https://labs.iximiuz.com/tutorials/unikernels-intro-93976514'>Hands-On Introduction to Unikernels</a></td></tr>
+<tr><td><a href='https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers'>Gathering Linux Syscall Numbers in a C Table</a></td></tr>
 </table>
 <!-- END:news -->
 
