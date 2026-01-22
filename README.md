@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://huggingface.co/sweepai/sweep-next-edit-1.5B'>Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete</a></td></tr>
-<tr><td><a href='https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims'>Doctors in Brazil using tilapia fish skin to treat burn victims</a></td></tr>
-<tr><td><a href='https://www.jsoftware.com/papers/perlis77.htm'>In Praise of APL (1977)</a></td></tr>
 <tr><td><a href='https://rselbach.com/your-sub-is-now-my-weekend-project'>App Subscription is now my Weekend Project</a></td></tr>
-<tr><td><a href='https://labs.iximiuz.com/tutorials/unikernels-intro-93976514'>Hands-On Introduction to Unikernels</a></td></tr>
+<tr><td><a href='https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims'>Doctors in Brazil using tilapia fish skin to treat burn victims</a></td></tr>
+<tr><td><a href='https://curl.se/.well-known/security.txt'>We will ban you and ridicule you in public if you waste our time on crap reports</a></td></tr>
+<tr><td><a href='https://www.jsoftware.com/papers/perlis77.htm'>In Praise of APL (1977)</a></td></tr>
 </table>
 <!-- END:news -->
 
