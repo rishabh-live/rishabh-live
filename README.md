@@ -24,8 +24,8 @@
 <tr><td><a href='https://gptzero.me/news/neurips/'>GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></td></tr>
 <tr><td><a href='https://cannoneyed.com/isometric-nyc/'>Show HN: isometric.nyc – giant isometric pixel art map of NYC</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3tts-0115'>Qwen3-TTS family is now open sourced: Voice design, clone, and generation</a></td></tr>
-<tr><td><a href='https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/'>&#x27;Askers&#x27; vs. &#x27;Guessers&#x27; (2010)</a></td></tr>
 <tr><td><a href='https://alvaromontoro.com/blog/68091/css-optical-illusions'>CSS Optical Illusions</a></td></tr>
+<tr><td><a href='https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/'>Compiling Scheme to WebAssembly</a></td></tr>
 </table>
 <!-- END:news -->
 
