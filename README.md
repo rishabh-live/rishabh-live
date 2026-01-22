@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://shreevatsa.net/post/douglas-adams-cultural-divide/'>Douglas Adams on the English–American cultural divide over &quot;heroes&quot;</a></td></tr>
 <tr><td><a href='https://www.designorate.com/design-thinking-books/'>Design Thinking Books You Must Read</a></td></tr>
+<tr><td><a href='https://shreevatsa.net/post/douglas-adams-cultural-divide/'>Douglas Adams on the English–American cultural divide over &quot;heroes&quot;</a></td></tr>
 <tr><td><a href='https://curl.se/.well-known/security.txt'>We will ban you and ridicule you in public if you waste our time on crap reports</a></td></tr>
 <tr><td><a href='https://huggingface.co/sweepai/sweep-next-edit-1.5B'>Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete</a></td></tr>
-<tr><td><a href='https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/'>ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss</a></td></tr>
+<tr><td><a href='https://twitter.com/SecArmy/status/1933693585183965372'>Palantir, Meta, OpenAI Execs Appointed Lieutenant Colonels in US Army</a></td></tr>
 </table>
 <!-- END:news -->
 
