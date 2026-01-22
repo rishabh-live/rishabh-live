@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/'>Internet voting is insecure and should not be used in public elections</a></td></tr>
-<tr><td><a href='https://github.com/freedomofpress/dangerzone'>Take potentially dangerous PDFs, and convert them to safe PDFs</a></td></tr>
-<tr><td><a href='https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance'>Significant US Farm Losses Persist, Despite Federal Assistance</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2201.01174'>Binary Fuse Filters: Fast and Smaller Than XOR Filters</a></td></tr>
-<tr><td><a href='https://github.com/ChartGPU/ChartGPU'>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</a></td></tr>
+<tr><td><a href='https://github.com/freedomofpress/dangerzone'>Convert potentially dangerous PDFs to safe PDFs</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2201.01174'>Binary fuse filters: Fast and smaller than xor filters (2022)</a></td></tr>
+<tr><td><a href='https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/'>Threat actors expand abuse of Microsoft Visual Studio Code</a></td></tr>
+<tr><td><a href='https://operand.online/chronicle/pass.zoom'>I&#x27;ll pass on your zoom call.</a></td></tr>
 </table>
 <!-- END:news -->
 
