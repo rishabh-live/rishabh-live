@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.youtube.com/watch?v=moBCOEiqiPs'>I built a light that reacts to radio waves [video]</a></td></tr>
 <tr><td><a href='https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/'>Capital One to acquire Brex for $5.15B</a></td></tr>
 <tr><td><a href='https://gptzero.me/news/neurips/'>GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></td></tr>
-<tr><td><a href='https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/'>TI-99&#x2F;4A: Leaning More on the Firmware</a></td></tr>
+<tr><td><a href='https://cannoneyed.com/isometric-nyc/'>Show HN: isometric.nyc – giant isometric pixel art map of NYC</a></td></tr>
 </table>
 <!-- END:news -->
 
