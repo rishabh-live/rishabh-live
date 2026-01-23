@@ -22,7 +22,7 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://radicle.xyz'>Radicle: The Sovereign Forge</a></td></tr>
-<tr><td><a href='https://blog.quintarelli.it/2026/01/how-doge-improperly-accessed-and-shared-social-security-data-npr/'>DOGE improperly accessed and shared Social Security data</a></td></tr>
+<tr><td><a href='https://maggieappleton.com/gastown'>Gas Town&#x27;s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale</a></td></tr>
 <tr><td><a href='https://boginjr.com/it/sw/dev/vinyl-boot/'>Booting from a vinyl record (2020)</a></td></tr>
 <tr><td><a href='https://kconner.com/2024/08/02/ai-is-a-horse.html'>AI is a horse (2024)</a></td></tr>
 <tr><td><a href='https://github.com/ramonvermeulen/whosthere'>Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go</a></td></tr>
