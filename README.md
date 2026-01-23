@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/unrolling-the-codex-agent-loop/'>Unrolling the Codex agent loop</a></td></tr>
-<tr><td><a href='https://proofofcorn.com/'>Proof of Corn</a></td></tr>
 <tr><td><a href='https://www.ycombinator.com/'>New YC homepage</a></td></tr>
-<tr><td><a href='https://maggieappleton.com/gastown'>Gas Town&#x27;s agent patterns, design bottlenecks, and vibecoding at scale</a></td></tr>
+<tr><td><a href='https://proofofcorn.com/'>Proof of Corn</a></td></tr>
 <tr><td><a href='https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md'>Banned C++ Features in Chromium</a></td></tr>
+<tr><td><a href='https://maggieappleton.com/gastown'>Gas Town&#x27;s agent patterns, design bottlenecks, and vibecoding at scale</a></td></tr>
 </table>
 <!-- END:news -->
 
