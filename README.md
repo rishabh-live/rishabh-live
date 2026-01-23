@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://maggieappleton.com/gastown'>Gas Town&#x27;s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale</a></td></tr>
 <tr><td><a href='https://radicle.xyz'>Radicle: The Sovereign Forge</a></td></tr>
 <tr><td><a href='https://boginjr.com/it/sw/dev/vinyl-boot/'>Booting from a vinyl record (2020)</a></td></tr>
-<tr><td><a href='https://kconner.com/2024/08/02/ai-is-a-horse.html'>AI is a horse (2024)</a></td></tr>
+<tr><td><a href='https://maggieappleton.com/gastown'>Gas Town&#x27;s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale</a></td></tr>
 <tr><td><a href='https://www.korg.com/us/products/dj/phase8/'>KORG phase8 – Acoustic Synthesizer</a></td></tr>
+<tr><td><a href='https://kconner.com/2024/08/02/ai-is-a-horse.html'>AI is a horse (2024)</a></td></tr>
 </table>
 <!-- END:news -->
 
