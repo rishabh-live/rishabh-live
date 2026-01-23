@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://proofofcorn.com/'>Proof of Corn</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/18866'>Claude.ai silently failing since Jan 14, no official acknowledgment</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/'>Microsoft gave FBI set of BitLocker encryption keys to unlock suspects&#x27; laptops</a></td></tr>
 <tr><td><a href='https://radicle.xyz'>Radicle: The Sovereign Forge</a></td></tr>
-<tr><td><a href='https://markgascoyne.co.uk/posts/ebpf-bng/'>Killing the ISP Appliance: An eBPF&#x2F;XDP Approach to Distributed BNG</a></td></tr>
-<tr><td><a href='https://www.korg.com/us/products/dj/phase8/'>KORG phase8 – Acoustic Synthesizer</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/route-leak-incident-january-22-2026/'>Route leak incident on January 22, 2026</a></td></tr>
 </table>
 <!-- END:news -->
 
