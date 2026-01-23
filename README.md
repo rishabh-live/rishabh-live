@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/'>Capital One to acquire Brex for $5.15B</a></td></tr>
+<tr><td><a href='https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/'>Talking to LLMs has improved my thinking</a></td></tr>
 <tr><td><a href='https://gptzero.me/news/neurips/'>GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers</a></td></tr>
 <tr><td><a href='https://cannoneyed.com/isometric-nyc/'>Show HN: isometric.nyc – giant isometric pixel art map of NYC</a></td></tr>
 <tr><td><a href='https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/'>Why does SSH send 100 packets per keystroke?</a></td></tr>
-<tr><td><a href='https://hugodaniel.com/posts/claude-code-banned-me/'>I was banned from Claude for scaffolding a Claude.md file?</a></td></tr>
 </table>
 <!-- END:news -->
 
