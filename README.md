@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md'>Ghostty&#x27;s AI Policy</a></td></tr>
-<tr><td><a href='https://tuananh.net/2026/01/20/what-has-docker-become/'>What has Docker become?</a></td></tr>
 <tr><td><a href='https://tinyapps.org/blog/microsoft-mishandling-example-com.html'>Microsoft Mishandling Example.com</a></td></tr>
+<tr><td><a href='https://tuananh.net/2026/01/20/what-has-docker-become/'>What has Docker become?</a></td></tr>
+<tr><td><a href='https://boginjr.com/it/sw/dev/vinyl-boot/'>Booting a PC from a Vinyl Record</a></td></tr>
 <tr><td><a href='https://kconner.com/2024/08/02/ai-is-a-horse.html'>AI is a horse (2024)</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=moBCOEiqiPs'>I built a light that reacts to radio waves [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
