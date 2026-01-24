@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/'>Doing gigabit Ethernet over my British phone wires</a></td></tr>
-<tr><td><a href='https://hamishcampbell.com/foss-just-fork-it-delusion/'>FOSS &quot;Just Fork It&quot; Delusion</a></td></tr>
-<tr><td><a href='https://xhtml.club/'>XHTML Club</a></td></tr>
+<tr><td><a href='https://www.seangoedecke.com/how-i-estimate-work/'>How I Estimate Work as a Staff Software Engineer</a></td></tr>
 <tr><td><a href='https://www.sqlite.org/np1queryprob.html'>Many Small Queries Are Efficient in SQLite</a></td></tr>
-<tr><td><a href='https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/'>I Like GitLab</a></td></tr>
+<tr><td><a href='https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare'>MS confirms it will give the FBI your Windows PC data encryption key if asked</a></td></tr>
+<tr><td><a href='https://blog.dshr.org/2026/01/internet-archives-storage.html'>Internet Archive&#x27;s Storage</a></td></tr>
 </table>
 <!-- END:news -->
 
