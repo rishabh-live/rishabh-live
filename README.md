@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp'>BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></td></tr>
+<tr><td><a href='https://micahcantor.com/blog/bluesky-comment-section.html'>I added a Bluesky comment section to my blog</a></td></tr>
 <tr><td><a href='https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next'>Postmortem: Our first VLEO satellite mission (with imagery and flight data)</a></td></tr>
 <tr><td><a href='https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/'>Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison</a></td></tr>
-<tr><td><a href='https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck'>Why Does Destroying Resources via TF Suck?</a></td></tr>
-<tr><td><a href='https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html'>Memory layout in Zig with formulas</a></td></tr>
+<tr><td><a href='https://m24tom.com/bye-bye-gmail/show'>Bye Bye Gmail</a></td></tr>
 </table>
 <!-- END:news -->
 
