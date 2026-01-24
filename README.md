@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/'>Doing gigabit Ethernet over my British phone wires</a></td></tr>
+<tr><td><a href='https://dbushell.com/2025/06/18/ai-policy/'>You can&#x27;t pay me to prompt</a></td></tr>
 <tr><td><a href='https://www.sqlite.org/np1queryprob.html'>Many Small Queries Are Efficient in SQLite</a></td></tr>
-<tr><td><a href='https://blog.dshr.org/2026/01/internet-archives-storage.html'>Internet Archive&#x27;s Storage</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=46696283'>Show HN: Coi – A language that compiles to WASM, beats React&#x2F;Vue</a></td></tr>
-<tr><td><a href='https://openai.com/index/unrolling-the-codex-agent-loop/'>Unrolling the Codex agent loop</a></td></tr>
+<tr><td><a href='https://hamishcampbell.com/foss-just-fork-it-delusion/'>FOSS &quot;Just Fork It&quot; Delusion</a></td></tr>
+<tr><td><a href='https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less'>When employees feel slighted, they work less</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
