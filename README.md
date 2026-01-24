@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/'>Doing gigabit Ethernet over my British phone wires</a></td></tr>
 <tr><td><a href='https://hamishcampbell.com/foss-just-fork-it-delusion/'>FOSS &quot;Just Fork It&quot; Delusion</a></td></tr>
-<tr><td><a href='https://www.sqlite.org/np1queryprob.html'>Many Small Queries Are Efficient in SQLite</a></td></tr>
 <tr><td><a href='https://xhtml.club/'>XHTML Club</a></td></tr>
-<tr><td><a href='https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less'>When employees feel slighted, they work less</a></td></tr>
+<tr><td><a href='https://www.sqlite.org/np1queryprob.html'>Many Small Queries Are Efficient in SQLite</a></td></tr>
+<tr><td><a href='https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/'>I Like GitLab</a></td></tr>
 </table>
 <!-- END:news -->
 
