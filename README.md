@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/unrolling-the-codex-agent-loop/'>Unrolling the Codex agent loop</a></td></tr>
-<tr><td><a href='https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md'>Banned C++ Features in Chromium</a></td></tr>
 <tr><td><a href='https://www.ycombinator.com/'>New YC homepage</a></td></tr>
 <tr><td><a href='https://maggieappleton.com/gastown'>Gas Town&#x27;s agent patterns, design bottlenecks, and vibecoding at scale</a></td></tr>
+<tr><td><a href='https://www.unix.dog/~yosh/blog/c-habits-for-me.html'>Some C habits I employ for the modern day</a></td></tr>
 <tr><td><a href='https://proofofcorn.com/'>Proof of Corn</a></td></tr>
 </table>
 <!-- END:news -->
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
