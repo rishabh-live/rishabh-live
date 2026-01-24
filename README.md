@@ -25,7 +25,7 @@
 <tr><td><a href='https://openai.com/index/unrolling-the-codex-agent-loop/'>Unrolling the Codex agent loop</a></td></tr>
 <tr><td><a href='https://proofofcorn.com/'>Proof of Corn</a></td></tr>
 <tr><td><a href='https://www.unix.dog/~yosh/blog/c-habits-for-me.html'>Some C habits I employ for the modern day</a></td></tr>
-<tr><td><a href='https://comma.ai'>Comma openpilot – Open source driver-assistance</a></td></tr>
+<tr><td><a href='https://www.traintrackr.co.uk/'>Traintrackr – Live LED Maps</a></td></tr>
 </table>
 <!-- END:news -->
 
