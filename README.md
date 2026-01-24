@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://comma.ai'>Open-source self-driving for 325 car models from 27 brands</a></td></tr>
 <tr><td><a href='https://openai.com/index/unrolling-the-codex-agent-loop/'>Unrolling the Codex agent loop</a></td></tr>
 <tr><td><a href='https://www.ycombinator.com/'>New YC homepage</a></td></tr>
-<tr><td><a href='https://maggieappleton.com/gastown'>Gas Town&#x27;s agent patterns, design bottlenecks, and vibecoding at scale</a></td></tr>
+<tr><td><a href='https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties'>Losing 1½ Million Lines of Go</a></td></tr>
 <tr><td><a href='https://www.unix.dog/~yosh/blog/c-habits-for-me.html'>Some C habits I employ for the modern day</a></td></tr>
-<tr><td><a href='https://proofofcorn.com/'>Proof of Corn</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
