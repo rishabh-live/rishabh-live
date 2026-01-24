@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/'>Doing gigabit Ethernet over my British phone wires</a></td></tr>
-<tr><td><a href='https://www.seangoedecke.com/how-i-estimate-work/'>How I Estimate Work as a Staff Software Engineer</a></td></tr>
 <tr><td><a href='https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/'>I Like GitLab</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=SKTsNV41DYg'>After two years of vibecoding, I&#x27;m back to writing by hand [video]</a></td></tr>
+<tr><td><a href='https://www.seangoedecke.com/how-i-estimate-work/'>How I Estimate Work as a Staff Software Engineer</a></td></tr>
 <tr><td><a href='https://www.sqlite.org/np1queryprob.html'>Many Small Queries Are Efficient in SQLite</a></td></tr>
-<tr><td><a href='https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less'>When employees feel slighted, they work less</a></td></tr>
 </table>
 <!-- END:news -->
 
