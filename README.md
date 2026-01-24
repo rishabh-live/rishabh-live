@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/'>Doing gigabit Ethernet over my British phone wires</a></td></tr>
-<tr><td><a href='https://blog.dshr.org/2026/01/internet-archives-storage.html'>Internet Archive&#x27;s Storage</a></td></tr>
 <tr><td><a href='https://cosmic-odometer.vercel.app/'>Show HN: I built a space travel calculator using Vanilla JavaScript</a></td></tr>
+<tr><td><a href='https://blog.dshr.org/2026/01/internet-archives-storage.html'>Internet Archive&#x27;s Storage</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=46696283'>Show HN: Coi – A language that compiles to WASM, beats React&#x2F;Vue</a></td></tr>
 <tr><td><a href='https://openai.com/index/unrolling-the-codex-agent-loop/'>Unrolling the Codex agent loop</a></td></tr>
-<tr><td><a href='https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/'>80386 Multiplication and Division</a></td></tr>
 </table>
 <!-- END:news -->
 
