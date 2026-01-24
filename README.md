@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://servo.org/blog/2026/01/23/december-in-servo/'>December in Servo: multiple windows, proxy support, better caching, and more</a></td></tr>
 <tr><td><a href='https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/'>Doing gigabit Ethernet over my British phone wires</a></td></tr>
-<tr><td><a href='https://engineering.nyu.edu/sites/default/files/2021-10/How_I_Became_a_Quant%20%281%29.pdf'>How I Became a Quant [pdf]</a></td></tr>
 <tr><td><a href='http://www.jamisbuck.org/mazes/'>Maze Algorithms (2017)</a></td></tr>
-<tr><td><a href='https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md'>Tao Te Ching – Translated by Ursula K. Le Guin</a></td></tr>
+<tr><td><a href='https://engineering.nyu.edu/sites/default/files/2021-10/How_I_Became_a_Quant%20%281%29.pdf'>How I Became a Quant (2007) [pdf]</a></td></tr>
+<tr><td><a href='https://twitter.com/NicerInPerson/status/2014989679796347375'>Claude Code&#x27;s new hidden feature: Swarms</a></td></tr>
+<tr><td><a href='https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/'>Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison</a></td></tr>
 </table>
 <!-- END:news -->
 
