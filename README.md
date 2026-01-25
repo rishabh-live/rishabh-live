@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971'>nvidia-smi hangs indefinitely after ~66 days</a></td></tr>
-<tr><td><a href='https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp'>BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></td></tr>
 <tr><td><a href='https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/'>Adoption of EVs tied to real-world reductions in air pollution: study</a></td></tr>
-<tr><td><a href='https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/'>Palantir has no place in UK public services</a></td></tr>
+<tr><td><a href='https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp'>BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></td></tr>
 <tr><td><a href='https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/'>Google confirms &#x27;high-friction&#x27; sideloading flow is coming to Android</a></td></tr>
+<tr><td><a href='https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/'>A Lament for Aperture</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2601.05047'>David Patterson: Challenges and Research Directions for LLM Inference Hardware</a></td></tr>
 </table>
 <!-- END:news -->
 
