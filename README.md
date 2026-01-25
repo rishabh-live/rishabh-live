@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp'>BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></td></tr>
 <tr><td><a href='https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next'>Postmortem: Our first VLEO satellite mission (with imagery and flight data)</a></td></tr>
-<tr><td><a href='https://mynorthwest.com/local/amazon-layoffs-14000-jobs-at-risk/4192118'>Amazon braces for another major round of layoffs, 14,000 jobs at risk</a></td></tr>
+<tr><td><a href='https://blocksandfiles.com/2026/01/19/a-window-into-hbf-progress/'>High-bandwidth flash progress and future</a></td></tr>
 <tr><td><a href='https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/'>Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison</a></td></tr>
-<tr><td><a href='https://micahcantor.com/blog/bluesky-comment-section.html'>I added a Bluesky comment section to my blog</a></td></tr>
+<tr><td><a href='https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042'>Europe wants to end its dangerous reliance on US internet technology</a></td></tr>
 </table>
 <!-- END:news -->
 
