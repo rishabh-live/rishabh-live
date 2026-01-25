@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://statmodeling.stat.columbia.edu/2026/01/22/aking/'>This paper has been cited more than 6k times. It&#x27;s fatally flawed.</a></td></tr>
 <tr><td><a href='https://netzbremse.de/en/'>Deutsche Telekom is violating Net Neutrality</a></td></tr>
-<tr><td><a href='https://bonsplit.alasdairmonk.com'>Show HN: Bonsplit – tabs and splits for native macOS apps</a></td></tr>
-<tr><td><a href='https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/'>Introduction to PostgreSQL Indexes</a></td></tr>
-<tr><td><a href='https://turbopuffer.com/blog/ann-v3'>ANN v3: 200ms p99 query latency over 100B vectors</a></td></tr>
+<tr><td><a href='https://bonsplit.alasdairmonk.com'>Show HN: Bonsplit – Tabs and splits for native macOS apps</a></td></tr>
+<tr><td><a href='https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/'>Iran Protest Death Toll Could Top 30k, According to Local Health Officials</a></td></tr>
+<tr><td><a href='https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/'>Google confirms &#x27;high-friction&#x27; sideloading flow is coming to Android</a></td></tr>
 </table>
 <!-- END:news -->
 
