@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/tldev/posturr'>A macOS app that blurs your screen when you slouch</a></td></tr>
 <tr><td><a href='https://www.diljitpr.net/blog-post-postgresql-dlq'>Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems</a></td></tr>
-<tr><td><a href='https://statmodeling.stat.columbia.edu/2026/01/22/aking/'>A flawed paper in Management Science has been cited more than 6,000 times</a></td></tr>
 <tr><td><a href='https://doombuds.com'>Doom has been ported to an earbud</a></td></tr>
-<tr><td><a href='https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/'>Google confirms &#x27;high-friction&#x27; sideloading flow is coming to Android</a></td></tr>
+<tr><td><a href='https://statmodeling.stat.columbia.edu/2026/01/22/aking/'>A flawed paper in Management Science has been cited more than 6,000 times</a></td></tr>
+<tr><td><a href='https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data'>ICE Using Palantir Tool That Feeds on Medicaid Data</a></td></tr>
 </table>
 <!-- END:news -->
 
