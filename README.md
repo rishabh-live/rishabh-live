@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gwern.net/blog/2026/make-me-care'>First, make me care</a></td></tr>
+<tr><td><a href='https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback'>OnePlus update blocks downgrades and custom ROMs by blowing a fuse</a></td></tr>
 <tr><td><a href='https://github.com/tldev/posturr'>A macOS app that blurs your screen when you slouch</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c1m77dmxlvlo'>Spanish track was fractured before high-speed train disaster, report finds</a></td></tr>
-<tr><td><a href='https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback'>OnePlus update blocks downgrades and custom ROMs by blowing a fuse</a></td></tr>
 <tr><td><a href='https://www.diljitpr.net/blog-post-postgresql-dlq'>Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems</a></td></tr>
 </table>
 <!-- END:news -->
