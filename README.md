@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/tldev/posturr'>A macOS app that blurs your screen when you slouch</a></td></tr>
 <tr><td><a href='https://statmodeling.stat.columbia.edu/2026/01/22/aking/'>A flawed paper in Management Science has been cited more than 6,000 times</a></td></tr>
 <tr><td><a href='https://doombuds.com'>Doom has been ported to an earbud</a></td></tr>
+<tr><td><a href='https://www.diljitpr.net/blog-post-postgresql-dlq'>Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems</a></td></tr>
 <tr><td><a href='https://turbopuffer.com/blog/ann-v3'>ANN v3: 200ms p99 query latency over 100B vectors</a></td></tr>
-<tr><td><a href='https://bonsplit.alasdairmonk.com'>Show HN: Bonsplit – Tabs and splits for native macOS apps</a></td></tr>
 </table>
 <!-- END:news -->
 
