@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback'>OnePlus update blocks downgrades and custom ROMs by blowing a fuse</a></td></tr>
 <tr><td><a href='https://gwern.net/blog/2026/make-me-care'>First, make me care</a></td></tr>
-<tr><td><a href='https://www.jenn.site/on-canada/'>Canada</a></td></tr>
 <tr><td><a href='https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world'>The &#x27;3.5% rule&#x27;: How a small minority can change the world</a></td></tr>
 <tr><td><a href='https://github.com/tldev/posturr'>A macOS app that blurs your screen when you slouch</a></td></tr>
+<tr><td><a href='https://notes.nora.codes/atproto-again/'>I was right about ATProto key management</a></td></tr>
+<tr><td><a href='https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback'>Oneplus phone update introduces hardware anti-rollback</a></td></tr>
 </table>
 <!-- END:news -->
 
