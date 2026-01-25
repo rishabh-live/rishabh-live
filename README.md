@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.diljitpr.net/blog-post-postgresql-dlq'>Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems</a></td></tr>
 <tr><td><a href='https://doombuds.com'>Doom has been ported to an earbud</a></td></tr>
 <tr><td><a href='https://statmodeling.stat.columbia.edu/2026/01/22/aking/'>A flawed paper in Management Science has been cited more than 6,000 times</a></td></tr>
-<tr><td><a href='https://www.newstatesman.com/culture/books/2026/01/the-worlds-most-powerful-literary-critic-is-on-tiktok'>World’s most powerful literary critic is on TikTok</a></td></tr>
+<tr><td><a href='https://gwern.net/blog/2026/make-me-care'>First, Make Me Care</a></td></tr>
 </table>
 <!-- END:news -->
 
