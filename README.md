@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/'>Adoption of EVs tied to real-world reductions in air pollution: study</a></td></tr>
 <tr><td><a href='https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/'>Google confirms &#x27;high-friction&#x27; sideloading flow is coming to Android</a></td></tr>
+<tr><td><a href='https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/'>Adoption of EVs tied to real-world reductions in air pollution: study</a></td></tr>
 <tr><td><a href='https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp'>BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></td></tr>
 <tr><td><a href='https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/'>A Lament for Aperture</a></td></tr>
 <tr><td><a href='https://essenceia.github.io/projects/two_weeks_until_tapeout/'>Two Weeks Until Tapeout</a></td></tr>
