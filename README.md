@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/'>UN Declares That the World Has Entered an Era of &#x27;Global Water Bankruptcy&#x27;</a></td></tr>
 <tr><td><a href='https://statmodeling.stat.columbia.edu/2026/01/22/aking/'>This paper has been cited more than 6k times. It&#x27;s fatally flawed.</a></td></tr>
 <tr><td><a href='https://netzbremse.de/en/'>Deutsche Telekom is violating Net Neutrality</a></td></tr>
 <tr><td><a href='https://time.com/7357635/more-than-30000-killed-in-iran-say-senior-officials/'>Iran Protest Death Toll Could Top 30k, According to Local Health Officials</a></td></tr>
-<tr><td><a href='https://bonsplit.alasdairmonk.com'>Show HN: Bonsplit – Tabs and splits for native macOS apps</a></td></tr>
-<tr><td><a href='https://turbopuffer.com/blog/ann-v3'>ANN v3: 200ms p99 query latency over 100B vectors</a></td></tr>
+<tr><td><a href='https://doombuds.com'>Doom has been ported to an earbud</a></td></tr>
 </table>
 <!-- END:news -->
 
