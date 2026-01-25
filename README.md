@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp'>BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></td></tr>
 <tr><td><a href='https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/'>Adoption of EVs tied to real-world reductions in air pollution: study</a></td></tr>
 <tr><td><a href='https://www.opendemocracy.net/en/zarah-sutlana-palantir-no-place-uk-public-services-ministry-of-defence/'>Palantir has no place in UK public services</a></td></tr>
-<tr><td><a href='https://essenceia.github.io/projects/two_weeks_until_tapeout/'>Two Weeks Until Tapeout</a></td></tr>
+<tr><td><a href='https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/'>The Responsibility of Intellectuals (1967)</a></td></tr>
 </table>
 <!-- END:news -->
 
