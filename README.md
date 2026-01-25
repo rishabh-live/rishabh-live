@@ -25,7 +25,7 @@
 <tr><td><a href='https://statmodeling.stat.columbia.edu/2026/01/22/aking/'>This paper has been cited more than 6k times. It&#x27;s fatally flawed.</a></td></tr>
 <tr><td><a href='https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/'>Google confirms &#x27;high-friction&#x27; sideloading flow is coming to Android</a></td></tr>
 <tr><td><a href='https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp'>BirdyChat becomes first European chat app that is interoperable with WhatsApp</a></td></tr>
-<tr><td><a href='https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/'>Adoption of EVs tied to real-world reductions in air pollution: study</a></td></tr>
+<tr><td><a href='https://www.therpf.com/forums/threads/jurassic-park-tablet-device-on-nedrys-desk.169883/'>Jurassic Park - Tablet device on Nedry&#x27;s desk? (2012)</a></td></tr>
 </table>
 <!-- END:news -->
 
