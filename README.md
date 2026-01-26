@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/01/tv100.html'>Television is 100 years old today</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3-max-thinking'>Qwen3-Max-Thinking</a></td></tr>
+<tr><td><a href='https://nproject.io/blog/juicessh-give-me-back-my-pro-features/'>JuiceSSH – Give me my pro features back</a></td></tr>
 <tr><td><a href='https://visualrambling.space/dithering-part-2/'>Dithering – Part 2: The Ordered Dithering</a></td></tr>
+<tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The Hidden Engineering of Runways</a></td></tr>
 <tr><td><a href='https://tetrisbench.com/tetrisbench/'>Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus</a></td></tr>
-<tr><td><a href='https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o'>Fedora Asahi Remix is now working on Apple M3</a></td></tr>
 </table>
 <!-- END:news -->
 
