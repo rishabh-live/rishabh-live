@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3-max-thinking'>Qwen3-Max-Thinking</a></td></tr>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/01/tv100.html'>Television is 100 years old today</a></td></tr>
+<tr><td><a href='https://www.greptile.com/blog/ai-code-review-bubble'>There is an AI code review bubble</a></td></tr>
 <tr><td><a href='https://nproject.io/blog/juicessh-give-me-back-my-pro-features/'>JuiceSSH – Give me my pro features back</a></td></tr>
 <tr><td><a href='https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o'>Fedora Asahi Remix is now working on Apple M3</a></td></tr>
-<tr><td><a href='https://www.darioamodei.com/essay/the-adolescence-of-technology'>The Adolescence of Technology</a></td></tr>
 </table>
 <!-- END:news -->
 
