@@ -25,7 +25,7 @@
 <tr><td><a href='https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/'>The browser is the sandbox</a></td></tr>
 <tr><td><a href='https://www.jampa.dev/p/lessons-learned-after-10-years-as'>Things I&#x27;ve learned in my 10 years as an engineering manager</a></td></tr>
 <tr><td><a href='https://gwern.net/blog/2026/make-me-care'>First, make me care</a></td></tr>
-<tr><td><a href='https://reclaimthenet.org/uk-house-of-lords-votes-to-extend-age-verification-to-vpns'>UK House of Lords Votes to Extend Age Verification to VPNs</a></td></tr>
+<tr><td><a href='https://maplibre.org/news/2026-01-23-mlt-release/'>MapLibre Tile: a modern and efficient vector tile format</a></td></tr>
 </table>
 <!-- END:news -->
 
