@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://maplibre.org/news/2026-01-23-mlt-release/'>MapLibre Tile: a modern and efficient vector tile format</a></td></tr>
+<tr><td><a href='https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/'>Show HN posts p&#x2F;month more than doubled in the last year</a></td></tr>
 <tr><td><a href='https://github.com/quaadgras/graphics.gd/discussions/242'>The Holy Grail of Linux Binary Compatibility: Musl and Dlopen</a></td></tr>
-<tr><td><a href='https://petegoldsmith.com/2026/01/26/2026-01-26-show-hn-trends/'>Show HN: Posts p&#x2F;month more than doubled in the last year</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/'>The browser is the sandbox</a></td></tr>
 <tr><td><a href='https://www.jampa.dev/p/lessons-learned-after-10-years-as'>Things I&#x27;ve learned in my 10 years as an engineering manager</a></td></tr>
+<tr><td><a href='https://gwern.net/blog/2026/make-me-care'>First, make me care</a></td></tr>
 </table>
 <!-- END:news -->
 
