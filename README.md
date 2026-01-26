@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3-max-thinking'>Qwen3-Max-Thinking</a></td></tr>
 <tr><td><a href='https://maplibre.org/news/2026-01-23-mlt-release/'>MapLibre Tile: a modern and efficient vector tile format</a></td></tr>
-<tr><td><a href='https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html'>Porting 100k lines from TypeScript to Rust using Claude Code in a month</a></td></tr>
 <tr><td><a href='https://atmoio.substack.com/p/after-two-years-of-vibecoding-im'>After two years of vibecoding, I&#x27;m back to writing by hand</a></td></tr>
+<tr><td><a href='https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM'>OracleGPT: Thought Experiment on an AI Powered Executive</a></td></tr>
 <tr><td><a href='https://kwarc.info/teaching/TDM/Borges.pdf'>Exactitude in Science – Borges (1946) [pdf]</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study'>Google AI Overviews cite YouTube more than any medical site for health queries</a></td></tr>
 </table>
 <!-- END:news -->
 
