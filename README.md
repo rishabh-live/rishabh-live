@@ -24,7 +24,7 @@
 <tr><td><a href='https://qwen.ai/blog?id=qwen3-max-thinking'>Qwen3-Max-Thinking</a></td></tr>
 <tr><td><a href='https://maplibre.org/news/2026-01-23-mlt-release/'>MapLibre Tile: a modern and efficient vector tile format</a></td></tr>
 <tr><td><a href='https://atmoio.substack.com/p/after-two-years-of-vibecoding-im'>After two years of vibecoding, I&#x27;m back to writing by hand</a></td></tr>
-<tr><td><a href='https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM'>OracleGPT: Thought Experiment on an AI Powered Executive</a></td></tr>
+<tr><td><a href='https://www.kuril.in/blog/what-the-best-looks-like/'>What &quot;The Best&quot; Looks Like</a></td></tr>
 <tr><td><a href='https://kwarc.info/teaching/TDM/Borges.pdf'>Exactitude in Science – Borges (1946) [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
