@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you'>Scientists identify brain waves that define the limits of &#x27;you&#x27;</a></td></tr>
 <tr><td><a href='https://github.com/tldev/posturr'>A macOS app that blurs your screen when you slouch</a></td></tr>
 <tr><td><a href='https://tomaszmachnik.pl/case-study-math-en.html'>Case study: Creative math – How AI fakes proofs</a></td></tr>
-<tr><td><a href='https://archive.org/details/DeltaSingleHandleBallFaucets'>Delta single handle ball faucets (1963)</a></td></tr>
+<tr><td><a href='https://restofworld.org/2026/iran-blackout-tiered-internet/'>Iran&#x27;s internet blackout may become permanent, with access for elites only</a></td></tr>
 </table>
 <!-- END:news -->
 
