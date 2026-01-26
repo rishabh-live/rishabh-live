@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.iranintl.com/en/202601255198'>Over 36,500 killed in Iran&#x27;s deadliest massacre, documents reveal</a></td></tr>
-<tr><td><a href='https://github.com/clawdbot/clawdbot'>Clawdbot - open source personal AI assistant</a></td></tr>
 <tr><td><a href='https://gwern.net/blog/2026/make-me-care'>First, make me care</a></td></tr>
 <tr><td><a href='https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you'>Scientists identify brain waves that define the limits of &#x27;you&#x27;</a></td></tr>
 <tr><td><a href='https://github.com/tldev/posturr'>A macOS app that blurs your screen when you slouch</a></td></tr>
+<tr><td><a href='https://github.com/clawdbot/clawdbot'>Clawdbot - open source personal AI assistant</a></td></tr>
+<tr><td><a href='https://tomaszmachnik.pl/case-study-math-en.html'>Case study: Creative math – How AI fakes proofs</a></td></tr>
 </table>
 <!-- END:news -->
 
