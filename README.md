@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3-max-thinking'>Qwen3-Max-Thinking</a></td></tr>
-<tr><td><a href='https://maplibre.org/news/2026-01-23-mlt-release/'>MapLibre Tile: a modern and efficient vector tile format</a></td></tr>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/01/tv100.html'>Television is 100 years old today</a></td></tr>
+<tr><td><a href='https://maplibre.org/news/2026-01-23-mlt-release/'>MapLibre Tile: a modern and efficient vector tile format</a></td></tr>
+<tr><td><a href='https://www.darioamodei.com/essay/the-adolescence-of-technology'>The Adolescence of Technology</a></td></tr>
 <tr><td><a href='https://www.kuril.in/blog/what-the-best-looks-like/'>What &quot;The Best&quot; Looks Like</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study'>Google AI Overviews cite YouTube more than any medical site for health queries</a></td></tr>
 </table>
 <!-- END:news -->
 
