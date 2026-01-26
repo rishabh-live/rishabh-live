@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://maplibre.org/news/2026-01-23-mlt-release/'>MapLibre Tile: a modern and efficient vector tile format</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2601.15494'>Vibe Coding Kills Open Source</a></td></tr>
-<tr><td><a href='https://atmoio.substack.com/p/after-two-years-of-vibecoding-im'>After two years of vibecoding, I&#x27;m back to writing by hand</a></td></tr>
 <tr><td><a href='https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html'>Porting 100k lines from TypeScript to Rust using Claude Code in a month</a></td></tr>
-<tr><td><a href='https://kreya.app/blog/transfering-files-with-grpc/'>Transfering Files with gRPC</a></td></tr>
+<tr><td><a href='https://atmoio.substack.com/p/after-two-years-of-vibecoding-im'>After two years of vibecoding, I&#x27;m back to writing by hand</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/'>Apple introduces new AirTag with longer range and improved findability</a></td></tr>
+<tr><td><a href='https://kwarc.info/teaching/TDM/Borges.pdf'>Exactitude in Science – Borges (1946) [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
