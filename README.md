@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/'>The browser is the sandbox</a></td></tr>
 <tr><td><a href='https://gwern.net/blog/2026/make-me-care'>First, make me care</a></td></tr>
+<tr><td><a href='https://www.jampa.dev/p/lessons-learned-after-10-years-as'>Things I&#x27;ve learned in my 10 years as an engineering manager</a></td></tr>
 <tr><td><a href='https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you'>Scientists identify brain waves that define the limits of &#x27;you&#x27;</a></td></tr>
 <tr><td><a href='https://restofworld.org/2026/iran-blackout-tiered-internet/'>Iran&#x27;s internet blackout may become permanent, with access for elites only</a></td></tr>
-<tr><td><a href='https://aashvik.com/posts/shell-ssg/'>A static site generator written in POSIX shell</a></td></tr>
 </table>
 <!-- END:news -->
 
