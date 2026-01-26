@@ -21,7 +21,7 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/'>State of the Windows: What is going on with Windows 11?</a></td></tr>
+<tr><td><a href='https://github.com/pageman/sutskever-30-implementations'>Toy implementations of the 30 foundational papers recommended by Ilya Sutskever</a></td></tr>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/01/tv100.html'>Television is 100 years old today</a></td></tr>
 <tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The Hidden Engineering of Runways</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Jan/26/chatgpt-containers/'>ChatGPT Containers can now run bash, pip&#x2F;npm install packages and download files</a></td></tr>
