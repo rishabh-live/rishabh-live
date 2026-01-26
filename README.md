@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://ntdotdev.wordpress.com/2026/01/25/state-of-the-windows-what-is-going-on-with-windows-11/'>State of the Windows: What is going on with Windows 11?</a></td></tr>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/01/tv100.html'>Television is 100 years old today</a></td></tr>
 <tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The Hidden Engineering of Runways</a></td></tr>
-<tr><td><a href='https://nproject.io/blog/juicessh-give-me-back-my-pro-features/'>JuiceSSH – Give me my pro features back</a></td></tr>
-<tr><td><a href='https://visualrambling.space/dithering-part-2/'>Dithering – Part 2: The Ordered Dithering</a></td></tr>
-<tr><td><a href='https://www.greptile.com/blog/ai-code-review-bubble'>There is an AI code review bubble</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Jan/26/chatgpt-containers/'>ChatGPT Containers can now run bash, pip&#x2F;npm install packages and download files</a></td></tr>
+<tr><td><a href='https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54'>People who know the formula for WD-40</a></td></tr>
 </table>
 <!-- END:news -->
 
