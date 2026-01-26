@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/01/tv100.html'>Television is 100 years old today</a></td></tr>
+<tr><td><a href='https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54'>People who know the formula for WD-40</a></td></tr>
+<tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The Hidden Engineering of Runways</a></td></tr>
 <tr><td><a href='https://nproject.io/blog/juicessh-give-me-back-my-pro-features/'>JuiceSSH – Give me my pro features back</a></td></tr>
 <tr><td><a href='https://visualrambling.space/dithering-part-2/'>Dithering – Part 2: The Ordered Dithering</a></td></tr>
-<tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The Hidden Engineering of Runways</a></td></tr>
-<tr><td><a href='https://tetrisbench.com/tetrisbench/'>Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus</a></td></tr>
 </table>
 <!-- END:news -->
 
