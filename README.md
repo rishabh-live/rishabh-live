@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://onlinegoddess.net/2026/01/apple-what-have-you-done/'>Apple, What Have You Done?</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/'>The browser is the sandbox</a></td></tr>
 <tr><td><a href='https://github.com/quaadgras/graphics.gd/discussions/242'>The Holy Grail of Linux Binary Compatibility: Musl and Dlopen</a></td></tr>
 <tr><td><a href='https://www.jampa.dev/p/lessons-learned-after-10-years-as'>Things I&#x27;ve learned in my 10 years as an engineering manager</a></td></tr>
 <tr><td><a href='https://gwern.net/blog/2026/make-me-care'>First, make me care</a></td></tr>
-<tr><td><a href='https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you'>Scientists identify brain waves that define the limits of &#x27;you&#x27;</a></td></tr>
 </table>
 <!-- END:news -->
 
