@@ -24,8 +24,8 @@
 <tr><td><a href='https://alexxcons.github.io/blogpost_15.html'>Xfwl4 – The Roadmap for a Xfce Wayland Compositor</a></td></tr>
 <tr><td><a href='https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/'>430k-year-old well-preserved wooden tools are the oldest ever found</a></td></tr>
 <tr><td><a href='https://tonystr.net/blog/git_immitation'>I made my own Git</a></td></tr>
-<tr><td><a href='https://www.wsj.com/business/retail/amazon-to-shut-down-all-amazon-go-and-amazon-fresh-stores-0301dfb7'>Amazon to Shut Down All Amazon Go and Amazon Fresh Stores</a></td></tr>
-<tr><td><a href='https://tech.lgbt/@JadedBlueEyes/115967791152135761'>Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn&#x27;t</a></td></tr>
+<tr><td><a href='https://www.oneusefulthing.org/p/management-as-ai-superpower'>Management as AI superpower: Thriving in a world of agentic AI</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c1evvx89559o'>Heathrow scraps liquid container limit</a></td></tr>
 </table>
 <!-- END:news -->
 
