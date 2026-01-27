@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html'>430k-year-old well-preserved wooden tools are the oldest ever found</a></td></tr>
-<tr><td><a href='https://haveibeenpwned.com/Breach/SoundCloud'>SoundCloud Data Breach Now on HaveIBeenPwned</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/u-s-government-has-lost-more-10-000-stem-ph-d-s-trump-took-office'>U.S. government has lost more than 10k STEM PhDs since Trump took office</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
-<tr><td><a href='https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467'>OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing</a></td></tr>
+<tr><td><a href='https://haveibeenpwned.com/Breach/SoundCloud'>SoundCloud Data Breach Now on HaveIBeenPwned</a></td></tr>
+<tr><td><a href='https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6'>Clawdbot Renames to Moltbot</a></td></tr>
+<tr><td><a href='https://amutable.com/about'>Lennart Poettering, Christian Brauner founded a new company</a></td></tr>
 </table>
 <!-- END:news -->
 
