@@ -24,7 +24,7 @@
 <tr><td><a href='https://tonystr.net/blog/git_immitation'>I made my own Git</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c1evvx89559o'>Heathrow scraps liquid container limit</a></td></tr>
 <tr><td><a href='https://github.com/velox-apps/velox'>Velox: A Port of Tauri to Swift by Miguel de Icaza</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=46778461'>Ask HN: Books to learn 6502 ASM and the Apple II</a></td></tr>
+<tr><td><a href='https://potch.me/2026/snow-simulation-toy.html'>Snow Simulation Toy</a></td></tr>
 <tr><td><a href='https://telnet.org/htm/places.htm'>A list of fun destinations for telnet</a></td></tr>
 </table>
 <!-- END:news -->
