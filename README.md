@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.kimi.com/blog/kimi-k2-5.html'>Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model</a></td></tr>
 <tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The hidden engineering of runways</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Jan/26/chatgpt-containers/'>ChatGPT Containers can now run bash, pip&#x2F;npm install packages and download files</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/'>Apple introduces new AirTag with longer range and improved findability</a></td></tr>
+<tr><td><a href='https://telnet.org/htm/places.htm'>A list of fun destinations for telnet</a></td></tr>
 </table>
 <!-- END:news -->
 
