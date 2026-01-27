@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/01/tv100.html'>Television is 100 years old today</a></td></tr>
-<tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The Hidden Engineering of Runways</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Jan/26/chatgpt-containers/'>ChatGPT Containers can now run bash, pip&#x2F;npm install packages and download files</a></td></tr>
+<tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The Hidden Engineering of Runways</a></td></tr>
 <tr><td><a href='https://alexwennerberg.com/blog/2026-01-25-slop.html'>AI code and software craft</a></td></tr>
 <tr><td><a href='https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54'>People who know the formula for WD-40</a></td></tr>
 </table>
