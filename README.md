@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/'>430k-year-old well-preserved wooden tools are the oldest ever found</a></td></tr>
+<tr><td><a href='https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html'>430k-year-old well-preserved wooden tools are the oldest ever found</a></td></tr>
+<tr><td><a href='https://haveibeenpwned.com/Breach/SoundCloud'>SoundCloud Data Breach Now on HaveIBeenPwned</a></td></tr>
 <tr><td><a href='https://alexxcons.github.io/blogpost_15.html'>Xfwl4 – The Roadmap for a Xfce Wayland Compositor</a></td></tr>
 <tr><td><a href='https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467'>OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing</a></td></tr>
 <tr><td><a href='https://tonystr.net/blog/git_immitation'>I made my own Git</a></td></tr>
-<tr><td><a href='https://haveibeenpwned.com/Breach/SoundCloud'>SoundCloud Data Breach Now on HaveIBeenPwned</a></td></tr>
 </table>
 <!-- END:news -->
 
