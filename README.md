@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.bbc.com/news/articles/c1evvx89559o'>Heathrow scraps liquid container limit</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=46778461'>Ask HN: Books to learn 6502 ASM and the Apple II</a></td></tr>
 <tr><td><a href='https://www.kimi.com/blog/kimi-k2-5.html'>Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model</a></td></tr>
 <tr><td><a href='https://telnet.org/htm/places.htm'>A list of fun destinations for telnet</a></td></tr>
 <tr><td><a href='https://www.quantamagazine.org/in-mysterious-pattern-math-and-nature-converge-20130205/'>The Universal Pattern Popping Up in Math, Physics and Biology</a></td></tr>
-<tr><td><a href='https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways'>The hidden engineering of runways</a></td></tr>
 </table>
 <!-- END:news -->
 
