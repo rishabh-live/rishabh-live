@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html'>430k-year-old well-preserved wooden tools are the oldest ever found</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
 <tr><td><a href='https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6'>Clawdbot Renames to Moltbot</a></td></tr>
-<tr><td><a href='https://haveibeenpwned.com/Breach/SoundCloud'>SoundCloud Data Breach Now on HaveIBeenPwned</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
 <tr><td><a href='https://amutable.com/about'>Lennart Poettering, Christian Brauner founded a new company</a></td></tr>
+<tr><td><a href='https://twitter.com/karpathy/status/2015883857489522876'>A few random notes from Claude coding quite a bit last few weeks</a></td></tr>
 </table>
 <!-- END:news -->
 
