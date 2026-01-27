@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://alexxcons.github.io/blogpost_15.html'>Xfwl4 – The Roadmap for a Xfce Wayland Compositor</a></td></tr>
-<tr><td><a href='https://lightwaves.io/en/eu-audit/'>Show HN: We Built the 1. EU-Sovereignty Audit for Websites</a></td></tr>
 <tr><td><a href='https://tonystr.net/blog/git_immitation'>I made my own Git</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c1evvx89559o'>Heathrow scraps liquid container limit</a></td></tr>
 <tr><td><a href='https://potch.me/2026/snow-simulation-toy.html'>Snow Simulation Toy</a></td></tr>
+<tr><td><a href='https://www.gutenberg.org/files/45109/45109-h/45109-h.htm'>The Enchiridion by Epictetus</a></td></tr>
 </table>
 <!-- END:news -->
 
