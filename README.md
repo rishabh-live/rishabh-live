@@ -25,7 +25,7 @@
 <tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
 <tr><td><a href='https://www.dolekemp96.org/main.htm'>Dole Kemp 96 Web Site</a></td></tr>
 <tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
-<tr><td><a href='https://sentienceapi.com/blog/verification-layer-amazon-case-study'>A verification layer for browser agents: Amazon case study</a></td></tr>
+<tr><td><a href='https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/'>Amazon axes 16,000 jobs as it pushes AI and efficiency</a></td></tr>
 </table>
 <!-- END:news -->
 
