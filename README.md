@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://monkeyball-online.pages.dev/'>Super Monkey Ball ported to a website</a></td></tr>
-<tr><td><a href='https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb'>Apple MacBook Pro order deliveries delayed until mid March</a></td></tr>
 <tr><td><a href='https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities'>AI found 12 vulnerabilities in OpenSSL</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html'>430k-year-old well-preserved wooden tools are the oldest ever found</a></td></tr>
+<tr><td><a href='https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/'>Golden Ratio using an equilateral triangle inscribed in a circle</a></td></tr>
+<tr><td><a href='https://twitter.com/karpathy/status/2015883857489522876'>A few random notes from Claude coding quite a bit last few weeks</a></td></tr>
 </table>
 <!-- END:news -->
 
