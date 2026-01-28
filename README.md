@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://jellyfin.org/docs/general/contributing/llm-policies/'>Jellyfin LLM&#x2F;&quot;AI&quot; Development Policy</a></td></tr>
+<tr><td><a href='https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital'>How London became the rest of the world’s startup capital</a></td></tr>
 <tr><td><a href='https://github.com/ratatui/mousefood'>Mousefood – Build embedded terminal UIs for microcontrollers</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
-<tr><td><a href='https://www.dimamik.com/posts/oban_py/'>Oban, the job processing framework from Elixir, has come to Python</a></td></tr>
-<tr><td><a href='https://9to5google.com/2026/01/27/android-desktop-leak/'>Android&#x27;s desktop interface leaks</a></td></tr>
-<tr><td><a href='https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/'>The Five Levels: From spicy autocomplete to the dark factory</a></td></tr>
+<tr><td><a href='https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning'>Did a celebrated researcher obscure a baby&#x27;s poisoning?</a></td></tr>
 </table>
 <!-- END:news -->
 
