@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/ratatui/mousefood'>Mousefood – Build embedded terminal UIs for microcontrollers</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
-<tr><td><a href='https://linuxmusic.rocks'>Native Linux VST plugin directory</a></td></tr>
 <tr><td><a href='https://www.dimamik.com/posts/oban_py/'>Oban, the job processing framework from Elixir, has come to Python</a></td></tr>
-<tr><td><a href='https://www.himthe.dev/blog/microsoft-to-linux'>Microsoft forced me to switch to Linux</a></td></tr>
+<tr><td><a href='https://9to5google.com/2026/01/27/android-desktop-leak/'>Android&#x27;s desktop interface leaks</a></td></tr>
+<tr><td><a href='https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory/'>The Five Levels: From spicy autocomplete to the dark factory</a></td></tr>
 </table>
 <!-- END:news -->
 
