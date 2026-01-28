@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/'>ASML firing 1700 people, mostly managers</a></td></tr>
-<tr><td><a href='https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/'>I Stopped Following the News</a></td></tr>
 <tr><td><a href='https://matklad.github.io/2026/01/27/make-ts.html'>Make.ts</a></td></tr>
 <tr><td><a href='https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award'>There&#x27;s only one Woz, but we can all learn from him</a></td></tr>
 <tr><td><a href='https://yqnn.github.io/svg-path-editor/'>SVG Path Editor</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
 </table>
 <!-- END:news -->
 
