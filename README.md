@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.himthe.dev/blog/microsoft-to-linux'>Microsoft forced me to switch to Linux</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
-<tr><td><a href='https://amazonone.aws.com/help'>Amazone One palm authentication discontinued</a></td></tr>
+<tr><td><a href='https://github.com/vrn21/bouvet.com'>Show HN: I Built a Sandbox for Agents</a></td></tr>
 <tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
-<tr><td><a href='https://sentienceapi.com/blog/verification-layer-amazon-case-study'>A verification layer for browser agents: Amazon case study</a></td></tr>
+<tr><td><a href='https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/'>Will AIs Take All Our Jobs and End Human History–Or Not?</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
