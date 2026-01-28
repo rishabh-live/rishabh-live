@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.himthe.dev/blog/microsoft-to-linux'>Microsoft forced me to switch to Linux</a></td></tr>
-<tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
 <tr><td><a href='https://github.com/ratatui/mousefood'>Mousefood – Build embedded terminal UIs for microcontrollers</a></td></tr>
+<tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
 <tr><td><a href='https://www.dimamik.com/posts/oban_py/'>Oban, the job processing framework from Elixir, has come to Python</a></td></tr>
-<tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
+<tr><td><a href='https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/'>Computer History Museum Launches Digital Portal to Its Collection</a></td></tr>
 </table>
 <!-- END:news -->
 
