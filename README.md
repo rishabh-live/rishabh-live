@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.himthe.dev/blog/microsoft-to-linux'>Microsoft forced me to switch to Linux</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
-<tr><td><a href='https://www.dolekemp96.org/main.htm'>Dole Kemp 96 Web Site</a></td></tr>
-<tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
 <tr><td><a href='https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/'>Amazon axes 16,000 jobs as it pushes AI and efficiency</a></td></tr>
+<tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
+<tr><td><a href='https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html'>Package Management Is a Wicked Problem</a></td></tr>
 </table>
 <!-- END:news -->
 
