@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
 <tr><td><a href='https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award'>There&#x27;s only one Woz, but we can all learn from him</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
 <tr><td><a href='https://twitter.com/karpathy/status/2015883857489522876'>A few random notes from Claude coding quite a bit last few weeks</a></td></tr>
 <tr><td><a href='https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/'>Golden Ratio using an equilateral triangle inscribed in a circle</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html'>430k-year-old well-preserved wooden tools are the oldest ever found</a></td></tr>
