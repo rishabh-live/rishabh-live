@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.himthe.dev/blog/microsoft-to-linux'>Microsoft forced me to switch to Linux</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
+<tr><td><a href='https://www.dimamik.com/posts/oban_py/'>Oban, the job processing framework from Elixir, has come to Python</a></td></tr>
 <tr><td><a href='https://github.com/vrn21/bouvet.com'>Show HN: I Built a Sandbox for Agents</a></td></tr>
 <tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
-<tr><td><a href='https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/'>Will AIs Take All Our Jobs and End Human History–Or Not?</a></td></tr>
 </table>
 <!-- END:news -->
 
