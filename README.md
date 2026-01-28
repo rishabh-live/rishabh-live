@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.bmj.com/content/392/bmj.s168'>ICE and Palantir: US agents using health data to hunt illegal immigrants</a></td></tr>
 <tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
-<tr><td><a href='https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/'>If You Tax Them, Will They Leave?</a></td></tr>
 <tr><td><a href='https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award'>There&#x27;s only one Woz, but we can all learn from him</a></td></tr>
+<tr><td><a href='https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/'>Rust at Scale: An Added Layer of Security for WhatsApp</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
 </table>
 <!-- END:news -->
