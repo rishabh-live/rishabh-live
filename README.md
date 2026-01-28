@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://alecmuffett.com/article/143548'>Somebody used spoofed ADSB signals to raster the meme of JD Vance</a></td></tr>
-<tr><td><a href='https://www.economist.com/britain/2026/01/26/how-london-became-the-rest-of-the-worlds-startup-capital'>How London became the rest of the world’s startup capital</a></td></tr>
 <tr><td><a href='https://www.arcee.ai/blog/trinity-large'>Trinity large: An open 400B sparse MoE model</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
 <tr><td><a href='https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning'>Did a celebrated researcher obscure a baby&#x27;s poisoning?</a></td></tr>
+<tr><td><a href='https://github.com/ratatui/mousefood'>Mousefood – Build embedded terminal UIs for microcontrollers</a></td></tr>
 </table>
 <!-- END:news -->
 
