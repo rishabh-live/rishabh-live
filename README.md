@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.himthe.dev/blog/microsoft-to-linux'>Microsoft forced me to switch to Linux</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
-<tr><td><a href='https://9to5google.com/2026/01/27/android-desktop-leak/'>Android&#x27;s full desktop interface leaks: New status bar, Chrome Extensions</a></td></tr>
-<tr><td><a href='https://www.dimamik.com/posts/oban_py/'>Oban, the job processing framework from Elixir, has come to Python</a></td></tr>
 <tr><td><a href='https://github.com/ratatui/mousefood'>Mousefood – Build embedded terminal UIs for microcontrollers</a></td></tr>
+<tr><td><a href='https://www.dimamik.com/posts/oban_py/'>Oban, the job processing framework from Elixir, has come to Python</a></td></tr>
+<tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
 </table>
 <!-- END:news -->
 
