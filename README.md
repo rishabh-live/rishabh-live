@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://andrewgy8.github.io/hnarcade/'>Show HN: The HN Arcade</a></td></tr>
+<tr><td><a href='https://www.devuan.org/'>Devuan – Debian Without Systemd</a></td></tr>
 <tr><td><a href='https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award'>There&#x27;s only one Woz, but we can all learn from him</a></td></tr>
-<tr><td><a href='https://yqnn.github.io/svg-path-editor/'>SVG Path Editor</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-prism'>Prism</a></td></tr>
-<tr><td><a href='https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation'>ASML staffing changes could result in a net reduction of around 1700 positions</a></td></tr>
+<tr><td><a href='https://yqnn.github.io/svg-path-editor/'>SVG Path Editor</a></td></tr>
 </table>
 <!-- END:news -->
 
