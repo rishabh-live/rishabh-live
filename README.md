@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code Daily Benchmarks for Degradation Tracking</a></td></tr>
-<tr><td><a href='https://davidoks.blog/p/a-lot-of-population-numbers-are-fake'>A lot of population numbers are fake</a></td></tr>
 <tr><td><a href='https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images'>Europe’s next-generation weather satellite sends back first images</a></td></tr>
-<tr><td><a href='https://blog.xoria.org/terminal-colors/'>How to Choose Colors for Your CLI Applications</a></td></tr>
-<tr><td><a href='https://www.macrumors.com/2026/01/28/patreon-apple-tax/'>Apple to soon take up to 30% cut from all Patreon creators in iOS app</a></td></tr>
+<tr><td><a href='https://blog.xoria.org/terminal-colors/'>How to Choose Colors for Your CLI Applications (2023)</a></td></tr>
+<tr><td><a href='https://quesma.com/blog/introducing-otel-bench/'>OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)</a></td></tr>
+<tr><td><a href='https://www.breakmeifyoucan.com/'>Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES&#x2F;AES NFC</a></td></tr>
 </table>
 <!-- END:news -->
 
