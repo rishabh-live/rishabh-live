@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://web.mit.edu/jemorris/humor/500-miles'>We can&#x27;t send mail farther than 500 miles (2002)</a></td></tr>
 <tr><td><a href='https://github.com/lukilabs/beautiful-mermaid'>Render Mermaid diagrams as SVGs or ASCII art</a></td></tr>
 <tr><td><a href='https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105'>Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105</a></td></tr>
 <tr><td><a href='https://mecha.so/comet'>Mecha Comet – Open Modular Linux Handheld Computer</a></td></tr>
 <tr><td><a href='https://www.economist.com/science-and-technology/2026/01/21/satellites-encased-in-wood-are-in-the-works'>Satellites encased in wood are in the works</a></td></tr>
-<tr><td><a href='https://web.mit.edu/jemorris/humor/500-miles'>We can&#x27;t send mail farther than 500 miles (2002)</a></td></tr>
 </table>
 <!-- END:news -->
 
