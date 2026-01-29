@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/lukilabs/beautiful-mermaid'>Render Mermaid diagrams as SVGs or ASCII art</a></td></tr>
 <tr><td><a href='https://web.mit.edu/jemorris/humor/500-miles'>We can&#x27;t send mail farther than 500 miles (2002)</a></td></tr>
 <tr><td><a href='https://www.macrumors.com/2026/01/28/patreon-apple-tax/'>Apple to soon take up to 30% cut from all Patreon creators in iOS app</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105'>Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105</a></td></tr>
+<tr><td><a href='https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf'>The Chemistry of Tea [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
