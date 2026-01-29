@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/lukilabs/beautiful-mermaid'>Render Mermaid diagrams as SVGs or ASCII art</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/azurelinux'>Microsoft&#x27;s Azure Linux</a></td></tr>
 <tr><td><a href='https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105'>Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105</a></td></tr>
-<tr><td><a href='https://mecha.so/comet'>Mecha Comet – Open Modular Linux Handheld Computer</a></td></tr>
+<tr><td><a href='https://xmake.io/'>Xmake: A cross-platform build utility based on Lua</a></td></tr>
 </table>
 <!-- END:news -->
 
