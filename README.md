@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openai.com/index/retiring-gpt-4o-and-older-models/'>Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/'>Project Genie: Experimenting with infinite, interactive worlds</a></td></tr>
 <tr><td><a href='https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/'>PlayStation 2 Recompilation Project Is Absolutely Incredible</a></td></tr>
 <tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code daily benchmarks for degradation tracking</a></td></tr>
 <tr><td><a href='https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/'>Drug trio found to block tumour resistance in pancreatic cancer</a></td></tr>
+<tr><td><a href='https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals'>Compressed Agents.md &#x3E; Agent Skills</a></td></tr>
 </table>
 <!-- END:news -->
 
