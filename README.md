@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.ncase.me/on-depression/'>Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a></td></tr>
 <tr><td><a href='https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images'>Europe&#x27;s next-generation weather satellite sends back first images</a></td></tr>
+<tr><td><a href='https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/'>Winapp, the Windows App Development CLI – Windows Developer Blog</a></td></tr>
 <tr><td><a href='https://github.com/lukilabs/beautiful-mermaid'>Render Mermaid diagrams as SVGs or ASCII art</a></td></tr>
-<tr><td><a href='https://web.mit.edu/jemorris/humor/500-miles'>We can&#x27;t send mail farther than 500 miles (2002)</a></td></tr>
 <tr><td><a href='https://www.macrumors.com/2026/01/28/patreon-apple-tax/'>Apple to soon take up to 30% cut from all Patreon creators in iOS app</a></td></tr>
-<tr><td><a href='https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf'>The Chemistry of Tea [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
