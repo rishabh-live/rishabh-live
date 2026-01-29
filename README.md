@@ -24,8 +24,8 @@
 <tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code Daily Benchmarks for Degradation Tracking</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/'>Project Genie: Experimenting with infinite, interactive worlds</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=46812608'>Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes</a></td></tr>
-<tr><td><a href='https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images'>Europe’s next-generation weather satellite sends back first images</a></td></tr>
-<tr><td><a href='https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/'>US cybersecurity chief leaked sensitive government files to ChatGPT: Report</a></td></tr>
+<tr><td><a href='https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/'>Drug trio found to block tumour resistance in pancreatic cancer</a></td></tr>
+<tr><td><a href='https://quesma.com/blog/introducing-otel-bench/'>OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)</a></td></tr>
 </table>
 <!-- END:news -->
 
