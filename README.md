@@ -25,7 +25,7 @@
 <tr><td><a href='https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/'>PlayStation 2 Recompilation Project Is Absolutely Incredible</a></td></tr>
 <tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code daily benchmarks for degradation tracking</a></td></tr>
 <tr><td><a href='https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/'>Drug trio found to block tumour resistance in pancreatic cancer</a></td></tr>
-<tr><td><a href='https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals'>Compressed Agents.md &#x3E; Agent Skills</a></td></tr>
+<tr><td><a href='https://github.com/flameshot-org/flameshot'>Flameshot</a></td></tr>
 </table>
 <!-- END:news -->
 
