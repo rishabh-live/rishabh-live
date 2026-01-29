@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images'>Europe’s next-generation weather satellite sends back first images</a></td></tr>
+<tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code Daily Benchmarks for Degradation Tracking</a></td></tr>
 <tr><td><a href='https://davidoks.blog/p/a-lot-of-population-numbers-are-fake'>A lot of population numbers are fake</a></td></tr>
+<tr><td><a href='https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images'>Europe’s next-generation weather satellite sends back first images</a></td></tr>
 <tr><td><a href='https://www.macrumors.com/2026/01/28/patreon-apple-tax/'>Apple to soon take up to 30% cut from all Patreon creators in iOS app</a></td></tr>
 <tr><td><a href='https://playground.shaped.ai'>Show HN: ShapedQL – A SQL engine for multi-stage ranking and RAG</a></td></tr>
-<tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code Daily Benchmarks for Degradation Tracking</a></td></tr>
 </table>
 <!-- END:news -->
 
