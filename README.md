@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images'>Europe’s next-generation weather satellite sends back first images</a></td></tr>
-<tr><td><a href='https://blog.ncase.me/on-depression/'>Vitamin D and Omega-3 have a larger effect on depression than antidepressants</a></td></tr>
 <tr><td><a href='https://bayramovanar.substack.com/p/tech-market-is-fucked-up'>The tech market is fundamentally fucked up and AI is just a scapegoat</a></td></tr>
-<tr><td><a href='https://www.autoevolution.com/news/tuev-report-2026-tesla-model-y-has-the-worst-reliability-among-all-20222023-cars-261596.html'>TÜV Report 2026: Tesla Model Y has the worst reliability of all 2022–2023 cars</a></td></tr>
 <tr><td><a href='https://www.macrumors.com/2026/01/28/patreon-apple-tax/'>Apple to soon take up to 30% cut from all Patreon creators in iOS app</a></td></tr>
+<tr><td><a href='https://davidoks.blog/p/a-lot-of-population-numbers-are-fake'>A lot of population numbers are fake</a></td></tr>
+<tr><td><a href='https://github.com/lukilabs/beautiful-mermaid'>Render Mermaid diagrams as SVGs or ASCII art</a></td></tr>
 </table>
 <!-- END:news -->
 
