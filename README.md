@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/'>Project Genie: Experimenting with infinite, interactive worlds</a></td></tr>
-<tr><td><a href='https://restofworld.org/2025/ai-chatbot-china-sick/'>My Mom and Dr. DeepSeek (2025)</a></td></tr>
 <tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code Daily Benchmarks for Degradation Tracking</a></td></tr>
+<tr><td><a href='https://restofworld.org/2025/ai-chatbot-china-sick/'>My Mom and Dr. DeepSeek (2025)</a></td></tr>
+<tr><td><a href='https://bigbendsentinel.com/2026/01/28/taco-writer-detained-briefly-by-feds/'>Taco writer detained–briefly–by feds</a></td></tr>
 <tr><td><a href='https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/'>Drug trio found to block tumour resistance in pancreatic cancer</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=46812608'>Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes</a></td></tr>
 </table>
 <!-- END:news -->
 
