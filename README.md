@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://alecmuffett.com/article/143548'>Somebody used spoofed ADSB signals to raster the meme of JD Vance</a></td></tr>
-<tr><td><a href='https://www.arcee.ai/blog/trinity-large'>Trinity large: An open 400B sparse MoE model</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/magazine/2026/02/02/did-a-celebrated-researcher-obscure-a-fatal-poisoning'>Did a celebrated researcher obscure a baby&#x27;s poisoning?</a></td></tr>
-<tr><td><a href='https://ciechanow.ski/airfoil/'>Airfoil (2024)</a></td></tr>
-<tr><td><a href='https://github.com/microsoft/bf-tree'>Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index</a></td></tr>
+<tr><td><a href='https://mahadk.com/posts/ai-skills-hub'>The UK paid £4.1M for a bookmarks site</a></td></tr>
+<tr><td><a href='https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/'>Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k</a></td></tr>
+<tr><td><a href='https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in'>Please Don&#x27;t Say Mean Things about the AI I Just Invested a Billion Dollars In</a></td></tr>
+<tr><td><a href='https://github.com/Pickle-Pixel/netflix-force-4k'>I reverse-engineered Netflix&#x27;s 4K restrictions</a></td></tr>
 </table>
 <!-- END:news -->
 
