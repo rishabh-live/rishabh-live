@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://openai.com/index/retiring-gpt-4o-and-older-models/'>Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/'>Project Genie: Experimenting with infinite, interactive worlds</a></td></tr>
-<tr><td><a href='https://counterpointresearch.com/en/insights/iphone-16-worlds-best-selling-smartphone-in-2025-apple-takes-7-spots-in-top-10-models'>iPhone 16 Best-Selling Smartphone in 2025; Apple Takes 7 Spots in Top Models</a></td></tr>
-<tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code Daily Benchmarks for Degradation Tracking</a></td></tr>
+<tr><td><a href='https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/'>PlayStation 2 Recompilation Project Is Absolutely Incredible</a></td></tr>
+<tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code daily benchmarks for degradation tracking</a></td></tr>
 <tr><td><a href='https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/'>Drug trio found to block tumour resistance in pancreatic cancer</a></td></tr>
 </table>
 <!-- END:news -->
