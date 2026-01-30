@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://grid.space/stem/'>Grid: Forever free, local-first, browser-based 3D printing&#x2F;CNC&#x2F;laser slicer</a></td></tr>
 <tr><td><a href='https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/'>PlayStation 2 Recompilation Project Is Absolutely Incredible</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/'>Project Genie: Experimenting with infinite, interactive worlds</a></td></tr>
-<tr><td><a href='https://grid.space/stem/'>Grid: Forever free, local-first, browser-based 3D printing&#x2F;CNC&#x2F;laser slicer</a></td></tr>
+<tr><td><a href='https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax'>Where to Sleep in LAX</a></td></tr>
 <tr><td><a href='https://marginlab.ai/trackers/claude-code/'>Claude Code daily benchmarks for degradation tracking</a></td></tr>
-<tr><td><a href='https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/'>Drug trio found to block tumour resistance in pancreatic cancer</a></td></tr>
 </table>
 <!-- END:news -->
 
