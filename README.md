@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 <tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
-<tr><td><a href='https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/'>GOG: Linux &quot;the next major frontier&quot; for gaming as it works on a native client</a></td></tr>
 <tr><td><a href='http://tautvilas.lt/software-pump-and-dump/'>Software Pump and Dump</a></td></tr>
+<tr><td><a href='https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/'>GOG: Linux &quot;the next major frontier&quot; for gaming as it works on a native client</a></td></tr>
 <tr><td><a href='https://grid.space/stem/'>Grid: Free, local-first, browser-based 3D printing&#x2F;CNC&#x2F;laser slicer</a></td></tr>
 </table>
 <!-- END:news -->
