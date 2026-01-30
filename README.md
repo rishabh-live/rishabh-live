@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 <tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2601.20245'>How AI Impacts Skill Formation</a></td></tr>
 <tr><td><a href='https://grid.space/stem/'>Grid: Free, local-first, browser-based 3D printing&#x2F;CNC&#x2F;laser slicer</a></td></tr>
 <tr><td><a href='https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/'>PlayStation 2 Recompilation Project Is Absolutely Incredible</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/'>Project Genie: Experimenting with infinite, interactive worlds</a></td></tr>
 </table>
 <!-- END:news -->
 
