@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto'>ClawdBot Skills ganked all my crypto</a></td></tr>
 <tr><td><a href='https://ztechtalk.com/microsoft-teams'>Microsoft Just Killed the &quot;Cover for Me&quot; Excuse: 365 Now Tracks You in Real-Time</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/Jan/30/moltbook/'>Moltbook is the most interesting place on the internet</a></td></tr>
-<tr><td><a href='https://github.com/amlalabs/amla-sandbox'>Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
-<tr><td><a href='https://jamieclarketype.com/case-study/wallace-and-gromit-font/'>Buttered Crumpet, a custom typeface for Wallace and Gromit</a></td></tr>
+<tr><td><a href='https://github.com/amlalabs/amla-sandbox'>Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents</a></td></tr>
+<tr><td><a href='https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/'>The National Herbarium of Ireland digital collection of Irish plants</a></td></tr>
 </table>
 <!-- END:news -->
 
