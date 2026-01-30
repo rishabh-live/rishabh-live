@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/amlalabs/amla-sandbox'>Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 <tr><td><a href='https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html'>Implementing a tiny CPU rasterizer (2024)</a></td></tr>
-<tr><td><a href='https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers'>Wisconsin communities signed secrecy deals for billion-dollar data centers</a></td></tr>
+<tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
 </table>
 <!-- END:news -->
 
