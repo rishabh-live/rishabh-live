@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
+<tr><td><a href='https://bsky.social/about/blog/01-29-2026-transparency-report-2025'>Bluesky 2025 Transparency Report</a></td></tr>
 <tr><td><a href='https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf'>Kimi K2.5 Technical Report [pdf]</a></td></tr>
 <tr><td><a href='https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/'>The National Herbarium of Ireland digital collection of Irish plants</a></td></tr>
-<tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
-<tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=QKSPk_0N4Jc'>The engineer who invented the Mars rover suspension in his garage [video]</a></td></tr>
+<tr><td><a href='https://theintercept.com/2026/01/30/washington-post-hannah-natanson-fbi-biometrics-unlock-phone/'>A judge gave the FBI permission to attempt to bypass biometrics</a></td></tr>
 </table>
 <!-- END:news -->
 
