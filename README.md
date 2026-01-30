@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers'>Wisconsin communities signed secrecy deals for billion-dollar data centers</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/norway-ev-policy-electric-vehicles'>Norway EV Push Nears 100 Percent: What&#x27;s Next?</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
-<tr><td><a href='https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/'>Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron</a></td></tr>
 <tr><td><a href='http://tautvilas.lt/software-pump-and-dump/'>Software Pump and Dump</a></td></tr>
+<tr><td><a href='https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/'>Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron</a></td></tr>
 </table>
 <!-- END:news -->
 
