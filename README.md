@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/'>Surely the crash of the US economy has to be soon</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 <tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
 <tr><td><a href='http://tautvilas.lt/software-pump-and-dump/'>Software Pump and Dump</a></td></tr>
-<tr><td><a href='https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/'>GOG: Linux &quot;the next major frontier&quot; for gaming as it works on a native client</a></td></tr>
 <tr><td><a href='https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/'>Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron</a></td></tr>
 </table>
 <!-- END:news -->
