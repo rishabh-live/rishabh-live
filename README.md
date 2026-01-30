@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jamieclarketype.com/case-study/wallace-and-gromit-font/'>Buttered Crumpet, a custom typeface for Wallace and Gromit</a></td></tr>
 <tr><td><a href='https://github.com/amlalabs/amla-sandbox'>Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents</a></td></tr>
+<tr><td><a href='https://jamieclarketype.com/case-study/wallace-and-gromit-font/'>Buttered Crumpet, a custom typeface for Wallace and Gromit</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 <tr><td><a href='https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html'>Implementing a tiny CPU rasterizer (2024)</a></td></tr>
-<tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
+<tr><td><a href='https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/'>Emoji Design Convergence Review: 2018-2026</a></td></tr>
 </table>
 <!-- END:news -->
 
