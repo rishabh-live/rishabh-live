@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ztechtalk.com/microsoft-teams'>Microsoft Just Killed the &quot;Cover for Me&quot; Excuse: 365 Now Tracks You in Real-Time</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Jan/30/moltbook/'>Moltbook is the most interesting place on the internet</a></td></tr>
 <tr><td><a href='https://github.com/amlalabs/amla-sandbox'>Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents</a></td></tr>
-<tr><td><a href='https://jamieclarketype.com/case-study/wallace-and-gromit-font/'>Buttered Crumpet, a custom typeface for Wallace and Gromit</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
-<tr><td><a href='https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html'>Implementing a tiny CPU rasterizer (2024)</a></td></tr>
+<tr><td><a href='https://jamieclarketype.com/case-study/wallace-and-gromit-font/'>Buttered Crumpet, a custom typeface for Wallace and Gromit</a></td></tr>
 </table>
 <!-- END:news -->
 
