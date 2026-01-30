@@ -24,8 +24,8 @@
 <tr><td><a href='https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto'>ClawdBot Skills ganked all my crypto</a></td></tr>
 <tr><td><a href='https://ztechtalk.com/microsoft-teams'>Microsoft Just Killed the &quot;Cover for Me&quot; Excuse: 365 Now Tracks You in Real-Time</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
-<tr><td><a href='https://github.com/amlalabs/amla-sandbox'>Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents</a></td></tr>
 <tr><td><a href='https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/'>The National Herbarium of Ireland digital collection of Irish plants</a></td></tr>
+<tr><td><a href='https://github.com/amlalabs/amla-sandbox'>Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents</a></td></tr>
 </table>
 <!-- END:news -->
 
