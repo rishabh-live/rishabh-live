@@ -23,7 +23,7 @@
 <table>
 <tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
 <tr><td><a href='https://peerweb.lol/'>Peerweb: Decentralized website hosting via WebTorrent</a></td></tr>
-<tr><td><a href='https://steve-yegge.medium.com/software-survival-3-0-97a2a6255f7b'>Software Survival 3.0</a></td></tr>
+<tr><td><a href='https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177'>Show HN: I built an AI conversation partner to practice speaking languages</a></td></tr>
 <tr><td><a href='https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf'>Kimi K2.5 Technical Report [pdf]</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 </table>
