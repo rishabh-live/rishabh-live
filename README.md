@@ -25,7 +25,7 @@
 <tr><td><a href='https://peerweb.lol/'>Peerweb: Decentralized website hosting via WebTorrent</a></td></tr>
 <tr><td><a href='https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177'>Show HN: I built an AI conversation partner to practice speaking languages</a></td></tr>
 <tr><td><a href='https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf'>Kimi K2.5 Technical Report [pdf]</a></td></tr>
-<tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
+<tr><td><a href='https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network'>Disrupting the largest residential proxy network</a></td></tr>
 </table>
 <!-- END:news -->
 
