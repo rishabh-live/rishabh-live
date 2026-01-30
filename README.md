@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://vcad.io'>Vcad: Free BRep CAD in the Browser</a></td></tr>
+<tr><td><a href='https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf'>Kimi K2.5 Technical Report [pdf]</a></td></tr>
 <tr><td><a href='https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/'>The National Herbarium of Ireland digital collection of Irish plants</a></td></tr>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 <tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
-<tr><td><a href='https://github.com/kristianaryanto/Quack-Cluster'>Quack-Cluster: A Serverless Distributed SQL Query Engine with DuckDB and Ray</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=QKSPk_0N4Jc'>The engineer who invented the Mars rover suspension in his garage [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
