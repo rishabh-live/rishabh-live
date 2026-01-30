@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 <tr><td><a href='http://tautvilas.lt/software-pump-and-dump/'>Software Pump and Dump</a></td></tr>
-<tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
 <tr><td><a href='https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/'>Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron</a></td></tr>
-<tr><td><a href='https://github.com/heltilda/cicada'>Show HN: Cicada – a scripting language that integrates with C</a></td></tr>
+<tr><td><a href='https://openclaw.ai/blog/introducing-openclaw'>OpenClaw – Moltbot Renamed Again</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=QKSPk_0N4Jc'>The Engineer who invented the Mars Rover Suspension in his garage [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
