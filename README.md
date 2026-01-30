@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 <tr><td><a href='https://grid.space/stem/'>Grid: Free, local-first, browser-based 3D printing&#x2F;CNC&#x2F;laser slicer</a></td></tr>
 <tr><td><a href='https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/'>The Dank Case for Scrolling Window Managers</a></td></tr>
 <tr><td><a href='https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/'>PlayStation 2 Recompilation Project Is Absolutely Incredible</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/'>Project Genie: Experimenting with infinite, interactive worlds</a></td></tr>
-<tr><td><a href='https://www.moltbook.com/'>Moltbook</a></td></tr>
 </table>
 <!-- END:news -->
 
