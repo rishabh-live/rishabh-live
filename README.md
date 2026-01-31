@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
-<tr><td><a href='https://genode.org/about/index'>Genode OS is a tool kit for building highly secure special-purpose OS</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2512.21473'>Demystifying ARM SME to Optimize General Matrix Multiplications</a></td></tr>
-<tr><td><a href='https://calebjohn.xyz/blog/b2cc/'>Claude Code is your customer</a></td></tr>
 <tr><td><a href='https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html'>Outsourcing Thinking</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2512.21473'>Demystifying ARM SME to Optimize General Matrix Multiplications</a></td></tr>
+<tr><td><a href='https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/'>Generative AI and Wikipedia editing: What we learned in 2025</a></td></tr>
+<tr><td><a href='https://github.com/rtvkiz/minimal'>Show HN: Minimal – Open-Source Community driven Hardened Container Images</a></td></tr>
 </table>
 <!-- END:news -->
 
