@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
+<tr><td><a href='https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/'>Sumerian Star Map Recorded the Impact of an Asteroid (2024)</a></td></tr>
 <tr><td><a href='https://simedw.com/2026/01/31/ear-pronunication-via-ctc/'>Show HN: I trained a 9M speech model to fix my Mandarin tones</a></td></tr>
 <tr><td><a href='https://phage-explorer.org/'>Show HN: Phage Explorer</a></td></tr>
-<tr><td><a href='https://en.wikipedia.org/wiki/Ashcan_comic'>Ashcan Comic</a></td></tr>
 <tr><td><a href='https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w'>A novelist who took on the Italian mafia and lived</a></td></tr>
 </table>
 <!-- END:news -->
