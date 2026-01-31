@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://genode.org/about/index'>Genode OS is a tool kit for building highly secure special-purpose OS</a></td></tr>
 <tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
-<tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
-<tr><td><a href='https://www.nbcnews.com/tech/internet/college-students-ai-cheating-detectors-humanizers-rcna253878'>Students using “humanizer” programs to beat accusations of cheating with AI</a></td></tr>
+<tr><td><a href='https://genode.org/about/index'>Genode OS is a tool kit for building highly secure special-purpose OS</a></td></tr>
+<tr><td><a href='https://yle.fi/a/74-20207494'>Finland to end &quot;uncontrolled human experiment&quot; with ban on youth social media</a></td></tr>
 <tr><td><a href='https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/'>Animated AVIF for the Modern Web</a></td></tr>
+<tr><td><a href='https://github.com/zpoint/CPython-Internals'>CPython Internals Explained</a></td></tr>
 </table>
 <!-- END:news -->
 
