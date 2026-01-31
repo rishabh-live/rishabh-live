@@ -24,8 +24,8 @@
 <tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
 <tr><td><a href='https://simedw.com/2026/01/31/ear-pronunication-via-ctc/'>Show HN: I trained a 9M speech model to fix my Mandarin tones</a></td></tr>
 <tr><td><a href='https://phage-explorer.org/'>Show HN: Phage Explorer</a></td></tr>
+<tr><td><a href='https://www.thetimes.com/culture/books/article/sicilian-man-leonardo-sciascia-rise-mafia-struggle-italy-soul-caroline-moorehead-review-lbsbd2p5w'>A novelist who took on the Italian mafia and lived</a></td></tr>
 <tr><td><a href='https://peerweb.lol/'>Peerweb: Decentralized website hosting via WebTorrent</a></td></tr>
-<tr><td><a href='https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/'>Target director&#x27;s Global Entry was revoked after ICE used app to scan her face</a></td></tr>
 </table>
 <!-- END:news -->
 
