@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
-<tr><td><a href='https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/'>NASA&#x27;s WB-57 crash lands at Houston</a></td></tr>
 <tr><td><a href='https://github.com/zpoint/CPython-Internals'>CPython Internals Explained</a></td></tr>
+<tr><td><a href='https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/'>NASA&#x27;s WB-57 crash lands at Houston</a></td></tr>
+<tr><td><a href='https://www.theatlantic.com/ideas/2026/01/college-students-movies-attention-span/685812/'>The Film Students Who Can No Longer Sit Through Films</a></td></tr>
 <tr><td><a href='https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/'>We have ipinfo at home or how to geolocate IPs in your CLI using latency</a></td></tr>
-<tr><td><a href='https://nemin.hu/guix.html'>Guix System First Impressions as a Nix User</a></td></tr>
 </table>
 <!-- END:news -->
 
