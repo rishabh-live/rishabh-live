@@ -25,7 +25,7 @@
 <tr><td><a href='https://genode.org/about/index'>Genode OS is a tool kit for building highly secure special-purpose OS</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private'>US has investigated claims WhatsApp chats aren&#x27;t private</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2512.21473'>Demystifying ARM SME to Optimize General Matrix Multiplications</a></td></tr>
-<tr><td><a href='https://github.com/zpoint/CPython-Internals'>CPython Internals Explained</a></td></tr>
+<tr><td><a href='https://www.usenix.org/system/files/login-logout_1305_mickens.pdf'>The Saddest Moment (2013) [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
