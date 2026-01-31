@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
 <tr><td><a href='https://simedw.com/2026/01/31/ear-pronunication-via-ctc/'>Show HN: I trained a 9M speech model to fix my Mandarin tones</a></td></tr>
+<tr><td><a href='https://phage-explorer.org/'>Show HN: Phage Explorer</a></td></tr>
 <tr><td><a href='https://peerweb.lol/'>Peerweb: Decentralized website hosting via WebTorrent</a></td></tr>
-<tr><td><a href='https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/'>Stonebraker on CAP theorem and Databases (2010)</a></td></tr>
-<tr><td><a href='https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf'>Kimi K2.5 Technical Report [pdf]</a></td></tr>
+<tr><td><a href='https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/'>Target director&#x27;s Global Entry was revoked after ICE used app to scan her face</a></td></tr>
 </table>
 <!-- END:news -->
 
