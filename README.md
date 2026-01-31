@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
 <tr><td><a href='https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf'>Apple Platform Security (Jan 2026) [pdf]</a></td></tr>
 <tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
 <tr><td><a href='https://github.com/zpoint/CPython-Internals'>CPython Internals Explained</a></td></tr>
-<tr><td><a href='https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/'>NASA&#x27;s WB-57 crash lands at Houston</a></td></tr>
 <tr><td><a href='https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/'>Animated AVIF for the Modern Web</a></td></tr>
 </table>
 <!-- END:news -->
