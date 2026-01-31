@@ -24,7 +24,7 @@
 <tr><td><a href='https://antirender.com/'>Antirender: remove the glossy shine on architectural renderings</a></td></tr>
 <tr><td><a href='https://simedw.com/2026/01/31/ear-pronunication-via-ctc/'>Show HN: I trained a 9M speech model to fix my Mandarin tones</a></td></tr>
 <tr><td><a href='https://peerweb.lol/'>Peerweb: Decentralized website hosting via WebTorrent</a></td></tr>
-<tr><td><a href='https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/'>Stonebraker on CAP theorem and Databases</a></td></tr>
+<tr><td><a href='https://perspectives.mvdirona.com/2010/04/stonebraker-on-cap-theorem-and-databases/'>Stonebraker on CAP theorem and Databases (2010)</a></td></tr>
 <tr><td><a href='https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3'>The $100B megadeal between OpenAI and Nvidia is on ice</a></td></tr>
 </table>
 <!-- END:news -->
