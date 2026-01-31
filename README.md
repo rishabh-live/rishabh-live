@@ -25,7 +25,7 @@
 <tr><td><a href='https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/'>We have ipinfo at home or how to geolocate IPs in your CLI using latency</a></td></tr>
 <tr><td><a href='https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/'>NASA&#x27;s WB-57 crash lands at Houston</a></td></tr>
 <tr><td><a href='https://nemin.hu/guix.html'>Guix System First Impressions as a Nix User</a></td></tr>
-<tr><td><a href='https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/'>Sumerian Star Map Recorded the Impact of an Asteroid (2024)</a></td></tr>
+<tr><td><a href='https://jvoight.github.io/quat.html'>Quaternion Algebras</a></td></tr>
 </table>
 <!-- END:news -->
 
