@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
 <tr><td><a href='https://genode.org/about/index'>Genode OS is a tool kit for building highly secure special-purpose OS</a></td></tr>
-<tr><td><a href='https://yle.fi/a/74-20207494'>Finland to end &quot;uncontrolled human experiment&quot; with ban on youth social media</a></td></tr>
-<tr><td><a href='https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/'>Animated AVIF for the Modern Web</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private'>US has investigated claims WhatsApp chats aren&#x27;t private</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2512.21473'>Demystifying ARM SME to Optimize General Matrix Multiplications</a></td></tr>
 <tr><td><a href='https://github.com/zpoint/CPython-Internals'>CPython Internals Explained</a></td></tr>
 </table>
 <!-- END:news -->
