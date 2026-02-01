@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://rose.systems/animalist/'>List animals until failure</a></td></tr>
 <tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/'>Cells use &#x27;bioelectricity&#x27; to coordinate and make group decisions</a></td></tr>
+<tr><td><a href='https://github.com/DataDog/pg_tracing'>pg_tracing: Distributed Tracing for PostgreSQL</a></td></tr>
 <tr><td><a href='https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/'>In praise of –dry-run</a></td></tr>
-<tr><td><a href='https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/'>Generative AI and Wikipedia editing: What we learned in 2025</a></td></tr>
-<tr><td><a href='https://opentrees.org/#pos=1/-37.8/145'>Opentrees.org (2024)</a></td></tr>
-<tr><td><a href='https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/'>Scientist who helped eradicate smallpox dies at age 89</a></td></tr>
 </table>
 <!-- END:news -->
 
