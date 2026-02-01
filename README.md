@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='http://apple1.chez.com/Apple1project/Gallery/Gallery.htm'>Apple: Our philosophy is to provide software for our machines free (1976)</a></td></tr>
 <tr><td><a href='https://www.adventuregamestudio.co.uk/'>Adventure Game Studio: OSS software for creating adventure games</a></td></tr>
 <tr><td><a href='https://netbird.io/'>Netbird – Open Source Zero Trust Networking</a></td></tr>
 <tr><td><a href='https://mariozechner.at/posts/2025-11-30-pi-coding-agent/'>What I learned building an opinionated and minimal coding agent</a></td></tr>
 <tr><td><a href='https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/'>MicroPythonOS graphical operating system delivers Android-like user experience</a></td></tr>
-<tr><td><a href='http://apple1.chez.com/Apple1project/Gallery/Gallery.htm'>Apple: Our philosophy is to provide software for our machines free (1976)</a></td></tr>
 </table>
 <!-- END:news -->
 
