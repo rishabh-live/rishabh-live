@@ -24,8 +24,8 @@
 <tr><td><a href='https://netbird.io/'>Netbird – Open Source Zero Trust Networking</a></td></tr>
 <tr><td><a href='https://www.adventuregamestudio.co.uk/'>Adventure Game Studio: OSS software for creating adventure games</a></td></tr>
 <tr><td><a href='https://mariozechner.at/posts/2025-11-30-pi-coding-agent/'>What I learned building an opinionated and minimal coding agent</a></td></tr>
+<tr><td><a href='https://github.com/zuckermanai/zuckerman'>Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code</a></td></tr>
 <tr><td><a href='https://nostarch.com/book-of-pf-4th-edition'>The Book of PF, 4th edition</a></td></tr>
-<tr><td><a href='https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/'>FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap</a></td></tr>
 </table>
 <!-- END:news -->
 
