@@ -25,7 +25,7 @@
 <tr><td><a href='https://mariozechner.at/posts/2025-11-30-pi-coding-agent/'>What I learned building an opinionated and minimal coding agent</a></td></tr>
 <tr><td><a href='https://nostarch.com/book-of-pf-4th-edition'>The Book of PF, 4th edition</a></td></tr>
 <tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=uMqx8NNT4xY'>The history of C# and TypeScript with Anders Hejlsberg | GitHub</a></td></tr>
+<tr><td><a href='https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/'>Reliable 25 Gigabit Ethernet via Thunderbolt</a></td></tr>
 </table>
 <!-- END:news -->
 
