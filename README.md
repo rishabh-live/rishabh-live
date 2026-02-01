@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://netbird.io/'>Netbird – Open Source Zero Trust Networking</a></td></tr>
 <tr><td><a href='https://mariozechner.at/posts/2025-11-30-pi-coding-agent/'>What I learned building an opinionated and minimal coding agent</a></td></tr>
-<tr><td><a href='https://nostarch.com/book-of-pf-4th-edition'>The Book of PF, 4th edition</a></td></tr>
 <tr><td><a href='https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users'>How to Scale a System from 0 to 10M+ Users</a></td></tr>
+<tr><td><a href='https://nostarch.com/book-of-pf-4th-edition'>The Book of PF, 4th edition</a></td></tr>
 <tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
 </table>
 <!-- END:news -->
