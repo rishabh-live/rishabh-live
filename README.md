@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='http://apple1.chez.com/Apple1project/Gallery/Gallery.htm'>Apple I Advertisement (1976)</a></td></tr>
+<tr><td><a href='https://asymco.com/2026/02/01/margin-call-3/'>Apple&#x27;s Q4 2025 margin on Services was 76.5%</a></td></tr>
+<tr><td><a href='https://www.iranintl.com/en/202602017863'>Iran summons families of exiled journalists to halt their activities</a></td></tr>
 <tr><td><a href='https://depthfirst.com/post/1-click-rce-to-steal-your-moltbot-data-and-keys'>1-Click RCE to steal your Moltbot data and keys</a></td></tr>
+<tr><td><a href='http://apple1.chez.com/Apple1project/Gallery/Gallery.htm'>Apple I Advertisement (1976)</a></td></tr>
 <tr><td><a href='https://www.adventuregamestudio.co.uk/'>Adventure Game Studio: OSS software for creating adventure games</a></td></tr>
-<tr><td><a href='https://netbird.io/'>Netbird – Open Source Zero Trust Networking</a></td></tr>
-<tr><td><a href='https://cedardb.com/blog/string_compression/'>Efficient String Compression for Modern Database Systems</a></td></tr>
 </table>
 <!-- END:news -->
 
