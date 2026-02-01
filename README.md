@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=uMqx8NNT4xY'>The history of C# and TypeScript with Anders Hejlsberg | GitHub</a></td></tr>
 <tr><td><a href='https://rose.systems/animalist/'>List animals until failure</a></td></tr>
 <tr><td><a href='https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/'>In praise of –dry-run</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=uMqx8NNT4xY'>The history of C# and TypeScript with Anders Hejlsberg | GitHub</a></td></tr>
 <tr><td><a href='https://github.com/DataDog/pg_tracing'>pg_tracing: Distributed Tracing for PostgreSQL</a></td></tr>
 </table>
 <!-- END:news -->
