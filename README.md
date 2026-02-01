@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://netbird.io/'>Netbird – Open Source Zero Trust Networking</a></td></tr>
-<tr><td><a href='https://mariozechner.at/posts/2025-11-30-pi-coding-agent/'>What I learned building an opinionated and minimal coding agent</a></td></tr>
-<tr><td><a href='https://blog.algomaster.io/p/scaling-a-system-from-0-to-10-million-users'>How to Scale a System from 0 to 10M+ Users</a></td></tr>
-<tr><td><a href='https://nostarch.com/book-of-pf-4th-edition'>The Book of PF, 4th edition</a></td></tr>
 <tr><td><a href='https://www.adventuregamestudio.co.uk/'>Adventure Game Studio: OSS software for creating adventure games</a></td></tr>
+<tr><td><a href='https://mariozechner.at/posts/2025-11-30-pi-coding-agent/'>What I learned building an opinionated and minimal coding agent</a></td></tr>
+<tr><td><a href='https://nostarch.com/book-of-pf-4th-edition'>The Book of PF, 4th edition</a></td></tr>
+<tr><td><a href='https://www.amigaunix.com/doku.php/home'>Amiga Unix (Amix)</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
