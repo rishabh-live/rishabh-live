@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://netbird.io/'>Netbird – Open Source Zero Trust Networking</a></td></tr>
 <tr><td><a href='https://www.adventuregamestudio.co.uk/'>Adventure Game Studio: OSS software for creating adventure games</a></td></tr>
+<tr><td><a href='https://yaledailynews.com/articles/english-professors-double-down-on-requiring-printed-copies-of-readings'>English professors double down on requiring printed copies of readings</a></td></tr>
 <tr><td><a href='https://mariozechner.at/posts/2025-11-30-pi-coding-agent/'>What I learned building an opinionated and minimal coding agent</a></td></tr>
-<tr><td><a href='https://github.com/zuckermanai/zuckerman'>Show HN: Zuckerman – minimalist personal AI agent that self-edits its own code</a></td></tr>
-<tr><td><a href='https://nostarch.com/book-of-pf-4th-edition'>The Book of PF, 4th edition</a></td></tr>
+<tr><td><a href='https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/'>MicroPythonOS graphical operating system delivers Android-like user experience</a></td></tr>
 </table>
 <!-- END:news -->
 
