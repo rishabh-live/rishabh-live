@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://an.dywa.ng/carrier-gnss.html'>Mobile carriers can get your GPS location</a></td></tr>
-<tr><td><a href='https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust'>Swift is a more convenient Rust</a></td></tr>
-<tr><td><a href='https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/'>Generative AI and Wikipedia editing: What we learned in 2025</a></td></tr>
 <tr><td><a href='https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/'>Scientist who helped eradicate smallpox dies at age 89</a></td></tr>
+<tr><td><a href='https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/'>Generative AI and Wikipedia editing: What we learned in 2025</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2512.21473'>Demystifying ARM SME to Optimize General Matrix Multiplications</a></td></tr>
+<tr><td><a href='https://www.usenix.org/system/files/login-logout_1305_mickens.pdf'>The Saddest Moment (2013) [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
