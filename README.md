@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='http://apple1.chez.com/Apple1project/Gallery/Gallery.htm'>Apple I Advertisement (1976)</a></td></tr>
 <tr><td><a href='https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle'>Defeating a 40-year-old copy protection dongle</a></td></tr>
+<tr><td><a href='https://github.com/gavrielc/nanoclaw'>Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation</a></td></tr>
+<tr><td><a href='http://apple1.chez.com/Apple1project/Gallery/Gallery.htm'>Apple I Advertisement (1976)</a></td></tr>
+<tr><td><a href='https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/'>My thousand dollar iPhone can&#x27;t do math</a></td></tr>
 <tr><td><a href='https://www.adventuregamestudio.co.uk/'>Adventure Game Studio: OSS software for creating adventure games</a></td></tr>
-<tr><td><a href='https://netbird.io/'>Netbird – Open Source Zero Trust Networking</a></td></tr>
-<tr><td><a href='https://cedardb.com/blog/string_compression/'>Efficient String Compression for Modern Database Systems</a></td></tr>
 </table>
 <!-- END:news -->
 
