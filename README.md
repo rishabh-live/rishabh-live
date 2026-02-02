@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://notepad-plus-plus.org/news/hijacked-incident-info-update/'>Notepad++ hijacked by state-sponsored actors</a></td></tr>
 <tr><td><a href='https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle'>Defeating a 40-year-old copy protection dongle</a></td></tr>
-<tr><td><a href='https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf'>Actors: A Model of Concurrent Computation [pdf]</a></td></tr>
+<tr><td><a href='https://notepad-plus-plus.org/news/hijacked-incident-info-update/'>Notepad++ hijacked by state-sponsored actors</a></td></tr>
 <tr><td><a href='https://github.com/gavrielc/nanoclaw'>Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation</a></td></tr>
+<tr><td><a href='https://xikipedia.org'>Show HN: Wikipedia as a doomscrollable social media feed</a></td></tr>
 <tr><td><a href='http://apple1.chez.com/Apple1project/Gallery/Gallery.htm'>Apple I Advertisement (1976)</a></td></tr>
 </table>
 <!-- END:news -->
