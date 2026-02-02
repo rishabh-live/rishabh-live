@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://neutree.ai/blog/nano-vllm-part-1'>Nano-vLLM: How a vLLM-style inference engine works</a></td></tr>
 <tr><td><a href='https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html'>Geologists may have solved mystery of Green River&#x27;s &#x27;uphill&#x27; route</a></td></tr>
+<tr><td><a href='https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/'>4x faster network file sync with rclone (vs rsync) (2025)</a></td></tr>
 <tr><td><a href='https://anil.recoil.org/notes/oxcaml-httpz'>My fast zero-allocation webserver using OxCaml</a></td></tr>
 <tr><td><a href='https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle'>Defeating a 40-year-old copy protection dongle</a></td></tr>
-<tr><td><a href='https://github.com/termux/termux-app'>Termux</a></td></tr>
 </table>
 <!-- END:news -->
 
