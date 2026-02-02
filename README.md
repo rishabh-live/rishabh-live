@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://news.ycombinator.com/item?id=46857488'>Ask HN: Who is hiring? (February 2026)</a></td></tr>
+<tr><td><a href='https://www.millert.dev/'>Todd C. Miller – sudo Maintainer for over 30 years</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/'>Advancing AI Benchmarking with Game Arena</a></td></tr>
 <tr><td><a href='https://neutree.ai/blog/nano-vllm-part-1'>Nano-vLLM: How a vLLM-style inference engine works</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html'>Geologists may have solved mystery of Green River&#x27;s &#x27;uphill&#x27; route</a></td></tr>
-<tr><td><a href='https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/'>4x faster network file sync with rclone (vs rsync) (2025)</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=46857487'>Ask HN: Who wants to be hired? (February 2026)</a></td></tr>
+<tr><td><a href='https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html'>Linux From Scratch Ends SysVinit Support</a></td></tr>
 </table>
 <!-- END:news -->
 
