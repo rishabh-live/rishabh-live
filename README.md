@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle'>Defeating a 40-year-old copy protection dongle</a></td></tr>
 <tr><td><a href='https://github.com/gavrielc/nanoclaw'>Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c93v21q5xdvo'>Treasures found on HS2 route stored in secret warehouse</a></td></tr>
+<tr><td><a href='https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/'>Two kinds of AI users are emerging. The gap between them is astonishing</a></td></tr>
 <tr><td><a href='http://apple1.chez.com/Apple1project/Gallery/Gallery.htm'>Apple I Advertisement (1976)</a></td></tr>
-<tr><td><a href='https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/'>My thousand dollar iPhone can&#x27;t do math</a></td></tr>
-<tr><td><a href='https://netbird.io/'>Netbird – Open Source Zero Trust Networking</a></td></tr>
 </table>
 <!-- END:news -->
 
