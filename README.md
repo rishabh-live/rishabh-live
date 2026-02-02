@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/termux/termux-app'>Termux</a></td></tr>
 <tr><td><a href='https://neutree.ai/blog/nano-vllm-part-1'>Nano-vLLM: How a vLLM-style inference engine works</a></td></tr>
 <tr><td><a href='https://github.com/surprisetalk/AdBoost'>Adboost: A browser extension that adds ads to every webpage</a></td></tr>
 <tr><td><a href='https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle'>Defeating a 40-year-old copy protection dongle</a></td></tr>
 <tr><td><a href='https://anil.recoil.org/notes/oxcaml-httpz'>My fast zero-allocation webserver using OxCaml</a></td></tr>
+<tr><td><a href='https://github.com/termux/termux-app'>Termux</a></td></tr>
 </table>
 <!-- END:news -->
 
