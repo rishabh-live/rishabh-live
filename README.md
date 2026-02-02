@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://news.ycombinator.com/item?id=46857488'>Ask HN: Who is hiring? (February 2026)</a></td></tr>
 <tr><td><a href='https://neutree.ai/blog/nano-vllm-part-1'>Nano-vLLM: How a vLLM-style inference engine works</a></td></tr>
 <tr><td><a href='https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html'>Geologists may have solved mystery of Green River&#x27;s &#x27;uphill&#x27; route</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=46857488'>Ask HN: Who is hiring? (February 2026)</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/'>4x faster network file sync with rclone (vs rsync) (2025)</a></td></tr>
-<tr><td><a href='https://www.bloomberg.com/news/articles/2026-01-31/waymo-seeking-about-16-billion-near-110-billion-valuation'>Waymo Seeking About $16B Near $110B Valuation</a></td></tr>
+<tr><td><a href='https://anil.recoil.org/notes/oxcaml-httpz'>My fast zero-allocation webserver using OxCaml</a></td></tr>
 </table>
 <!-- END:news -->
 
