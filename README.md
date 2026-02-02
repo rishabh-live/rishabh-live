@@ -24,8 +24,8 @@
 <tr><td><a href='https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle'>Defeating a 40-year-old copy protection dongle</a></td></tr>
 <tr><td><a href='https://lapcatsoftware.com/articles/2026/2/1.html'>Apple&#x27;s MacBook Pro DFU port documentation is wrong</a></td></tr>
 <tr><td><a href='https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/'>My iPhone 16 Pro Max produces garbage output when running MLX LLMs</a></td></tr>
-<tr><td><a href='https://github.com/gavrielc/nanoclaw'>Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation</a></td></tr>
 <tr><td><a href='https://xikipedia.org'>Show HN: Wikipedia as a doomscrollable social media feed</a></td></tr>
+<tr><td><a href='https://github.com/gavrielc/nanoclaw'>Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation</a></td></tr>
 </table>
 <!-- END:news -->
 
