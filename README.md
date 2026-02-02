@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle'>Defeating a 40-year-old copy protection dongle</a></td></tr>
 <tr><td><a href='https://github.com/termux/termux-app'>Termux</a></td></tr>
 <tr><td><a href='https://every.to/guides/agent-native'>Applications where agents are first-class citizens</a></td></tr>
-<tr><td><a href='https://lapcatsoftware.com/articles/2026/2/1.html'>Apple&#x27;s MacBook Pro DFU port documentation is wrong</a></td></tr>
+<tr><td><a href='https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle'>Defeating a 40-year-old copy protection dongle</a></td></tr>
 <tr><td><a href='https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/'>My iPhone 16 Pro Max produces garbage output when running MLX LLMs</a></td></tr>
+<tr><td><a href='https://lapcatsoftware.com/articles/2026/2/1.html'>Apple&#x27;s MacBook Pro DFU port documentation is wrong</a></td></tr>
 </table>
 <!-- END:news -->
 
