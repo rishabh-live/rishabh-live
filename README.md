@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.spacex.com/updates#xai-joins-spacex'>xAI joins SpaceX</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-the-codex-app/'>The Codex App</a></td></tr>
+<tr><td><a href='https://forums.ankiweb.net/t/ankis-growing-up/68610'>Anki ownership transferred to AnkiHub</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com?todayis=2026-02-02'>GitHub experience various partial-outages&#x2F;degradations</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=46857488'>Ask HN: Who is hiring? (February 2026)</a></td></tr>
-<tr><td><a href='https://www.millert.dev/'>Todd C. Miller – sudo Maintainer for over 30 years</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/'>Advancing AI Benchmarking with Game Arena</a></td></tr>
-<tr><td><a href='https://neutree.ai/blog/nano-vllm-part-1'>Nano-vLLM: How a vLLM-style inference engine works</a></td></tr>
-<tr><td><a href='https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html'>Linux From Scratch Ends SysVinit Support</a></td></tr>
 </table>
 <!-- END:news -->
 
