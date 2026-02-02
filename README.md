@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.spacex.com/updates#xai-joins-spacex'>xAI joins SpaceX</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-the-codex-app/'>The Codex App</a></td></tr>
-<tr><td><a href='https://forums.ankiweb.net/t/ankis-growing-up/68610'>Anki ownership transferred to AnkiHub</a></td></tr>
 <tr><td><a href='https://www.githubstatus.com?todayis=2026-02-02'>GitHub experience various partial-outages&#x2F;degradations</a></td></tr>
+<tr><td><a href='https://forums.ankiweb.net/t/ankis-growing-up/68610'>Anki ownership transferred to AnkiHub</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=46857488'>Ask HN: Who is hiring? (February 2026)</a></td></tr>
 </table>
 <!-- END:news -->
