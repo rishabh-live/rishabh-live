@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
-<tr><td><a href='https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/'>Decentralizing My Smartphone with Single Purpose Devices</a></td></tr>
 <tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
+<tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
+<tr><td><a href='https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/'>Decentralizing my smartphone with single purpose devices</a></td></tr>
 <tr><td><a href='https://krzysztofjankowski.com/floppinux/floppinux-2025.html'>Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=46871179'>Ask HN: Is there anyone here who still uses slide rules?</a></td></tr>
 </table>
