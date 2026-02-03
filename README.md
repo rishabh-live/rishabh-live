@@ -25,7 +25,7 @@
 <tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
 <tr><td><a href='https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/'>GitHub Browser Plugin for AI Contribution Blame in Pull Requests</a></td></tr>
 <tr><td><a href='https://www.science.org/doi/10.1126/science.adz1187'>Heritability of intrinsic human life span is about 50%</a></td></tr>
-<tr><td><a href='https://github.com/mavdol/capsule'>Show HN: Sandboxing untrusted code using WebAssembly</a></td></tr>
+<tr><td><a href='https://github.com/oug-t/difi'>Show HN: difi – A Git diff TUI with Neovim integration (written in Go)</a></td></tr>
 </table>
 <!-- END:news -->
 
