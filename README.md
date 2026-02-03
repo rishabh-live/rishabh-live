@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3-coder-next'>Qwen3-Coder-Next</a></td></tr>
 <tr><td><a href='https://deno.com/blog/introducing-deno-sandbox'>Deno Sandbox</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/'>Xcode 26.3 unlocks the power of agentic coding</a></td></tr>
 <tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
 <tr><td><a href='https://github.com/alibaba/AliSQL'>AliSQL: Alibaba&#x27;s open-source MySQL with vector and DuckDB engines</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/'>Xcode 26.3 unlocks the power of agentic coding</a></td></tr>
 </table>
 <!-- END:news -->
 
