@@ -24,8 +24,8 @@
 <tr><td><a href='https://qwen.ai/blog?id=qwen3-coder-next'>Qwen3-Coder-Next</a></td></tr>
 <tr><td><a href='https://deno.com/blog/introducing-deno-sandbox'>Deno Sandbox</a></td></tr>
 <tr><td><a href='https://github.com/alibaba/AliSQL'>AliSQL: Alibaba&#x27;s open-source MySQL with vector and DuckDB engines</a></td></tr>
+<tr><td><a href='https://dl.acm.org/doi/10.1145/3774934.3786425'>FlashAttention-T: Towards Tensorized Attention</a></td></tr>
 <tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
-<tr><td><a href='https://github.com/j178/prek'>Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
