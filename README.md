@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://krzysztofjankowski.com/floppinux/floppinux-2025.html'>Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</a></td></tr>
 <tr><td><a href='https://alignment.anthropic.com/2026/hot-mess-of-ai/'>How does misalignment scale with model intelligence and task complexity?</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-the-codex-app/'>The Codex App</a></td></tr>
 <tr><td><a href='https://forums.ankiweb.net/t/ankis-growing-up/68610'>Anki ownership transferred to AnkiHub</a></td></tr>
 <tr><td><a href='https://www.githubstatus.com?todayis=2026-02-02'>GitHub experience various partial-outages&#x2F;degradations</a></td></tr>
-<tr><td><a href='https://www.spacex.com/updates#xai-joins-spacex'>xAI joins SpaceX</a></td></tr>
 </table>
 <!-- END:news -->
 
