@@ -24,8 +24,8 @@
 <tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
 <tr><td><a href='https://krzysztofjankowski.com/floppinux/floppinux-2025.html'>Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</a></td></tr>
 <tr><td><a href='https://rentahuman.ai'>Rentahuman – The Meatspace Layer for AI</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-the-codex-app/'>The Codex App</a></td></tr>
 <tr><td><a href='https://github.com/whispem/minikv'>Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-the-codex-app/'>The Codex App</a></td></tr>
 </table>
 <!-- END:news -->
 
