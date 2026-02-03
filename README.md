@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
-<tr><td><a href='https://github.com/whispem/minikv'>Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)</a></td></tr>
+<tr><td><a href='https://ambertherambler.bearblog.dev/decentralizing-my-smartphone-with-single-purpose-devices/'>Decentralizing My Smartphone with Single Purpose Devices</a></td></tr>
+<tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
 <tr><td><a href='https://krzysztofjankowski.com/floppinux/floppinux-2025.html'>Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</a></td></tr>
-<tr><td><a href='https://safe-now.live'>Show HN: Safe-now.live – Ultra-light emergency info site (&#x3C;10KB)</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-the-codex-app/'>The Codex App</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=46871179'>Ask HN: Is there anyone here who still uses slide rules?</a></td></tr>
 </table>
 <!-- END:news -->
 
