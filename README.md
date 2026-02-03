@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3-coder-next'>Qwen3-Coder-Next</a></td></tr>
+<tr><td><a href='https://nikolak.com/gdpr-failure/'>I made 20 GDPR deletion requests. 12 were ignored</a></td></tr>
+<tr><td><a href='https://deno.com/blog/introducing-deno-sandbox'>Deno Sandbox</a></td></tr>
 <tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
-<tr><td><a href='https://github.com/j178/prek'>Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust</a></td></tr>
-<tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
-<tr><td><a href='https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060'>France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/'>Xcode 26.3 unlocks the power of agentic coding</a></td></tr>
 </table>
 <!-- END:news -->
 
