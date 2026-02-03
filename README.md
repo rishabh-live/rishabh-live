@@ -25,7 +25,7 @@
 <tr><td><a href='https://krzysztofjankowski.com/floppinux/floppinux-2025.html'>Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition</a></td></tr>
 <tr><td><a href='https://github.com/zampierilucas/scx_horoscope'>Astrological CPU Scheduler</a></td></tr>
 <tr><td><a href='https://github.com/KrystianJonca/lnai'>LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-the-codex-app/'>The Codex App</a></td></tr>
+<tr><td><a href='https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.70066'>From Tobacco to Ultraprocessed Food: How Industry Fuels Preventable Disease</a></td></tr>
 </table>
 <!-- END:news -->
 
