@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3-coder-next'>Qwen3-Coder-Next</a></td></tr>
-<tr><td><a href='https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/'>New York Wants to Ctrl+Alt+Delete Your 3D Printer</a></td></tr>
+<tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
 <tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
-<tr><td><a href='https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/'>GitHub Browser Plugin for AI Contribution Blame in Pull Requests</a></td></tr>
+<tr><td><a href='https://www.science.org/doi/10.1126/science.adz1187'>Heritability of intrinsic human life span is about 50%</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=46872733'>Launch HN: Modelence (YC S25) – App Builder with TypeScript &#x2F; MongoDB Framework</a></td></tr>
 </table>
 <!-- END:news -->
 
