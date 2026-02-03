@@ -25,7 +25,7 @@
 <tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
 <tr><td><a href='https://github.com/j178/prek'>Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust</a></td></tr>
 <tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
-<tr><td><a href='https://www.science.org/doi/10.1126/science.adz1187'>Heritability of intrinsic human life span is about 50%</a></td></tr>
+<tr><td><a href='https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060'>France dumps Zoom and Teams as Europe seeks digital autonomy from the US</a></td></tr>
 </table>
 <!-- END:news -->
 
