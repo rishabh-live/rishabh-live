@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3-coder-next'>Qwen3-Coder-Next</a></td></tr>
 <tr><td><a href='https://agentskills.io/home'>Agent Skills</a></td></tr>
+<tr><td><a href='https://github.com/j178/prek'>Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust</a></td></tr>
 <tr><td><a href='https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/'>What&#x27;s up with all those equals signs anyway?</a></td></tr>
 <tr><td><a href='https://www.science.org/doi/10.1126/science.adz1187'>Heritability of intrinsic human life span is about 50%</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=46872733'>Launch HN: Modelence (YC S25) – App Builder with TypeScript &#x2F; MongoDB Framework</a></td></tr>
 </table>
 <!-- END:news -->
 
