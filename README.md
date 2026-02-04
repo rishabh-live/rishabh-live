@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.jernesto.com/articles/thinking_hard'>I miss thinking hard</a></td></tr>
 <tr><td><a href='https://www.simonberens.com/p/lessons-learned-shipping-500-units'>Lessons learned shipping 500 units of my first hardware product</a></td></tr>
 <tr><td><a href='https://civai.org/blog/space-data-centers'>Data centers in space makes no sense</a></td></tr>
-<tr><td><a href='https://www.handprint.com/HP/WCL/brush1.html'>How watercolor brushes are made (2015)</a></td></tr>
 <tr><td><a href='https://github.com/puemos/craftplan'>Show HN: Craftplan – I built my wife a production management tool for her bakery</a></td></tr>
+<tr><td><a href='https://github.com/bethington/ghidra-mcp'>Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering</a></td></tr>
 </table>
 <!-- END:news -->
 
