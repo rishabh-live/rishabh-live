@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mistral.ai/news/voxtral-transcribe-2'>Voxtral Transcribe 2</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2602.00294'>Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation</a></td></tr>
+<tr><td><a href='https://occupywallst.com/yen'>The Great Unwind</a></td></tr>
 <tr><td><a href='https://news.uark.edu/articles/80669/emotional-support-from-social-media-found-to-reduce-anxiety'>Study: emotional support from social media found to reduce anxiety</a></td></tr>
-<tr><td><a href='https://incoherency.co.uk/blog/stories/tractor.html'>Tractor</a></td></tr>
-<tr><td><a href='https://brandon.wang/2026/clawdbot'>A sane but bull case on Clawdbot &#x2F; OpenClaw</a></td></tr>
+<tr><td><a href='https://www.lrb.co.uk/blog/2026/january/in-tehran'>In Tehran</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2602.00294'>Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation</a></td></tr>
 </table>
 <!-- END:news -->
 
