@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.simonberens.com/p/lessons-learned-shipping-500-units'>Lessons learned shipping 500 units of my first hardware product</a></td></tr>
 <tr><td><a href='https://civai.org/blog/space-data-centers'>Data centers in space makes no sense</a></td></tr>
 <tr><td><a href='https://github.com/puemos/craftplan'>Show HN: Craftplan – I built my wife a production management tool for her bakery</a></td></tr>
-<tr><td><a href='https://deno.com/blog/introducing-deno-sandbox'>Deno Sandbox</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/'>Xcode 26.3 – Developers can leverage coding agents directly in Xcode</a></td></tr>
+<tr><td><a href='https://www.thedrive.com/news/youll-have-that-on-those-big-jobs-the-worlds-largest-zip-tie-is-nearly-4-feet-long-and-75'>The largest zip tie is nearly 4 feet long and $75</a></td></tr>
+<tr><td><a href='https://www.jernesto.com/articles/thinking_hard'>I miss thinking hard</a></td></tr>
 </table>
 <!-- END:news -->
 
