@@ -25,7 +25,7 @@
 <tr><td><a href='https://arxiv.org/abs/2602.00294'>Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation</a></td></tr>
 <tr><td><a href='https://brandon.wang/2026/clawdbot'>A sane but bull case on Clawdbot &#x2F; OpenClaw</a></td></tr>
 <tr><td><a href='https://incoherency.co.uk/blog/stories/tractor.html'>Tractor</a></td></tr>
-<tr><td><a href='https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/'>A case study in PDF forensics: The Epstein PDFs</a></td></tr>
+<tr><td><a href='https://www.perl.com/article/fastmail-donates-usd-10-000-to-the-perl-and-raku-foundation/'>Fastmail Donates USD 10k to the Perl and Raku Foundation</a></td></tr>
 </table>
 <!-- END:news -->
 
