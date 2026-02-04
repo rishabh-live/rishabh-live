@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mistral.ai/news/voxtral-transcribe-2'>Voxtral Transcribe 2</a></td></tr>
-<tr><td><a href='https://occupywallst.com/yen'>The Great Unwind</a></td></tr>
 <tr><td><a href='https://www.scd31.com/posts/building-an-arcade-display-adapter'>Building a 24-bit arcade CRT display adapter from scratch</a></td></tr>
+<tr><td><a href='https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/'>Yawning has an unexpected influence on the fluid inside your brain</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.00294'>Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation</a></td></tr>
-<tr><td><a href='https://github.com/MaxBittker/rs-sdk'>RS-SDK: Drive RuneScape with Claude Code</a></td></tr>
+<tr><td><a href='https://incoherency.co.uk/blog/stories/tractor.html'>Tractor</a></td></tr>
 </table>
 <!-- END:news -->
 
