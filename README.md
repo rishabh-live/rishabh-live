@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.jernesto.com/articles/thinking_hard'>I miss thinking hard</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2602.00294'>Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation</a></td></tr>
+<tr><td><a href='https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/'>FBI couldn&#x27;t get into WaPo reporter&#x27;s iPhone because Lockdown Mode enabled</a></td></tr>
+<tr><td><a href='https://brandon.wang/2026/clawdbot'>A sane but bull case on Clawdbot &#x2F; OpenClaw</a></td></tr>
 <tr><td><a href='https://civai.org/blog/space-data-centers'>Data centers in space makes no sense</a></td></tr>
-<tr><td><a href='https://www.simonberens.com/p/lessons-learned-shipping-500-units'>Lessons learned shipping 500 units of my first hardware product</a></td></tr>
-<tr><td><a href='https://github.com/bethington/ghidra-mcp'>Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering</a></td></tr>
-<tr><td><a href='https://saas-map.ssr.trapiche.cloud/'>Brazilian Micro-SaaS Map</a></td></tr>
+<tr><td><a href='https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/'>A case study in PDF forensics: The Epstein PDFs</a></td></tr>
 </table>
 <!-- END:news -->
 
