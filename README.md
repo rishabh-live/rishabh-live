@@ -24,8 +24,8 @@
 <tr><td><a href='https://mistral.ai/news/voxtral-transcribe-2'>Voxtral Transcribe 2</a></td></tr>
 <tr><td><a href='https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/'>Claude Code: connect to a local model when your quota runs out</a></td></tr>
 <tr><td><a href='https://www.fluid.sh/'>Claude Code for Infrastructure</a></td></tr>
-<tr><td><a href='https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/'>Spotlighting the World Factbook as We Bid a Fond Farewell</a></td></tr>
 <tr><td><a href='https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/'>A real-world benchmark for AI code review</a></td></tr>
+<tr><td><a href='https://nmn.gl/blog/ai-killing-b2b-saas'>AI is killing B2B SaaS</a></td></tr>
 </table>
 <!-- END:news -->
 
