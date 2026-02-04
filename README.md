@@ -24,8 +24,8 @@
 <tr><td><a href='https://mistral.ai/news/voxtral-transcribe-2'>Voxtral Transcribe 2</a></td></tr>
 <tr><td><a href='https://www.newscientist.com/article/2513692-yawning-has-an-unexpected-influence-on-the-fluid-inside-your-brain/'>Yawning has an unexpected influence on the fluid inside your brain</a></td></tr>
 <tr><td><a href='https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/'>Claude Code: connect to a local model when your quota runs out</a></td></tr>
+<tr><td><a href='https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/'>We built a real-world benchmark for AI code review</a></td></tr>
 <tr><td><a href='https://www.scd31.com/posts/building-an-arcade-display-adapter'>Building a 24-bit arcade CRT display adapter from scratch</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2602.00294'>Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation</a></td></tr>
 </table>
 <!-- END:news -->
 
