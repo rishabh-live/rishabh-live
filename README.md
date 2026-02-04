@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.jernesto.com/articles/thinking_hard'>I miss thinking hard</a></td></tr>
 <tr><td><a href='https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany'>Petition for Recognition of Work on Open-Source as Volunteering in Germany</a></td></tr>
+<tr><td><a href='https://www.jernesto.com/articles/thinking_hard'>I miss thinking hard</a></td></tr>
 <tr><td><a href='https://www.simonberens.com/p/lessons-learned-shipping-500-units'>Lessons learned shipping 500 units of my first hardware product</a></td></tr>
 <tr><td><a href='https://civai.org/blog/space-data-centers'>Data centers in space makes no sense</a></td></tr>
 <tr><td><a href='https://github.com/puemos/craftplan'>Show HN: Craftplan – I built my wife a production management tool for her bakery</a></td></tr>
