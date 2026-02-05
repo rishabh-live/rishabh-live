@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
 <tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
-<tr><td><a href='https://yagmin.com/blog/the-missing-layer/'>The Missing Layer</a></td></tr>
 <tr><td><a href='https://github.com/HKUDS/nanobot'>Nanobot: Ultra-Lightweight Alternative to OpenClaw</a></td></tr>
+<tr><td><a href='https://yagmin.com/blog/the-missing-layer/'>The Missing Layer</a></td></tr>
 <tr><td><a href='https://github.com/vkazanov/elcity'>Show HN: Micropolis&#x2F;SimCity Clone in Emacs Lisp</a></td></tr>
 </table>
 <!-- END:news -->
