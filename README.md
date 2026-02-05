@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
 <tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/voxtral-transcribe-2'>Voxtral Transcribe 2</a></td></tr>
-<tr><td><a href='https://www.recall.ai/blog/postgres-postmaster-does-not-scale'>Postgres Postmaster does not scale</a></td></tr>
+<tr><td><a href='https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/'>Modernizing Linux swapping: introducing the swap table</a></td></tr>
 <tr><td><a href='https://jmoiron.net/blog/wirths-revenge/'>Wirth&#x27;s Revenge</a></td></tr>
+<tr><td><a href='https://sqldef.github.io/'>Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite</a></td></tr>
 </table>
 <!-- END:news -->
 
