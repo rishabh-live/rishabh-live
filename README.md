@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
-<tr><td><a href='https://code.claude.com/docs/en/agent-teams'>Claude Code Agent Teams</a></td></tr>
+<tr><td><a href='https://code.claude.com/docs/en/agent-teams'>Orchestrate teams of Claude Code sessions</a></td></tr>
 <tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
-<tr><td><a href='https://github.com/PsiACE/skills'>A small, shared skill library by builders, for builders. (human and agent)</a></td></tr>
+<tr><td><a href='https://ardour.org/whatsnew.html'>Ardour 9.0 Released</a></td></tr>
 </table>
 <!-- END:news -->
 
