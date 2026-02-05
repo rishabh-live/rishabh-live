@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-openai-frontier/'>OpenAI Frontier</a></td></tr>
 <tr><td><a href='https://blog.42futures.com/p/company-as-code'>Company as Code</a></td></tr>
 <tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
 <tr><td><a href='https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724'>CIA to Sunset the World Factbook</a></td></tr>
+<tr><td><a href='https://people.eecs.berkeley.edu/~bh/ss-toc2.html'>Simply Scheme: Introducing Computer Science (1999)</a></td></tr>
 </table>
 <!-- END:news -->
 
