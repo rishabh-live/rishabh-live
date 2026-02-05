@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
+<tr><td><a href='https://github.com/mdp/linkedin-extension-fingerprinting'>LinkedIn checks for 2953 browser extensions</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/agent-teams'>Orchestrate teams of Claude Code sessions</a></td></tr>
-<tr><td><a href='https://www.btboces.org/Downloads/7_There%20Will%20Come%20Soft%20Rains%20by%20Ray%20Bradbury.pdf'>There Will Come Soft Rains (1950) [pdf]</a></td></tr>
-<tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
+<tr><td><a href='https://mitchellh.com/writing/my-ai-adoption-journey'>My AI Adoption Journey</a></td></tr>
 </table>
 <!-- END:news -->
 
