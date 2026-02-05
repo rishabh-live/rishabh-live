@@ -24,8 +24,8 @@
 <tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
 <tr><td><a href='https://www.collaboraonline.com/collabora-office/'>The New Collabora Office for Desktop</a></td></tr>
 <tr><td><a href='https://blog.42futures.com/p/company-as-code'>Company as Code</a></td></tr>
+<tr><td><a href='https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/'>150 MB Minimal FreeBSD Installation</a></td></tr>
 <tr><td><a href='https://renewables-map.robinhawkes.com/'>GB Renewables Map</a></td></tr>
-<tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
 </table>
 <!-- END:news -->
 
