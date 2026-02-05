@@ -25,7 +25,7 @@
 <tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
 <tr><td><a href='https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/'>Modernizing Linux swapping: introducing the swap table</a></td></tr>
 <tr><td><a href='https://jmoiron.net/blog/wirths-revenge/'>Wirth&#x27;s Revenge</a></td></tr>
-<tr><td><a href='https://sqldef.github.io/'>Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite</a></td></tr>
+<tr><td><a href='https://helpx.adobe.com/uk/animate/kb/end-of-life.html'>Adobe Animate will be discontinued effective March 1, 2026</a></td></tr>
 </table>
 <!-- END:news -->
 
