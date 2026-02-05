@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
+<tr><td><a href='https://code.claude.com/docs/en/agent-teams'>Claude Code Agent Teams</a></td></tr>
 <tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
 <tr><td><a href='https://www.collaboraonline.com/collabora-office/'>The New Collabora Office for Desktop</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
-<tr><td><a href='https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/'>European Commission Trials Matrix to Replace Teams</a></td></tr>
-<tr><td><a href='https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/'>150 MB Minimal FreeBSD Installation</a></td></tr>
 </table>
 <!-- END:news -->
 
