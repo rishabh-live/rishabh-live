@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
+<tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/voxtral-transcribe-2'>Voxtral Transcribe 2</a></td></tr>
 <tr><td><a href='https://www.recall.ai/blog/postgres-postmaster-does-not-scale'>Postgres Postmaster does not scale</a></td></tr>
 <tr><td><a href='https://www.taricorp.net/2026/a-few-cpu-bugs/'>A few CPU hardware bugs</a></td></tr>
-<tr><td><a href='https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use'>ICE seeks industry input on ad tech location data for investigative use</a></td></tr>
 </table>
 <!-- END:news -->
 
