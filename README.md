@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
 <tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
-<tr><td><a href='https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/'>Modernizing Linux swapping: introducing the swap table</a></td></tr>
-<tr><td><a href='https://jacquesmattheij.com/if-you-have-nothing-to-hide/'>If you&#x27;ve got Nothing to Hide</a></td></tr>
-<tr><td><a href='https://jmoiron.net/blog/wirths-revenge/'>Wirth&#x27;s Revenge</a></td></tr>
+<tr><td><a href='https://jacquesmattheij.com/if-you-have-nothing-to-hide/'>If you&#x27;ve got Nothing to Hide (2015)</a></td></tr>
+<tr><td><a href='https://framapiaf.org/@bitecode/116014584956841267'>Justice.gov JEE files contains bash manual</a></td></tr>
+<tr><td><a href='https://github.com/vkazanov/elcity'>Show HN: Micropolis&#x2F;SimCity Clone in Emacs Lisp</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
