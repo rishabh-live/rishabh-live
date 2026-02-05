@@ -23,7 +23,7 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
-<tr><td><a href='https://github.com/mdp/linkedin-extension-fingerprinting'>LinkedIn checks for 2953 browser extensions</a></td></tr>
+<tr><td><a href='https://mitchellh.com/writing/my-ai-adoption-journey'>My AI Adoption Journey</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/engineering/building-c-compiler'>We tasked Opus 4.6 using agent teams to build a C Compiler</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/agent-teams'>Orchestrate teams of Claude Code sessions</a></td></tr>
 </table>
