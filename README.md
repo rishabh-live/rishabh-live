@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.recall.ai/blog/postgres-postmaster-does-not-scale'>Postgres Postmaster does not scale</a></td></tr>
+<tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/voxtral-transcribe-2'>Voxtral Transcribe 2</a></td></tr>
-<tr><td><a href='https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers'>Child prodigies rarely become elite performers</a></td></tr>
+<tr><td><a href='https://www.recall.ai/blog/postgres-postmaster-does-not-scale'>Postgres Postmaster does not scale</a></td></tr>
 <tr><td><a href='https://sqldef.github.io/'>Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite</a></td></tr>
-<tr><td><a href='https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been'>OpenClaw is what Apple intelligence should have been</a></td></tr>
+<tr><td><a href='https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/'>Claude Code: connect to a local model when your quota runs out</a></td></tr>
 </table>
 <!-- END:news -->
 
