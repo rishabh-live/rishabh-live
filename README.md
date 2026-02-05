@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
-<tr><td><a href='https://techoversight.org/2026/01/25/top-report-mdl-jan-25/'>Unsealed Court Documents Show Teen Addiction Was Big Tech&#x27;s &quot;Top Priority&quot;</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/agent-teams'>Claude Code Agent Teams</a></td></tr>
 <tr><td><a href='https://blog.comma.ai/datacenter/'>Don&#x27;t rent the cloud, own instead</a></td></tr>
+<tr><td><a href='https://github.com/PsiACE/skills'>A small, shared skill library by builders, for builders. (human and agent)</a></td></tr>
 </table>
 <!-- END:news -->
 
