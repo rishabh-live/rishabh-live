@@ -25,7 +25,7 @@
 <tr><td><a href='https://blog.42futures.com/p/company-as-code'>Company as Code</a></td></tr>
 <tr><td><a href='https://www.collaboraonline.com/collabora-office/'>The New Collabora Office for Desktop</a></td></tr>
 <tr><td><a href='https://rachelbythebay.com/w/2026/02/03/badnas/'>When internal hostnames are leaked to the clown</a></td></tr>
-<tr><td><a href='https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724'>CIA to Sunset the World Factbook</a></td></tr>
+<tr><td><a href='https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom'>Programming Patterns: The Story of the Jacquard Loom</a></td></tr>
 </table>
 <!-- END:news -->
 
