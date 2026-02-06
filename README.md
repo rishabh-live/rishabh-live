@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation'>The Waymo World Model</a></td></tr>
 <tr><td><a href='https://vecti.com'>Show HN: I spent 4 years building a UI design tool with only the features I use</a></td></tr>
-<tr><td><a href='https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/'>How to effectively write quality code with AI</a></td></tr>
+<tr><td><a href='https://eljojo.github.io/rememory/'>Show HN: If you lose your memory, how to regain access to your computer?</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/litebox'>Microsoft open-sources LiteBox, a security-focused library OS</a></td></tr>
-<tr><td><a href='https://www.sheldonbrown.com/'>Sheldon Brown&#x27;s Bicycle Technical Info</a></td></tr>
+<tr><td><a href='https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/'>How to effectively write quality code with AI</a></td></tr>
 </table>
 <!-- END:news -->
 
