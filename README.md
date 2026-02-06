@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/microsoft/litebox'>Microsoft open-sources LiteBox, a security-focused library OS</a></td></tr>
 <tr><td><a href='https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/'>I now assume that all ads on Apple news are scams</a></td></tr>
 <tr><td><a href='https://visualrambling.space/neural-network/'>Understanding Neural Network, Visually</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
+<tr><td><a href='https://www.sheldonbrown.com/'>Sheldon Brown&#x27;s Bicycle Technical Info</a></td></tr>
 </table>
 <!-- END:news -->
 
