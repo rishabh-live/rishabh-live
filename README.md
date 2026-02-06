@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
-<tr><td><a href='https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/'>GitHub Actions is slowly killing engineering teams</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
 <tr><td><a href='https://mitchellh.com/writing/my-ai-adoption-journey'>My AI Adoption Journey</a></td></tr>
+<tr><td><a href='http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html'>Systems Thinking</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/engineering/building-c-compiler'>We tasked Opus 4.6 using agent teams to build a C Compiler</a></td></tr>
 </table>
 <!-- END:news -->
