@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/'>LLMs could be, but shouldn&#x27;t be compilers</a></td></tr>
 <tr><td><a href='https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/'>I now assume that all ads on Apple news are scams</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
-<tr><td><a href='https://wiz.jock.pl/experiments/agent-arena/'>Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html'>TikTok&#x27;s &#x27;Addictive Design&#x27; Found to Be Illegal in Europe</a></td></tr>
-<tr><td><a href='https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang'>Invention of DNA &quot;Page Numbers&quot; Opens Up Possibilities for the Bioeconomy</a></td></tr>
+<tr><td><a href='https://wiz.jock.pl/experiments/agent-arena/'>Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is</a></td></tr>
 </table>
 <!-- END:news -->
 
