@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/'>A new bill in New York would require disclaimers on AI-generated news content</a></td></tr>
+<tr><td><a href='https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang'>Invention of DNA &quot;Page Numbers&quot; Opens Up Possibilities for the Bioeconomy</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
 <tr><td><a href='https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html'>Things Unix can do atomically (2010)</a></td></tr>
-<tr><td><a href='http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html'>Systems Thinking</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
-<tr><td><a href='https://www.4rknova.com/blog/2016/11/01/plasma'>Plasma Effect</a></td></tr>
 </table>
 <!-- END:news -->
 
