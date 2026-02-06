@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/'>LLMs could be, but shouldn&#x27;t be compilers</a></td></tr>
+<tr><td><a href='https://github.com/microsoft/litebox'>Microsoft open-sources LiteBox, a security-focused library OS</a></td></tr>
 <tr><td><a href='https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/'>I now assume that all ads on Apple news are scams</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html'>TikTok&#x27;s &#x27;Addictive Design&#x27; Found to Be Illegal in Europe</a></td></tr>
+<tr><td><a href='https://hackers-1995.vercel.app/'>Hackers (1995) Animated Experience</a></td></tr>
+<tr><td><a href='https://inpractice.yimbyaction.org/p/nimbys-arent-just-shutting-down-housing'>NIMBYs Aren&#x27;t Just Shutting Down Housing</a></td></tr>
 <tr><td><a href='https://www.jampa.dev/p/the-rise-of-one-pizza-engineering'>The rise of one-pizza engineering teams</a></td></tr>
 </table>
 <!-- END:news -->
