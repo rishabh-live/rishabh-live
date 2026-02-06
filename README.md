@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-6'>Claude Opus 4.6</a></td></tr>
-<tr><td><a href='http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html'>Systems Thinking</a></td></tr>
 <tr><td><a href='https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html'>Things Unix can do atomically (2010)</a></td></tr>
+<tr><td><a href='http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html'>Systems Thinking</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex/'>GPT-5.3-Codex</a></td></tr>
-<tr><td><a href='https://github.com/artifact-keeper'>Show HN: Artifact Keeper – Open-Source Artifactory&#x2F;Nexus Alternative in Rust</a></td></tr>
+<tr><td><a href='https://mitchellh.com/writing/my-ai-adoption-journey'>My AI Adoption Journey</a></td></tr>
 </table>
 <!-- END:news -->
 
