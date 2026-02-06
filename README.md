@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation'>The Waymo World Model: A New Frontier for Autonomous Driving Simulation</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/litebox'>Microsoft open-sources LiteBox, a security-focused library OS</a></td></tr>
-<tr><td><a href='https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/'>I now assume that all ads on Apple news are scams</a></td></tr>
-<tr><td><a href='https://visualrambling.space/neural-network/'>Understanding Neural Network, Visually</a></td></tr>
+<tr><td><a href='https://www.bitsaboutmoney.com/archive/fraud-investigation/'>Bits About Money: Fraud Investigation Is Believing Your Lying Eyes</a></td></tr>
 <tr><td><a href='https://www.sheldonbrown.com/'>Sheldon Brown&#x27;s Bicycle Technical Info</a></td></tr>
+<tr><td><a href='https://visualrambling.space/neural-network/'>Understanding Neural Network, Visually</a></td></tr>
 </table>
 <!-- END:news -->
 
