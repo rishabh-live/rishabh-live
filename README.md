@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://nolanlawson.com/2026/02/07/we-mourn-our-craft/'>We Mourn Our Craft</a></td></tr>
-<tr><td><a href='https://code.claude.com/docs/en/fast-mode'>Speed up responses with fast mode</a></td></tr>
-<tr><td><a href='https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/'>U.S. Jobs Disappear at Fastest January Pace Since Great Recession</a></td></tr>
+<tr><td><a href='https://jonathanwhiting.com/writing/blog/games_in_c/'>I Write Games in C (yes, C)</a></td></tr>
+<tr><td><a href='https://xorvoid.com/sectorc.html'>SectorC: A C Compiler in 512 bytes</a></td></tr>
 <tr><td><a href='https://www.spritely.institute/hoot/'>Hoot: Scheme on WebAssembly</a></td></tr>
 <tr><td><a href='https://susam.net/twenty-five-years-of-computing.html'>Stories from 25 Years of Software Development</a></td></tr>
 </table>
