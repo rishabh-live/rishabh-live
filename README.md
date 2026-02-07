@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/'>Brookhaven Lab&#x27;s RHIC concludes 25-year run with final collisions</a></td></tr>
-<tr><td><a href='https://jonathanwhiting.com/writing/blog/games_in_c/'>I write games in C (yes, C)</a></td></tr>
 <tr><td><a href='https://xorvoid.com/sectorc.html'>SectorC: A C Compiler in 512 bytes</a></td></tr>
-<tr><td><a href='https://www.spritely.institute/hoot/'>Hoot: Scheme on WebAssembly</a></td></tr>
-<tr><td><a href='https://susam.net/twenty-five-years-of-computing.html'>Stories from 25 Years of Software Development</a></td></tr>
+<tr><td><a href='https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/'>Brookhaven Lab&#x27;s RHIC concludes 25-year run with final collisions</a></td></tr>
+<tr><td><a href='http://muratbuffalo.blogspot.com/2026/02/friction.html'>The F Word</a></td></tr>
+<tr><td><a href='https://jonathanwhiting.com/writing/blog/games_in_c/'>I write games in C (yes, C)</a></td></tr>
+<tr><td><a href='https://factory.strongdm.ai/'>Software factories and the agentic moment</a></td></tr>
 </table>
 <!-- END:news -->
 
