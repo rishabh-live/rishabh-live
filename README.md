@@ -24,8 +24,8 @@
 <tr><td><a href='https://openciv3.org/'>OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></td></tr>
 <tr><td><a href='https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation'>The Waymo World Model</a></td></tr>
 <tr><td><a href='https://github.com/valdanylchuk/breezydemo'>Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 &#x2F; BreezyBox</a></td></tr>
-<tr><td><a href='https://vecti.com'>Show HN: I spent 4 years building a UI design tool with only the features I use</a></td></tr>
 <tr><td><a href='https://github.com/pydantic/monty'>Monty: A minimal, secure Python interpreter written in Rust for use by AI</a></td></tr>
+<tr><td><a href='https://vecti.com'>Show HN: I spent 4 years building a UI design tool with only the features I use</a></td></tr>
 </table>
 <!-- END:news -->
 
