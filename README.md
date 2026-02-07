@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/suitenumerique'>France&#x27;s homegrown open source online office suite</a></td></tr>
 <tr><td><a href='https://rhodesmill.org/brandon/2009/commands-with-comma/'>Start all of your commands with a comma (2009)</a></td></tr>
-<tr><td><a href='https://blog.alaindichiappari.dev/p/software-engineering-is-back'>Software Engineering Is Back</a></td></tr>
 <tr><td><a href='https://www.spritely.institute/hoot/'>Hoot: Scheme on WebAssembly</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2504.12501'>Reinforcement Learning from Human Feedback</a></td></tr>
 <tr><td><a href='https://openciv3.org/'>OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></td></tr>
