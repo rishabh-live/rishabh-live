@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://rhodesmill.org/brandon/2009/commands-with-comma/'>Start all of your commands with a comma (2009)</a></td></tr>
 <tr><td><a href='https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/'>Al Lowe on model trains, funny deaths and working with Disney</a></td></tr>
-<tr><td><a href='https://factory.strongdm.ai/'>Software Factories and the Agentic Moment</a></td></tr>
 <tr><td><a href='https://www.spritely.institute/hoot/'>Hoot: Scheme on WebAssembly</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.05192'>First Proof</a></td></tr>
+<tr><td><a href='https://openciv3.org/'>OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></td></tr>
+<tr><td><a href='https://susam.net/twenty-five-years-of-computing.html'>Stories from 25 Years of Software Development</a></td></tr>
 </table>
 <!-- END:news -->
 
