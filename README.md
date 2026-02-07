@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.bbc.com/news/articles/c205nxy0p31o'>British drivers over 70 to face eye tests every three years</a></td></tr>
 <tr><td><a href='https://rhodesmill.org/brandon/2009/commands-with-comma/'>Start all of your commands with a comma (2009)</a></td></tr>
 <tr><td><a href='https://www.spritely.institute/hoot/'>Hoot: Scheme on WebAssembly</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2504.12501'>Reinforcement Learning from Human Feedback</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2602.05192'>First Proof</a></td></tr>
 </table>
 <!-- END:news -->
 
