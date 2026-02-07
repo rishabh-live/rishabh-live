@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://openciv3.org/'>OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></td></tr>
 <tr><td><a href='https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation'>The Waymo World Model</a></td></tr>
-<tr><td><a href='https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes'>How we made geo joins 400× faster with H3 indexes</a></td></tr>
 <tr><td><a href='https://writings.stephenwolfram.com/2026/01/what-is-ruliology/'>What Is Ruliology?</a></td></tr>
+<tr><td><a href='https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes'>How we made geo joins 400× faster with H3 indexes</a></td></tr>
 <tr><td><a href='https://arcadeblogger.com/2026/02/02/unseen-footage-of-atari-battlezone-cabinet-production/'>Unseen Footage of Atari Battlezone Arcade Cabinet Production</a></td></tr>
 </table>
 <!-- END:news -->
