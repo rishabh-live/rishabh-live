@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://rhodesmill.org/brandon/2009/commands-with-comma/'>Start all of your commands with a comma</a></td></tr>
+<tr><td><a href='https://rhodesmill.org/brandon/2009/commands-with-comma/'>Start all of your commands with a comma (2009)</a></td></tr>
 <tr><td><a href='https://openciv3.org/'>OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></td></tr>
+<tr><td><a href='https://www.spritely.institute/hoot/'>Hoot: Scheme on WebAssembly</a></td></tr>
 <tr><td><a href='https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation'>The Waymo World Model</a></td></tr>
 <tr><td><a href='https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes'>How we made geo joins 400× faster with H3 indexes</a></td></tr>
-<tr><td><a href='https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/'>Jeffrey Snover: &quot;Welcome to the Room&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
