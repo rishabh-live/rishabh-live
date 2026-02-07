@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/suitenumerique'>France&#x27;s homegrown open source online office suite</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c205nxy0p31o'>British drivers over 70 to face eye tests every three years</a></td></tr>
 <tr><td><a href='https://rhodesmill.org/brandon/2009/commands-with-comma/'>Start all of your commands with a comma (2009)</a></td></tr>
+<tr><td><a href='https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/'>Al Lowe on model trains, funny deaths and working with Disney</a></td></tr>
+<tr><td><a href='https://factory.strongdm.ai/'>Software Factories and the Agentic Moment</a></td></tr>
 <tr><td><a href='https://www.spritely.institute/hoot/'>Hoot: Scheme on WebAssembly</a></td></tr>
-<tr><td><a href='https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/'>Leisure Suit Larry&#x27;s Al Lowe on model trains, funny deaths and Disney</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2602.05192'>First Proof</a></td></tr>
 </table>
 <!-- END:news -->
 
