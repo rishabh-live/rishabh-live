@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/'>Al Lowe on model trains, funny deaths and working with Disney</a></td></tr>
+<tr><td><a href='https://nolanlawson.com/2026/02/07/we-mourn-our-craft/'>We Mourn Our Craft</a></td></tr>
+<tr><td><a href='https://code.claude.com/docs/en/fast-mode'>Speed up responses with fast mode</a></td></tr>
+<tr><td><a href='https://www.forbes.com/sites/mikestunson/2026/02/05/us-jobs-disappear-at-fastest-january-pace-since-great-recession/'>U.S. Jobs Disappear at Fastest January Pace Since Great Recession</a></td></tr>
 <tr><td><a href='https://www.spritely.institute/hoot/'>Hoot: Scheme on WebAssembly</a></td></tr>
 <tr><td><a href='https://susam.net/twenty-five-years-of-computing.html'>Stories from 25 Years of Software Development</a></td></tr>
-<tr><td><a href='https://openciv3.org/'>OpenCiv3: Open-source, cross-platform reimagining of Civilization III</a></td></tr>
-<tr><td><a href='https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/'>The AI boom is causing shortages everywhere else</a></td></tr>
 </table>
 <!-- END:news -->
 
