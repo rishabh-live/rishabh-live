@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/microsoft/vscode/issues/292452'>Billing can be bypassed using a combo of subagents with an agent definition</a></td></tr>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
-<tr><td><a href='https://freethemath.org'>Five disciplines discovered the same math independently – none of them knew</a></td></tr>
+<tr><td><a href='https://blog.otterstack.com/posts/202512-gbshader/'>I put a real-time 3D shader on the Game Boy Color</a></td></tr>
+<tr><td><a href='https://github.com/microsoft/vscode/issues/292452'>Billing can be bypassed using a combo of subagents with an agent definition</a></td></tr>
 <tr><td><a href='https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/'>Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing</a></td></tr>
 <tr><td><a href='https://datatracker.ietf.org/doc/html/rfc3092'>RFC 3092 – Etymology of &quot;Foo&quot; (2001)</a></td></tr>
 </table>
