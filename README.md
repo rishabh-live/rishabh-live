@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://donotnotify.com/opensource.html'>DoNotNotify is now Open Source</a></td></tr>
 <tr><td><a href='https://github.com/localgpt-app/localgpt'>Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</a></td></tr>
 <tr><td><a href='https://haskellforall.com/2026/02/beyond-agentic-coding'>Haskell for all: Beyond agentic coding</a></td></tr>
-<tr><td><a href='https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994'>Roger Ebert Reviews &quot;The Shawshank Redemption&quot;</a></td></tr>
-<tr><td><a href='https://xorvoid.com/sectorc.html'>SectorC: A C Compiler in 512 bytes (2023)</a></td></tr>
-<tr><td><a href='https://factory.strongdm.ai/'>Software factories and the agentic moment</a></td></tr>
+<tr><td><a href='https://maghrebi.org/2026/01/27/moroccan-sardine-prices-to-stabilise-via-new-measures-officials/'>Moroccan sardine prices to stabilise via new measures: officials</a></td></tr>
+<tr><td><a href='https://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994'>Roger Ebert Reviews &quot;The Shawshank Redemption&quot; (1999)</a></td></tr>
 </table>
 <!-- END:news -->
 
