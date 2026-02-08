@@ -25,7 +25,7 @@
 <tr><td><a href='https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/'>Roundcube Webmail: SVG feImage bypasses image blocking to track email opens</a></td></tr>
 <tr><td><a href='https://blog.otterstack.com/posts/202512-gbshader/'>I put a real-time 3D shader on the Game Boy Color</a></td></tr>
 <tr><td><a href='https://blog.svgames.pl/article/the-little-bool-of-doom'>The Little Bool of Doom</a></td></tr>
-<tr><td><a href='https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/'>Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing</a></td></tr>
+<tr><td><a href='https://underhillgame.com/'>Show HN: I created a Mars colony RPG based on Kim Stanley Robinson&#x27;s Mars books</a></td></tr>
 </table>
 <!-- END:news -->
 
