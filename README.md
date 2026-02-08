@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://donotnotify.com/opensource.html'>DoNotNotify is now Open Source</a></td></tr>
+<tr><td><a href='https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/'>Dave Farber has passed away</a></td></tr>
+<tr><td><a href='https://github.com/jingkaihe/matchlock'>Matchlock: Linux-based sandboxing for AI agents</a></td></tr>
 <tr><td><a href='https://github.com/localgpt-app/localgpt'>Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</a></td></tr>
 <tr><td><a href='https://github.com/joshuanwalker/Raiders2600'>Reverse Engineering Raiders of the Lost Ark for the Atari 2600</a></td></tr>
-<tr><td><a href='https://github.com/jingkaihe/matchlock'>Matchlock: Linux-based sandboxing for AI agents</a></td></tr>
-<tr><td><a href='https://haskellforall.com/2026/02/beyond-agentic-coding'>Haskell for all: Beyond agentic coding</a></td></tr>
 </table>
 <!-- END:news -->
 
