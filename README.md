@@ -24,8 +24,8 @@
 <tr><td><a href='https://donotnotify.com/opensource.html'>DoNotNotify is now Open Source</a></td></tr>
 <tr><td><a href='https://github.com/localgpt-app/localgpt'>Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</a></td></tr>
 <tr><td><a href='https://haskellforall.com/2026/02/beyond-agentic-coding'>Haskell for all: Beyond agentic coding</a></td></tr>
+<tr><td><a href='https://github.com/jingkaihe/matchlock'>Matchlock: Linux-based sandboxing for AI agents</a></td></tr>
 <tr><td><a href='https://xorvoid.com/sectorc.html'>SectorC: A C Compiler in 512 bytes (2023)</a></td></tr>
-<tr><td><a href='https://federicopereiro.com/llm-high/'>LLMs as the new high level language</a></td></tr>
 </table>
 <!-- END:news -->
 
