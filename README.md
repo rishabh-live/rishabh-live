@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/localgpt-app/localgpt'>Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory</a></td></tr>
-<tr><td><a href='https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/'>Bye Bye Humanity: The Potential AMOC Collapse</a></td></tr>
-<tr><td><a href='https://xorvoid.com/sectorc.html'>SectorC: A C Compiler in 512 bytes (2023)</a></td></tr>
 <tr><td><a href='https://haskellforall.com/2026/02/beyond-agentic-coding'>Haskell for all: Beyond agentic coding</a></td></tr>
+<tr><td><a href='https://xorvoid.com/sectorc.html'>SectorC: A C Compiler in 512 bytes (2023)</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/fast-mode'>Speed up responses with fast mode</a></td></tr>
+<tr><td><a href='https://factory.strongdm.ai/'>Software factories and the agentic moment</a></td></tr>
 </table>
 <!-- END:news -->
 
