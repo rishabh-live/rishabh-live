@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/'>Why E cores make Apple silicon fast</a></td></tr>
-<tr><td><a href='https://donotnotify.com/opensource.html'>DoNotNotify is now Open Source</a></td></tr>
-<tr><td><a href='https://cinegraphs.ai/'>Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs</a></td></tr>
-<tr><td><a href='https://github.com/jingkaihe/matchlock'>Matchlock – Secures AI agent workloads with a Linux-based sandbox</a></td></tr>
+<tr><td><a href='https://apps.apple.com/us/app/festiveo-music-festivals/id6755355854'>Show HN: I built a festival tracker that matches lineups to your music library</a></td></tr>
+<tr><td><a href='https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/'>Curating a Show on My Ineffable Mother, Ursula K. Le Guin</a></td></tr>
 <tr><td><a href='https://github.com/joshuanwalker/Raiders2600'>Reverse Engineering Raiders of the Lost Ark for the Atari 2600</a></td></tr>
+<tr><td><a href='https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/'>Dave Farber has died</a></td></tr>
+<tr><td><a href='https://github.com/jingkaihe/matchlock'>Matchlock – Secures AI agent workloads with a Linux-based sandbox</a></td></tr>
 </table>
 <!-- END:news -->
 
