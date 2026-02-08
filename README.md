@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2510.25417'>Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization</a></td></tr>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
-<tr><td><a href='https://www.voidtools.com/'>Voidtools Everything – Locate files and folders by name instantly</a></td></tr>
 <tr><td><a href='https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md'>Apple XNU: Clutch Scheduler</a></td></tr>
-<tr><td><a href='https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/'>Roundcube Webmail: SVG feImage bypasses image blocking to track email opens</a></td></tr>
-<tr><td><a href='https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/'>A GTA modder has got the 1997 original working on modern PCs and Steam Deck</a></td></tr>
+<tr><td><a href='https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/'>Reverse Engineering the Prom for the SGI O2</a></td></tr>
+<tr><td><a href='https://eclecticlight.co/2026/01/30/more-malware-from-google-search/'>More Mac malware from Google search</a></td></tr>
 </table>
 <!-- END:news -->
 
