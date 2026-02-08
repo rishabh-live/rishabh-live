@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bellard.org/tcc/'>Tiny C Compiler</a></td></tr>
-<tr><td><a href='https://amit.prasad.me/blog/rip-good-code'>The silent death of Good Code</a></td></tr>
 <tr><td><a href='https://xorvoid.com/sectorc.html'>SectorC: A C Compiler in 512 bytes</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/fast-mode'>Speed up responses with fast mode</a></td></tr>
 <tr><td><a href='https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/'>Brookhaven Lab&#x27;s RHIC concludes 25-year run with final collisions</a></td></tr>
+<tr><td><a href='https://factory.strongdm.ai/'>Software factories and the agentic moment</a></td></tr>
 </table>
 <!-- END:news -->
 
