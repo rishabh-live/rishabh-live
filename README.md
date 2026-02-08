@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://eclecticlight.co/2026/02/08/last-week-on-my-mac-why-e-cores-make-apple-silicon-fast/'>Why E cores make Apple silicon fast</a></td></tr>
-<tr><td><a href='https://github.com/jingkaihe/matchlock'>Matchlock – Secures AI agent workloads with a Linux-based sandbox</a></td></tr>
+<tr><td><a href='https://siddhantkhare.com/writing/ai-fatigue-is-real'>AI fatigue Is real and nobody talks about it</a></td></tr>
+<tr><td><a href='https://datatracker.ietf.org/doc/html/rfc3092'>RFC 3092 – Etymology of &quot;Foo&quot; (2001)</a></td></tr>
+<tr><td><a href='https://github.github.io/gh-aw/'>GitHub Agentic Workflows</a></td></tr>
+<tr><td><a href='https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/'>I am happier writing code by hand</a></td></tr>
 <tr><td><a href='https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/'>Curating a Show on My Ineffable Mother, Ursula K. Le Guin</a></td></tr>
-<tr><td><a href='https://github.com/joshuanwalker/Raiders2600'>Reverse Engineering Raiders of the Lost Ark for the Atari 2600</a></td></tr>
-<tr><td><a href='https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/'>Dave Farber has died</a></td></tr>
 </table>
 <!-- END:news -->
 
