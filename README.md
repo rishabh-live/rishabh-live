@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
-<tr><td><a href='https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/'>A GTA modder has got the 1997 original working on modern PCs and Steam Deck</a></td></tr>
-<tr><td><a href='https://blog.otterstack.com/posts/202512-gbshader/'>I put a real-time 3D shader on the Game Boy Color</a></td></tr>
+<tr><td><a href='https://www.voidtools.com/'>Voidtools Everything – Locate files and folders by name instantly</a></td></tr>
 <tr><td><a href='https://blog.svgames.pl/article/the-little-bool-of-doom'>The Little Bool of Doom (2025)</a></td></tr>
 <tr><td><a href='https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/'>Roundcube Webmail: SVG feImage bypasses image blocking to track email opens</a></td></tr>
+<tr><td><a href='https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/'>A GTA modder has got the 1997 original working on modern PCs and Steam Deck</a></td></tr>
 </table>
 <!-- END:news -->
 
