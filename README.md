@@ -24,8 +24,8 @@
 <tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
 <tr><td><a href='https://github.com/naver/lispe'>LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation</a></td></tr>
-<tr><td><a href='https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5'>TSMC to make advanced AI semiconductors in Japan</a></td></tr>
-<tr><td><a href='https://harshanu.space/en/tech/ccc-vs-gcc/'>Claude’s C Compiler vs. GCC</a></td></tr>
+<tr><td><a href='https://bobbiec.github.io/cistercian-font.html'>Show HN: A custom font that displays Cistercian numerals using ligatures</a></td></tr>
+<tr><td><a href='https://odd-lots-books.netlify.app/'>Every book recommended on the Odd Lots Discord</a></td></tr>
 </table>
 <!-- END:news -->
 
