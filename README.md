@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://alltheviews.world'>Show HN: Algorithmically Finding the Longest Line of Sight on Earth</a></td></tr>
-<tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
-<tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
 <tr><td><a href='https://www.wirewiki.com'>Show HN: Browse Internet Infrastructure</a></td></tr>
-<tr><td><a href='https://github.com/vhscom/private-landing'>Show HN: Minimal NIST&#x2F;OWASP-compliant auth implementation for Cloudflare Workers</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9'>Thought-Terminating Cliché</a></td></tr>
+<tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
+<tr><td><a href='https://www.theregister.com/2026/02/09/matrix_element_secure_chat/'>Matrix messaging gaining ground in government IT</a></td></tr>
 </table>
 <!-- END:news -->
 
