@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://codeberg.org/smnx/promethee'>UEFI Bindings for JavaScript</a></td></tr>
 <tr><td><a href='https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c'>Thoughts on Generating C</a></td></tr>
+<tr><td><a href='https://codeberg.org/smnx/promethee'>UEFI Bindings for JavaScript</a></td></tr>
+<tr><td><a href='https://www.newyorker.com/magazine/2026/02/16/can-ozempic-cure-addiction'>Can Ozempic Cure Addiction?</a></td></tr>
 <tr><td><a href='https://alltheviews.world'>Show HN: Algorithmically Finding the Longest Line of Sight on Earth</a></td></tr>
 <tr><td><a href='https://www.wirewiki.com'>Show HN: Browse Internet Infrastructure</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/magazine/2026/02/16/can-ozempic-cure-addiction'>Can Ozempic Cure Addiction?</a></td></tr>
 </table>
 <!-- END:news -->
 
