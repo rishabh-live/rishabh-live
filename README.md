@@ -24,8 +24,8 @@
 <tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
 <tr><td><a href='https://github.com/naver/lispe'>LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation</a></td></tr>
+<tr><td><a href='https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html'>Clean Coder: The Dark Path (2017)</a></td></tr>
 <tr><td><a href='https://bobbiec.github.io/cistercian-font.html'>Show HN: A custom font that displays Cistercian numerals using ligatures</a></td></tr>
-<tr><td><a href='https://odd-lots-books.netlify.app/'>Every book recommended on the Odd Lots Discord</a></td></tr>
 </table>
 <!-- END:news -->
 
