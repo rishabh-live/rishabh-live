@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
-<tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
 <tr><td><a href='https://alltheviews.world'>Show HN: Algorithmically Finding the Longest Line of Sight on Earth</a></td></tr>
+<tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
+<tr><td><a href='https://ploum.net/2026-02-09-offpunk3.html'>Offpunk 3.0</a></td></tr>
 <tr><td><a href='https://github.com/naver/lispe'>LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation</a></td></tr>
-<tr><td><a href='https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html'>Clean Coder: The Dark Path (2017)</a></td></tr>
 </table>
 <!-- END:news -->
 
