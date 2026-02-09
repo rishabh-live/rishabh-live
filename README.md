@@ -24,8 +24,8 @@
 <tr><td><a href='https://alltheviews.world'>Show HN: Algorithmically Finding the Longest Line of Sight on Earth</a></td></tr>
 <tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
-<tr><td><a href='https://ploum.net/2026-02-09-offpunk3.html'>Offpunk 3.0</a></td></tr>
-<tr><td><a href='https://github.com/naver/lispe'>LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation</a></td></tr>
+<tr><td><a href='https://www.wirewiki.com'>Show HN: Browse Internet Infrastructure</a></td></tr>
+<tr><td><a href='https://github.com/vhscom/private-landing'>Show HN: Minimal NIST&#x2F;OWASP-compliant auth implementation for Cloudflare Workers</a></td></tr>
 </table>
 <!-- END:news -->
 
