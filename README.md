@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://codeberg.org/smnx/promethee'>UEFI Bindings for JavaScript</a></td></tr>
 <tr><td><a href='https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c'>Thoughts on Generating C</a></td></tr>
-<tr><td><a href='https://alltheviews.world'>Show HN: Algorithmically Finding the Longest Line of Sight on Earth</a></td></tr>
 <tr><td><a href='https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp'>Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM</a></td></tr>
-<tr><td><a href='https://www.wirewiki.com'>Show HN: Browse Internet Infrastructure</a></td></tr>
+<tr><td><a href='https://alltheviews.world'>Show HN: Algorithmically Finding the Longest Line of Sight on Earth</a></td></tr>
+<tr><td><a href='https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it'>AI Doesn&#x27;t Reduce Work–It Intensifies It</a></td></tr>
 </table>
 <!-- END:news -->
 
