@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
-<tr><td><a href='https://harshanu.space/en/tech/ccc-vs-gcc/'>Claude’s C Compiler vs. GCC</a></td></tr>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
+<tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
 <tr><td><a href='https://github.com/naver/lispe'>LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation</a></td></tr>
-<tr><td><a href='https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5'>TSMC to make advanced AI semiconductors in Japan</a></td></tr>
+<tr><td><a href='https://harshanu.space/en/tech/ccc-vs-gcc/'>Claude’s C Compiler vs. GCC</a></td></tr>
+<tr><td><a href='https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/'>Nobody knows how the whole system works</a></td></tr>
 </table>
 <!-- END:news -->
 
