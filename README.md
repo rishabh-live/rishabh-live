@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://harshanu.space/en/tech/ccc-vs-gcc/'>Claude&#x27;s C Compiler vs. GCC</a></td></tr>
 <tr><td><a href='https://sandboxspirit.com/blog/art-of-roads-in-games/'>Art of Roads in Games</a></td></tr>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
-<tr><td><a href='https://sir68k.re/posts/rh1-firmware-available/'>Custom Firmware for the MZ-RH1 – Ready for Testing</a></td></tr>
+<tr><td><a href='https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5'>TSMC to make advanced AI semiconductors in Japan</a></td></tr>
 <tr><td><a href='https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/'>Reverse Engineering the Prom for the SGI O2</a></td></tr>
-<tr><td><a href='https://www.pa3fwm.nl/technotes/tn13a.html'>Quartz crystals</a></td></tr>
 </table>
 <!-- END:news -->
 
