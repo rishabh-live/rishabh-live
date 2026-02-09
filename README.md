@@ -24,7 +24,7 @@
 <tr><td><a href='https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock'>Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock</a></td></tr>
 <tr><td><a href='https://explainers.blog/posts/why-is-the-sky-blue/'>Why Is the Sky Blue?</a></td></tr>
 <tr><td><a href='https://defusedcyber.com/ivanti-epmm-sleeper-shells-403jsp'>Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM</a></td></tr>
-<tr><td><a href='https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/'>Hard-braking events as indicators of road segment crash risk</a></td></tr>
+<tr><td><a href='https://codeberg.org/smnx/promethee'>UEFI Bindings for JavaScript</a></td></tr>
 <tr><td><a href='https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c'>Thoughts on Generating C</a></td></tr>
 </table>
 <!-- END:news -->
