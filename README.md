@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder'>AI makes the easy part easier and the hard part harder</a></td></tr>
 <tr><td><a href='https://github.com/mitchellh/vouch'>Vouch</a></td></tr>
-<tr><td><a href='https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/'>Reverse Engineering the Prom for the SGI O2</a></td></tr>
 <tr><td><a href='https://eclecticlight.co/2026/01/30/more-malware-from-google-search/'>More Mac malware from Google search</a></td></tr>
+<tr><td><a href='https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/'>Reverse Engineering the Prom for the SGI O2</a></td></tr>
 <tr><td><a href='https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md'>Apple XNU: Clutch Scheduler</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=46937696'>Ask HN: What are you working on? (February 2026)</a></td></tr>
 </table>
 <!-- END:news -->
 
