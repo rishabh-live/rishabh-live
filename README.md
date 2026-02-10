@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2512.20798'>Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs</a></td></tr>
 <tr><td><a href='https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out'>Discord will require a face scan or ID for full access next month</a></td></tr>
-<tr><td><a href='https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/'>What functional programmers get wrong about systems</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cddg885344do'>The number of abandoned oil tankers and other commercial ships has shot up</a></td></tr>
 <tr><td><a href='https://github.com/TrevorS/voxtral-mini-realtime-rs'>Rust implementation of Mistral&#x27;s Voxtral Mini 4B Realtime runs in your browser</a></td></tr>
+<tr><td><a href='https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/'>What functional programmers get wrong about systems</a></td></tr>
 <tr><td><a href='https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock'>Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock</a></td></tr>
 </table>
 <!-- END:news -->
