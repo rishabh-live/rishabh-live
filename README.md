@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan One Subsystem at a Time</a></td></tr>
 <tr><td><a href='https://code.idtech.space/fn/hl2'>Clean-room implementation of Half-Life 2 on the Quake 1 engine</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2512.20798'>Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs</a></td></tr>
+<tr><td><a href='https://techxplore.com/news/2026-02-jury-told-meta-google-addiction.html'>Jury told that Meta, Google &#x27;engineered addiction&#x27; at landmark US trial</a></td></tr>
 <tr><td><a href='https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out'>Discord will require a face scan or ID for full access next month</a></td></tr>
-<tr><td><a href='https://github.com/TrevorS/voxtral-mini-realtime-rs'>Rust implementation of Mistral&#x27;s Voxtral Mini 4B Realtime runs in your browser</a></td></tr>
-<tr><td><a href='https://github.com/antirez/voxtral.c'>Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model</a></td></tr>
 </table>
 <!-- END:news -->
 
