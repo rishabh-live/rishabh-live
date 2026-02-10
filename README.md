@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.githubstatus.com/incidents/wkgqj4546z1c'>Disruption with Some GitHub Services</a></td></tr>
+<tr><td><a href='https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/'>Parse, Don&#x27;t Validate (2019)</a></td></tr>
+<tr><td><a href='https://ba.antheas.dev/bazzite-postmortem.html'>Bazzite Post-Mortem</a></td></tr>
 <tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan One Subsystem at a Time</a></td></tr>
 <tr><td><a href='https://oxide.computer/blog/our-200m-series-c'>Oxide raises $200M Series C</a></td></tr>
 <tr><td><a href='https://code.idtech.space/fn/hl2'>Clean-room implementation of Half-Life 2 on the Quake 1 engine</a></td></tr>
-<tr><td><a href='https://www.netviews.app'>Show HN: I built a macOS tool for network engineers – it&#x27;s called NetViews</a></td></tr>
 </table>
 <!-- END:news -->
 
