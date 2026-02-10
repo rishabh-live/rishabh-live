@@ -24,8 +24,8 @@
 <tr><td><a href='https://arxiv.org/abs/2512.20798'>Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs</a></td></tr>
 <tr><td><a href='https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out'>Discord will require a face scan or ID for full access next month</a></td></tr>
 <tr><td><a href='https://github.com/TrevorS/voxtral-mini-realtime-rs'>Rust implementation of Mistral&#x27;s Voxtral Mini 4B Realtime runs in your browser</a></td></tr>
+<tr><td><a href='https://beats.wiki/'>.Beat Swatch Internet Time</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Feb/9/ai-intensifies-work/'>AI doesn’t reduce work, it intensifies it</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen-image-2.0'>Qwen-Image-2.0: Professional infographics, exquisite photorealism</a></td></tr>
 </table>
 <!-- END:news -->
 
