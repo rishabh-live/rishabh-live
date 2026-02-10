@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
+<tr><td><a href='https://www.scraplabs3d.com/'>Scrap Labs – Metal 3D Printer</a></td></tr>
 <tr><td><a href='https://entire.io/blog/hello-entire-world/'>Ex-GitHub CEO launches a new developer platform for AI agents</a></td></tr>
+<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052'>How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?</a></td></tr>
 <tr><td><a href='https://www.infinitelymore.xyz/p/complex-numbers-essential-structure'>Mathematicians disagree on the essential structure of the complex numbers (2024)</a></td></tr>
-<tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan one subsystem at a time</a></td></tr>
-<tr><td><a href='https://mtlynch.io/bootstrapped-founder-year-8/'>My eighth year as a bootstrapped founder</a></td></tr>
 </table>
 <!-- END:news -->
 
