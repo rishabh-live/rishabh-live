@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
+<tr><td><a href='https://github.com/getclawe/clawe'>Show HN: Clawe – open-source Trello for agent teams</a></td></tr>
 <tr><td><a href='https://hazemkrimi.tech/blog/linux-self-hosting-journey/'>The Switch to Linux and the Beginning of My Self-Hosting Journey</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Feb/10/showboat-and-rodney/'>Show HN: Showboat and Rodney, so agents can demo what they&#x27;ve built</a></td></tr>
 <tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan one subsystem at a time</a></td></tr>
-<tr><td><a href='https://www.infinitelymore.xyz/p/complex-numbers-essential-structure'>Mathematicians disagree on the essential structure of the complex numbers</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
