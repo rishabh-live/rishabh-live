@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
 <tr><td><a href='https://entire.io/blog/hello-entire-world/'>Ex-GitHub CEO launches a new developer platform for AI agents</a></td></tr>
-<tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan one subsystem at a time</a></td></tr>
 <tr><td><a href='https://www.infinitelymore.xyz/p/complex-numbers-essential-structure'>Mathematicians disagree on the essential structure of the complex numbers</a></td></tr>
+<tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan one subsystem at a time</a></td></tr>
 <tr><td><a href='https://code.idtech.space/fn/hl2'>Clean-room implementation of Half-Life 2 on the Quake 1 engine</a></td></tr>
 </table>
 <!-- END:news -->
