@@ -22,7 +22,7 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out'>Discord will require a face scan or ID for full access next month</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/'>Is particle physics dead, dying, or just hard?</a></td></tr>
+<tr><td><a href='https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/'>What Functional Programmers Get Wrong About Systems</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cddg885344do'>The shadowy world of abandoned oil tankers</a></td></tr>
 <tr><td><a href='https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock'>Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock</a></td></tr>
 <tr><td><a href='https://explainers.blog/posts/why-is-the-sky-blue/'>Why is the sky blue?</a></td></tr>
