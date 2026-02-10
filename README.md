@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
-<tr><td><a href='https://www.infinitelymore.xyz/p/complex-numbers-essential-structure'>Mathematicians disagree on the essential structure of the complex numbers</a></td></tr>
 <tr><td><a href='https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2'>Semaglutide improves knee osteoarthritis independant of weight loss</a></td></tr>
+<tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
 <tr><td><a href='https://livedocs.com'>Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Feb/10/showboat-and-rodney/'>Show HN: Showboat and Rodney, so agents can demo what they&#x27;ve built</a></td></tr>
 <tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan one subsystem at a time</a></td></tr>
 </table>
 <!-- END:news -->
