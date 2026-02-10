@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.londoncentric.media/p/london-tiktok-fake-news-creator-hate-immigrants'>&quot;Hate brings views&quot;: Confessions of a London fake news TikToker</a></td></tr>
 <tr><td><a href='https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/'>Parse, Don&#x27;t Validate (2019)</a></td></tr>
-<tr><td><a href='https://ba.antheas.dev/bazzite-postmortem.html'>Bazzite Post-Mortem</a></td></tr>
 <tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan One Subsystem at a Time</a></td></tr>
-<tr><td><a href='https://oxide.computer/blog/our-200m-series-c'>Oxide raises $200M Series C</a></td></tr>
+<tr><td><a href='https://www.infinitelymore.xyz/p/complex-numbers-essential-structure'>Mathematicians disagree on the essential structure of the complex numbers</a></td></tr>
 <tr><td><a href='https://code.idtech.space/fn/hl2'>Clean-room implementation of Half-Life 2 on the Quake 1 engine</a></td></tr>
 </table>
 <!-- END:news -->
