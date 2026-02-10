@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan one subsystem at a time</a></td></tr>
+<tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
 <tr><td><a href='https://www.infinitelymore.xyz/p/complex-numbers-essential-structure'>Mathematicians disagree on the essential structure of the complex numbers</a></td></tr>
-<tr><td><a href='https://code.idtech.space/fn/hl2'>Clean-room implementation of Half-Life 2 on the Quake 1 engine</a></td></tr>
-<tr><td><a href='https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/'>Parse, Don&#x27;t Validate (2019)</a></td></tr>
-<tr><td><a href='https://clawhub.ai/'>ClawHub</a></td></tr>
+<tr><td><a href='https://www.cell.com/cell-metabolism/abstract/S1550-4131(26)00008-2'>Semaglutide improves knee osteoarthritis independant of weight loss</a></td></tr>
+<tr><td><a href='https://livedocs.com'>Launch HN: Livedocs (YC W22) – An AI-native notebook for data analysis</a></td></tr>
+<tr><td><a href='https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time'>Simplifying Vulkan one subsystem at a time</a></td></tr>
 </table>
 <!-- END:news -->
 
