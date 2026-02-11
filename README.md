@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://z.ai/blog/glm-5'>GLM-5: From Vibe Coding to Agentic Engineering</a></td></tr>
 <tr><td><a href='https://fluorite.game/'>Toyota Fluorite: &quot;console-grade&quot; Flutter game engine</a></td></tr>
+<tr><td><a href='https://z.ai/blog/glm-5'>GLM-5: From Vibe Coding to Agentic Engineering</a></td></tr>
 <tr><td><a href='https://github.com/zai-org/GLM-OCR'>GLM-OCR: Accurate × Fast × Comprehensive</a></td></tr>
+<tr><td><a href='https://theloop.ecpr.eu/its-not-finance-its-your-pensions/'>It&#x27;s not finance, it&#x27;s your pensions</a></td></tr>
 <tr><td><a href='https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/'>WiFi Could Become an Invisible Mass Surveillance System</a></td></tr>
-<tr><td><a href='https://lcamtuf.substack.com/p/its-all-a-blur'>It&#x27;s all a blur</a></td></tr>
 </table>
 <!-- END:news -->
 
