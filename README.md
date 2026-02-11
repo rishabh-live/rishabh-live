@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://chat.z.ai/'>GLM5 Released on Z.ai Platform</a></td></tr>
-<tr><td><a href='https://lcamtuf.substack.com/p/its-all-a-blur'>It&#x27;s all a blur</a></td></tr>
+<tr><td><a href='https://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/'>Who Smeared Feynman</a></td></tr>
+<tr><td><a href='https://www.foodpolitics.com/2026/02/fda-says-food-companies-can-claim-no-artificial-colors-if-they-use-natural-dyes/'>FDA says companies can claim &quot;no artificial colors&quot; if they use natural dyes</a></td></tr>
 <tr><td><a href='https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html'>Do not apologize for replying late to my email</a></td></tr>
-<tr><td><a href='https://www.cve.org/CVERecord?id=CVE-2026-20841'>Windows Notepad App Remote Code Execution Vulnerability</a></td></tr>
-<tr><td><a href='https://hallucinatingsplines.com'>Show HN: AI agents play SimCity through a REST API</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/its-all-a-blur'>It&#x27;s all a blur</a></td></tr>
+<tr><td><a href='https://github.com/zai-org/GLM-OCR'>GLM-OCR: Accurate × Fast × Comprehensive</a></td></tr>
 </table>
 <!-- END:news -->
 
