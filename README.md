@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/'>The Day the Telnet Died</a></td></tr>
-<tr><td><a href='https://people.com/waymo-exec-reveals-company-uses-operators-in-the-philippines-to-assist-autonomous-vehicles-11900507'>Waymo exec reveals company uses remote workers in the Philippines</a></td></tr>
-<tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
 <tr><td><a href='https://www.feynmanlectures.caltech.edu/'>The Feynman Lectures on Physics (1961-1964)</a></td></tr>
+<tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
 <tr><td><a href='https://entire.io/blog/hello-entire-world/'>Ex-GitHub CEO launches a new developer platform for AI agents</a></td></tr>
+<tr><td><a href='https://mitpress.mit.edu/9780262546379/the-little-learner/'>The Little Learner: A Straight Line to Deep Learning</a></td></tr>
 </table>
 <!-- END:news -->
 
