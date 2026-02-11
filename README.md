@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4'>The risk of a hothouse Earth trajectory</a></td></tr>
 <tr><td><a href='https://fluorite.game/'>Toyota Fluorite: &quot;console-grade&quot; Flutter game engine</a></td></tr>
+<tr><td><a href='https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4'>The risk of a hothouse Earth trajectory</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5'>GLM-5: From Vibe Coding to Agentic Engineering</a></td></tr>
 <tr><td><a href='https://netnewswire.blog/2026/02/11/netnewswire-turns.html'>NetNewsWire Turns 23</a></td></tr>
 <tr><td><a href='https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/'>Claude Code Is Being Dumbed Down</a></td></tr>
