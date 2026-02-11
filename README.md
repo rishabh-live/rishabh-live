@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.cve.org/CVERecord?id=CVE-2026-20841'>Windows Notepad App Remote Code Execution Vulnerability</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/its-all-a-blur'>It&#x27;s All a Blur</a></td></tr>
 <tr><td><a href='https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst'>A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST</a></td></tr>
 <tr><td><a href='https://www.feynmanlectures.caltech.edu/'>The Feynman Lectures on Physics (1961-1964)</a></td></tr>
 <tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
-<tr><td><a href='https://github.com/golioth/signy'>Signy: Signed URLs for Small Devices</a></td></tr>
 </table>
 <!-- END:news -->
 
