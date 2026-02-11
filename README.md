@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.feynmanlectures.caltech.edu/'>The Feynman Lectures on Physics (1961-1964)</a></td></tr>
-<tr><td><a href='https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/'>The Day the Telnet Died</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/'>Exploring a Modern SMTPE 2110 Broadcast Truck</a></td></tr>
-<tr><td><a href='https://www.kraxel.org/blog/2026/01/thank-you-ai/'>Thank You, AI</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/crkrkd2xlx6o'>YouTube&#x27;s $60B revenue revealed amid paid subscriber push</a></td></tr>
+<tr><td><a href='https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/'>The Day the Telnet Died</a></td></tr>
 <tr><td><a href='https://campedersen.com/singularity'>The Singularity will occur on a Tuesday</a></td></tr>
 </table>
 <!-- END:news -->
