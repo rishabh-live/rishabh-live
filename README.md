@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://status.railway.com'>Railway (PaaS) Global Outage</a></td></tr>
 <tr><td><a href='https://github.com/zai-org/GLM-OCR'>GLM-OCR: Accurate × Fast × Comprehensive</a></td></tr>
+<tr><td><a href='https://machielreyneke.com/blog/vampires-longevity/'>Why Vampires Live Forever</a></td></tr>
+<tr><td><a href='https://z.ai/blog/glm-5'>GLM-5: From Vibe Coding to Agentic Engineering</a></td></tr>
 <tr><td><a href='https://lcamtuf.substack.com/p/its-all-a-blur'>It&#x27;s all a blur</a></td></tr>
-<tr><td><a href='https://status.railway.com'>Railway Global Outage</a></td></tr>
-<tr><td><a href='https://hallucinatingsplines.com'>Show HN: AI agents play SimCity through a REST API</a></td></tr>
-<tr><td><a href='https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/'>WiFi Could Become an Invisible Mass Surveillance System</a></td></tr>
 </table>
 <!-- END:news -->
 
