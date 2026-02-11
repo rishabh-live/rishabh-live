@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://fluorite.game/'>Toyota Fluorite: &quot;console-grade&quot; Flutter game engine</a></td></tr>
+<tr><td><a href='https://fluorite.game/'>Fluorite – A console-grade game engine fully integrated with Flutter</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5'>GLM-5: From Vibe Coding to Agentic Engineering</a></td></tr>
 <tr><td><a href='https://netnewswire.blog/2026/02/11/netnewswire-turns.html'>NetNewsWire Turns 23</a></td></tr>
-<tr><td><a href='https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/'>Claude Code Is Being Dumbed Down</a></td></tr>
-<tr><td><a href='https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/'>Microwave Oven Failure: Spontaneously turned on by its LED display (2024)</a></td></tr>
+<tr><td><a href='https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/'>Claude Code is being dumbed down?</a></td></tr>
+<tr><td><a href='https://maxhalford.github.io/blog/text-classification-zstd/'>Text classification with Python 3.14&#x27;s ZSTD module</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
