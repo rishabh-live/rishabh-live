@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495'>Chrome extensions spying on 37M users&#x27; browsing data</a></td></tr>
+<tr><td><a href='https://chat.z.ai/'>GLM5 Released on Z.ai Platform</a></td></tr>
 <tr><td><a href='https://lcamtuf.substack.com/p/its-all-a-blur'>It&#x27;s all a blur</a></td></tr>
+<tr><td><a href='https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html'>Do not apologize for replying late to my email</a></td></tr>
 <tr><td><a href='https://www.cve.org/CVERecord?id=CVE-2026-20841'>Windows Notepad App Remote Code Execution Vulnerability</a></td></tr>
-<tr><td><a href='https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa'>FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights</a></td></tr>
 <tr><td><a href='https://hallucinatingsplines.com'>Show HN: AI agents play SimCity through a REST API</a></td></tr>
 </table>
 <!-- END:news -->
