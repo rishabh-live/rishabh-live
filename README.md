@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.cve.org/CVERecord?id=CVE-2026-20841'>Windows Notepad App Remote Code Execution Vulnerability</a></td></tr>
 <tr><td><a href='https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495'>Chrome extensions spying on 37M users&#x27; browsing data</a></td></tr>
-<tr><td><a href='https://lcamtuf.substack.com/p/its-all-a-blur'>It&#x27;s All a Blur</a></td></tr>
+<tr><td><a href='https://www.cve.org/CVERecord?id=CVE-2026-20841'>Windows Notepad App Remote Code Execution Vulnerability</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/its-all-a-blur'>It&#x27;s all a blur</a></td></tr>
 <tr><td><a href='https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa'>FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights</a></td></tr>
-<tr><td><a href='https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst'>A Cosmic Miracle: A Remarkably Luminous Galaxy at z=14.44 Confirmed with JWST</a></td></tr>
+<tr><td><a href='http://www.andersenimages.com/tutorials/exposure-simulator/'>Exposure Simulator</a></td></tr>
 </table>
 <!-- END:news -->
 
