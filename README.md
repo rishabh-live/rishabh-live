@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex-spark/'>GPT‑5.3‑Codex‑Spark</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/'>Gemini 3 Deep Think</a></td></tr>
+<tr><td><a href='https://realfood.gov/#answers'>Realfood.gov includes a Grok search box</a></td></tr>
 <tr><td><a href='https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/'>An AI agent published a hit piece on me</a></td></tr>
-<tr><td><a href='https://pol.is/home2'>Polis: Open-source platform for large-scale civic deliberation</a></td></tr>
-<tr><td><a href='https://atha.io/blog/2026-02-12-viva'>Major European payment processor can&#x27;t send email to Google Workspace users</a></td></tr>
+<tr><td><a href='https://matrix.org/blog/2026/02/welcome-discord/'>Welcoming Discord users amidst the challenge of Age Verification</a></td></tr>
 </table>
 <!-- END:news -->
 
