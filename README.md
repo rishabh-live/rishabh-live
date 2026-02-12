@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://age-verifier.kibty.town/'>Discord&#x2F;Twitch&#x2F;Snapchat age verification bypass</a></td></tr>
-<tr><td><a href='https://www.vangemert.dev/blog/nothing'>&quot;Nothing&quot; is the secret to structuring your work</a></td></tr>
-<tr><td><a href='https://fluorite.game/'>Fluorite – A console-grade game engine fully integrated with Flutter</a></td></tr>
+<tr><td><a href='https://ntietz.com/blog/using-an-engineering-notebook/'>Using an engineering notebook</a></td></tr>
+<tr><td><a href='https://www.vangemert.dev/blog/nothing'>“Nothing” is the secret to structuring your work</a></td></tr>
 <tr><td><a href='https://maxhalford.github.io/blog/text-classification-zstd/'>Text classification with Python 3.14&#x27;s ZSTD module</a></td></tr>
-<tr><td><a href='https://z.ai/blog/glm-5'>GLM-5: Targeting complex systems engineering and long-horizon agentic tasks</a></td></tr>
+<tr><td><a href='https://fluorite.game/'>Fluorite – A console-grade game engine fully integrated with Flutter</a></td></tr>
 </table>
 <!-- END:news -->
 
