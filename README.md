@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://age-verifier.kibty.town/'>Discord&#x2F;Twitch&#x2F;Snapchat age verification bypass</a></td></tr>
+<tr><td><a href='https://github.com/tonyyont/peon-ping'>Warcraft III Peon Voice Notifications for Claude Code</a></td></tr>
+<tr><td><a href='https://essays.fnnch.com/make-a-living'>How to Make a Living as an Artist</a></td></tr>
 <tr><td><a href='https://ntietz.com/blog/using-an-engineering-notebook/'>Using an engineering notebook</a></td></tr>
 <tr><td><a href='https://www.vangemert.dev/blog/nothing'>“Nothing” is the secret to structuring your work</a></td></tr>
-<tr><td><a href='https://altermag.com/articles/kanchipuram-saris-and-thinking-machines'>Kanchipuram Saris and Thinking Machines</a></td></tr>
-<tr><td><a href='https://z.ai/blog/glm-5'>GLM-5: Targeting complex systems engineering and long-horizon agentic tasks</a></td></tr>
 </table>
 <!-- END:news -->
 
