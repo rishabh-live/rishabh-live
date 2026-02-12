@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/tonyyont/peon-ping'>Warcraft III Peon Voice Notifications for Claude Code</a></td></tr>
 <tr><td><a href='https://age-verifier.kibty.town/'>Discord&#x2F;Twitch&#x2F;Snapchat age verification bypass</a></td></tr>
-<tr><td><a href='https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html'>65 Lines of Markdown, a Claude Code Sensation</a></td></tr>
+<tr><td><a href='https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/'>The missing digit of Stela C</a></td></tr>
+<tr><td><a href='https://www.juxt.pro/blog/from-specification-to-stress-test/'>From specification to stress test: a weekend with Claude</a></td></tr>
 <tr><td><a href='https://ntietz.com/blog/using-an-engineering-notebook/'>Using an engineering notebook</a></td></tr>
-<tr><td><a href='https://www.vangemert.dev/blog/nothing'>“Nothing” is the secret to structuring your work</a></td></tr>
 </table>
 <!-- END:news -->
 
