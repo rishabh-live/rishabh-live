@@ -25,7 +25,7 @@
 <tr><td><a href='https://age-verifier.kibty.town/'>Discord&#x2F;Twitch&#x2F;Snapchat age verification bypass</a></td></tr>
 <tr><td><a href='https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html'>65 Lines of Markdown, a Claude Code Sensation</a></td></tr>
 <tr><td><a href='https://ntietz.com/blog/using-an-engineering-notebook/'>Using an engineering notebook</a></td></tr>
-<tr><td><a href='https://dlang.org/'>D Programming Language</a></td></tr>
+<tr><td><a href='https://www.vangemert.dev/blog/nothing'>“Nothing” is the secret to structuring your work</a></td></tr>
 </table>
 <!-- END:news -->
 
