@@ -25,7 +25,7 @@
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/'>Gemini 3 Deep Think</a></td></tr>
 <tr><td><a href='https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/'>An AI agent published a hit piece on me</a></td></tr>
 <tr><td><a href='https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History'>A party balloon shut down El Paso International Airport; estimated cost –$573k</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=46991591'>Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere</a></td></tr>
+<tr><td><a href='https://rari.build/'>Show HN: rari, the rust-powered react framework</a></td></tr>
 </table>
 <!-- END:news -->
 
