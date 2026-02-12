@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.0xsid.com/blog/aidr'>ai;dr</a></td></tr>
 <tr><td><a href='https://atha.io/blog/2026-02-12-viva'>Email is tough: Major European Payment Processor&#x27;s Emails rejected by GWorkspace</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=46991591'>Launch HN: Omnara (YC S25) – Run Claude Code and Codex from Anywhere</a></td></tr>
-<tr><td><a href='https://loriemerson.net/2024/08/31/a-brief-history-of-barbed-wire-fence-telephone-networks/'>A brief history of barbed wire fence telephone networks (2024)</a></td></tr>
+<tr><td><a href='https://rickyromero.com/shutup/'>Shut Up: Comment Blocker</a></td></tr>
 </table>
 <!-- END:news -->
 
