@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/'>The &quot;Crown of Nobles&quot; Noble Gas Tube Display</a></td></tr>
 <tr><td><a href='https://github.com/tonyyont/peon-ping'>Warcraft III Peon Voice Notifications for Claude Code</a></td></tr>
-<tr><td><a href='https://github.com/matplotlib/matplotlib/pull/31132'>AI agent opens a PR write a blogpost to shames the maintainer who closes it</a></td></tr>
 <tr><td><a href='https://age-verifier.kibty.town/'>Discord&#x2F;Twitch&#x2F;Snapchat age verification bypass</a></td></tr>
+<tr><td><a href='https://github.com/matplotlib/matplotlib/pull/31132'>AI agent opens a PR write a blogpost to shames the maintainer who closes it</a></td></tr>
 <tr><td><a href='https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/'>The missing digit of Stela C</a></td></tr>
 </table>
 <!-- END:news -->
