@@ -22,7 +22,7 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://age-verifier.kibty.town/'>Discord&#x2F;Twitch&#x2F;Snapchat age verification bypass</a></td></tr>
-<tr><td><a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012'>GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment</a></td></tr>
+<tr><td><a href='https://www.vangemert.dev/blog/nothing'>&quot;Nothing&quot; is the secret to structuring your work</a></td></tr>
 <tr><td><a href='https://fluorite.game/'>Fluorite – A console-grade game engine fully integrated with Flutter</a></td></tr>
 <tr><td><a href='https://maxhalford.github.io/blog/text-classification-zstd/'>Text classification with Python 3.14&#x27;s ZSTD module</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5'>GLM-5: Targeting complex systems engineering and long-horizon agentic tasks</a></td></tr>
