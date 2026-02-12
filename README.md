@@ -25,7 +25,7 @@
 <tr><td><a href='http://blog.can.ac/2026/02/12/the-harness-problem/'>Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed</a></td></tr>
 <tr><td><a href='https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/'>The &quot;Crown of Nobles&quot; Noble Gas Tube Display (2024)</a></td></tr>
 <tr><td><a href='https://lwn.net/Articles/1055590/'>The Future for Tyr, a Rust GPU Driver for Arm Mali Hardware</a></td></tr>
-<tr><td><a href='https://github.com/tonyyont/peon-ping'>Warcraft III Peon Voice Notifications for Claude Code</a></td></tr>
+<tr><td><a href='https://aethermug.com/posts/culture-is-the-mass-synchronization-of-framings'>Culture Is the Mass-Synchronization of Framings</a></td></tr>
 </table>
 <!-- END:news -->
 
