@@ -24,8 +24,8 @@
 <tr><td><a href='https://openai.com/index/new-result-theoretical-physics/'>GPT-5.2 derives a new result in theoretical physics</a></td></tr>
 <tr><td><a href='https://ios-countdown.win/'>Apple, fix my keyboard before the timer ends or I&#x27;m leaving iPhone</a></td></tr>
 <tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
+<tr><td><a href='https://homolova.sk/missingvoters/'>11.8M EU citizens pay taxes to governments they cannot vote for</a></td></tr>
 <tr><td><a href='https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html'>Sandwich Bill of Materials</a></td></tr>
-<tr><td><a href='https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss'>Why I&#x27;m not worried about AI job loss</a></td></tr>
 </table>
 <!-- END:news -->
 
