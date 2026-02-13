@@ -24,8 +24,8 @@
 <tr><td><a href='https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/'>Resizing windows on macOS Tahoe – the saga continues</a></td></tr>
 <tr><td><a href='https://skipthe.tips/'>Skip the Tips: A game to select &quot;No Tip&quot; but dark patterns try to stop you</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex-spark/'>GPT‑5.3‑Codex‑Spark</a></td></tr>
+<tr><td><a href='https://nickbostrom.com/optimal.pdf'>New Nick Bostrom Paper: Optimal Timing for Superintelligence [pdf]</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/'>Gemini 3 Deep Think</a></td></tr>
-<tr><td><a href='https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e'>AWS Adds support for nested virtualization</a></td></tr>
 </table>
 <!-- END:news -->
 
