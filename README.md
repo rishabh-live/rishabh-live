@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f'>MinIO repository is no longer maintained</a></td></tr>
+<tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
 <tr><td><a href='https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/'>Resizing windows on macOS Tahoe – the saga continues</a></td></tr>
-<tr><td><a href='https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding'>US repeals EPA endangerment finding for greenhouse gases</a></td></tr>
+<tr><td><a href='https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f'>MinIO repository is no longer maintained</a></td></tr>
 <tr><td><a href='https://qntm.org/mmacevedo'>MMAcevedo aka Lena by qntm</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex-spark/'>GPT‑5.3‑Codex‑Spark</a></td></tr>
 </table>
