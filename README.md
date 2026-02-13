@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/new-result-theoretical-physics/'>GPT-5.2 derives a new result in theoretical physics</a></td></tr>
-<tr><td><a href='https://hatchet.run/blog/tuis-are-easy-now'>Building a TUI is easy now</a></td></tr>
+<tr><td><a href='https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467'>OpenAI has deleted the word &#x27;safely&#x27; from its mission</a></td></tr>
+<tr><td><a href='https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/'>The Scott Shambaugh Situation Clarifies How Dumb We Are Acting</a></td></tr>
 <tr><td><a href='https://cloudrouter.dev/'>Show HN: Skill that lets Claude Code&#x2F;Codex spin up VMs and GPUs</a></td></tr>
-<tr><td><a href='https://www.moltis.org'>Show HN: Moltis – AI assistant with memory, tools, and self-extending skills</a></td></tr>
 <tr><td><a href='https://mccloskeybr.com/articles/font_rendering.html'>Font Rendering from First Principles</a></td></tr>
 </table>
 <!-- END:news -->
