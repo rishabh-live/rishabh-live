@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
-<tr><td><a href='https://www.dwarkesh.com/p/dario-amodei-2'>Dario Amodei – &quot;We are near the end of the exponential&quot;</a></td></tr>
+<tr><td><a href='https://ios-countdown.win/'>Apple, fix my keyboard before the timer ends or I&#x27;m leaving iPhone</a></td></tr>
 <tr><td><a href='https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9'>Open Source Is Not About You (2018)</a></td></tr>
 <tr><td><a href='https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/'>CBP Signs Clearview AI Deal to Use Face Recognition for &#x27;Tactical Targeting&#x27;</a></td></tr>
-<tr><td><a href='https://github.com/zed-industries/zed/pull/46758'>Zed editor switching graphics lib from blade to wgpu</a></td></tr>
+<tr><td><a href='https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html'>Sandwich Bill of Materials</a></td></tr>
 </table>
 <!-- END:news -->
 
