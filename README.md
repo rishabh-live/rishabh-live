@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
 <tr><td><a href='https://github.com/zed-industries/zed/pull/46758'>Zed editor switching graphics lib from blade to wgpu</a></td></tr>
+<tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
 <tr><td><a href='https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/'>Resizing windows on macOS Tahoe – the saga continues</a></td></tr>
-<tr><td><a href='https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f'>MinIO repository is no longer maintained</a></td></tr>
-<tr><td><a href='https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html'>Implementing Auto Tiling with Just 5 Tiles</a></td></tr>
+<tr><td><a href='https://greensdictofslang.com/'>Green’s Dictionary of Slang - Five hundred years of the vulgar tongue</a></td></tr>
+<tr><td><a href='https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9'>Open Source Is Not About You</a></td></tr>
 </table>
 <!-- END:news -->
 
