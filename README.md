@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/zed-industries/zed/pull/46758'>Zed editor switching graphics lib from blade to wgpu</a></td></tr>
 <tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
+<tr><td><a href='https://github.com/zed-industries/zed/pull/46758'>Zed editor switching graphics lib from blade to wgpu</a></td></tr>
 <tr><td><a href='https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9'>Open Source Is Not About You (2018)</a></td></tr>
 <tr><td><a href='https://greensdictofslang.com/'>Green’s Dictionary of Slang - Five hundred years of the vulgar tongue</a></td></tr>
-<tr><td><a href='https://systemsapproach.org/2026/02/09/faster-than-dijkstra/'>Faster Than Dijkstra?</a></td></tr>
+<tr><td><a href='https://coder.com/blog/why-i-ditched-openclaw-and-built-a-more-secure-ai-agent-on-blink-mac-mini'>I ditched OpenClaw and built a more secure AI agent (Blink and Mac Mini)</a></td></tr>
 </table>
 <!-- END:news -->
 
