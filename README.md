@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/new-result-theoretical-physics/'>GPT-5.2 derives a new result in theoretical physics</a></td></tr>
-<tr><td><a href='https://ios-countdown.win/'>Apple, fix my keyboard before the timer ends or I&#x27;m leaving iPhone</a></td></tr>
-<tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c62dlvdq3e3o'>AI safety leader says &#x27;world is in peril&#x27; and quits to study poetry</a></td></tr>
-<tr><td><a href='https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html'>Sandwich Bill of Materials</a></td></tr>
+<tr><td><a href='https://hatchet.run/blog/tuis-are-easy-now'>Building a TUI is easy now</a></td></tr>
+<tr><td><a href='https://cloudrouter.dev/'>Show HN: Skill that lets Claude Code&#x2F;Codex spin up VMs and GPUs</a></td></tr>
+<tr><td><a href='https://www.moltis.org'>Show HN: Moltis – AI assistant with memory, tools, and self-extending skills</a></td></tr>
+<tr><td><a href='https://mccloskeybr.com/articles/font_rendering.html'>Font Rendering from First Principles</a></td></tr>
 </table>
 <!-- END:news -->
 
