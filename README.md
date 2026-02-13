@@ -25,7 +25,7 @@
 <tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
 <tr><td><a href='https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9'>Open Source Is Not About You (2018)</a></td></tr>
 <tr><td><a href='https://greensdictofslang.com/'>Green’s Dictionary of Slang - Five hundred years of the vulgar tongue</a></td></tr>
-<tr><td><a href='https://lairner.com'>Show HN: I speak 5 languages. Duolingo taught me none. So I built lairner</a></td></tr>
+<tr><td><a href='https://systemsapproach.org/2026/02/09/faster-than-dijkstra/'>Faster Than Dijkstra?</a></td></tr>
 </table>
 <!-- END:news -->
 
