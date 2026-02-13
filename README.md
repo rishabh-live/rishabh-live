@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/zed-industries/zed/pull/46758'>Zed editor switching graphics lib from blade to wgpu</a></td></tr>
 <tr><td><a href='https://monosketch.io/'>Monosketch</a></td></tr>
 <tr><td><a href='https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9'>Open Source Is Not About You (2018)</a></td></tr>
-<tr><td><a href='https://ios-countdown.win/'>Apple, fix my keyboard before the timer ends or I&#x27;m leaving iPhone</a></td></tr>
-<tr><td><a href='https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/'>Resizing windows on macOS Tahoe – the saga continues</a></td></tr>
+<tr><td><a href='https://greensdictofslang.com/'>Green’s Dictionary of Slang - Five hundred years of the vulgar tongue</a></td></tr>
+<tr><td><a href='https://lairner.com'>Show HN: I speak 5 languages. Duolingo taught me none. So I built lairner</a></td></tr>
 </table>
 <!-- END:news -->
 
