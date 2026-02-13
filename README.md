@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/new-result-theoretical-physics/'>GPT-5.2 derives a new result in theoretical physics</a></td></tr>
+<tr><td><a href='https://www.nickolinger.com/blog/2026-02-13-ai-bot-crabby-rathbun-is-still-going/'>AI bot crabby-rathbun is still polluting open source</a></td></tr>
 <tr><td><a href='https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md'>Show HN: Data Engineering Book – An open source, community-driven guide</a></td></tr>
 <tr><td><a href='https://mccloskeybr.com/articles/font_rendering.html'>Font Rendering from First Principles</a></td></tr>
-<tr><td><a href='https://cloudrouter.dev/'>Show HN: Skill that lets Claude Code&#x2F;Codex spin up VMs and GPUs</a></td></tr>
-<tr><td><a href='https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/'>The EU moves to kill infinite scrolling</a></td></tr>
+<tr><td><a href='https://hatchet.run/blog/tuis-are-easy-now'>Building a TUI is easy now</a></td></tr>
 </table>
 <!-- END:news -->
 
