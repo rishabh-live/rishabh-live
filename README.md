@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-3-codex-spark/'>GPT‑5.3‑Codex‑Spark</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/'>Gemini 3 Deep Think</a></td></tr>
-<tr><td><a href='https://michael-dev-tech.github.io/Website/matrix.html'>Discord Just Killed Anonymity</a></td></tr>
+<tr><td><a href='https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/'>Resizing windows on macOS Tahoe – the saga continues</a></td></tr>
 <tr><td><a href='https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/'>An AI agent published a hit piece on me</a></td></tr>
-<tr><td><a href='https://pol.is/home2'>Polis: Open-source platform for large-scale civic deliberation</a></td></tr>
+<tr><td><a href='https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e'>AWS Adds support for nested virtualization</a></td></tr>
 </table>
 <!-- END:news -->
 
