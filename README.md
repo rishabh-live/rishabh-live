@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://simonwillison.net/2026/Feb/13/openai-mission-statement/'>The evolution of OpenAI&#x27;s mission statement</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html'>Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts</a></td></tr>
+<tr><td><a href='https://gradient.horse'>Gradient.horse</a></td></tr>
+<tr><td><a href='https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/'>An AI Agent Published a Hit Piece on Me – More Things Have Happened</a></td></tr>
 <tr><td><a href='https://openai.com/index/new-result-theoretical-physics/'>GPT-5.2 derives a new result in theoretical physics</a></td></tr>
-<tr><td><a href='https://hatchet.run/blog/tuis-are-easy-now'>Building a TUI is easy now</a></td></tr>
 <tr><td><a href='https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md'>Show HN: Data Engineering Book – An open source, community-driven guide</a></td></tr>
+<tr><td><a href='https://mccloskeybr.com/articles/font_rendering.html'>Font Rendering from First Principles</a></td></tr>
 </table>
 <!-- END:news -->
 
