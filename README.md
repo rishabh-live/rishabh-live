@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/i5heu/ublock-hide-yt-shorts/'>uBlock filter list to hide all YouTube Shorts</a></td></tr>
 <tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
 <tr><td><a href='https://www.fast.ai/posts/2026-01-28-dark-flow/'>Breaking the spell of vibe coding</a></td></tr>
-<tr><td><a href='https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/'>How often do full-body MRIs find cancer?</a></td></tr>
+<tr><td><a href='https://ooh.directory/'>Ooh.directory: a place to find good blogs that interest you</a></td></tr>
 </table>
 <!-- END:news -->
 
