@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/mickamy/sql-tap'>Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL</a></td></tr>
 <tr><td><a href='https://www.wallstreetraider.com/story.html'>Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986</a></td></tr>
 <tr><td><a href='https://internals-for-interns.com/posts/the-go-linker/'>Understanding the Go Compiler: The Linker</a></td></tr>
+<tr><td><a href='https://green.spacedino.net/the-three-year-myth/'>The Three Year Myth</a></td></tr>
 <tr><td><a href='https://npmx.dev'>NPMX – a fast, modern browser for the NPM registry</a></td></tr>
-<tr><td><a href='https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md'>Show HN: Data Engineering Book – An open source, community-driven guide</a></td></tr>
 </table>
 <!-- END:news -->
 
