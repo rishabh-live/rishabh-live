@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/'>An AI Agent Published a Hit Piece on Me – More Things Have Happened</a></td></tr>
-<tr><td><a href='https://gradient.horse'>Gradient.horse</a></td></tr>
-<tr><td><a href='https://openai.com/index/new-result-theoretical-physics/'>GPT-5.2 derives a new result in theoretical physics</a></td></tr>
+<tr><td><a href='https://npmx.dev'>NPMX – a fast, modern browser for the NPM registry</a></td></tr>
 <tr><td><a href='https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md'>Show HN: Data Engineering Book – An open source, community-driven guide</a></td></tr>
+<tr><td><a href='https://openai.com/index/new-result-theoretical-physics/'>GPT-5.2 derives a new result in theoretical physics</a></td></tr>
+<tr><td><a href='http://www.lisp-screenshots.org'>Common Lisp Screenshots: today&#x27;s CL applications in action</a></td></tr>
 <tr><td><a href='https://hatchet.run/blog/tuis-are-easy-now'>Building a TUI is easy now</a></td></tr>
 </table>
 <!-- END:news -->
