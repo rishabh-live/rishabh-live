@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/'>Internet Increasingly Becoming Unarchivable</a></td></tr>
-<tr><td><a href='https://github.com/i5heu/ublock-hide-yt-shorts/'>uBlock filter list to hide all YouTube Shorts</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/'>Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle</a></td></tr>
+<tr><td><a href='https://nicole.express/2026/not-my-casual-hobby.html'>You can&#x27;t trust the internet anymore</a></td></tr>
+<tr><td><a href='https://github.com/i5heu/ublock-hide-yt-shorts/'>uBlock filter list to hide all YouTube Shorts</a></td></tr>
 <tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
-<tr><td><a href='https://ooh.directory/'>Ooh.directory: a place to find good blogs that interest you</a></td></tr>
 </table>
 <!-- END:news -->
 
