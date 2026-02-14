@@ -24,8 +24,8 @@
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-02-13'>Zig – io_uring and Grand Central Dispatch std.Io implementations landed</a></td></tr>
 <tr><td><a href='https://www.wallstreetraider.com/story.html'>Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986</a></td></tr>
 <tr><td><a href='https://github.com/mickamy/sql-tap'>Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL</a></td></tr>
-<tr><td><a href='https://internals-for-interns.com/posts/the-go-linker/'>Understanding the Go Compiler: The Linker</a></td></tr>
 <tr><td><a href='https://infosec.exchange/@mttaggart/116065340523529645'>Ars Technica makes up quotes from Matplotlib maintainer; pulls story</a></td></tr>
+<tr><td><a href='https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/'>Babylon 5 is now free to watch on YouTube</a></td></tr>
 </table>
 <!-- END:news -->
 
