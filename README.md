@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-02-13'>Zig – io_uring and Grand Central Dispatch std.Io implementations landed</a></td></tr>
+<tr><td><a href='https://ooh.directory/'>Ooh.directory: a place to find good blogs that interest you</a></td></tr>
+<tr><td><a href='https://blog.yossarian.net/2020/11/30/How-many-registers-does-an-x86-64-cpu-have'>How many registers does an x86-64 CPU have? (2020)</a></td></tr>
 <tr><td><a href='https://www.wallstreetraider.com/story.html'>Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986</a></td></tr>
-<tr><td><a href='https://github.com/mickamy/sql-tap'>Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL</a></td></tr>
-<tr><td><a href='https://infosec.exchange/@mttaggart/116065340523529645'>Ars Technica makes up quotes from Matplotlib maintainer; pulls story</a></td></tr>
-<tr><td><a href='https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/'>Babylon 5 is now free to watch on YouTube</a></td></tr>
+<tr><td><a href='https://github.com/datavorous/sameshi'>Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB</a></td></tr>
 </table>
 <!-- END:news -->
 
