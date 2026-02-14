@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/'>News publishers limit Internet Archive access due to AI scraping concerns</a></td></tr>
 <tr><td><a href='https://github.com/i5heu/ublock-hide-yt-shorts/'>uBlock filter list to hide all YouTube Shorts</a></td></tr>
-<tr><td><a href='https://github.com/oklemenz/Dune2JS'>Dune II written in HTML5&#x2F;JS</a></td></tr>
-<tr><td><a href='https://mrdoob.github.io/three-descent/'>Descent, Ported to the Web</a></td></tr>
+<tr><td><a href='https://www.latent.space/p/ainews-why-openai-should-build-slack'>OpenAI should build Slack</a></td></tr>
 <tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
+<tr><td><a href='https://ooh.directory/'>Ooh.directory: a place to find good blogs that interest you</a></td></tr>
 </table>
 <!-- END:news -->
 
