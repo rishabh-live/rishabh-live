@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/'>News publishers limit Internet Archive access due to AI scraping concerns</a></td></tr>
 <tr><td><a href='https://github.com/i5heu/ublock-hide-yt-shorts/'>uBlock filter list to hide all YouTube Shorts</a></td></tr>
 <tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
-<tr><td><a href='https://www.fast.ai/posts/2026-01-28-dark-flow/'>Breaking the spell of vibe coding</a></td></tr>
 <tr><td><a href='https://ooh.directory/'>Ooh.directory: a place to find good blogs that interest you</a></td></tr>
+<tr><td><a href='https://github.com/alibaba/zvec'>Zvec: A lightweight, fast, in-process vector database</a></td></tr>
 </table>
 <!-- END:news -->
 
