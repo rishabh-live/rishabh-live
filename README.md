@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.wallstreetraider.com/story.html'>Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986</a></td></tr>
 <tr><td><a href='https://internals-for-interns.com/posts/the-go-linker/'>Understanding the Go Compiler: The Linker</a></td></tr>
 <tr><td><a href='https://green.spacedino.net/the-three-year-myth/'>The Three Year Myth</a></td></tr>
-<tr><td><a href='https://npmx.dev'>NPMX – a fast, modern browser for the NPM registry</a></td></tr>
+<tr><td><a href='https://dncrews.com/do-not-outsource-judgement-76f9e5be61b9'>Do Not Outsource Judgement</a></td></tr>
 </table>
 <!-- END:news -->
 
