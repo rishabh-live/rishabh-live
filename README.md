@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ooh.directory/'>Ooh.directory: a place to find good blogs that interest you</a></td></tr>
-<tr><td><a href='https://ziglang.org/devlog/2026/#2026-02-13'>Zig – io_uring and Grand Central Dispatch std.Io implementations landed</a></td></tr>
 <tr><td><a href='https://github.com/datavorous/sameshi'>Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB</a></td></tr>
-<tr><td><a href='https://www.wallstreetraider.com/story.html'>Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986</a></td></tr>
-<tr><td><a href='https://github.com/mickamy/sql-tap'>Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL</a></td></tr>
+<tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
+<tr><td><a href='https://ziglang.org/devlog/2026/#2026-02-13'>Zig – io_uring and Grand Central Dispatch std.Io implementations landed</a></td></tr>
+<tr><td><a href='https://blog.maximeheckel.com/posts/shades-of-halftone/'>Shades of Halftone</a></td></tr>
 </table>
 <!-- END:news -->
 
