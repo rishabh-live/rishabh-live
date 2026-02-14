@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
 <tr><td><a href='https://ooh.directory/'>Ooh.directory: a place to find good blogs that interest you</a></td></tr>
+<tr><td><a href='https://github.com/davidgiven/ack'>Amsterdam Compiler Kit</a></td></tr>
 <tr><td><a href='https://github.com/datavorous/sameshi'>Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB</a></td></tr>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-02-13'>Zig – io_uring and Grand Central Dispatch std.Io implementations landed</a></td></tr>
-<tr><td><a href='https://github.com/davidgiven/ack'>Amsterdam Compiler Kit</a></td></tr>
 </table>
 <!-- END:news -->
 
