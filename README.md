@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-02-13'>Zig – io_uring and Grand Central Dispatch std.Io implementations landed</a></td></tr>
 <tr><td><a href='https://github.com/PulseBeat02/yt-media-storage'>YouTube as Storage</a></td></tr>
+<tr><td><a href='https://www.wallstreetraider.com/story.html'>Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986</a></td></tr>
 <tr><td><a href='https://github.com/mickamy/sql-tap'>Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL</a></td></tr>
 <tr><td><a href='https://green.spacedino.net/the-three-year-myth/'>The Three Year Myth</a></td></tr>
-<tr><td><a href='https://www.wallstreetraider.com/story.html'>Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986</a></td></tr>
 </table>
 <!-- END:news -->
 
