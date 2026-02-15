@@ -24,8 +24,8 @@
 <tr><td><a href='https://marler8997.github.io/blog/fixed-windows/'>I Fixed Windows Native Development</a></td></tr>
 <tr><td><a href='https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/'>An Enslaved Gardener Transformed the Pecan into a Cash Crop</a></td></tr>
 <tr><td><a href='https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/'>I love the work of the ArchWiki maintainers</a></td></tr>
-<tr><td><a href='https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly'>Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State</a></td></tr>
 <tr><td><a href='https://flashpointarchive.org'>Flashpoint Archive – Over 200k web games and animations preserved</a></td></tr>
+<tr><td><a href='https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly'>Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State</a></td></tr>
 </table>
 <!-- END:news -->
 
