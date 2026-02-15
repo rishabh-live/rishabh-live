@@ -25,7 +25,7 @@
 <tr><td><a href='https://marler8997.github.io/blog/fixed-windows/'>I Fixed Windows Native Development</a></td></tr>
 <tr><td><a href='https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en'>EU bans the destruction of unsold apparel, clothing, accessories and footwear</a></td></tr>
 <tr><td><a href='https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/'>Hideki Sato, designer of all Sega&#x27;s consoles, has died</a></td></tr>
-<tr><td><a href='https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/'>I love the work of the ArchWiki maintainers</a></td></tr>
+<tr><td><a href='https://gwern.net/gwtar'>Gwtar: A static efficient single-file HTML format</a></td></tr>
 </table>
 <!-- END:news -->
 
