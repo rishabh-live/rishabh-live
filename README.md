@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://marler8997.github.io/blog/fixed-windows/'>I Fixed Windows Native Development</a></td></tr>
 <tr><td><a href='https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/'>I love the work of the ArchWiki maintainers</a></td></tr>
 <tr><td><a href='https://flashpointarchive.org'>Flashpoint Archive – Over 200k web games and animations preserved</a></td></tr>
 <tr><td><a href='https://www.seangoedecke.com/fast-llm-inference/'>Two different tricks for fast LLM inference</a></td></tr>
 <tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
-<tr><td><a href='https://marler8997.github.io/blog/fixed-windows/'>I Fixed Windows Native Development</a></td></tr>
 </table>
 <!-- END:news -->
 
