@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/TechPaula/LT6502'>LT6502: A 6502-based homebrew laptop</a></td></tr>
 <tr><td><a href='https://marler8997.github.io/blog/fixed-windows/'>I Fixed Windows Native Development</a></td></tr>
-<tr><td><a href='https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/'>I love the work of the ArchWiki maintainers</a></td></tr>
+<tr><td><a href='https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en'>EU bans the destruction of unsold apparel, clothing, accessories and footwear</a></td></tr>
 <tr><td><a href='https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/'>Hideki Sato, designer of all Sega&#x27;s consoles, has died</a></td></tr>
-<tr><td><a href='https://flashpointarchive.org'>Flashpoint Archive – Over 200k web games and animations preserved</a></td></tr>
-<tr><td><a href='https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/'>An Enslaved Gardener Transformed the Pecan into a Cash Crop</a></td></tr>
+<tr><td><a href='https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/'>I love the work of the ArchWiki maintainers</a></td></tr>
 </table>
 <!-- END:news -->
 
