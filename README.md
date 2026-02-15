@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/'>I love the work of the ArchWiki maintainers</a></td></tr>
 <tr><td><a href='https://flashpointarchive.org'>Flashpoint Archive – Over 200k web games and animations preserved</a></td></tr>
-<tr><td><a href='https://oat.ink/'>Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library</a></td></tr>
-<tr><td><a href='https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e'>Git is a file system. We need a database for the code</a></td></tr>
 <tr><td><a href='https://www.seangoedecke.com/fast-llm-inference/'>Two different tricks for fast LLM inference</a></td></tr>
+<tr><td><a href='https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e'>Git is a file system. We need a database for the code</a></td></tr>
+<tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
 </table>
 <!-- END:news -->
 
