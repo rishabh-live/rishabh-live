@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/TechPaula/LT6502'>LT6502: A 6502-based homebrew laptop</a></td></tr>
 <tr><td><a href='https://marler8997.github.io/blog/fixed-windows/'>I Fixed Windows Native Development</a></td></tr>
 <tr><td><a href='https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en'>EU bans the destruction of unsold apparel, clothing, accessories and footwear</a></td></tr>
-<tr><td><a href='https://developer.apple.com/events/view/TUHA23T82K/dashboard'>With Apple: Fortify your app: Essential strategies to strengthen security</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.10177'>Towards Autonomous Mathematics Research</a></td></tr>
+<tr><td><a href='https://modern-css.com'>Modern CSS Code Snippets: Stop writing CSS like it&#x27;s 2015</a></td></tr>
 </table>
 <!-- END:news -->
 
