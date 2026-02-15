@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://newpipe.net/'>NewPipe: YouTube client without vertical videos and algorithmic feed</a></td></tr>
 <tr><td><a href='https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/'>News publishers limit Internet Archive access due to AI scraping concerns</a></td></tr>
 <tr><td><a href='https://github.com/i5heu/ublock-hide-yt-shorts/'>uBlock filter list to hide all YouTube Shorts</a></td></tr>
-<tr><td><a href='https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/'>My smart sleep mask broadcasts users&#x27; brainwaves to an open MQTT broker</a></td></tr>
+<tr><td><a href='https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/'>I love the work of the ArchWiki maintainers</a></td></tr>
 <tr><td><a href='https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/'>IBM tripling entry-level jobs after finding the limits of AI adoption</a></td></tr>
-<tr><td><a href='https://ooh.directory/'>Ooh.directory: a place to find good blogs that interest you</a></td></tr>
 </table>
 <!-- END:news -->
 
