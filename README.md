@@ -24,8 +24,8 @@
 <tr><td><a href='https://marler8997.github.io/blog/fixed-windows/'>I Fixed Windows Native Development</a></td></tr>
 <tr><td><a href='https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/'>I love the work of the ArchWiki maintainers</a></td></tr>
 <tr><td><a href='https://flashpointarchive.org'>Flashpoint Archive – Over 200k web games and animations preserved</a></td></tr>
-<tr><td><a href='https://github.com/denisepattenson/perlin-terminal'>Show HN: Perlin Noise Terminal Animation in Rust (60 FPS, Truecolor)</a></td></tr>
-<tr><td><a href='https://github.com/s-macke/starflight-reverse'>Reversed engineered game Starflight (1986)</a></td></tr>
+<tr><td><a href='https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly'>Amazon, Google Unwittingly Reveal the Severity of the U.S. Surveillance State</a></td></tr>
+<tr><td><a href='https://www.kimi.com/bot'>Kimi Claw</a></td></tr>
 </table>
 <!-- END:news -->
 
