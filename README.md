@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/TechPaula/LT6502'>LT6502: A 6502-based homebrew laptop</a></td></tr>
 <tr><td><a href='https://marler8997.github.io/blog/fixed-windows/'>I Fixed Windows Native Development</a></td></tr>
 <tr><td><a href='https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en'>EU bans the destruction of unsold apparel, clothing, accessories and footwear</a></td></tr>
-<tr><td><a href='https://gwern.net/gwtar'>Gwtar: A static efficient single-file HTML format</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.10177'>Towards Autonomous Mathematics Research</a></td></tr>
+<tr><td><a href='https://gwern.net/gwtar'>Gwtar: A static efficient single-file HTML format</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
