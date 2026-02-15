@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://steipete.me/posts/2026/openclaw'>I’m joining OpenAI</a></td></tr>
 <tr><td><a href='https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/'>Magnus Carlsen Wins the Freestyle (Chess960) World Championship</a></td></tr>
 <tr><td><a href='https://github.com/TechPaula/LT6502'>LT6502: A 6502-based homebrew laptop</a></td></tr>
+<tr><td><a href='https://steipete.me/posts/2026/openclaw'>I’m joining OpenAI</a></td></tr>
 <tr><td><a href='https://www.gnu.org.ua/software/pies/'>GNU Pies – Program Invocation and Execution Supervisor</a></td></tr>
-<tr><td><a href='https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/'>Radio host David Greene says Google&#x27;s NotebookLM tool stole his voice</a></td></tr>
+<tr><td><a href='https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai'>Audio is the one area small labs are winning</a></td></tr>
 </table>
 <!-- END:news -->
 
