@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/'>Ministry of Justice orders deletion of the UK&#x27;s largest court reporting database</a></td></tr>
 <tr><td><a href='https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/'>Running My Own XMPP Server</a></td></tr>
 <tr><td><a href='https://github.com/NationalSecurityAgency/ghidra'>Ghidra by NSA</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.5'>Qwen3.5: Towards Native Multimodal Agents</a></td></tr>
-<tr><td><a href='https://github.com/unicode-org/message-format-wg'>MessageFormat: Unicode standard for localizable message strings</a></td></tr>
+<tr><td><a href='https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/'>What Your Bluetooth Devices Reveal About You</a></td></tr>
+<tr><td><a href='https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/'>The Sideprocalypse</a></td></tr>
 </table>
 <!-- END:news -->
 
