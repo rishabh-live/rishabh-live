@@ -24,8 +24,8 @@
 <tr><td><a href='https://steipete.me/posts/2026/openclaw'>I’m joining OpenAI</a></td></tr>
 <tr><td><a href='https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/'>Magnus Carlsen Wins the Freestyle (Chess960) World Championship</a></td></tr>
 <tr><td><a href='https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business'>Arm wants a bigger slice of the chip business</a></td></tr>
-<tr><td><a href='https://github.com/TechPaula/LT6502'>LT6502: A 6502-based homebrew laptop</a></td></tr>
 <tr><td><a href='https://modern-css.com'>Modern CSS Code Snippets: Stop writing CSS like it&#x27;s 2015</a></td></tr>
+<tr><td><a href='https://github.com/TechPaula/LT6502'>LT6502: A 6502-based homebrew laptop</a></td></tr>
 </table>
 <!-- END:news -->
 
