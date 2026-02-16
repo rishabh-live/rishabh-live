@@ -25,7 +25,7 @@
 <tr><td><a href='https://steipete.me/posts/2026/openclaw'>I’m joining OpenAI</a></td></tr>
 <tr><td><a href='https://mastodon.world/@knowmadd/116072773118828295'>I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a></td></tr>
 <tr><td><a href='https://github.com/preservim/vim-pencil'>Vim-pencil: Rethinking Vim as a tool for writing</a></td></tr>
-<tr><td><a href='https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/'>Magnus Carlsen Wins the Freestyle (Chess960) World Championship</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.5'>Qwen3.5: Towards Native Multimodal Agents</a></td></tr>
 </table>
 <!-- END:news -->
 
