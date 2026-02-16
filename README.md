@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/unicode-org/message-format-wg'>MessageFormat: Unicode standard for localizable message strings</a></td></tr>
-<tr><td><a href='https://steipete.me/posts/2026/openclaw'>I’m joining OpenAI</a></td></tr>
 <tr><td><a href='https://mastodon.world/@knowmadd/116072773118828295'>I want to wash my car. The car wash is 50 meters away. Should I walk or drive?</a></td></tr>
-<tr><td><a href='https://github.com/preservim/vim-pencil'>Vim-pencil: Rethinking Vim as a tool for writing</a></td></tr>
+<tr><td><a href='https://steipete.me/posts/2026/openclaw'>I’m joining OpenAI</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.5'>Qwen3.5: Towards Native Multimodal Agents</a></td></tr>
+<tr><td><a href='https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out'>Thanks a lot, AI: Hard drives are sold out for the year, says WD</a></td></tr>
 </table>
 <!-- END:news -->
 
