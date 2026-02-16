@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/'>14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></td></tr>
 <tr><td><a href='https://qntm.org/suicide'>Suicide Linux (2009)</a></td></tr>
 <tr><td><a href='https://www.lirbank.com/harnessing-postgres-race-conditions'>Testing Postgres race conditions with synchronization barriers</a></td></tr>
-<tr><td><a href='https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/'>What your Bluetooth devices reveal</a></td></tr>
-<tr><td><a href='https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf'>PCB Rework and Repair Guide [pdf]</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2602.12670'>Study: Self-generated Agent Skills are useless</a></td></tr>
+<tr><td><a href='https://0byte.io/articles/pytorch_introduction.html'>Visual Introduction to PyTorch</a></td></tr>
 </table>
 <!-- END:news -->
 
