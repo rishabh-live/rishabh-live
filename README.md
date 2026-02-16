@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/'>Ministry of Justice orders deletion of the UK&#x27;s largest court reporting database</a></td></tr>
-<tr><td><a href='https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/'>Running My Own XMPP Server</a></td></tr>
+<tr><td><a href='https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html'>I guess I kinda get why people hate AI</a></td></tr>
+<tr><td><a href='https://webmachinelearning.github.io/webmcp/'>WebMCP Proposal</a></td></tr>
 <tr><td><a href='https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/'>What Your Bluetooth Devices Reveal About You</a></td></tr>
-<tr><td><a href='https://github.com/SpaceTurth/Org-Web-Adapter'>Show HN: Simple org-mode web adapter</a></td></tr>
-<tr><td><a href='https://github.com/NationalSecurityAgency/ghidra'>Ghidra by NSA</a></td></tr>
+<tr><td><a href='https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/'>Running My Own XMPP Server</a></td></tr>
 </table>
 <!-- END:news -->
 
