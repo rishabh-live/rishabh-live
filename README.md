@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://steipete.me/posts/2026/openclaw'>I’m joining OpenAI</a></td></tr>
 <tr><td><a href='https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/'>Magnus Carlsen Wins the Freestyle (Chess960) World Championship</a></td></tr>
+<tr><td><a href='https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality'>Pink noise reduces REM sleep and may harm sleep quality</a></td></tr>
 <tr><td><a href='https://github.com/TechPaula/LT6502'>LT6502: A 6502-based homebrew laptop</a></td></tr>
-<tr><td><a href='https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/'>Radio host David Greene says Google&#x27;s NotebookLM tool stole his voice</a></td></tr>
 <tr><td><a href='https://srcreigh.ca/posts/error-payloads-in-zig/'>Error payloads in Zig</a></td></tr>
 </table>
 <!-- END:news -->
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
