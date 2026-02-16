@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://notnotp.com/notes/use-protocols-not-services/'>Use Protocols, Not Services</a></td></tr>
-<tr><td><a href='https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/'>Ministry of Justice orders deletion of the UK&#x27;s largest court reporting database</a></td></tr>
+<tr><td><a href='https://wero-wallet.eu'>Wero – Digital payment wallet, Made in Europe</a></td></tr>
+<tr><td><a href='https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/'>&quot;token anxiety&quot;; or, a slot machine by any other name</a></td></tr>
+<tr><td><a href='https://jmail.world/jemini'>Show HN: Jemini – Gemini for the Epstein Files</a></td></tr>
 <tr><td><a href='https://webmachinelearning.github.io/webmcp/'>WebMCP Proposal</a></td></tr>
-<tr><td><a href='https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/'>What Your Bluetooth Devices Reveal About You</a></td></tr>
-<tr><td><a href='https://github.com/NationalSecurityAgency/ghidra'>Ghidra by NSA</a></td></tr>
 </table>
 <!-- END:news -->
 
