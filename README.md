@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://notnotp.com/notes/use-protocols-not-services/'>Use Protocols, Not Services</a></td></tr>
-<tr><td><a href='https://wero-wallet.eu'>Wero – Digital payment wallet, Made in Europe</a></td></tr>
-<tr><td><a href='https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/'>&quot;token anxiety&quot;; or, a slot machine by any other name</a></td></tr>
-<tr><td><a href='https://jmail.world/jemini'>Show HN: Jemini – Gemini for the Epstein Files</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/'>14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></td></tr>
+<tr><td><a href='https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/'>What Your Bluetooth Devices Reveal About You</a></td></tr>
+<tr><td><a href='https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/'>How Not to Answer the Salary Question</a></td></tr>
 <tr><td><a href='https://webmachinelearning.github.io/webmcp/'>WebMCP Proposal</a></td></tr>
+<tr><td><a href='https://github.com/NationalSecurityAgency/ghidra'>Ghidra by NSA</a></td></tr>
 </table>
 <!-- END:news -->
 
