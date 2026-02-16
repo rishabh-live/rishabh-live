@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/'>14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></td></tr>
-<tr><td><a href='https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/'>What Your Bluetooth Devices Reveal About You</a></td></tr>
-<tr><td><a href='https://adatosystems.com/2026/02/16/blog-how-not-to-answer-the-salary-question/'>How Not to Answer the Salary Question</a></td></tr>
-<tr><td><a href='https://webmachinelearning.github.io/webmcp/'>WebMCP Proposal</a></td></tr>
-<tr><td><a href='https://github.com/NationalSecurityAgency/ghidra'>Ghidra by NSA</a></td></tr>
+<tr><td><a href='https://qntm.org/suicide'>Suicide Linux (2009)</a></td></tr>
+<tr><td><a href='https://www.lirbank.com/harnessing-postgres-race-conditions'>Testing Postgres race conditions with synchronization barriers</a></td></tr>
+<tr><td><a href='https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/'>What your Bluetooth devices reveal</a></td></tr>
+<tr><td><a href='https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf'>PCB Rework and Repair Guide [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
