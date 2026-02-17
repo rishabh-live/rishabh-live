@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/'>14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></td></tr>
 <tr><td><a href='https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/'>Rise of the Triforce</a></td></tr>
 <tr><td><a href='https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf'>What every compiler writer should know about programmers (2015) [pdf]</a></td></tr>
+<tr><td><a href='https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/'>What your Bluetooth devices reveal</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cx2gn239exlo'>Dark web agent spotted bedroom wall clue to rescue girl from abuse</a></td></tr>
-<tr><td><a href='https://github.com/zachlatta/freeflow'>Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue</a></td></tr>
 </table>
 <!-- END:news -->
 
