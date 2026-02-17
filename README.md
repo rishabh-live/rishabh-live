@@ -24,8 +24,8 @@
 <tr><td><a href='https://blog.tomaszdunia.pl/grapheneos-eng/'>GrapheneOS – Break Free from Google and Apple</a></td></tr>
 <tr><td><a href='https://garbagecollected.org/2017/01/31/four-column-ascii/'>Four Column ASCII (2017)</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/'>14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></td></tr>
-<tr><td><a href='https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/'>Rise of the Triforce</a></td></tr>
-<tr><td><a href='https://glitchycam.com'>Show HN: Glitchy camera – a circuit-bent camera simulator in the browser</a></td></tr>
+<tr><td><a href='https://www.newscientist.com/article/2513815-how-teaching-molecules-to-think-is-revealing-what-a-mind-really-is/'>How teaching molecules to think is revealing what a &#x27;mind&#x27; is</a></td></tr>
+<tr><td><a href='https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs'>Rethinking High-School Science Fairs</a></td></tr>
 </table>
 <!-- END:news -->
 
