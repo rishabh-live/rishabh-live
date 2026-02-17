@@ -24,8 +24,8 @@
 <tr><td><a href='https://blog.tomaszdunia.pl/grapheneos-eng/'>GrapheneOS – Break Free from Google and Apple</a></td></tr>
 <tr><td><a href='https://garbagecollected.org/2017/01/31/four-column-ascii/'>Four Column ASCII (2017)</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/'>14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></td></tr>
-<tr><td><a href='https://www.arthurcnops.blog/death-of-show-hn/'>Is Show HN Dead? No, but It&#x27;s Drowning</a></td></tr>
 <tr><td><a href='https://dbg.re/posts/car-file-format/'>A deep dive into Apple&#x27;s .car file format</a></td></tr>
+<tr><td><a href='https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/'>Rise of the Triforce</a></td></tr>
 </table>
 <!-- END:news -->
 
