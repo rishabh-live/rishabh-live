@@ -25,7 +25,7 @@
 <tr><td><a href='https://go.dev/blog/gofix'>Using go fix to modernize Go code</a></td></tr>
 <tr><td><a href='https://www.gentoo.org/news/2026/02/16/codeberg.html'>Gentoo on Codeberg</a></td></tr>
 <tr><td><a href='https://blog.tomaszdunia.pl/grapheneos-eng/'>GrapheneOS – Break Free from Google and Apple</a></td></tr>
-<tr><td><a href='https://www.vectorware.com/blog/async-await-on-gpu/'>Async&#x2F;Await on the GPU</a></td></tr>
+<tr><td><a href='https://hackmyclaw.com/'>HackMyClaw</a></td></tr>
 </table>
 <!-- END:news -->
 
