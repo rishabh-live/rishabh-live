@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://asteroidos.org/news/2-0-release/index.html'>Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-4-6'>Claude Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://go.dev/blog/gofix'>Using go fix to modernize Go code</a></td></tr>
 <tr><td><a href='https://www.gentoo.org/news/2026/02/16/codeberg.html'>Gentoo on Codeberg</a></td></tr>
-<tr><td><a href='https://asteroidos.org/news/2-0-release/index.html'>Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></td></tr>
-<tr><td><a href='https://blog.tomaszdunia.pl/grapheneos-eng/'>GrapheneOS – Break Free from Google and Apple</a></td></tr>
+<tr><td><a href='https://dzrh.com.ph/post/meta-to-retire-messenger-desktop-app-and-messengercom-in-april-2026-users-shift-to-web-and-mobile-platforms'>Meta to retire messenger desktop app and messenger.com in April 2026</a></td></tr>
 </table>
 <!-- END:news -->
 
