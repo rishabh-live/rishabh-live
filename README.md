@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-4-6'>Claude Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://asteroidos.org/news/2-0-release/index.html'>Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47049824'>Thank HN: You helped save 33k lives</a></td></tr>
+<tr><td><a href='https://github.com/Zaneham/BarraCUDA'>BarraCUDA Open-source CUDA compiler targeting AMD GPUs</a></td></tr>
 <tr><td><a href='https://www.gentoo.org/news/2026/02/16/codeberg.html'>Gentoo on Codeberg</a></td></tr>
-<tr><td><a href='https://go.dev/blog/gofix'>Using go fix to modernize Go code</a></td></tr>
-<tr><td><a href='https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a'>After 800 episodes, &#x27;The Simpsons&#x27; creators look back – and ahead</a></td></tr>
 </table>
 <!-- END:news -->
 
