@@ -25,7 +25,7 @@
 <tr><td><a href='https://asteroidos.org/news/2-0-release/index.html'>Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></td></tr>
 <tr><td><a href='https://www.gentoo.org/news/2026/02/16/codeberg.html'>Gentoo on Codeberg</a></td></tr>
 <tr><td><a href='https://go.dev/blog/gofix'>Using go fix to modernize Go code</a></td></tr>
-<tr><td><a href='https://br.dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/?cr=br'>Dolphin Emulator – Rise of the Triforce</a></td></tr>
+<tr><td><a href='https://apnews.com/article/simpsons-800-episodes-72d723e6d885b1944c9a1ec8b9a24c3a'>After 800 episodes, &#x27;The Simpsons&#x27; creators look back – and ahead</a></td></tr>
 </table>
 <!-- END:news -->
 
