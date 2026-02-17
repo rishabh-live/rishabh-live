@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://hackmyclaw.com/'>HackMyClaw</a></td></tr>
 <tr><td><a href='https://blog.tomaszdunia.pl/grapheneos-eng/'>GrapheneOS – Break Free from Google and Apple</a></td></tr>
-<tr><td><a href='https://aeris.edbn.me/?city=SFO'>I converted 2D conventional flight tracking into 3D</a></td></tr>
 <tr><td><a href='https://www.vectorware.com/blog/async-await-on-gpu/'>Async&#x2F;Await on the GPU</a></td></tr>
+<tr><td><a href='https://girl.surgery/chess'>Chess engines do weird stuff</a></td></tr>
 <tr><td><a href='https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel'>So You Want to Build a Tunnel</a></td></tr>
 </table>
 <!-- END:news -->
