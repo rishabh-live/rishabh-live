@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-4-6'>Claude Sonnet 4.6</a></td></tr>
-<tr><td><a href='https://asteroidos.org/news/2-0-release/index.html'>Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47049824'>Thank HN: You helped save 33k lives</a></td></tr>
+<tr><td><a href='https://asteroidos.org/news/2-0-release/index.html'>Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></td></tr>
 <tr><td><a href='https://github.com/Zaneham/BarraCUDA'>BarraCUDA Open-source CUDA compiler targeting AMD GPUs</a></td></tr>
-<tr><td><a href='https://www.gentoo.org/news/2026/02/16/codeberg.html'>Gentoo on Codeberg</a></td></tr>
+<tr><td><a href='https://github.com/ramanujammv1988/edge-veda'>Run LLMs locally in Flutter with &#x3C;200ms latency</a></td></tr>
 </table>
 <!-- END:news -->
 
