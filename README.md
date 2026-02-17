@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.bbc.com/news/articles/cx2gn239exlo'>Dark web agent spotted bedroom wall clue to rescue girl from abuse</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.12670'>Study: Self-generated Agent Skills are useless</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/'>14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></td></tr>
-<tr><td><a href='https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/'>AI is destroying Open Source, and it&#x27;s not even good yet</a></td></tr>
 <tr><td><a href='https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/'>Rise of the Triforce</a></td></tr>
+<tr><td><a href='https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/'>AI is destroying Open Source, and it&#x27;s not even good yet</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
