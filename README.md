@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard'>America&#x27;s Pensions Can&#x27;t Beat Vanguard but They Can Close Your Hospital</a></td></tr>
 <tr><td><a href='https://blog.tomaszdunia.pl/grapheneos-eng/'>GrapheneOS – Break Free from Google and Apple</a></td></tr>
 <tr><td><a href='https://aeris.edbn.me/?city=SFO'>I converted 2D conventional flight tracking into 3D</a></td></tr>
+<tr><td><a href='https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard'>America&#x27;s Pensions Can&#x27;t Beat Vanguard but They Can Close Your Hospital</a></td></tr>
+<tr><td><a href='https://priceperball.net/'>Show HN: Price Per Ball – Site that sorts golf balls on Amazon by price per ball</a></td></tr>
 <tr><td><a href='https://garbagecollected.org/2017/01/31/four-column-ascii/'>Four Column ASCII (2017)</a></td></tr>
-<tr><td><a href='https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/'>14-year-old Miles Wu folded origami pattern that holds 10k times its own weight</a></td></tr>
 </table>
 <!-- END:news -->
 
