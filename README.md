@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783'>Terminals should generate the 256-color palette</a></td></tr>
-<tr><td><a href='https://www.ideaforge.chat/'>Stop prompting. Let the AI interview you to build specs</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-4-6'>Claude Sonnet 4.6</a></td></tr>
-<tr><td><a href='https://nvie.com/posts/15-years-later/'>15 years later, Microsoft morged my diagram</a></td></tr>
+<tr><td><a href='https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/'>Native FreeBSD Kerberos&#x2F;LDAP with FreeIPA&#x2F;IDM</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47049824'>Thank HN: You helped save 33k lives</a></td></tr>
+<tr><td><a href='https://github.com/taleshape-com/shaper'>A DuckDB-based metabase alternative</a></td></tr>
 </table>
 <!-- END:news -->
 
