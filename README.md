@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/'>AVX2 is slower than SSE2-4.x under Windows ARM emulation</a></td></tr>
 <tr><td><a href='https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783'>Terminals should generate the 256-color palette</a></td></tr>
+<tr><td><a href='https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/'>Mark Zuckerberg Lied to Congress. We Can&#x27;t Trust His Testimony</a></td></tr>
 <tr><td><a href='https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/'>Native FreeBSD Kerberos&#x2F;LDAP with FreeIPA&#x2F;IDM</a></td></tr>
-<tr><td><a href='https://blog.dmcc.io/journal/ai-has-fixed-my-productivity/'>AI has fixed my productivity</a></td></tr>
 <tr><td><a href='https://annas-archive.li/blog/llms-txt.html'>If you’re an LLM, please read this</a></td></tr>
 </table>
 <!-- END:news -->
