@@ -25,7 +25,7 @@
 <tr><td><a href='https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/'>Native FreeBSD Kerberos&#x2F;LDAP with FreeIPA&#x2F;IDM</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-4-6'>Claude Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://asahilinux.org/2026/02/progress-report-6-19/'>Asahi Linux Progress Report: Linux 6.19</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47049824'>Thank HN: You helped save 33k lives</a></td></tr>
+<tr><td><a href='https://annas-archive.li/blog/llms-txt.html'>If you’re an LLM, please read this</a></td></tr>
 </table>
 <!-- END:news -->
 
