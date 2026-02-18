@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.sceneandheardnu.com/content/halt-and-catch-fire'>Halt and Catch Fire: TV&#x27;s Best Drama You&#x27;ve Probably Never Heard Of (2021)</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-4-6'>Claude Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47049824'>Thank HN: You helped save 33k lives</a></td></tr>
-<tr><td><a href='https://github.com/Zaneham/BarraCUDA'>BarraCUDA Open-source CUDA compiler targeting AMD GPUs</a></td></tr>
 <tr><td><a href='https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/'>Thousands of CEOs just admitted AI had no impact on employment or productivity</a></td></tr>
-<tr><td><a href='https://asteroidos.org/news/2-0-release/index.html'>Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway</a></td></tr>
+<tr><td><a href='https://github.com/Zaneham/BarraCUDA'>BarraCUDA Open-source CUDA compiler targeting AMD GPUs</a></td></tr>
 </table>
 <!-- END:news -->
 
