@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://martinfowler.com/fragments/2026-02-18.html'>Why AI Velocity Is Becoming a Debt Accelerator</a></td></tr>
+<tr><td><a href='https://tailscale.com/blog/peer-relays-ga'>Tailscale Peer Relays is now generally available</a></td></tr>
+<tr><td><a href='https://github.com/khalildh/garment-notation'>Garment Notation Language: Formal descriptive language for clothing construction</a></td></tr>
 <tr><td><a href='https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html'>Zero-day CSS: CVE-2026-2441 exists in the wild</a></td></tr>
-<tr><td><a href='https://shiro.computer/show'>Show HN: A Unix environment in a single HTML file (420 KB)</a></td></tr>
-<tr><td><a href='https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/'>AVX2 is slower than SSE2-4.x under Windows ARM emulation</a></td></tr>
+<tr><td><a href='https://annas-archive.li/blog/llms-txt.html'>If you’re an LLM, please read this</a></td></tr>
 <tr><td><a href='https://ekrsulov.github.io/vectornest/'>Show HN: VectorNest responsive web-based SVG editor</a></td></tr>
 </table>
 <!-- END:news -->
