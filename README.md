@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tailscale.com/blog/peer-relays-ga'>Tailscale Peer Relays is now generally available</a></td></tr>
 <tr><td><a href='https://jasonfantl.com/posts/Universal-Unique-IDs/'>Cosmologically Unique IDs</a></td></tr>
-<tr><td><a href='https://replay.software/updates/introducing-echo'>Show HN: Echo, an iOS SSH+mosh client built on Ghostty</a></td></tr>
+<tr><td><a href='https://tailscale.com/blog/peer-relays-ga'>Tailscale Peer Relays is now generally available</a></td></tr>
 <tr><td><a href='https://letsencrypt.org/2026/02/18/dns-persist-01.html'>DNS-Persist-01: A New Model for DNS-Based Challenge Validation</a></td></tr>
-<tr><td><a href='https://github.com/khalildh/garment-notation'>Garment Notation Language: Formal descriptive language for clothing construction</a></td></tr>
+<tr><td><a href='https://replay.software/updates/introducing-echo'>Show HN: Echo, an iOS SSH+mosh client built on Ghostty</a></td></tr>
+<tr><td><a href='https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md'>R3forth: A Concatenative Language Derived from ColorForth</a></td></tr>
 </table>
 <!-- END:news -->
 
