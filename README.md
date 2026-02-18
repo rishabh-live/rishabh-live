@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-4-6'>Claude Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47049824'>Thank HN: You helped save 33k lives</a></td></tr>
 <tr><td><a href='https://github.com/Zaneham/BarraCUDA'>BarraCUDA Open-source CUDA compiler targeting AMD GPUs</a></td></tr>
-<tr><td><a href='https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/'>Thousands of CEOs just admitted AI had no impact on employment or productivity</a></td></tr>
+<tr><td><a href='https://nvie.com/posts/15-years-later/'>15 years later, Microsoft morged my diagram</a></td></tr>
 </table>
 <!-- END:news -->
 
