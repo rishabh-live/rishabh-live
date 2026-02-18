@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://jasonfantl.com/posts/Universal-Unique-IDs/'>Cosmologically Unique IDs</a></td></tr>
 <tr><td><a href='https://tailscale.com/blog/peer-relays-ga'>Tailscale Peer Relays is now generally available</a></td></tr>
-<tr><td><a href='https://letsencrypt.org/2026/02/18/dns-persist-01.html'>DNS-Persist-01: A New Model for DNS-Based Challenge Validation</a></td></tr>
 <tr><td><a href='https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html'>Zero-day CSS: CVE-2026-2441 exists in the wild</a></td></tr>
+<tr><td><a href='https://letsencrypt.org/2026/02/18/dns-persist-01.html'>DNS-Persist-01: A New Model for DNS-Based Challenge Validation</a></td></tr>
 <tr><td><a href='https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md'>R3forth: A concatenative language derived from ColorForth</a></td></tr>
 </table>
 <!-- END:news -->
