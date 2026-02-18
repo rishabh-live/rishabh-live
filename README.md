@@ -24,8 +24,8 @@
 <tr><td><a href='https://tailscale.com/blog/peer-relays-ga'>Tailscale Peer Relays is now generally available</a></td></tr>
 <tr><td><a href='https://github.com/khalildh/garment-notation'>Garment Notation Language: Formal descriptive language for clothing construction</a></td></tr>
 <tr><td><a href='https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html'>Zero-day CSS: CVE-2026-2441 exists in the wild</a></td></tr>
-<tr><td><a href='https://annas-archive.li/blog/llms-txt.html'>If you’re an LLM, please read this</a></td></tr>
-<tr><td><a href='https://ekrsulov.github.io/vectornest/'>Show HN: VectorNest responsive web-based SVG editor</a></td></tr>
+<tr><td><a href='https://github.com/pocketbase/pocketbase/discussions/7287'>Pocketbase lost its funding from FLOSS fund</a></td></tr>
+<tr><td><a href='https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f'>Activeloop (YC S18) Is Hiring Back End Engineer (Go)</a></td></tr>
 </table>
 <!-- END:news -->
 
