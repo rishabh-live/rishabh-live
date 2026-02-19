@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://repebble.com/blog/february-pebble-production-and-software-updates'>Pebble Production: February Update</a></td></tr>
+<tr><td><a href='https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime'>C++26: Std:Is_within_lifetime</a></td></tr>
 <tr><td><a href='https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails'>Don&#x27;t Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails</a></td></tr>
-<tr><td><a href='https://github.com/fjrevoredo/mini-diarium'>Show HN: An encrypted, local, cross-platform journaling app</a></td></tr>
-<tr><td><a href='https://oban.pro/articles/bridging-with-oban'>Bridging Elixir and Python with Oban</a></td></tr>
-<tr><td><a href='https://kodiak64.co.uk/blog/seawolves-technical-tricks'>Coding Tricks Used in the C64 Game Seawolves</a></td></tr>
-<tr><td><a href='https://makie.org/website/blogposts/raytracing/'>Show HN: A physically-based GPU ray tracer written in Julia</a></td></tr>
+<tr><td><a href='https://economist.com/united-states/2026/02/12/alabama-offers-three-tricks-to-fix-poor-urban-schools'>Alabama offers three tricks to fix poor urban schools</a></td></tr>
+<tr><td><a href='https://github.com/fjrevoredo/mini-diarium'>Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app</a></td></tr>
 </table>
 <!-- END:news -->
 
