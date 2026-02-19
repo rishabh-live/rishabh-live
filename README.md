@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails'>Don&#x27;t Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails</a></td></tr>
+<tr><td><a href='https://github.com/fjrevoredo/mini-diarium'>Show HN: An encrypted, local, cross-platform journaling app</a></td></tr>
+<tr><td><a href='https://www.historytoday.com/archive/feature/mongol-khans-medieval-france'>The Mongol Khans of Medieval France</a></td></tr>
 <tr><td><a href='https://pudding.cool/2026/02/womens-sizing/'>Sizing chaos</a></td></tr>
 <tr><td><a href='https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/'>27-year-old Apple iBooks can connect to Wi-Fi and download official updates</a></td></tr>
-<tr><td><a href='https://bsky.app/profile/thomasgermain.bsky.social/post/3mf5jbn5lqk2k'>I made ChatGPT and Google tell I&#x27;m a competitive hot-dog-eating world champion</a></td></tr>
-<tr><td><a href='https://nicolasdickenmann.com/blog/the-great-fp64-divide.html'>15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern</a></td></tr>
-<tr><td><a href='https://static.stepfun.com/blog/step-3.5-flash/'>Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed</a></td></tr>
 </table>
 <!-- END:news -->
 
