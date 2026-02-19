@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/'>California&#x27;s New Bill Requires DOJ-Approved 3D Printers That Report Themselves</a></td></tr>
 <tr><td><a href='https://micasa.dev'>Show HN: Micasa – track your house from the terminal</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/'>Archaeologists find possible first direct evidence of Hannibal&#x27;s war elephants</a></td></tr>
-<tr><td><a href='https://deepmind.google/models/model-cards/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
 <tr><td><a href='https://github.com/Veirt/weathr'>A terminal weather app with ASCII animations driven by real-time weather data</a></td></tr>
-<tr><td><a href='https://repebble.com/blog/february-pebble-production-and-software-updates'>Pebble Production: February Update</a></td></tr>
+<tr><td><a href='https://deepmind.google/models/model-cards/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
 </table>
 <!-- END:news -->
 
