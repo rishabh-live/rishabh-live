@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/LadybirdBrowser/ladybird/issues/933'>Ladybird: Closing this as we are no longer pursuing Swift adoption</a></td></tr>
 <tr><td><a href='https://pudding.cool/2026/02/womens-sizing/'>Sizing chaos</a></td></tr>
 <tr><td><a href='https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/'>27-year-old Apple iBooks can connect to Wi-Fi and download official updates</a></td></tr>
 <tr><td><a href='https://jasonfantl.com/posts/Universal-Unique-IDs/'>Cosmologically Unique IDs</a></td></tr>
-<tr><td><a href='https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html'>Zero-day CSS: CVE-2026-2441 exists in the wild</a></td></tr>
+<tr><td><a href='https://nicolasdickenmann.com/blog/the-great-fp64-divide.html'>15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern</a></td></tr>
+<tr><td><a href='https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/'>How to Choose Between Hindley-Milner and Bidirectional Typing</a></td></tr>
 </table>
 <!-- END:news -->
 
