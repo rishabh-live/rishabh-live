@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://pudding.cool/2026/02/womens-sizing/'>Sizing chaos</a></td></tr>
 <tr><td><a href='https://eutechmap.com/map'>European Tech Alternatives</a></td></tr>
+<tr><td><a href='https://pudding.cool/2026/02/womens-sizing/'>Sizing chaos</a></td></tr>
 <tr><td><a href='https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/'>27-year-old Apple iBooks can connect to Wi-Fi and download official updates</a></td></tr>
-<tr><td><a href='https://code.claude.com/docs/en/legal-and-compliance'>Anthropic officially bans using subscription auth for third party use</a></td></tr>
 <tr><td><a href='https://nicolasdickenmann.com/blog/the-great-fp64-divide.html'>15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern</a></td></tr>
+<tr><td><a href='https://code.claude.com/docs/en/legal-and-compliance'>Anthropic officially bans using subscription auth for third party use</a></td></tr>
 </table>
 <!-- END:news -->
 
