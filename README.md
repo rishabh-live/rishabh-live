@@ -24,7 +24,7 @@
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
 <tr><td><a href='https://micasa.dev'>Show HN: Micasa – track your house from the terminal</a></td></tr>
 <tr><td><a href='https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/'>Micropayments as a reality check for news sites</a></td></tr>
-<tr><td><a href='https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/'>Archaeologists find possible first direct evidence of Hannibal&#x27;s war elephants</a></td></tr>
+<tr><td><a href='https://www.kasava.dev/blog/ai-as-exoskeleton'>AI is not a coworker, it&#x27;s an exoskeleton</a></td></tr>
 <tr><td><a href='https://github.com/Veirt/weathr'>A terminal weather app with ASCII animations driven by real-time weather data</a></td></tr>
 </table>
 <!-- END:news -->
