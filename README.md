@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/fjrevoredo/mini-diarium'>Show HN: An encrypted, local, cross-platform journaling app</a></td></tr>
 <tr><td><a href='https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails'>Don&#x27;t Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails</a></td></tr>
+<tr><td><a href='https://github.com/fjrevoredo/mini-diarium'>Show HN: An encrypted, local, cross-platform journaling app</a></td></tr>
 <tr><td><a href='https://oban.pro/articles/bridging-with-oban'>Bridging Elixir and Python with Oban</a></td></tr>
-<tr><td><a href='https://www.historytoday.com/archive/feature/mongol-khans-medieval-france'>The Mongol Khans of Medieval France</a></td></tr>
-<tr><td><a href='https://pudding.cool/2026/02/womens-sizing/'>Sizing chaos</a></td></tr>
+<tr><td><a href='https://kodiak64.co.uk/blog/seawolves-technical-tricks'>Coding Tricks Used in the C64 Game Seawolves</a></td></tr>
+<tr><td><a href='https://makie.org/website/blogposts/raytracing/'>Show HN: A physically-based GPU ray tracer written in Julia</a></td></tr>
 </table>
 <!-- END:news -->
 
