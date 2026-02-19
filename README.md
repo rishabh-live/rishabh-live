@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
-<tr><td><a href='https://github.com/manaflow-ai/cmux'>Show HN: Ghostty-based terminal with vertical tabs and notifications</a></td></tr>
 <tr><td><a href='https://micasa.dev'>Show HN: Micasa – track your house from the terminal</a></td></tr>
 <tr><td><a href='https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/'>Micropayments as a reality check for news sites</a></td></tr>
 <tr><td><a href='https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts'>We&#x27;re no longer attracting top talent: the brain drain killing American science</a></td></tr>
+<tr><td><a href='https://github.com/Veirt/weathr'>A terminal weather app with ASCII animations driven by real-time weather data</a></td></tr>
 </table>
 <!-- END:news -->
 
