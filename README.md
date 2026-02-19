@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.governance.fyi/p/america-vs-singapore-you-cant-save'>America vs. Singapore: You Can&#x27;t Save Your Way Out of Economic Shocks</a></td></tr>
 <tr><td><a href='https://repebble.com/blog/february-pebble-production-and-software-updates'>Pebble Production: February Update</a></td></tr>
 <tr><td><a href='https://pagedout.institute/download/PagedOut_008.pdf'>Paged Out Issue #8 [pdf]</a></td></tr>
+<tr><td><a href='https://borischerny.com/food/2022/01/17/Dinosaur-food.html'>Dinosaur Food: 100M year old foods we still eat today</a></td></tr>
 <tr><td><a href='https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails'>Don&#x27;t Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails</a></td></tr>
-<tr><td><a href='https://clang.llvm.org/docs/BoundsSafety.html'>-fbounds-safety: Enforcing bounds safety for C</a></td></tr>
 </table>
 <!-- END:news -->
 
