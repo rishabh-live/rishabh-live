@@ -24,8 +24,8 @@
 <tr><td><a href='https://pudding.cool/2026/02/womens-sizing/'>Sizing chaos</a></td></tr>
 <tr><td><a href='https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/'>27-year-old Apple iBooks can connect to Wi-Fi and download official updates</a></td></tr>
 <tr><td><a href='https://nicolasdickenmann.com/blog/the-great-fp64-divide.html'>15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern</a></td></tr>
-<tr><td><a href='https://jasonfantl.com/posts/Universal-Unique-IDs/'>Cosmologically Unique IDs</a></td></tr>
 <tr><td><a href='https://static.stepfun.com/blog/step-3.5-flash/'>Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed</a></td></tr>
+<tr><td><a href='https://jasonfantl.com/posts/Universal-Unique-IDs/'>Cosmologically Unique IDs</a></td></tr>
 </table>
 <!-- END:news -->
 
