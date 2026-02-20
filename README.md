@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://taalas.com/the-path-to-ubiquitous-ai/'>The path to ubiquitous AI (17k tokens&#x2F;sec)</a></td></tr>
-<tr><td><a href='https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2'>Minions – Stripe&#x27;s Coding Agents Part 2</a></td></tr>
 <tr><td><a href='https://jimmyhmiller.com/learn-codebase-visualizer'>Untapped Way to Learn a Codebase: Build a Visualizer</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
 <tr><td><a href='https://www.together.ai/blog/consistency-diffusion-language-models'>Consistency diffusion language models: Up to 14x faster, no quality loss</a></td></tr>
+<tr><td><a href='https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html'>Web Components: The Framework-Free Renaissance</a></td></tr>
 </table>
 <!-- END:news -->
 
