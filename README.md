@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea'>MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
+<tr><td><a href='https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/'>An ARM Homelab Server, or a Minisforum MS-R1 Review</a></td></tr>
 <tr><td><a href='https://micasa.dev'>Show HN: Micasa – track your house from the terminal</a></td></tr>
-<tr><td><a href='https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/'>Micropayments as a reality check for news sites</a></td></tr>
-<tr><td><a href='https://www.governance.fyi/p/america-vs-singapore-you-cant-save'>America vs. Singapore: You can&#x27;t save your way out of economic shocks</a></td></tr>
-<tr><td><a href='https://github.com/Veirt/weathr'>A terminal weather app with ASCII animations driven by real-time weather data</a></td></tr>
+<tr><td><a href='https://github.com/tmustier/pi-for-excel'>Pi for Excel: AI sidebar add-in for Excel, powered by Pi</a></td></tr>
 </table>
 <!-- END:news -->
 
