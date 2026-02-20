@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://f-droid.org/2026/02/20/twif.html'>Keep Android Open</a></td></tr>
+<tr><td><a href='https://words.filippo.io/dependabot/'>Turn Dependabot Off</a></td></tr>
 <tr><td><a href='https://github.com/ggml-org/llama.cpp/discussions/19759'>Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a></td></tr>
 <tr><td><a href='https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/'>Wikipedia deprecates Archive.today, starts removing archive links</a></td></tr>
 <tr><td><a href='https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer'>I found a Vulnerability. They found a Lawyer</a></td></tr>
-<tr><td><a href='https://pilk.website/3/facebook-is-absolutely-cooked'>Facebook is cooked</a></td></tr>
 </table>
 <!-- END:news -->
 
