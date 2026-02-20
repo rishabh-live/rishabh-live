@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/ggml-org/llama.cpp/discussions/19759'>Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a></td></tr>
 <tr><td><a href='https://taalas.com/the-path-to-ubiquitous-ai/'>The path to ubiquitous AI (17k tokens&#x2F;sec)</a></td></tr>
 <tr><td><a href='https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323'>Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment</a></td></tr>
 <tr><td><a href='https://jimmyhmiller.com/learn-codebase-visualizer'>Untapped Way to Learn a Codebase: Build a Visualizer</a></td></tr>
-<tr><td><a href='https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html'>Web Components: The Framework-Free Renaissance</a></td></tr>
-<tr><td><a href='https://medicalxpress.com/news/2026-01-similar-effect-therapy-depression.html'>Exercise has &#x27;similar effect&#x27; to therapy, study on depression shows</a></td></tr>
+<tr><td><a href='https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html'>I found a useful Git one liner buried in leaked CIA developer docs</a></td></tr>
 </table>
 <!-- END:news -->
 
