@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/'>An AI Agent Published a Hit Piece on Me – The Operator Came Forward</a></td></tr>
 <tr><td><a href='https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea'>MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes</a></td></tr>
+<tr><td><a href='https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/'>An AI Agent Published a Hit Piece on Me – The Operator Came Forward</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
-<tr><td><a href='https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/'>An ARM Homelab Server, or a Minisforum MS-R1 Review</a></td></tr>
-<tr><td><a href='https://micasa.dev'>Show HN: Micasa – track your house from the terminal</a></td></tr>
+<tr><td><a href='https://www.together.ai/blog/consistency-diffusion-language-models'>Consistency diffusion language models: Up to 14x faster, no quality loss</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c3ew5jlqz87o'>Mystery donor gives Japanese city $3.6M in gold bars to fix water system</a></td></tr>
 </table>
 <!-- END:news -->
 
