@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/ggml-org/llama.cpp/discussions/19759'>Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a></td></tr>
-<tr><td><a href='https://taalas.com/the-path-to-ubiquitous-ai/'>The path to ubiquitous AI (17k tokens&#x2F;sec)</a></td></tr>
-<tr><td><a href='https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323'>Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment</a></td></tr>
-<tr><td><a href='https://jimmyhmiller.com/learn-codebase-visualizer'>Untapped Way to Learn a Codebase: Build a Visualizer</a></td></tr>
 <tr><td><a href='https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html'>I found a useful Git one liner buried in leaked CIA developer docs</a></td></tr>
+<tr><td><a href='https://github.com/IronsideXXVI/Hacker-News'>Show HN: A native macOS client for Hacker News, built with SwiftUI</a></td></tr>
+<tr><td><a href='https://www.joanwestenberg.com/how-to-stop-being-boring/'>How to Stop Being Boring</a></td></tr>
+<tr><td><a href='https://taalas.com/the-path-to-ubiquitous-ai/'>The path to ubiquitous AI (17k tokens&#x2F;sec)</a></td></tr>
 </table>
 <!-- END:news -->
 
