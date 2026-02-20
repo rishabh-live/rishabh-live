@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://taalas.com/the-path-to-ubiquitous-ai/'>The path to ubiquitous AI (17k tokens&#x2F;sec)</a></td></tr>
 <tr><td><a href='https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/'>Defer available in gcc and clang</a></td></tr>
 <tr><td><a href='https://www.together.ai/blog/consistency-diffusion-language-models'>Consistency diffusion language models: Up to 14x faster, no quality loss</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
-<tr><td><a href='https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/'>I tried building my startup entirely on European infrastructure</a></td></tr>
-<tr><td><a href='https://github.com/olvvier/apple-silicon-accelerometer'>Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit</a></td></tr>
+<tr><td><a href='https://jimmyhmiller.com/learn-codebase-visualizer'>Untapped Way to Learn a Codebase: Build a Visualizer</a></td></tr>
 </table>
 <!-- END:news -->
 
