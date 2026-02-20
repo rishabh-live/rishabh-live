@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/'>Defer available in gcc and clang</a></td></tr>
-<tr><td><a href='https://www.together.ai/blog/consistency-diffusion-language-models'>Consistency diffusion language models: Up to 14x faster, no quality loss</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
+<tr><td><a href='https://www.together.ai/blog/consistency-diffusion-language-models'>Consistency diffusion language models: Up to 14x faster, no quality loss</a></td></tr>
+<tr><td><a href='https://github.com/olvvier/apple-silicon-accelerometer'>Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit</a></td></tr>
 <tr><td><a href='https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/'>An AI Agent Published a Hit Piece on Me – The Operator Came Forward</a></td></tr>
-<tr><td><a href='https://github.com/tmustier/pi-for-excel'>Pi for Excel: AI sidebar add-in for Excel</a></td></tr>
 </table>
 <!-- END:news -->
 
