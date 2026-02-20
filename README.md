@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://taalas.com/the-path-to-ubiquitous-ai/'>The path to ubiquitous AI (17k tokens&#x2F;sec)</a></td></tr>
+<tr><td><a href='https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323'>Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment</a></td></tr>
 <tr><td><a href='https://jimmyhmiller.com/learn-codebase-visualizer'>Untapped Way to Learn a Codebase: Build a Visualizer</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/'>Gemini 3.1 Pro</a></td></tr>
-<tr><td><a href='https://www.together.ai/blog/consistency-diffusion-language-models'>Consistency diffusion language models: Up to 14x faster, no quality loss</a></td></tr>
 <tr><td><a href='https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html'>Web Components: The Framework-Free Renaissance</a></td></tr>
+<tr><td><a href='https://medicalxpress.com/news/2026-01-similar-effect-therapy-depression.html'>Exercise has &#x27;similar effect&#x27; to therapy, study on depression shows</a></td></tr>
 </table>
 <!-- END:news -->
 
