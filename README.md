@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://f-droid.org/2026/02/20/twif.html'>Keep Android Open</a></td></tr>
+<tr><td><a href='https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/'>Meta Deployed AI and It Is Killing Our Agency</a></td></tr>
 <tr><td><a href='https://words.filippo.io/dependabot/'>Turn Dependabot Off</a></td></tr>
 <tr><td><a href='https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer'>I found a Vulnerability. They found a Lawyer</a></td></tr>
 <tr><td><a href='https://pilk.website/3/facebook-is-absolutely-cooked'>Facebook is cooked</a></td></tr>
-<tr><td><a href='https://worldwideweb.cern.ch'>CERN rebuilt the original browser from 1989 (2019)</a></td></tr>
 </table>
 <!-- END:news -->
 
