@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/'>Parse, Don&#x27;t Validate and Type-Driven Design in Rust</a></td></tr>
 <tr><td><a href='https://adactio.com/journal/22399'>I Don&#x27;t Like Magic</a></td></tr>
 <tr><td><a href='https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/'>I verified my LinkedIn identity. Here&#x27;s what I handed over</a></td></tr>
-<tr><td><a href='https://tinfoil.sh/blog/2026-02-03-proving-model-identity'>How an inference provider can prove they&#x27;re not serving a quantized model</a></td></tr>
+<tr><td><a href='https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/'>Toyota Mirai hydrogen car depreciation: 65% value loss in a year</a></td></tr>
 </table>
 <!-- END:news -->
 
