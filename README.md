@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://milk.com/wall-o-shame/security_clearance.html'>What Not to Write on Your Security Clearance Form</a></td></tr>
 <tr><td><a href='https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/'>I Verified My LinkedIn Identity. Here&#x27;s What I Handed Over</a></td></tr>
-<tr><td><a href='https://f-droid.org/2026/02/20/twif.html'>Keep Android Open</a></td></tr>
 <tr><td><a href='https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english'>How far back in time can you understand English?</a></td></tr>
-<tr><td><a href='https://igorstechnoclub.com/sandbox-exec/'>macOS&#x27;s Little-Known Command-Line Sandboxing Tool (2025)</a></td></tr>
-<tr><td><a href='https://github.com/alvi-se/ai-ublock-blacklist'>AI uBlock Blacklist</a></td></tr>
+<tr><td><a href='https://f-droid.org/2026/02/20/twif.html'>Keep Android Open</a></td></tr>
+<tr><td><a href='http://nekonomicon.irixnet.org/'>The Nekonomicon – Nekochan.net Archive, Updated</a></td></tr>
 </table>
 <!-- END:news -->
 
