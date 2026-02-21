@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://milk.com/wall-o-shame/security_clearance.html'>What Not to Write on Your Security Clearance Form</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/cloudflare-outage-february-20-2026/'>Cloudflare outage on February 20, 2026</a></td></tr>
+<tr><td><a href='https://milk.com/wall-o-shame/security_clearance.html'>What not to write on your security clearance form (1988)</a></td></tr>
 <tr><td><a href='https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/'>I Verified My LinkedIn Identity. Here&#x27;s What I Handed Over</a></td></tr>
-<tr><td><a href='https://f-droid.org/2026/02/20/twif.html'>Keep Android Open</a></td></tr>
 <tr><td><a href='https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english'>How far back in time can you understand English?</a></td></tr>
-<tr><td><a href='https://github.com/Ragnaroek/iron-wolf'>Show HN: Iron-Wolf – Wolfenstein 3D source port in Rust</a></td></tr>
+<tr><td><a href='https://f-droid.org/2026/02/20/twif.html'>Keep Android Open</a></td></tr>
 </table>
 <!-- END:news -->
 
