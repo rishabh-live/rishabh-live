@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://simonwillison.net/2026/Feb/21/claws/'>Andrej Karpathy talks about &quot;Claws&quot;</a></td></tr>
 <tr><td><a href='https://f-droid.org/2026/02/20/twif.html'>Keep Android Open</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Feb/21/claws/'>Andrej Karpathy talks about &quot;Claws&quot;</a></td></tr>
 <tr><td><a href='https://acmeweather.com/blog/introducing-acme-weather'>Acme Weather</a></td></tr>
 <tr><td><a href='https://words.filippo.io/dependabot/'>Turn Dependabot off</a></td></tr>
 <tr><td><a href='https://trunkbaseddevelopment.com/'>Trunk Based Development</a></td></tr>
