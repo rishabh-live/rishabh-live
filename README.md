@@ -25,7 +25,7 @@
 <tr><td><a href='https://words.filippo.io/dependabot/'>Turn Dependabot off</a></td></tr>
 <tr><td><a href='https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer'>I found a Vulnerability. They found a Lawyer</a></td></tr>
 <tr><td><a href='https://pilk.website/3/facebook-is-absolutely-cooked'>Facebook is cooked</a></td></tr>
-<tr><td><a href='https://github.com/ggml-org/llama.cpp/discussions/19759'>Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</a></td></tr>
+<tr><td><a href='https://acmeweather.com/blog/introducing-acme-weather'>Acme Weather</a></td></tr>
 </table>
 <!-- END:news -->
 
