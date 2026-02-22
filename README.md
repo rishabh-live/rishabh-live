@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://boristane.com/blog/how-i-use-claude-code/'>How I use Claude Code: Separation of planning and execution</a></td></tr>
-<tr><td><a href='https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/'>Are compilers deterministic?</a></td></tr>
+<tr><td><a href='https://github.com/Leading-AI-IO/palantir-ontology-strategy'>Palantir&#x27;s secret weapon isn&#x27;t AI – it&#x27;s Ontology. An open-source deep dive</a></td></tr>
+<tr><td><a href='https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/'>A Botnet Accidentally Destroyed I2P</a></td></tr>
 <tr><td><a href='https://github.com/xaskasdf/ntransformer'>Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU</a></td></tr>
 <tr><td><a href='https://www.science.org/doi/10.1126/science.adq7188'>Evidence of the bouba-kiki effect in naïve baby chicks</a></td></tr>
-<tr><td><a href='https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/'>Parse, Don&#x27;t Validate and Type-Driven Design in Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
