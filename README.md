@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://boristane.com/blog/how-i-use-claude-code/'>How I use Claude Code: Separation of planning and execution</a></td></tr>
-<tr><td><a href='https://github.com/kurouna/elecxzy'>Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron</a></td></tr>
-<tr><td><a href='https://ukiyo-e.org/'>Japanese Woodblock Print Search</a></td></tr>
 <tr><td><a href='https://hypha.pub/back-to-freebsd-part-1'>Back to FreeBSD: Part 1</a></td></tr>
-<tr><td><a href='https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english'>How far back in time can you understand English?</a></td></tr>
+<tr><td><a href='https://github.com/kurouna/elecxzy'>Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron</a></td></tr>
+<tr><td><a href='https://boristane.com/blog/how-i-use-claude-code/'>How I use Claude Code: Separation of planning and execution</a></td></tr>
+<tr><td><a href='https://ukiyo-e.org/'>Japanese Woodblock Print Search</a></td></tr>
+<tr><td><a href='https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate'>Two Bits Are Better Than One: making bloom filters 2x more accurate</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
