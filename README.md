@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://susam.net/attention-media-vs-social-networks.html'>Attention Media ≠ Social Networks</a></td></tr>
 <tr><td><a href='https://ochagavia.nl/blog/fix-your-tools/'>Fix Your Tools</a></td></tr>
-<tr><td><a href='https://voxjong.com'>Show HN: 3D Mahjong, Built in CSS</a></td></tr>
 <tr><td><a href='https://github.com/FreHu/vscode-fresh-file-explorer'>Fresh File Explorer – VS Code extension for navigating recent work</a></td></tr>
+<tr><td><a href='https://voxjong.com'>Show HN: 3D Mahjong, Built in CSS</a></td></tr>
 <tr><td><a href='https://planetscale.com/blog/database-transactions'>What Is a Database Transaction?</a></td></tr>
 </table>
 <!-- END:news -->
