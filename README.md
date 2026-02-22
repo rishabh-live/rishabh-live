@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://hypha.pub/back-to-freebsd-part-1'>Back to FreeBSD: Part 1</a></td></tr>
 <tr><td><a href='https://github.com/kurouna/elecxzy'>Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron</a></td></tr>
-<tr><td><a href='https://boristane.com/blog/how-i-use-claude-code/'>How I use Claude Code: Separation of planning and execution</a></td></tr>
 <tr><td><a href='https://www.anuragk.com/blog/posts/Taalas.html'>How Taalas “prints” LLM onto a chip?</a></td></tr>
+<tr><td><a href='https://boristane.com/blog/how-i-use-claude-code/'>How I use Claude Code: Separation of planning and execution</a></td></tr>
 <tr><td><a href='https://ukiyo-e.org/'>Japanese Woodblock Print Search</a></td></tr>
 </table>
 <!-- END:news -->
