@@ -24,8 +24,8 @@
 <tr><td><a href='https://susam.net/attention-media-vs-social-networks.html'>Attention Media ≠ Social Networks</a></td></tr>
 <tr><td><a href='https://planetscale.com/blog/database-transactions'>What Is a Database Transaction?</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c5yj2kzkrj0o'>Iran students stage first large anti-government protests since deadly crackdown</a></td></tr>
-<tr><td><a href='https://hypha.pub/back-to-freebsd-part-1'>Back to FreeBSD: Part 1</a></td></tr>
 <tr><td><a href='https://rename.world/'>I put New Zealand behind a $1 paywall</a></td></tr>
+<tr><td><a href='https://github.com/volatilityfoundation/volatility3'>Volatility: The volatile memory forensic extraction framework</a></td></tr>
 </table>
 <!-- END:news -->
 
