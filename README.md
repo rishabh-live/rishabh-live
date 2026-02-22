@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://boristane.com/blog/how-i-use-claude-code/'>How I use Claude Code: Separation of planning and execution</a></td></tr>
 <tr><td><a href='https://ukiyo-e.org/'>Japanese Woodblock Print Search</a></td></tr>
-<tr><td><a href='https://www.anuragk.com/blog/posts/Taalas.html'>How Taalas &quot;prints&quot; LLM onto a chip?</a></td></tr>
-<tr><td><a href='https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/'>A Botnet Accidentally Destroyed I2P</a></td></tr>
+<tr><td><a href='https://www.anuragk.com/blog/posts/Taalas.html'>How Taalas “prints” LLM onto a chip?</a></td></tr>
 <tr><td><a href='https://github.com/xaskasdf/ntransformer'>Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU</a></td></tr>
+<tr><td><a href='https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english'>How far back in time can you understand English?</a></td></tr>
 </table>
 <!-- END:news -->
 
