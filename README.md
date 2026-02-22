@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://hawksley.org/2026/02/17/timeframe.html'>I built Timeframe, our family e-paper dashboard</a></td></tr>
 <tr><td><a href='https://susam.net/attention-media-vs-social-networks.html'>Attention Media ≠ Social Networks</a></td></tr>
 <tr><td><a href='https://ochagavia.nl/blog/fix-your-tools/'>Fix your tools</a></td></tr>
-<tr><td><a href='https://hayzam.com/blog/02-linuxulator-is-awesome/'>Linuxulator on FreeBSD Feels Like Magic</a></td></tr>
-<tr><td><a href='https://github.com/FreHu/vscode-fresh-file-explorer'>Fresh File Explorer – VS Code extension for navigating recent work</a></td></tr>
 <tr><td><a href='https://shuru.run'>Show HN: Local-First Linux MicroVMs for macOS</a></td></tr>
+<tr><td><a href='https://hayzam.com/blog/02-linuxulator-is-awesome/'>Linuxulator on FreeBSD Feels Like Magic</a></td></tr>
 </table>
 <!-- END:news -->
 
