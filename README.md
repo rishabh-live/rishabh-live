@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://susam.net/attention-media-vs-social-networks.html'>Attention Media ≠ Social Networks</a></td></tr>
 <tr><td><a href='https://planetscale.com/blog/database-transactions'>What Is a Database Transaction?</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c5yj2kzkrj0o'>Iran students stage first large anti-government protests since deadly crackdown</a></td></tr>
 <tr><td><a href='https://hypha.pub/back-to-freebsd-part-1'>Back to FreeBSD: Part 1</a></td></tr>
-<tr><td><a href='https://www.anuragk.com/blog/posts/Taalas.html'>How Taalas “prints” LLM onto a chip?</a></td></tr>
-<tr><td><a href='https://boristane.com/blog/how-i-use-claude-code/'>How I use Claude Code: Separation of planning and execution</a></td></tr>
+<tr><td><a href='https://rename.world/'>I put New Zealand behind a $1 paywall</a></td></tr>
 </table>
 <!-- END:news -->
 
