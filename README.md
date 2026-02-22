@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.citriniresearch.com/p/2028gic'>Global Intelligence Crisis</a></td></tr>
 <tr><td><a href='https://joinloops.org/'>Loops is a federated, open-source TikTok</a></td></tr>
 <tr><td><a href='https://susam.net/attention-media-vs-social-networks.html'>Attention Media ≠ Social Networks</a></td></tr>
-<tr><td><a href='https://shuru.run'>Show HN: Local-First Linux MicroVMs for macOS</a></td></tr>
+<tr><td><a href='https://terrytao.wordpress.com/2026/02/16/six-math-essentials/'>Six Math Essentials</a></td></tr>
 </table>
 <!-- END:news -->
 
