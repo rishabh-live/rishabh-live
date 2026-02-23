@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://spectrum.ieee.org/age-verification'>The Age Verification Trap: Verifying age undermines everyone&#x27;s data protection</a></td></tr>
 <tr><td><a href='https://ladybird.org/posts/adopting-rust/'>Ladybird Browser adopts Rust</a></td></tr>
-<tr><td><a href='https://github.com/danalec/DMMSY-SSSP'>C99 implementation of new O(m log^(2&#x2F;3) n) shortest path algorithm</a></td></tr>
 <tr><td><a href='https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html'>A simple web we own</a></td></tr>
 <tr><td><a href='https://sabrinas.space'>The peculiar case of Japanese web design (2022)</a></td></tr>
+<tr><td><a href='https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal'>Elsevier shuts down its finance journal citation cartel</a></td></tr>
 </table>
 <!-- END:news -->
 
