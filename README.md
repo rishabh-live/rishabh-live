@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://hawksley.org/2026/02/17/timeframe.html'>I built Timeframe, our family e-paper dashboard</a></td></tr>
-<tr><td><a href='https://lyra.kids/'>Show HN: Lyra Kids – I built an AI bedtime storyteller for my daughters</a></td></tr>
+<tr><td><a href='https://agenticse-book.github.io/'>Agentic Software Engineering Book</a></td></tr>
 <tr><td><a href='https://warnfirehose.com'>Show HN: WARN Firehose – Every US layoff notice in one searchable database</a></td></tr>
 <tr><td><a href='https://joinloops.org/'>Loops is a federated, open-source TikTok</a></td></tr>
-<tr><td><a href='https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778'>Google restricting Google AI Pro&#x2F;Ultra subscribers for using OpenClaw</a></td></tr>
+<tr><td><a href='https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/'>How to train your program verifier</a></td></tr>
 </table>
 <!-- END:news -->
 
