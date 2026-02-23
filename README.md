@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal'>Elsevier shuts down its finance journal citation cartel</a></td></tr>
+<tr><td><a href='https://ladybird.org/posts/adopting-rust/'>Ladybird Browser adopts Rust</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/solid-state-lidar-microvision-adas'>Sub-$200 Lidar could reshuffle auto sensor economics</a></td></tr>
+<tr><td><a href='https://hackernews.love/'>Hacker News.love – 22 projects Hacker News didn&#x27;t love</a></td></tr>
 <tr><td><a href='https://hawksley.org/2026/02/17/timeframe.html'>I built Timeframe, our family e-paper dashboard</a></td></tr>
-<tr><td><a href='https://play0ad.com/new-release-0-a-d-release-28-boiorix/'>0 A.D. Release 28: Boiorix</a></td></tr>
-<tr><td><a href='https://magicalmushroom.com/index'>Magical Mushroom – Europe&#x27;s first industrial-scale mycelium packaging producer</a></td></tr>
 </table>
 <!-- END:news -->
 
