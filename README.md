@@ -25,7 +25,7 @@
 <tr><td><a href='https://oxc.rs/'>The JavaScript Oxidation Compiler</a></td></tr>
 <tr><td><a href='https://joinloops.org/'>Loops is a federated, open-source TikTok</a></td></tr>
 <tr><td><a href='https://cia-factbook-archive.fly.dev/'>Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable</a></td></tr>
-<tr><td><a href='https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/'>How to train your program verifier</a></td></tr>
+<tr><td><a href='https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline'>My journey to the microwave alternate timeline</a></td></tr>
 </table>
 <!-- END:news -->
 
