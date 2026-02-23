@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://spectrum.ieee.org/age-verification'>The Age Verification Trap: Verifying age undermines everyone&#x27;s data protection</a></td></tr>
-<tr><td><a href='https://ladybird.org/posts/adopting-rust/'>Ladybird Browser adopts Rust</a></td></tr>
+<tr><td><a href='https://ladybird.org/posts/adopting-rust/'>Ladybird adopts Rust</a></td></tr>
 <tr><td><a href='https://github.com/pgdogdev/pgdog'>Show HN: PgDog – Scale Postgres without changing the app</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows'>&#x27;Viking&#x27; was a job description, not a matter of heredity: Ancient DNA study</a></td></tr>
-<tr><td><a href='https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control'>India&#x27;s VIP culture is out of control</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/'>Americans are destroying Flock surveillance cameras</a></td></tr>
 </table>
 <!-- END:news -->
 
