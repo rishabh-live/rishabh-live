@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://hawksley.org/2026/02/17/timeframe.html'>I built Timeframe, our family e-paper dashboard</a></td></tr>
-<tr><td><a href='https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/'>Using New Bridges of FreeBSD 15</a></td></tr>
+<tr><td><a href='https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778'>Google restricting Google AI Pro&#x2F;Ultra subscribers for using OpenClaw</a></td></tr>
 <tr><td><a href='https://joinloops.org/'>Loops is a federated, open-source TikTok</a></td></tr>
-<tr><td><a href='https://susam.net/attention-media-vs-social-networks.html'>Attention Media ≠ Social Networks</a></td></tr>
+<tr><td><a href='https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/'>Using the new bridges of FreeBSD 15</a></td></tr>
 <tr><td><a href='https://cia-factbook-archive.fly.dev/'>Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable</a></td></tr>
 </table>
 <!-- END:news -->
