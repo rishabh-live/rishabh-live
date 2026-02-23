@@ -25,7 +25,7 @@
 <tr><td><a href='https://ladybird.org/posts/adopting-rust/'>Ladybird Browser adopts Rust</a></td></tr>
 <tr><td><a href='https://github.com/pgdogdev/pgdog'>Show HN: PgDog – Scale Postgres without changing the app</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows'>&#x27;Viking&#x27; was a job description, not a matter of heredity: Ancient DNA study</a></td></tr>
-<tr><td><a href='https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal'>Elsevier shuts down its finance journal citation cartel</a></td></tr>
+<tr><td><a href='https://www.economist.com/asia/2026/02/22/indias-vip-culture-is-out-of-control'>India&#x27;s VIP culture is out of control</a></td></tr>
 </table>
 <!-- END:news -->
 
