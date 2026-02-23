@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://ladybird.org/posts/adopting-rust/'>Ladybird Browser adopts Rust</a></td></tr>
 <tr><td><a href='https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal'>Elsevier shuts down its finance journal citation cartel</a></td></tr>
-<tr><td><a href='https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf'>VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]</a></td></tr>
-<tr><td><a href='https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/'>Hetzner (European hosting provider) to increase prices by up to 38%</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/solid-state-lidar-microvision-adas'>Sub-$200 Lidar could reshuffle auto sensor economics</a></td></tr>
+<tr><td><a href='https://magicalmushroom.com/index'>Magical Mushroom – Europe&#x27;s first industrial-scale mycelium packaging producer</a></td></tr>
+<tr><td><a href='https://hawksley.org/2026/02/17/timeframe.html'>I built Timeframe, our family e-paper dashboard</a></td></tr>
 </table>
 <!-- END:news -->
 
