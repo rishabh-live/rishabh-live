@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/'>UNIX99, a UNIX-like OS for the TI-99&#x2F;4A</a></td></tr>
 <tr><td><a href='https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/'>FreeBSD doesn&#x27;t have Wi-Fi driver for my old MacBook. AI build one for me</a></td></tr>
+<tr><td><a href='https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/'>UNIX99, a UNIX-like OS for the TI-99&#x2F;4A</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/age-verification'>The Age Verification Trap: Verifying age undermines everyone&#x27;s data protection</a></td></tr>
-<tr><td><a href='https://github.com/Inokinoki/attesor'>AI-powered reverse-engineering of Rosetta 2 for Linux</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/'>Americans are destroying Flock surveillance cameras</a></td></tr>
+<tr><td><a href='https://thenevadaindependent.com/article/vegas-police-are-big-users-of-license-plate-readers-public-has-little-input-because-its-a-gift'>Flock cameras gifted by Horowitz Foundation, avoiding public oversight</a></td></tr>
 </table>
 <!-- END:news -->
 
