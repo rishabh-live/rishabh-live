@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://hawksley.org/2026/02/17/timeframe.html'>I built Timeframe, our family e-paper dashboard</a></td></tr>
 <tr><td><a href='https://oxc.rs/'>The JavaScript Oxidation Compiler</a></td></tr>
-<tr><td><a href='https://joinloops.org/'>Loops is a federated, open-source TikTok</a></td></tr>
+<tr><td><a href='https://play0ad.com/new-release-0-a-d-release-28-boiorix/'>0 A.D. Release 28: Boiorix</a></td></tr>
 <tr><td><a href='https://cia-factbook-archive.fly.dev/'>Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable</a></td></tr>
-<tr><td><a href='https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline'>My journey to the microwave alternate timeline</a></td></tr>
+<tr><td><a href='https://joinloops.org/'>Loops is a federated, open-source TikTok</a></td></tr>
 </table>
 <!-- END:news -->
 
