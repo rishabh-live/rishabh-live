@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/'>UNIX99, a UNIX-like OS for the TI-99&#x2F;4A</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/age-verification'>The Age Verification Trap: Verifying age undermines everyone&#x27;s data protection</a></td></tr>
-<tr><td><a href='https://ladybird.org/posts/adopting-rust/'>Ladybird adopts Rust</a></td></tr>
-<tr><td><a href='https://github.com/pgdogdev/pgdog'>Show HN: PgDog – Scale Postgres without changing the app</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows'>&#x27;Viking&#x27; was a job description, not a matter of heredity: Ancient DNA study</a></td></tr>
+<tr><td><a href='https://opper.ai/blog/car-wash-test'>&quot;Car Wash&quot; test with 53 models</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/'>Americans are destroying Flock surveillance cameras</a></td></tr>
+<tr><td><a href='https://ladybird.org/posts/adopting-rust/'>Ladybird adopts Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
