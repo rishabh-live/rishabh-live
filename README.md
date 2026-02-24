@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/hash-anu/snkv'>Show HN: SNKV – SQLite&#x27;s B-tree as a key-value store (C&#x2F;C++ and Python bindings)</a></td></tr>
 <tr><td><a href='https://www.withdiode.com/'>Diode – Build, program, and simulate hardware</a></td></tr>
+<tr><td><a href='https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/'>λProlog: Logic programming in higher-order logic</a></td></tr>
 <tr><td><a href='https://gwern.net/doc/iq/high/smpy/1984-clements.pdf'>Terence Tao, at 8 years old (1984) [pdf]</a></td></tr>
-<tr><td><a href='https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/'>ΛProlog: Logic programming in higher-order logic</a></td></tr>
 <tr><td><a href='https://turbopuffer.com/blog/object-storage-queue'>A distributed queue in a single JSON file on object storage</a></td></tr>
-<tr><td><a href='https://github.com/GreatScott/enveil'>Show HN: enveil – hide your .env secrets from prAIng eyes</a></td></tr>
 </table>
 <!-- END:news -->
 
