@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://wordglyph.xyz/one-piece-at-a-time'>I Pitched a Roller Coaster to Disneyland at Age 10 in 1978</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html'>IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight</a></td></tr>
 <tr><td><a href='https://www.withdiode.com/'>Diode – Build, program, and simulate hardware</a></td></tr>
-<tr><td><a href='https://wordglyph.xyz/one-piece-at-a-time'>I Pitched a Roller Coaster to Disneyland at Age 10 in 1978</a></td></tr>
 <tr><td><a href='https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/'>Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148</a></td></tr>
 <tr><td><a href='https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/'>λProlog: Logic programming in higher-order logic</a></td></tr>
 </table>
