@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album'>Shatner is making an album with 35 metal icons</a></td></tr>
+<tr><td><a href='https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html'>Blood test boosts Alzheimer&#x27;s diagnosis accuracy to 94.5%, clinical study shows</a></td></tr>
+<tr><td><a href='https://gwern.net/doc/iq/high/smpy/1984-clements.pdf'>Terence Tao, at 8 years old [pdf]</a></td></tr>
 <tr><td><a href='https://dork.dev/posts/2026-02-20-ported-coreboot/'>I Ported Coreboot to the ThinkPad X270</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/age-verification'>The Age Verification Trap: Verifying age undermines everyone&#x27;s data protection</a></td></tr>
 <tr><td><a href='https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/'>UNIX99, a UNIX-like OS for the TI-99&#x2F;4A (2025)</a></td></tr>
-<tr><td><a href='https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/'>FreeBSD doesn&#x27;t have Wi-Fi driver for my old MacBook. AI build one for me</a></td></tr>
 </table>
 <!-- END:news -->
 
