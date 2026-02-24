@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://wordglyph.xyz/one-piece-at-a-time'>I Pitched a Roller Coaster to Disneyland at Age 10 in 1978</a></td></tr>
+<tr><td><a href='https://stripe.com/newsroom/news/stripe-2025-update'>Stripe valued at $159B, 2025 annual letter</a></td></tr>
 <tr><td><a href='https://blog.mikegchambers.com/posts/software-31-ai-functions/'>Software 3.1? – AI Functions</a></td></tr>
+<tr><td><a href='https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/'>Samsung Upcycle Promise</a></td></tr>
 <tr><td><a href='https://www.withdiode.com/'>Diode – Build, program, and simulate hardware</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html'>IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight</a></td></tr>
-<tr><td><a href='https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/'>Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148</a></td></tr>
 </table>
 <!-- END:news -->
 
