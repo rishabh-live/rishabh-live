@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.calebleak.com/posts/dog-game/'>I&#x27;m helping my dog vibe code games</a></td></tr>
+<tr><td><a href='https://www.mariannefeng.com/portfolio/kindle/'>Hacking an old Kindle to display bus arrival times</a></td></tr>
 <tr><td><a href='https://github.com/yjeanrenaud/yj_nearbyglasses'>Nearby Glasses</a></td></tr>
 <tr><td><a href='https://github.com/huggingface/skills'>HuggingFace Agent Skills</a></td></tr>
-<tr><td><a href='https://www.mariannefeng.com/portfolio/kindle/'>Hacking an old Kindle to display bus arrival times</a></td></tr>
 <tr><td><a href='https://wordglyph.xyz/one-piece-at-a-time'>I pitched a roller coaster to Disneyland at age 10 in 1978</a></td></tr>
 </table>
 <!-- END:news -->
