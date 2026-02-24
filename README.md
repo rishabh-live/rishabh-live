@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.calebleak.com/posts/dog-game/'>I&#x27;m helping my dog vibe code games</a></td></tr>
 <tr><td><a href='https://www.mariannefeng.com/portfolio/kindle/'>Hacking an old Kindle to display bus arrival times</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/vinext/'>How we rebuilt Next.js with AI in one week</a></td></tr>
-<tr><td><a href='https://www.math.columbia.edu/~woit/wordpress/?p=15500'>Looks like it is happening</a></td></tr>
+<tr><td><a href='https://github.com/moonshine-ai/moonshine'>Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3</a></td></tr>
 </table>
 <!-- END:news -->
 
