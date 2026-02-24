@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://wordglyph.xyz/one-piece-at-a-time'>I Pitched a Roller Coaster to Disneyland at Age 10 in 1978</a></td></tr>
-<tr><td><a href='https://stripe.com/newsroom/news/stripe-2025-update'>Stripe valued at $159B, 2025 annual letter</a></td></tr>
-<tr><td><a href='https://blog.mikegchambers.com/posts/software-31-ai-functions/'>Software 3.1? – AI Functions</a></td></tr>
 <tr><td><a href='https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/'>Samsung Upcycle Promise</a></td></tr>
+<tr><td><a href='https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/'>Kansai Airport has never lost a baggage in the 30 years since it opened (2024)</a></td></tr>
+<tr><td><a href='https://www.amzi.com/articles/irq_expert_system.htm'>Extending C with Prolog (1994)</a></td></tr>
 <tr><td><a href='https://www.withdiode.com/'>Diode – Build, program, and simulate hardware</a></td></tr>
 </table>
 <!-- END:news -->
