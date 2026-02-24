@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://wordglyph.xyz/one-piece-at-a-time'>I pitched a roller coaster to Disneyland at age 10 in 1978</a></td></tr>
-<tr><td><a href='https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/'>Samsung Upcycle Promise</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html'>IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight</a></td></tr>
-<tr><td><a href='https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/'>Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)</a></td></tr>
 <tr><td><a href='https://www.calebleak.com/posts/dog-game/'>I&#x27;m helping my dog vibe code games</a></td></tr>
+<tr><td><a href='https://wordglyph.xyz/one-piece-at-a-time'>I pitched a roller coaster to Disneyland at age 10 in 1978</a></td></tr>
+<tr><td><a href='https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html'>IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight</a></td></tr>
+<tr><td><a href='https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/'>Samsung Upcycle Promise</a></td></tr>
+<tr><td><a href='https://keepandroidopen.org/open-letter/'>Open Letter to Google on Mandatory Developer Registration for App Distribution</a></td></tr>
 </table>
 <!-- END:news -->
 
