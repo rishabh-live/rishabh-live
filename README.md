@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/odvcencio/gotreesitter'>Show HN: I ported Tree-sitter to Go</a></td></tr>
 <tr><td><a href='https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/'>Bus stop balancing is fast, cheap, and effective</a></td></tr>
 <tr><td><a href='https://www.om-language.com/'>om</a></td></tr>
-<tr><td><a href='https://github.com/odvcencio/gotreesitter'>Show HN: I ported Tree-sitter to Go</a></td></tr>
-<tr><td><a href='https://www.0xsid.com/blog/online-tld-is-pain'>Never buy a .online domain</a></td></tr>
 <tr><td><a href='https://simonlermen.substack.com/p/large-scale-online-deanonymization'>Large-Scale Online Deanonymization with LLMs</a></td></tr>
+<tr><td><a href='https://www.0xsid.com/blog/online-tld-is-pain'>Never buy a .online domain</a></td></tr>
 </table>
 <!-- END:news -->
 
