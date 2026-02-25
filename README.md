@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.0xsid.com/blog/online-tld-is-pain'>Never Buy A .online Domain</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2602.16800'>Large-scale online deanonymization with LLMs (using HN posts)</a></td></tr>
+<tr><td><a href='https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/'>The United States needs fewer bus stops</a></td></tr>
+<tr><td><a href='https://www.publicbooks.org/the-misuses-of-the-university/'>The Misuses of the University</a></td></tr>
 <tr><td><a href='https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html'>How to fold the Blade Runner origami unicorn (1996)</a></td></tr>
-<tr><td><a href='https://therecord.media/denmark-digital-agency-microsoft-digital-independence'>Danish government agency to ditch Microsoft software (2025)</a></td></tr>
-<tr><td><a href='https://github.com/yassi/dj-control-room'>Show HN: Django Control Room – All Your Tools Inside the Django Admin</a></td></tr>
-<tr><td><a href='https://llmskirmish.com/'>Show HN: A real-time strategy game that AI agents can play</a></td></tr>
 </table>
 <!-- END:news -->
 
