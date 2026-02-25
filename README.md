@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.calebleak.com/posts/dog-game/'>I&#x27;m helping my dog vibe code games</a></td></tr>
+<tr><td><a href='https://github.com/atgreen/cl-kawa'>Cl-kawa: Scheme on Java on Common Lisp</a></td></tr>
 <tr><td><a href='https://github.com/moonshine-ai/moonshine'>Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3</a></td></tr>
 <tr><td><a href='https://www.inceptionlabs.ai/blog/introducing-mercury-2'>Mercury 2: The fastest reasoning LLM, powered by diffusion</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/'>Mac mini will be made at a new facility in Houston</a></td></tr>
 <tr><td><a href='https://pi.dev'>Pi – A minimal terminal coding harness</a></td></tr>
 </table>
 <!-- END:news -->
