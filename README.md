@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/'>Bus stop balancing is fast, cheap, and effective</a></td></tr>
 <tr><td><a href='https://www.0xsid.com/blog/online-tld-is-pain'>Never buy a .online domain</a></td></tr>
-<tr><td><a href='https://www.publicbooks.org/the-misuses-of-the-university/'>The Misuses of the University</a></td></tr>
 <tr><td><a href='https://simonlermen.substack.com/p/large-scale-online-deanonymization'>Large-Scale Online Deanonymization with LLMs</a></td></tr>
-<tr><td><a href='https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/'>Following 35% growth, solar has passed hydro on US grid</a></td></tr>
+<tr><td><a href='https://www.publicbooks.org/the-misuses-of-the-university/'>The Misuses of the University</a></td></tr>
+<tr><td><a href='https://tachyon.so/blog/sandboxes-wont-save-you'>Sandboxes won&#x27;t save you from OpenClaw</a></td></tr>
 </table>
 <!-- END:news -->
 
