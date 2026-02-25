@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://pop.rdi.sh/sovereignty-in-a-system-prompt/'>Sovereignty in a System Prompt</a></td></tr>
 <tr><td><a href='https://www.calebleak.com/posts/dog-game/'>I&#x27;m helping my dog vibe code games</a></td></tr>
+<tr><td><a href='https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&amp;e=1&amp;noscript=1&amp;rlkey=qaar8ea6l5hh6jqls4x6g8q4b'>Ed Zitron loses his mind annotating an AI doomer macro memo</a></td></tr>
 <tr><td><a href='https://github.com/atgreen/cl-kawa'>Cl-kawa: Scheme on Java on Common Lisp</a></td></tr>
-<tr><td><a href='https://pi.dev'>Pi – A minimal terminal coding harness</a></td></tr>
 <tr><td><a href='https://github.com/moonshine-ai/moonshine'>Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3</a></td></tr>
 </table>
 <!-- END:news -->
