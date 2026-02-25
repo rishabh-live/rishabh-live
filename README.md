@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.codemine.be/posts/2026/20260222-be-quiet/'>LLM=True</a></td></tr>
 <tr><td><a href='https://llmskirmish.com/'>Show HN: A real-time strategy game that AI agents can play</a></td></tr>
 <tr><td><a href='https://therecord.media/denmark-digital-agency-microsoft-digital-independence'>Danish government agency to ditch Microsoft software (2025)</a></td></tr>
 <tr><td><a href='https://www.calebleak.com/posts/dog-game/'>I&#x27;m helping my dog vibe code games</a></td></tr>
-<tr><td><a href='https://github.com/cloudflare/vinext'>Vinext – The Next.js API surface, reimplemented on Vite</a></td></tr>
+<tr><td><a href='https://blog.codemine.be/posts/2026/20260222-be-quiet/'>LLM=True</a></td></tr>
+<tr><td><a href='https://pi.dev'>Pi – A minimal terminal coding harness</a></td></tr>
 </table>
 <!-- END:news -->
 
