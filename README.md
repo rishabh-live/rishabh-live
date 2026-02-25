@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.codemine.be/posts/2026/20260222-be-quiet/'>LLM=True</a></td></tr>
+<tr><td><a href='https://llmskirmish.com/'>Show HN: A real-time strategy game that AI agents can play</a></td></tr>
 <tr><td><a href='https://www.calebleak.com/posts/dog-game/'>I&#x27;m helping my dog vibe code games</a></td></tr>
-<tr><td><a href='https://about.looktake.io/'>Show HN: LookTake – Try anyone&#x27;s makeup, outfit, or hairstyle on your photo</a></td></tr>
-<tr><td><a href='https://metafixthis.com/'>Meta problem with URPF our bundle in Boca raton</a></td></tr>
+<tr><td><a href='https://pi.dev'>Pi – A minimal terminal coding harness</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.20762'>Turing Completeness of GNU find</a></td></tr>
 </table>
 <!-- END:news -->
