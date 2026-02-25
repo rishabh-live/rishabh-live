@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://spectrum.ieee.org/jimi-hendrix-systems-engineer'>Jimi Hendrix was a systems engineer</a></td></tr>
-<tr><td><a href='https://www.om-language.com/'>om</a></td></tr>
+<tr><td><a href='https://www.om-language.com/'>The Om Programming Language</a></td></tr>
 <tr><td><a href='https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/'>Bus stop balancing is fast, cheap, and effective</a></td></tr>
-<tr><td><a href='https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html'>I made MCP cheaper in one command</a></td></tr>
+<tr><td><a href='https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html'>Making MCP cheaper via CLI</a></td></tr>
 <tr><td><a href='https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/'>Windows 11 Notepad to support Markdown</a></td></tr>
 </table>
 <!-- END:news -->
