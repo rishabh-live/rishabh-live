@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf'>AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]</a></td></tr>
+<tr><td><a href='https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf'>Palm OS User Interface Guidelines (2003) [pdf]</a></td></tr>
+<tr><td><a href='https://deepmind.google/models/synthid/'>SynthID</a></td></tr>
 <tr><td><a href='https://tech.marksblogg.com/google-street-view-coverage.html'>Google Street View in 2026</a></td></tr>
-<tr><td><a href='https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf'>Palm OS User Interface Guidelines [pdf, 2003]</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/'>Nano Banana 2: Google&#x27;s latest AI image generation model</a></td></tr>
-<tr><td><a href='https://endowment.dev/'>Open Source Endowment – new funding source for open source maintainers</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life'>I baked a pie every day for a year and it changed my life</a></td></tr>
 </table>
 <!-- END:news -->
 
