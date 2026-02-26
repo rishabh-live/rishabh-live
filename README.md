@@ -24,7 +24,7 @@
 <tr><td><a href='https://spectrum.ieee.org/jimi-hendrix-systems-engineer'>Jimi Hendrix was a systems engineer</a></td></tr>
 <tr><td><a href='https://info.cern.ch'>First Website</a></td></tr>
 <tr><td><a href='https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html'>Making MCP cheaper via CLI</a></td></tr>
-<tr><td><a href='https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/'>Bus stop balancing is fast, cheap, and effective</a></td></tr>
+<tr><td><a href='https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory'>Origin of the rule that swap size should be 2x of the physical memory</a></td></tr>
 <tr><td><a href='https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/'>Windows 11 Notepad to support Markdown</a></td></tr>
 </table>
 <!-- END:news -->
