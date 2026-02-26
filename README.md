@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/'>Smartphone Mkt to Decline 13% in &#x27;26, Largest Drop Ever Due to Memory Shortage</a></td></tr>
-<tr><td><a href='https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf'>AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/statement-department-of-war'>Statement from Dario Amodei on Our Discussions with the Department of War</a></td></tr>
 <tr><td><a href='https://twitter.com/jack/status/2027129697092731343'>Layoffs at Block</a></td></tr>
+<tr><td><a href='https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf'>AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]</a></td></tr>
 <tr><td><a href='https://amplifying.ai/research/claude-code-picks'>What Claude Code Chooses</a></td></tr>
-<tr><td><a href='https://www.usecardboard.com/'>Launch HN: Cardboard (YC W26) – Agentic video editor</a></td></tr>
 </table>
 <!-- END:news -->
 
