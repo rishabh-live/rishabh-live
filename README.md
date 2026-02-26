@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf'>AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]</a></td></tr>
 <tr><td><a href='https://tech.marksblogg.com/google-street-view-coverage.html'>Google Street View in 2026</a></td></tr>
-<tr><td><a href='https://endowment.dev/'>Open Source Endowment – new funding source for open source maintainers</a></td></tr>
 <tr><td><a href='https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf'>Palm OS User Interface Guidelines [pdf, 2003]</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/'>Nano Banana 2: Google&#x27;s latest AI image generation model</a></td></tr>
+<tr><td><a href='https://endowment.dev/'>Open Source Endowment – new funding source for open source maintainers</a></td></tr>
 </table>
 <!-- END:news -->
 
