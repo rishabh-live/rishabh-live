@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/'>New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/'>Nano Banana 2: Google&#x27;s latest AI image generation model</a></td></tr>
 <tr><td><a href='https://gitlab.com/here_forawhile/terminalphone'>Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line</a></td></tr>
 <tr><td><a href='https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change'>Anthropic ditches its core safety promise</a></td></tr>
 <tr><td><a href='https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules'>Google API keys weren&#x27;t secrets, but then Gemini changed the rules</a></td></tr>
-<tr><td><a href='https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i'>In 2025, Meta paid an effective federal tax rate of 3.5%</a></td></tr>
-<tr><td><a href='https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html'>Fentanyl makeover: Core structural redesign could lead to safer pain medications</a></td></tr>
 </table>
 <!-- END:news -->
 
