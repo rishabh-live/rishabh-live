@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gitlab.com/here_forawhile/terminalphone'>Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line</a></td></tr>
-<tr><td><a href='https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html'>Fentanyl makeover: Core structural redesign could lead to safer pain medications</a></td></tr>
 <tr><td><a href='https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules'>Google API keys weren&#x27;t secrets, but then Gemini changed the rules</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change'>Anthropic ditches its core safety promise</a></td></tr>
 <tr><td><a href='https://github.com/desplega-ai/agent-swarm'>Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)</a></td></tr>
-<tr><td><a href='https://raccoon.land/posts/technical-excellence-is-not-enough/'>Technical Excellence Is Not Enough</a></td></tr>
+<tr><td><a href='https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html'>Fentanyl makeover: Core structural redesign could lead to safer pain medications</a></td></tr>
 </table>
 <!-- END:news -->
 
