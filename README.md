@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/'>You Want to Visit the UK? You Better Have a Google Play or App Store Account</a></td></tr>
 <tr><td><a href='https://gitlab.com/here_forawhile/terminalphone'>Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line</a></td></tr>
 <tr><td><a href='https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules'>Google API keys weren&#x27;t secrets, but then Gemini changed the rules</a></td></tr>
-<tr><td><a href='https://www.better-hub.com/'>Show HN: Better Hub – A better GitHub experience</a></td></tr>
+<tr><td><a href='https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/'>You Want to Visit the UK? You Better Have a Google Play or App Store Account</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/jimi-hendrix-systems-engineer'>Jimi Hendrix was a systems engineer</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47163885'>Tell HN: YC companies scrape GitHub activity, send spam emails to users</a></td></tr>
 </table>
 <!-- END:news -->
 
