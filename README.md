@@ -24,8 +24,8 @@
 <tr><td><a href='https://gitlab.com/here_forawhile/terminalphone'>Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line</a></td></tr>
 <tr><td><a href='https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change'>Anthropic ditches its core safety promise</a></td></tr>
 <tr><td><a href='https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules'>Google API keys weren&#x27;t secrets, but then Gemini changed the rules</a></td></tr>
+<tr><td><a href='https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i'>In 2025, Meta paid an effective federal tax rate of 3.5%</a></td></tr>
 <tr><td><a href='https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html'>Fentanyl makeover: Core structural redesign could lead to safer pain medications</a></td></tr>
-<tr><td><a href='https://github.com/vercel-labs/just-bash'>just-bash: Bash for Agents</a></td></tr>
 </table>
 <!-- END:news -->
 
