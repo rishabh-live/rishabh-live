@@ -25,7 +25,7 @@
 <tr><td><a href='https://spectrum.ieee.org/jimi-hendrix-systems-engineer'>Jimi Hendrix was a systems engineer</a></td></tr>
 <tr><td><a href='https://info.cern.ch'>First Website (1992)</a></td></tr>
 <tr><td><a href='https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x'>How will OpenAI compete?</a></td></tr>
-<tr><td><a href='https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html'>Making MCP cheaper via CLI</a></td></tr>
+<tr><td><a href='https://harpers.org/archive/2026/03/out-of-light-nicole-krauss-caravaggio-georges-de-la-tour/'>Out of Light Adjust Share: Caravaggio, La Tour, and the Art of Attention</a></td></tr>
 </table>
 <!-- END:news -->
 
