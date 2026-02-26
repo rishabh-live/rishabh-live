@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/'>Smartphone Mkt to Decline 13% in &#x27;26, Largest Drop Ever Due to Memory Shortage</a></td></tr>
 <tr><td><a href='https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf'>AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]</a></td></tr>
-<tr><td><a href='https://www.usecardboard.com/'>Launch HN: Cardboard (YC W26) – Agentic video editor</a></td></tr>
-<tr><td><a href='https://read.technically.dev/p/vibe-coding-and-the-maker-movement'>Will vibe coding end like the maker movement?</a></td></tr>
+<tr><td><a href='https://twitter.com/jack/status/2027129697092731343'>Layoffs at Block</a></td></tr>
 <tr><td><a href='https://amplifying.ai/research/claude-code-picks'>What Claude Code Chooses</a></td></tr>
-<tr><td><a href='https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html'>Lidar waveforms are worth 40x128x33 words</a></td></tr>
+<tr><td><a href='https://www.usecardboard.com/'>Launch HN: Cardboard (YC W26) – Agentic video editor</a></td></tr>
 </table>
 <!-- END:news -->
 
