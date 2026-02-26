@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://spectrum.ieee.org/jimi-hendrix-systems-engineer'>Jimi Hendrix was a systems engineer</a></td></tr>
-<tr><td><a href='https://info.cern.ch'>First Website</a></td></tr>
+<tr><td><a href='https://info.cern.ch'>First Website (1992)</a></td></tr>
+<tr><td><a href='https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/'>Jane Street Hit with Terra $40B Insider Trading Suit</a></td></tr>
 <tr><td><a href='https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html'>Making MCP cheaper via CLI</a></td></tr>
-<tr><td><a href='https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory'>Origin of the rule that swap size should be 2x of the physical memory</a></td></tr>
-<tr><td><a href='https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/'>Windows 11 Notepad to support Markdown</a></td></tr>
+<tr><td><a href='https://simonbergerart.com'>Artist who &quot;paints&quot; portraits on glass by hitting it with a hammer</a></td></tr>
 </table>
 <!-- END:news -->
 
