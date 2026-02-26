@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules'>Google API keys weren&#x27;t secrets, but then Gemini changed the rules</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/jimi-hendrix-systems-engineer'>Jimi Hendrix was a systems engineer</a></td></tr>
 <tr><td><a href='https://info.cern.ch'>First Website (1992)</a></td></tr>
-<tr><td><a href='https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules'>Google API keys weren&#x27;t secrets, but then Gemini changed the rules</a></td></tr>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/'>RAM now represents 35 percent of bill of materials for HP PCs</a></td></tr>
-<tr><td><a href='https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html'>Making MCP cheaper via CLI</a></td></tr>
+<tr><td><a href='https://lukasmetzner.github.io/blog/gauss-weekday.html'>Gauss&#x27;s Weekday Algorithm, Visualized</a></td></tr>
 </table>
 <!-- END:news -->
 
