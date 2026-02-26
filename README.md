@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.grumpy-economist.com/p/refine'>I don&#x27;t know how you get here from &quot;predict the next word.&quot;</a></td></tr>
 <tr><td><a href='https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules'>Google API keys weren&#x27;t secrets, but then Gemini changed the rules</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/jimi-hendrix-systems-engineer'>Jimi Hendrix was a systems engineer</a></td></tr>
 <tr><td><a href='https://info.cern.ch'>First Website (1992)</a></td></tr>
-<tr><td><a href='https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/'>RAM now represents 35 percent of bill of materials for HP PCs</a></td></tr>
-<tr><td><a href='https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x'>How will OpenAI compete?</a></td></tr>
+<tr><td><a href='https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10'>The Pleasures and Pains of Coffee (1830)</a></td></tr>
 </table>
 <!-- END:news -->
 
