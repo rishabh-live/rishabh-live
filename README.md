@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.anthropic.com/news/statement-department-of-war'>Statement from Dario Amodei on our discussions with the Department of War</a></td></tr>
 <tr><td><a href='https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/'>The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html'>Google Workers Seek &#x27;Red Lines&#x27; on Military A.I., Echoing Anthropic</a></td></tr>
-<tr><td><a href='https://twitter.com/jack/status/2027129697092731343'>Layoffs at Block</a></td></tr>
 <tr><td><a href='https://amplifying.ai/research/claude-code-picks'>What Claude Code Chooses</a></td></tr>
+<tr><td><a href='https://twitter.com/jack/status/2027129697092731343'>Layoffs at Block</a></td></tr>
 </table>
 <!-- END:news -->
 
