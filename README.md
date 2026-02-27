@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.cloudflare.com/a-better-web-streams-api/'>A better streams API is possible for JavaScript</a></td></tr>
+<tr><td><a href='https://blog.skypilot.co/openclaw-on-skypilot/'>Don&#x27;t run OpenClaw on your main machine</a></td></tr>
+<tr><td><a href='https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871'>Dan Simmons, author of Hyperion, has died</a></td></tr>
+<tr><td><a href='https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/'>Writing a Guide to SDF Fonts</a></td></tr>
 <tr><td><a href='https://go.dev/blog/allocation-optimizations'>Allocating on the Stack</a></td></tr>
-<tr><td><a href='https://www.mendral.com/blog/llms-are-good-at-sql'>We gave terabytes of CI logs to an LLM</a></td></tr>
-<tr><td><a href='https://www.oranlooney.com/post/grifters-skeptics-marks/'>Modeling Cycles of Grift with Evolutionary Game Theory</a></td></tr>
-<tr><td><a href='https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0'>Tenth Circuit: 4th Amendment Doesn&#x27;t Support Broad Search of Protesters&#x27; Devices</a></td></tr>
 </table>
 <!-- END:news -->
 
