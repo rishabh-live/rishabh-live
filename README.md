@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.cloudflare.com/a-better-web-streams-api/'>We deserve a better streams API for JavaScript</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/statement-department-of-war'>Statement from Dario Amodei on our discussions with the Department of War</a></td></tr>
+<tr><td><a href='https://www.understandingai.org/p/the-pentagon-is-making-a-mistake'>The Pentagon is making a mistake by threatening Anthropic</a></td></tr>
 <tr><td><a href='https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens'>Show HN: Badge that shows how well your codebase fits in an LLM&#x27;s context window</a></td></tr>
 <tr><td><a href='https://www.mendral.com/blog/llms-are-good-at-sql'>We gave terabytes of CI logs to an LLM</a></td></tr>
-<tr><td><a href='https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/'>Can you reverse engineer our neural network?</a></td></tr>
 </table>
 <!-- END:news -->
 
