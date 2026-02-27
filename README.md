@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/statement-department-of-war'>Statement from Dario Amodei on our discussions with the Department of War</a></td></tr>
 <tr><td><a href='https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/'>Can you reverse engineer our neural network?</a></td></tr>
-<tr><td><a href='https://f-droid.org/2026/02/26/board-of-directors-nominations.html'>F-Droid Board of Directors nominations 2026</a></td></tr>
 <tr><td><a href='https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/'>PostmarketOS in 2026-02: generic kernels, bans use of generative AI</a></td></tr>
+<tr><td><a href='https://f-droid.org/2026/02/26/board-of-directors-nominations.html'>F-Droid Board of Directors nominations 2026</a></td></tr>
 <tr><td><a href='https://growingswe.com/blog/quadtrees'>An interactive intro to quadtrees</a></td></tr>
 </table>
 <!-- END:news -->
