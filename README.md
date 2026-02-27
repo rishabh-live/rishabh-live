@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://twitter.com/i/status/2027507717469049070'>Department of War Designates Anthropic Supply Chain Risk</a></td></tr>
 <tr><td><a href='https://pseudosingleton.com/leaving-google-improved-my-life/'>Leaving Google has actively improved my life</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/'>OpenAI raises $110B on $730B pre-money valuation</a></td></tr>
 <tr><td><a href='https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/'>NASA announces overhaul of Artemis program amid safety concerns, delays</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/a-better-web-streams-api/'>A better streams API is possible for JavaScript</a></td></tr>
-<tr><td><a href='https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871'>Dan Simmons, author of Hyperion, has died</a></td></tr>
 </table>
 <!-- END:news -->
 
