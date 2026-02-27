@@ -25,7 +25,7 @@
 <tr><td><a href='https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/'>The Hunt for Dark Breakfast</a></td></tr>
 <tr><td><a href='https://gwern.net/doc/sociology/2003-ashforth.pdf'>The normalization of corruption in organizations (2003) [pdf]</a></td></tr>
 <tr><td><a href='https://docs.julialang.org/en/v1/manual/performance-tips/'>Julia: Performance Tips</a></td></tr>
-<tr><td><a href='https://nand2mario.github.io/posts/2026/80386_protection/'>80386 Protection</a></td></tr>
+<tr><td><a href='https://amplifying.ai/research/claude-code-picks'>What Claude Code chooses</a></td></tr>
 </table>
 <!-- END:news -->
 
