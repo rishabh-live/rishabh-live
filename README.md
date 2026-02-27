@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.cloudflare.com/a-better-web-streams-api/'>A better streams API is possible for JavaScript</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/statement-department-of-war'>Statement from Dario Amodei on our discussions with the Department of War</a></td></tr>
 <tr><td><a href='https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/'>NASA announces major overhaul of Artemis program amid safety concerns, delays</a></td></tr>
 <tr><td><a href='https://www.mendral.com/blog/llms-are-good-at-sql'>We gave terabytes of CI logs to an LLM</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/statement-department-of-war'>Statement from Dario Amodei on our discussions with the Department of War</a></td></tr>
 <tr><td><a href='https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0'>Tenth Circuit: 4th Amendment Doesn&#x27;t Support Broad Search of Protesters&#x27; Devices</a></td></tr>
 </table>
 <!-- END:news -->
