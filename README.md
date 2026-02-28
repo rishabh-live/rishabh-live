@@ -25,7 +25,7 @@
 <tr><td><a href='https://help.obsidian.md/sync/headless'>Obsidian Sync now has a headless client</a></td></tr>
 <tr><td><a href='https://github.com/google-gemini/gemini-cli/discussions/20632'>Addressing Antigravity Bans and Reinstating Access</a></td></tr>
 <tr><td><a href='https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00'>Verified Spec-Driven Development (VSDD)</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/'>New evidence that Cantor plagiarized Dedekind?</a></td></tr>
+<tr><td><a href='https://github.com/ad-si/Woxi'>Woxi: Wolfram Mathematica Reimplementation in Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
