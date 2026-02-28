@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription'>How do I cancel my ChatGPT subscription?</a></td></tr>
 <tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
+<tr><td><a href='https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription'>How do I cancel my ChatGPT subscription?</a></td></tr>
 <tr><td><a href='https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533'>Croatia declared free of landmines after 31 years</a></td></tr>
-<tr><td><a href='https://computer.rip/2026-02-27-ibm-atm.html'>Cash issuing terminals</a></td></tr>
 <tr><td><a href='https://blog.timcappalli.me/p/passkeys-prf-warning/'>Don&#x27;t use passkeys for encrypting user data</a></td></tr>
+<tr><td><a href='https://computer.rip/2026-02-27-ibm-atm.html'>Cash issuing terminals</a></td></tr>
 </table>
 <!-- END:news -->
 
