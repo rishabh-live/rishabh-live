@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://help.openai.com/en/articles/6378407-how-to-delete-your-account'>OpenAI – How to delete your account</a></td></tr>
-<tr><td><a href='https://nanoclaw.dev/blog/nanoclaw-security-model'>Don&#x27;t trust AI agents</a></td></tr>
-<tr><td><a href='https://anthropic-timeline.vercel.app'>Timeline: Anthropic, OpenAI, and U.S. Government</a></td></tr>
-<tr><td><a href='https://cerovac.com/a11y/2026/01/please-do-not-use-auto-scrolling-content-on-the-web-and-in-applications/'>Please do not use auto-scrolling content on the web and in applications</a></td></tr>
+<tr><td><a href='https://github.com/google-gemini/gemini-cli/discussions/20632'>Addressing Antigravity Bans and Reinstating Access</a></td></tr>
+<tr><td><a href='https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/'>What AI coding costs you</a></td></tr>
 <tr><td><a href='https://github.com/nocodemf/werld'>Show HN: Decided to play god this morning, so I built an agent civilisation</a></td></tr>
+<tr><td><a href='https://github.com/ad-si/Woxi'>Woxi: Wolfram Mathematica Reimplementation in Rust</a></td></tr>
+<tr><td><a href='https://nowigetit.us'>Show HN: Now I Get It – Translate scientific papers into interactive webpages</a></td></tr>
 </table>
 <!-- END:news -->
 
