@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/google-gemini/gemini-cli/discussions/20632'>Addressing Antigravity Bans and Reinstating Access</a></td></tr>
-<tr><td><a href='https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/'>What AI coding costs you</a></td></tr>
-<tr><td><a href='https://github.com/nocodemf/werld'>Show HN: Decided to play god this morning, so I built an agent civilisation</a></td></tr>
 <tr><td><a href='https://github.com/ad-si/Woxi'>Woxi: Wolfram Mathematica Reimplementation in Rust</a></td></tr>
 <tr><td><a href='https://nowigetit.us'>Show HN: Now I Get It – Translate scientific papers into interactive webpages</a></td></tr>
+<tr><td><a href='https://github.com/Krira-Labs/krira-chunker'>Show HN: Rust-powered document chunker for RAG – 40x faster, O(1) memory</a></td></tr>
+<tr><td><a href='https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/'>What AI coding costs you</a></td></tr>
 </table>
 <!-- END:news -->
 
