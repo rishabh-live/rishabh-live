@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/statement-comments-secretary-war'>Statement on the comments from Secretary of War Pete Hegseth</a></td></tr>
-<tr><td><a href='https://github.com/anadim/AdderBoard'>Smallest transformer that can add two 10-digit numbers</a></td></tr>
+<tr><td><a href='https://blog.timcappalli.me/p/passkeys-prf-warning/'>Don&#x27;t use passkeys for encrypting user data</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/'>OpenAI raises $110B on $730B pre-money valuation</a></td></tr>
-<tr><td><a href='https://www.science.org/doi/10.1126/science.adt2760'>Qt45: A small polymerase ribozyme that can synthesize itself</a></td></tr>
+<tr><td><a href='https://github.com/anadim/AdderBoard'>Smallest transformer that can add two 10-digit numbers</a></td></tr>
 </table>
 <!-- END:news -->
 
