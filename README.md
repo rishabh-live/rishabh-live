@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://twitter.com/secwar/status/2027507717469049070'>I am directing the Department of War to designate Anthropic a supply-chain risk</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/'>OpenAI raises $110B on $730B pre-money valuation</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/'>The Most-Seen UI on the Internet? Redesigning Turnstile and Challenge Pages</a></td></tr>
-<tr><td><a href='https://twitter.com/secwar/status/2027507717469049070'>I am directing the Department of War to designate Anthropic a Supply-Chain Risk</a></td></tr>
-<tr><td><a href='https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/'>A new California law says all operating systems need to have age verification</a></td></tr>
-<tr><td><a href='https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/'>NASA announces overhaul of Artemis program amid safety concerns, delays</a></td></tr>
+<tr><td><a href='https://www.science.org/doi/10.1126/science.adt2760'>Qt45: A small polymerase ribozyme that can synthesize itself</a></td></tr>
+<tr><td><a href='https://github.com/wkoszek/emuko'>Emuko: Fast RISC-V emulator written in Rust, boots Linux</a></td></tr>
+<tr><td><a href='https://github.com/anadim/AdderBoard'>Smallest transformer that can add two 10-digit numbers</a></td></tr>
 </table>
 <!-- END:news -->
 
