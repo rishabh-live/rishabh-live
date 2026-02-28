@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.vonng.com/en/db/minio-resurrect/'>MinIO Is Dead, Long Live MinIO</a></td></tr>
+<tr><td><a href='https://dl.acm.org/doi/fullHtml/10.1145/238386.238611'>The Windows 95 user interface: A case study in usability engineering (1996)</a></td></tr>
 <tr><td><a href='https://help.obsidian.md/sync/headless'>Obsidian Sync now has a headless client</a></td></tr>
 <tr><td><a href='https://ben-mini.com/2026/the-happiest-ive-ever-been'>The happiest I&#x27;ve ever been</a></td></tr>
-<tr><td><a href='https://dl.acm.org/doi/fullHtml/10.1145/238386.238611'>The Windows 95 User Interface: A Case Study in Usability Engineering</a></td></tr>
-<tr><td><a href='https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition'>Building a Minimal Transformer for 10-digit Addition</a></td></tr>
+<tr><td><a href='https://twitter.com/OpenAI/status/2027846016423321831'>We do not think Anthropic should be designated as a supply chain risk</a></td></tr>
 </table>
 <!-- END:news -->
 
