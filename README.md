@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
-<tr><td><a href='https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533'>Croatia declared free of landmines after 31 years</a></td></tr>
 <tr><td><a href='https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs'>Unsloth Dynamic 2.0 GGUFs</a></td></tr>
+<tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
+<tr><td><a href='https://help.openai.com/en/articles/6378407-how-to-delete-your-account'>OpenAI – How to delete your account</a></td></tr>
 <tr><td><a href='https://twitter.com/sama/status/2027578652477821175'>OpenAI agrees with Dept. of War to deploy models in their classified network</a></td></tr>
-<tr><td><a href='https://computer.rip/2026-02-27-ibm-atm.html'>Cash issuing terminals</a></td></tr>
+<tr><td><a href='https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/'>A new California law says all operating systems need to have age verification</a></td></tr>
 </table>
 <!-- END:news -->
 
