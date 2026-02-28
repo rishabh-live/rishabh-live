@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://help.openai.com/en/articles/6378407-how-to-delete-your-account'>OpenAI – How to delete your account</a></td></tr>
 <tr><td><a href='https://nanoclaw.dev/blog/nanoclaw-security-model'>Don&#x27;t trust AI agents</a></td></tr>
-<tr><td><a href='https://lucijagregov.com/2026/02/26/the-future-of-ai/'>The Future of AI</a></td></tr>
+<tr><td><a href='https://github.com/nocodemf/werld'>Show HN: Decided to play god this morning, so I built an agent civilisation</a></td></tr>
 <tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
-<tr><td><a href='https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs'>Unsloth Dynamic 2.0 GGUFs</a></td></tr>
+<tr><td><a href='https://nowigetit.us'>Show HN: Now I Get It – Translate scientific papers into interactive webpages</a></td></tr>
 </table>
 <!-- END:news -->
 
