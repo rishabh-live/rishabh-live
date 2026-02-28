@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.vonng.com/en/db/minio-resurrect/'>MinIO Is Dead, Long Live MinIO</a></td></tr>
 <tr><td><a href='https://help.obsidian.md/sync/headless'>Obsidian Sync now has a headless client</a></td></tr>
 <tr><td><a href='https://ben-mini.com/2026/the-happiest-ive-ever-been'>The happiest I&#x27;ve ever been</a></td></tr>
-<tr><td><a href='https://blog.vonng.com/en/db/minio-resurrect/'>MinIO Is Dead, Long Live MinIO</a></td></tr>
-<tr><td><a href='https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00'>Verified Spec-Driven Development (VSDD)</a></td></tr>
-<tr><td><a href='https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/'>Block the &quot;Upgrade to Tahoe&quot; Alerts</a></td></tr>
+<tr><td><a href='https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition'>Building a Minimal Transformer for 10-digit Addition</a></td></tr>
+<tr><td><a href='https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed'>Iran&#x27;s Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule</a></td></tr>
 </table>
 <!-- END:news -->
 
