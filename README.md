@@ -24,7 +24,7 @@
 <tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/statement-comments-secretary-war'>Statement on the comments from Secretary of War Pete Hegseth</a></td></tr>
 <tr><td><a href='https://blog.timcappalli.me/p/passkeys-prf-warning/'>Don&#x27;t use passkeys for encrypting user data</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/'>OpenAI raises $110B on $730B pre-money valuation</a></td></tr>
+<tr><td><a href='https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533'>Croatia declared free of landmines after 31 years</a></td></tr>
 <tr><td><a href='https://github.com/anadim/AdderBoard'>Smallest transformer that can add two 10-digit numbers</a></td></tr>
 </table>
 <!-- END:news -->
