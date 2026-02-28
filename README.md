@@ -25,7 +25,7 @@
 <tr><td><a href='https://ben-mini.com/2026/the-happiest-ive-ever-been'>The happiest I&#x27;ve ever been</a></td></tr>
 <tr><td><a href='https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00'>Verified Spec-Driven Development (VSDD)</a></td></tr>
 <tr><td><a href='https://github.com/google-gemini/gemini-cli/discussions/20632'>Addressing Antigravity Bans and Reinstating Access</a></td></tr>
-<tr><td><a href='https://github.com/ad-si/Woxi'>Woxi: Wolfram Mathematica Reimplementation in Rust</a></td></tr>
+<tr><td><a href='https://www.thenation.com/article/culture/werner-herzog-future-truth/'>Werner Herzog Between Fact and Fiction</a></td></tr>
 </table>
 <!-- END:news -->
 
