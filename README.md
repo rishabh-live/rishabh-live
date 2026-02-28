@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://help.openai.com/en/articles/6378407-how-to-delete-your-account'>OpenAI – How to delete your account</a></td></tr>
-<tr><td><a href='https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs'>Unsloth Dynamic 2.0 GGUFs</a></td></tr>
 <tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
-<tr><td><a href='https://twitter.com/sama/status/2027578652477821175'>OpenAI agrees with Dept. of War to deploy models in their classified network</a></td></tr>
-<tr><td><a href='https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/'>A new California law says all operating systems need to have age verification</a></td></tr>
+<tr><td><a href='https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs'>Unsloth Dynamic 2.0 GGUFs</a></td></tr>
+<tr><td><a href='https://lucijagregov.com/2026/02/26/the-future-of-ai/'>The Future of AI</a></td></tr>
+<tr><td><a href='https://github.com/junevm/splathash'>Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash</a></td></tr>
 </table>
 <!-- END:news -->
 
