@@ -24,8 +24,8 @@
 <tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
 <tr><td><a href='https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533'>Croatia declared free of landmines after 31 years</a></td></tr>
 <tr><td><a href='https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs'>Unsloth Dynamic 2.0 GGUFs</a></td></tr>
-<tr><td><a href='https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk'>Israel launches strike against Iran, declares state of emergency across country</a></td></tr>
 <tr><td><a href='https://twitter.com/sama/status/2027578652477821175'>OpenAI agrees with Dept. of War to deploy models in their classified network</a></td></tr>
+<tr><td><a href='https://computer.rip/2026-02-27-ibm-atm.html'>Cash issuing terminals</a></td></tr>
 </table>
 <!-- END:news -->
 
