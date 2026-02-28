@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/'>Cognitive Debt: When Velocity Exceeds Comprehension</a></td></tr>
+<tr><td><a href='https://help.obsidian.md/sync/headless'>Obsidian Sync now has a headless client</a></td></tr>
 <tr><td><a href='https://github.com/ad-si/Woxi'>Woxi: Wolfram Mathematica Reimplementation in Rust</a></td></tr>
-<tr><td><a href='https://nowigetit.us'>Show HN: Now I Get It – Translate scientific papers into interactive webpages</a></td></tr>
 <tr><td><a href='https://github.com/google-gemini/gemini-cli/discussions/20632'>Addressing Antigravity Bans and Reinstating Access</a></td></tr>
 <tr><td><a href='https://notdivided.org'>We Will Not Be Divided</a></td></tr>
 </table>
