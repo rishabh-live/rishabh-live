@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.anthropic.com/news/statement-comments-secretary-war'>Statement on the comments from Secretary of War Pete Hegseth</a></td></tr>
 <tr><td><a href='https://blog.timcappalli.me/p/passkeys-prf-warning/'>Don&#x27;t use passkeys for encrypting user data</a></td></tr>
 <tr><td><a href='https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533'>Croatia declared free of landmines after 31 years</a></td></tr>
-<tr><td><a href='https://github.com/anadim/AdderBoard'>Smallest transformer that can add two 10-digit numbers</a></td></tr>
+<tr><td><a href='https://twitter.com/sama/status/2027578652477821175'>OpenAI agrees with Dept. of War to deploy models in their classified network</a></td></tr>
 </table>
 <!-- END:news -->
 
