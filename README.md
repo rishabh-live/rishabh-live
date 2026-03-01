@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ghostty.org/docs'>Ghostty – Terminal Emulator</a></td></tr>
-<tr><td><a href='https://rsaksida.com/blog/ape-coding/'>Ape Coding</a></td></tr>
-<tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
 <tr><td><a href='https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/'>AI Made Writing Code Easier. It Made Being an Engineer Harder</a></td></tr>
-<tr><td><a href='https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/'>Setting up phones is a nightmare</a></td></tr>
+<tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
+<tr><td><a href='https://glthr.com/XML-fundamental-to-Claude'>Why XML Tags Are So Fundamental to Claude</a></td></tr>
+<tr><td><a href='https://jacquesmattheij.com/long-range-ebike/'>Long Range E-Bike</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
