@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://ghostty.org/docs'>Ghostty – Terminal Emulator</a></td></tr>
 <tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
+<tr><td><a href='https://health.aws.amazon.com/health/status'>AWS Middle East Central Down, apparently struck in war</a></td></tr>
 <tr><td><a href='https://glthr.com/XML-fundamental-to-Claude'>Why XML Tags Are So Fundamental to Claude</a></td></tr>
-<tr><td><a href='https://mlu-explain.github.io/decision-tree/'>Decision trees – the unreasonable power of nested decision rules</a></td></tr>
-<tr><td><a href='https://smallcultfollowing.com/babysteps/blog/2026/02/27/dada-internal-references/'>How Dada Enables Internal References</a></td></tr>
+<tr><td><a href='https://twitter.com/cabsav456/status/2027937130995921119'>A new Polymarket account made over $500k betting on the U.S. strike against Iran</a></td></tr>
 </table>
 <!-- END:news -->
 
