@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should'>How to talk to anyone, and why you should</a></td></tr>
 <tr><td><a href='https://ghostty.org/docs'>Ghostty – Terminal Emulator</a></td></tr>
 <tr><td><a href='https://growingswe.com/blog/microgpt'>Microgpt explained interactively</a></td></tr>
+<tr><td><a href='https://maurycyz.com/misc/c_files/'>Why does C have the best file API</a></td></tr>
 <tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
-<tr><td><a href='https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html'>When does MCP make sense vs CLI?</a></td></tr>
 </table>
 <!-- END:news -->
 
