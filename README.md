@@ -25,7 +25,7 @@
 <tr><td><a href='https://mlu-explain.github.io/decision-tree/'>Decision trees – the unreasonable power of nested decision rules</a></td></tr>
 <tr><td><a href='https://modernaicourse.org'>10-202: Introduction to Modern AI (CMU)</a></td></tr>
 <tr><td><a href='https://twitter.com/OpenAI/status/2027846016423321831'>We do not think Anthropic should be designated as a supply chain risk</a></td></tr>
-<tr><td><a href='https://claude.com/import-memory'>Switch to Claude without starting over</a></td></tr>
+<tr><td><a href='https://hannahilea.com/blog/houseplant-programming/'>An ode to houseplant programming (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
