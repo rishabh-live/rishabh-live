@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
 <tr><td><a href='https://claude.com/import-memory'>Switch to Claude Without Starting Over</a></td></tr>
+<tr><td><a href='https://modernaicourse.org'>10-202: Introduction to Modern AI (CMU)</a></td></tr>
 <tr><td><a href='https://twitter.com/OpenAI/status/2027846016423321831'>We do not think Anthropic should be designated as a supply chain risk</a></td></tr>
 <tr><td><a href='https://dl.acm.org/doi/fullHtml/10.1145/238386.238611'>The Windows 95 user interface: A case study in usability engineering (1996)</a></td></tr>
-<tr><td><a href='https://modernaicourse.org'>10-202: Introduction to Modern AI (CMU)</a></td></tr>
 </table>
 <!-- END:news -->
 
