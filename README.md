@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/'>AI Made Writing Code Easier. It Made Being an Engineer Harder</a></td></tr>
 <tr><td><a href='https://ghostty.org/docs'>Ghostty – Terminal Emulator</a></td></tr>
+<tr><td><a href='https://rsaksida.com/blog/ape-coding/'>Ape Coding</a></td></tr>
+<tr><td><a href='https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/'>AI Made Writing Code Easier. It Made Being an Engineer Harder</a></td></tr>
 <tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
 <tr><td><a href='https://99helpers.com/tools/ad-supported-chat'>I built a demo of what AI chat will look like when it&#x27;s &quot;free&quot; and ad-supported</a></td></tr>
-<tr><td><a href='https://rsaksida.com/blog/ape-coding/'>Ape Coding</a></td></tr>
 </table>
 <!-- END:news -->
 
