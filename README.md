@@ -25,7 +25,7 @@
 <tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
 <tr><td><a href='https://glthr.com/XML-fundamental-to-Claude'>Why XML Tags Are So Fundamental to Claude</a></td></tr>
 <tr><td><a href='https://mlu-explain.github.io/decision-tree/'>Decision trees – the unreasonable power of nested decision rules</a></td></tr>
-<tr><td><a href='https://99helpers.com/tools/ad-supported-chat'>I built a demo of what AI chat will look like when it&#x27;s &quot;free&quot; and ad-supported</a></td></tr>
+<tr><td><a href='https://smallcultfollowing.com/babysteps/blog/2026/02/27/dada-internal-references/'>How Dada Enables Internal References</a></td></tr>
 </table>
 <!-- END:news -->
 
