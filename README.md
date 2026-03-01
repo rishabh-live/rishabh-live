@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ghostty.org/docs'>Ghostty – Terminal Emulator</a></td></tr>
+<tr><td><a href='https://growingswe.com/blog/microgpt'>Microgpt explained interactively</a></td></tr>
 <tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
-<tr><td><a href='https://health.aws.amazon.com/health/status'>AWS Middle East Central Down, apparently struck in war</a></td></tr>
-<tr><td><a href='https://glthr.com/XML-fundamental-to-Claude'>Why XML Tags Are So Fundamental to Claude</a></td></tr>
-<tr><td><a href='https://twitter.com/cabsav456/status/2027937130995921119'>A new Polymarket account made over $500k betting on the U.S. strike against Iran</a></td></tr>
+<tr><td><a href='https://health.aws.amazon.com/health/status'>Operational issue – Multiple services (UAE)</a></td></tr>
+<tr><td><a href='https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html'>When does MCP make sense vs CLI?</a></td></tr>
 </table>
 <!-- END:news -->
 
