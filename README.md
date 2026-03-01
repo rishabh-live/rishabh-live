@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='http://karpathy.github.io/2026/02/12/microgpt/'>Microgpt</a></td></tr>
 <tr><td><a href='https://mlu-explain.github.io/decision-tree/'>Decision trees – the unreasonable power of nested decision rules</a></td></tr>
+<tr><td><a href='https://twitter.com/OpenAI/status/2027846016423321831'>We do not think Anthropic should be designated as a supply chain risk</a></td></tr>
 <tr><td><a href='https://modernaicourse.org'>10-202: Introduction to Modern AI (CMU)</a></td></tr>
 <tr><td><a href='https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/'>Why is the first C++ (m)allocation always 72 KB?</a></td></tr>
-<tr><td><a href='https://twitter.com/OpenAI/status/2027846016423321831'>We do not think Anthropic should be designated as a supply chain risk</a></td></tr>
 </table>
 <!-- END:news -->
 
