@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://take.surf/2026/03/01/welcome-back-to-macintosh'>Welcome (back) to Macintosh</a></td></tr>
-<tr><td><a href='https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/'>Motorola announces a partnership with GrapheneOS</a></td></tr>
+<tr><td><a href='https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything'>The workers behind Meta&#x27;s smart glasses can see everything</a></td></tr>
+<tr><td><a href='https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657'>British Columbia to end time changes, adopt year-round daylight time</a></td></tr>
 <tr><td><a href='https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02'>First in-utero stem cell therapy for fetal spina bifida repair is safe: study</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/'>New iPad Air, powered by M4</a></td></tr>
-<tr><td><a href='https://govbase.com'>Show HN: Govbase – Follow a bill from source text to news bias to social posts</a></td></tr>
 </table>
 <!-- END:news -->
 
