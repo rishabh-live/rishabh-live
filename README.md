@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/'>Motorola announces a partnership with GrapheneOS Foundation</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47219668'>Ask HN: Who is hiring? (March 2026)</a></td></tr>
-<tr><td><a href='https://e.foundation/e-os/'>&#x2F;e&#x2F;OS is a complete &quot;deGoogled&quot;, mobile ecosystem</a></td></tr>
 <tr><td><a href='https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02'>First-ever in-utero stem cell therapy for fetal spina bifida repair is safe</a></td></tr>
+<tr><td><a href='https://e.foundation/e-os/'>&#x2F;e&#x2F;OS is a complete, fully “deGoogled” mobile ecosystem</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47220320'>Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming</a></td></tr>
 </table>
 <!-- END:news -->
