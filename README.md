@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/'>Motorola announces a partnership with GrapheneOS Foundation</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/22543'>Anthropic Cowork feature creates 10GB VM bundle on macOS without warning</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/'>Apple introduces the new iPad Air, powered by M4</a></td></tr>
 <tr><td><a href='https://e.foundation/e-os/'>&#x2F;e&#x2F;OS is a complete &quot;deGoogled&quot;, mobile ecosystem</a></td></tr>
-<tr><td><a href='https://dfarq.homeip.net/amd-am386-released-march-2-1991/'>AMD Am386 released March 2, 1991</a></td></tr>
-<tr><td><a href='https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software'>OpenClaw Surpasses React to Become the Most-Starred Software Project on GitHub</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs'>U.S. science agency moves to restrict foreign scientists from its labs</a></td></tr>
+<tr><td><a href='https://carlossless.io/stm32-rdp1-decryptor/'>An Interesting Find: STM32 RDP1 Decryptor</a></td></tr>
 </table>
 <!-- END:news -->
 
