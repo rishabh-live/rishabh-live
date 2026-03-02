@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://developer.chrome.com/blog/webmcp-epp'>WebMCP is available for early preview</a></td></tr>
 <tr><td><a href='https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should'>How to talk to anyone, and why you should</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/'>Are the Mysteries of Quantum Mechanics Beginning to Dissolve?</a></td></tr>
-<tr><td><a href='https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/big-breakfast-diet-composition-impacts-on-appetite-control-and-gut-health-a-randomized-weight-loss-trial-in-adults-with-overweight-or-obesity/69D4E150EAE7D9632D33904D7A4AE5FA'>Big Breakfast Alters Appetite, Gut Health</a></td></tr>
+<tr><td><a href='https://tovejansson.com/hobbit-tolkien/'>Tove Jansson&#x27;s criticized illustrations of The Hobbit</a></td></tr>
 <tr><td><a href='https://ghostty.org/docs'>Ghostty – Terminal Emulator</a></td></tr>
+<tr><td><a href='https://littlefreelibrary.org/'>Little Free Library Books</a></td></tr>
 </table>
 <!-- END:news -->
 
