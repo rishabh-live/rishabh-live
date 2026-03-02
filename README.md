@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://developer.chrome.com/blog/webmcp-epp'>WebMCP is available for early preview</a></td></tr>
+<tr><td><a href='https://www.wltx.com/article/news/nation-world/everett-shuts-down-flock-cameras-judge-rules-footage-public-record'>Everett shuts down Flock camera network after judge rules footage public record</a></td></tr>
 <tr><td><a href='https://github.com/kossisoroyce/timber'>Show HN: Timber – Ollama for classical ML models, 336x faster than Python</a></td></tr>
+<tr><td><a href='https://www.commodoregames.net/copyprotection/'>C64 Copy Protection</a></td></tr>
 <tr><td><a href='https://github.com/mandel-macaque/memento'>If AI writes code, should the session be part of the commit?</a></td></tr>
-<tr><td><a href='https://ghostty.org/docs'>Ghostty – Terminal Emulator</a></td></tr>
-<tr><td><a href='https://tovejansson.com/hobbit-tolkien/'>Tove Jansson&#x27;s criticized illustrations of The Hobbit</a></td></tr>
 </table>
 <!-- END:news -->
 
