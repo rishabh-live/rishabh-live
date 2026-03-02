@@ -24,8 +24,8 @@
 <tr><td><a href='https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/'>Motorola announces a partnership with GrapheneOS Foundation</a></td></tr>
 <tr><td><a href='https://e.foundation/e-os/'>&#x2F;e&#x2F;OS is a complete &quot;deGoogled&quot;, mobile ecosystem</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs'>U.S. science agency moves to restrict foreign scientists from its labs</a></td></tr>
+<tr><td><a href='http://microslop.com/'>Microslop Manifesto</a></td></tr>
 <tr><td><a href='https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should'>How to talk to anyone and why you should</a></td></tr>
-<tr><td><a href='https://www.noelberry.ca/posts/making_games_in_2025/'>Making Video Games in 2025 (without an engine)</a></td></tr>
 </table>
 <!-- END:news -->
 
