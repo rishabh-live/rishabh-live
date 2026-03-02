@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/'>Motorola announces a partnership with GrapheneOS Foundation</a></td></tr>
 <tr><td><a href='https://e.foundation/e-os/'>&#x2F;e&#x2F;OS is a complete &quot;deGoogled&quot;, mobile ecosystem</a></td></tr>
+<tr><td><a href='https://dfarq.homeip.net/amd-am386-released-march-2-1991/'>AMD Am386 released March 2, 1991</a></td></tr>
+<tr><td><a href='https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software'>OpenClaw Surpasses React to Become the Most-Starred Software Project on GitHub</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs'>U.S. science agency moves to restrict foreign scientists from its labs</a></td></tr>
-<tr><td><a href='http://microslop.com/'>Microslop Manifesto</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should'>How to talk to anyone and why you should</a></td></tr>
 </table>
 <!-- END:news -->
 
