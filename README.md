@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://getbruin.com/blog/go-is-the-best-language-for-agents/'>Go is the best language for agents</a></td></tr>
 <tr><td><a href='https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/'>Motorola announces a partnership with GrapheneOS Foundation</a></td></tr>
 <tr><td><a href='https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02'>First-ever in-utero stem cell therapy for fetal spina bifida repair is safe</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/'>New iPad Air, powered by M4</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c05v0p1d0peo'>Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal</a></td></tr>
 <tr><td><a href='https://govbase.com'>Show HN: Govbase – Follow a bill from source text to news bias to social posts</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/'>New iPad Air, powered by M4</a></td></tr>
 </table>
 <!-- END:news -->
 
