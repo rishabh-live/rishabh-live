@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.noelberry.ca/posts/making_games_in_2025/'>Making Video Games in 2025 (without an engine)</a></td></tr>
 <tr><td><a href='https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/'>Computer-generated dream world: Virtual reality for a 286 processor</a></td></tr>
 <tr><td><a href='https://github.com/mandel-macaque/memento'>If AI writes code, should the session be part of the commit?</a></td></tr>
-<tr><td><a href='https://developer.chrome.com/blog/webmcp-epp'>WebMCP is available for early preview</a></td></tr>
+<tr><td><a href='https://github.com/getomnico/omni'>Show HN: Omni – Open-source workplace search and chat, built on Postgres</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
