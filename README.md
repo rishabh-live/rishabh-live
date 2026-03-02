@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/'>Motorola announces a partnership with GrapheneOS Foundation</a></td></tr>
 <tr><td><a href='https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/'>Computer-generated dream world: Virtual reality for a 286 processor</a></td></tr>
 <tr><td><a href='https://github.com/mandel-macaque/memento'>If AI writes code, should the session be part of the commit?</a></td></tr>
 <tr><td><a href='https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts'>Evolving descriptive text of mental content from human brain activity</a></td></tr>
 <tr><td><a href='https://developer.chrome.com/blog/webmcp-epp'>WebMCP is available for early preview</a></td></tr>
-<tr><td><a href='https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae'>Everett shuts down Flock camera network after judge rules footage public record</a></td></tr>
 </table>
 <!-- END:news -->
 
