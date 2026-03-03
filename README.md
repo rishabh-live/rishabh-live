@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/'>Apple Introduces MacBook Pro with All‑New M5 Pro and M5 Max</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c178zzw780xo'>India&#x27;s top court angry after junior judge cites fake AI-generated orders</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/'>Apple unveils new Studio Display and all-new Studio Display XDR</a></td></tr>
 <tr><td><a href='https://editor.p5js.org/isohedral/full/vJa5RiZWs'>The Xkcd thing, now interactive</a></td></tr>
-<tr><td><a href='https://twitter.com/Gavriel_Cohen/status/2028821432759717930'>I&#x27;m losing the SEO battle for my own open source project</a></td></tr>
 <tr><td><a href='https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything'>Meta’s AI smart glasses and data privacy concerns</a></td></tr>
 </table>
 <!-- END:news -->
