@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/'>I&#x27;m reluctant to verify my identity or age for any online services</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c178zzw780xo'>India&#x27;s top court angry after junior judge cites fake AI-generated orders</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=B3m3AMRlYfc'>My first science video in 3 years (Pysics Girl)</a></td></tr>
 <tr><td><a href='https://editor.p5js.org/isohedral/full/vJa5RiZWs'>The Xkcd thing, now interactive</a></td></tr>
-<tr><td><a href='https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything'>Meta’s AI smart glasses and data privacy concerns</a></td></tr>
 <tr><td><a href='https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf'>Claude&#x27;s Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
