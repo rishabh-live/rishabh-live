@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/'>I&#x27;m reluctant to verify my identity or age for any online services</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=B3m3AMRlYfc'>Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]</a></td></tr>
-<tr><td><a href='https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports'>Pass-Through of Tariffs: Evidence from European Wine Imports</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/'>MacBook Air with M5</a></td></tr>
 <tr><td><a href='https://newsletter.manager.dev/p/dont-become-an-engineering-manager'>Don&#x27;t become an engineering manager</a></td></tr>
+<tr><td><a href='https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf'>Claude&#x27;s Cycles [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
