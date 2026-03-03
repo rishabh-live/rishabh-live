@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech'>Intel&#x27;s make-or-break 18A process node debuts for data center with 288-core Xeon</a></td></tr>
+<tr><td><a href='https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/'>Don&#x27;t Make Me Talk to Your Chatbot</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/'>MacBook Pro with new M5 Pro and M5 Max</a></td></tr>
+<tr><td><a href='https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech'>Intel&#x27;s make-or-break 18A process node debuts for data center with 288-core Xeon</a></td></tr>
 <tr><td><a href='https://openai.com/index/gpt-5-3-instant/'>GPT‑5.3 Instant</a></td></tr>
-<tr><td><a href='https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf'>Claude&#x27;s Cycles [pdf]</a></td></tr>
-<tr><td><a href='https://jakelazaroff.com/words/an-interactive-intro-to-crdts/'>An Interactive Intro to CRDTs (2023)</a></td></tr>
+<tr><td><a href='https://orbitalquark.github.io/textadept/'>Textadept</a></td></tr>
 </table>
 <!-- END:news -->
 
