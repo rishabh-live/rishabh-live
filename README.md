@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything'>The workers behind Meta&#x27;s smart glasses can see everything</a></td></tr>
-<tr><td><a href='https://take.surf/2026/03/01/welcome-back-to-macintosh'>Welcome (back) to Macintosh</a></td></tr>
 <tr><td><a href='https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf'>Seed of Might Color Correction Process (2023) [pdf]</a></td></tr>
-<tr><td><a href='https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/'>Closure of the Weatherradio Service in Canada</a></td></tr>
+<tr><td><a href='https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/'>Closure of the Weatheradio Service in Canada</a></td></tr>
+<tr><td><a href='https://take.surf/2026/03/01/welcome-back-to-macintosh'>Welcome (back) to Macintosh</a></td></tr>
 <tr><td><a href='https://www.ntik.me/posts/voice-agent'>Show HN: I built a sub-500ms latency voice agent from scratch</a></td></tr>
 </table>
 <!-- END:news -->
