@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything'>Meta’s AI smart glasses and data privacy concerns</a></td></tr>
 <tr><td><a href='https://windowsread.me/p/windhawk-explained'>The beauty and terror of modding Windows</a></td></tr>
+<tr><td><a href='https://editor.p5js.org/isohedral/full/vJa5RiZWs'>The Xkcd thing, now interactive</a></td></tr>
 <tr><td><a href='https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop'>Arm&#x27;s Cortex X925: Reaching Desktop Performance</a></td></tr>
 <tr><td><a href='https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657'>British Columbia is permanently adopting daylight time</a></td></tr>
-<tr><td><a href='https://editor.p5js.org/isohedral/full/vJa5RiZWs'>The Xkcd thing, now interactive</a></td></tr>
 </table>
 <!-- END:news -->
 
