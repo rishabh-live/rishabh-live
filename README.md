@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything'>The workers behind Meta’s smart glasses can see everything</a></td></tr>
+<tr><td><a href='https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything'>A hidden workforce behind Meta’s new smart glasses</a></td></tr>
+<tr><td><a href='https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657'>British Columbia is permanently adopting daylight time</a></td></tr>
+<tr><td><a href='https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes'>Ars Technica fires reporter after AI controversy involving fabricated quotes</a></td></tr>
 <tr><td><a href='https://www.ntik.me/posts/voice-agent'>Show HN: I built a sub-500ms latency voice agent from scratch</a></td></tr>
-<tr><td><a href='https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/'>Closure of the Weatheradio Service in Canada</a></td></tr>
-<tr><td><a href='https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf'>Seed of Might Color Correction Process (2023) [pdf]</a></td></tr>
-<tr><td><a href='https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/'>Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?</a></td></tr>
+<tr><td><a href='https://status.claude.com/incidents/yf48hzysrvl5'>Elevated Errors in Claude.ai</a></td></tr>
 </table>
 <!-- END:news -->
 
