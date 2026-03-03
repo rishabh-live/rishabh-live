@@ -25,7 +25,7 @@
 <tr><td><a href='https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop'>Arm&#x27;s Cortex X925: Reaching Desktop Performance</a></td></tr>
 <tr><td><a href='https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657'>British Columbia is permanently adopting daylight time</a></td></tr>
 <tr><td><a href='https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes'>Ars Technica fires reporter after AI controversy involving fabricated quotes</a></td></tr>
-<tr><td><a href='https://mitxela.com/projects/screwcounter'>Simple screw counter</a></td></tr>
+<tr><td><a href='https://blog.replit.com/browsers-dont-want-to-be-cameras'>We Built a Video Rendering Engine by Lying to the Browser About What Time It Is</a></td></tr>
 </table>
 <!-- END:news -->
 
