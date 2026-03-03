@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/'>I&#x27;m reluctant to verify my identity or age for any online services</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech'>Intel&#x27;s make-or-break 18A process node debuts for data center with 288-core Xeon</a></td></tr>
-<tr><td><a href='https://www.githubstatus.com/incidents/n07yy1bk6kc4'>GitHub Is Having Issues</a></td></tr>
+<tr><td><a href='https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/'>I&#x27;m reluctant to verify my identity or age for any online services</a></td></tr>
 <tr><td><a href='https://openai.com/index/gpt-5-3-instant/'>GPT‑5.3 Instant</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/'>MacBook Pro with new M5 Pro and M5 Max</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=B3m3AMRlYfc'>Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
