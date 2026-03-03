@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything'>Meta’s AI smart glasses and data privacy concerns</a></td></tr>
 <tr><td><a href='https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657'>British Columbia is permanently adopting daylight time</a></td></tr>
 <tr><td><a href='https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes'>Ars Technica fires reporter after AI controversy involving fabricated quotes</a></td></tr>
+<tr><td><a href='https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/'>Daily Driving GrapheneOS</a></td></tr>
 <tr><td><a href='https://mitxela.com/projects/screwcounter'>Simple screw counter</a></td></tr>
-<tr><td><a href='https://www.ntik.me/posts/voice-agent'>Show HN: I built a sub-500ms latency voice agent from scratch</a></td></tr>
 </table>
 <!-- END:news -->
 
