@@ -24,8 +24,8 @@
 <tr><td><a href='https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/'>Nobody Gets Promoted for Simplicity</a></td></tr>
 <tr><td><a href='https://www.glazeapp.com/'>Glaze by Raycast</a></td></tr>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116160393783585567'>Motorola GrapheneOS devices will be bootloader unlockable&#x2F;relockable</a></td></tr>
-<tr><td><a href='https://www.rfc-editor.org/rfc/rfc9849.html'>RFC 9849. TLS Encrypted Client Hello</a></td></tr>
-<tr><td><a href='https://simonwillison.net/guides/agentic-engineering-patterns/'>Agentic Engineering Patterns</a></td></tr>
+<tr><td><a href='https://www.apple.com/macbook-neo/'>MacBook Neo</a></td></tr>
+<tr><td><a href='https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html'>Chimpanzees Are into Crystals</a></td></tr>
 </table>
 <!-- END:news -->
 
