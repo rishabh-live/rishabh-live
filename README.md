@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116160393783585567'>Motorola GrapheneOS devices will be bootloader unlockable&#x2F;relockable</a></td></tr>
-<tr><td><a href='https://runxiyu.org/comp/ab1043/'>California&#x27;s Digital Age Assurance Act, and FOSS</a></td></tr>
 <tr><td><a href='https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/'>Nobody Gets Promoted for Simplicity</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cly2m5e5ke4o'>TikTok will not introduce end-to-end encryption, saying it makes users less safe</a></td></tr>
 <tr><td><a href='https://develop--gpvm-website.netlify.app/resources/'>Graphics Programming Resources</a></td></tr>
+<tr><td><a href='https://github.com/Ataraxy-Labs/weave'>Weave – A language aware merge algorithm based on entities</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
