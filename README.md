@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116160393783585567'>Motorola GrapheneOS devices will be bootloader unlockable&#x2F;relockable</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/'>MacBook Pro with M5 Pro and M5 Max</a></td></tr>
-<tr><td><a href='https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now'>The largest acidic geyser has been putting on quite a show</a></td></tr>
-<tr><td><a href='https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability'>Lenovo&#x27;s New ThinkPads Score 10&#x2F;10 for Repairability</a></td></tr>
-<tr><td><a href='https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/'>You can use newline characters in URLs</a></td></tr>
+<tr><td><a href='https://develop--gpvm-website.netlify.app/resources/'>Graphics Programming Resources</a></td></tr>
+<tr><td><a href='https://runxiyu.org/comp/ab1043/'>California&#x27;s Digital Age Assurance Act, and FOSS</a></td></tr>
+<tr><td><a href='https://github.com/Ataraxy-Labs/weave'>Weave – A language aware merge algorithm based on entities</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2603.03251'>Speculative Speculative Decoding (SSD)</a></td></tr>
 </table>
 <!-- END:news -->
 
