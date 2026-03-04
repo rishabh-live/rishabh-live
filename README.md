@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/'>Nobody Gets Promoted for Simplicity</a></td></tr>
-<tr><td><a href='https://www.experimental-history.com/p/the-one-science-reform-we-can-all'>The one science reform we can all agree on, but we&#x27;re too cowardly to do</a></td></tr>
-<tr><td><a href='https://jsomers.net/blog/it-turns-out'>&quot;It Turns Out&quot;</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Mar/4/qwen/'>Something is afoot in the land of Qwen</a></td></tr>
+<tr><td><a href='https://jsomers.net/blog/it-turns-out'>&quot;It Turns Out&quot;</a></td></tr>
 <tr><td><a href='https://www.glazeapp.com/'>Glaze by Raycast</a></td></tr>
+<tr><td><a href='https://grapheneos.social/@GrapheneOS/116160393783585567'>Motorola GrapheneOS devices will be bootloader unlockable&#x2F;relockable</a></td></tr>
 </table>
 <!-- END:news -->
 
