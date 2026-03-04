@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://grapheneos.social/@GrapheneOS/116160393783585567'>Motorola GrapheneOS devices will be bootloader unlockable&#x2F;relockable</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/'>MacBook Pro with M5 Pro and M5 Max</a></td></tr>
-<tr><td><a href='https://github.com/davegoldblatt/marcus-claims-dataset'>2,218 Gary Marcus AI claims scored against evidence (dataset)</a></td></tr>
+<tr><td><a href='https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now'>The largest acidic geyser has been putting on quite a show</a></td></tr>
 <tr><td><a href='https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability'>Lenovo&#x27;s New ThinkPads Score 10&#x2F;10 for Repairability</a></td></tr>
-<tr><td><a href='https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf'>Claude&#x27;s Cycles [pdf]</a></td></tr>
-<tr><td><a href='https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update'>Voxile: A ray-traced game made in its own engine and programming language</a></td></tr>
+<tr><td><a href='https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/'>You can use newline characters in URLs</a></td></tr>
 </table>
 <!-- END:news -->
 
