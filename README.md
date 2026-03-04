@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://deflock.org/map#map=5/37.125286/-96.284180'>An interactive map of FLock Cams</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/czx44p99457o'>Father claims Google&#x27;s AI product fuelled son&#x27;s delusional spiral</a></td></tr>
 <tr><td><a href='https://joshua.hu/firefox-making-right-click-not-suck'>Making Firefox&#x27;s right-click not suck with about:config</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Mar/4/qwen/'>Something is afoot in the land of Qwen</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/czx44p99457o'>Father claims Google&#x27;s AI product fuelled son&#x27;s delusional spiral</a></td></tr>
 </table>
 <!-- END:news -->
 
