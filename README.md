@@ -25,7 +25,7 @@
 <tr><td><a href='https://joshua.hu/firefox-making-right-click-not-suck'>Making Firefox&#x27;s right-click not suck with about:config</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Mar/4/qwen/'>Something is afoot in the land of Qwen</a></td></tr>
 <tr><td><a href='https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/'>Nobody Gets Promoted for Simplicity</a></td></tr>
-<tr><td><a href='https://jsomers.net/blog/it-turns-out'>“It turns out” (2010)</a></td></tr>
+<tr><td><a href='https://deflock.org/map#map=5/37.125286/-96.284180'>An interactive map of FLock Cams</a></td></tr>
 </table>
 <!-- END:news -->
 
