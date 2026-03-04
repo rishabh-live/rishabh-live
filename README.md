@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://deflock.org/map#map=5/37.125286/-96.284180'>An interactive map of Flock Cams</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
-<tr><td><a href='https://bill.newgrounds.com/news/post/1607118'>Building a new flash</a></td></tr>
-<tr><td><a href='https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/'>Nobody Gets Promoted for Simplicity</a></td></tr>
+<tr><td><a href='https://bill.newgrounds.com/news/post/1607118'>Building a new Flash</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Mar/4/qwen/'>Something is afoot in the land of Qwen</a></td></tr>
 <tr><td><a href='https://hannahritchie.github.io/energy-use-comparisons/'>Does that use a lot of energy?</a></td></tr>
+<tr><td><a href='https://www.moss.town/'>Moss is a pixel canvas where every brush is a tiny program</a></td></tr>
 </table>
 <!-- END:news -->
 
