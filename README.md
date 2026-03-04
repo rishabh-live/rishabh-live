@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116160393783585567'>Motorola GrapheneOS devices will be bootloader unlockable&#x2F;relockable</a></td></tr>
-<tr><td><a href='https://bahn.bet'>Bet on German Train Delays</a></td></tr>
 <tr><td><a href='https://www.rfc-editor.org/rfc/rfc9849.html'>RFC 9849. TLS Encrypted Client Hello</a></td></tr>
 <tr><td><a href='https://simonwillison.net/guides/agentic-engineering-patterns/'>Agentic Engineering Patterns</a></td></tr>
+<tr><td><a href='https://bahn.bet'>Bet on German Train Delays</a></td></tr>
 <tr><td><a href='https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/'>RE#: how we built the fastest regex engine in F#</a></td></tr>
 </table>
 <!-- END:news -->
