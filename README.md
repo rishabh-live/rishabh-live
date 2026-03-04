@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
-<tr><td><a href='https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/'>You Bought Zuck&#x27;s Ray-Bans. Now Someone in Nairobi Is Watching You Poop</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Mar/4/qwen/'>Something is afoot in the land of Qwen</a></td></tr>
 <tr><td><a href='https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/'>Nobody Gets Promoted for Simplicity</a></td></tr>
 <tr><td><a href='https://jsomers.net/blog/it-turns-out'>“It turns out” (2010)</a></td></tr>
+<tr><td><a href='https://www.glazeapp.com/'>Glaze by Raycast</a></td></tr>
 </table>
 <!-- END:news -->
 
