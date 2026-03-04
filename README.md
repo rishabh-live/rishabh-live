@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116160393783585567'>Motorola GrapheneOS devices will be bootloader unlockable&#x2F;relockable</a></td></tr>
+<tr><td><a href='https://www.rfc-editor.org/rfc/rfc9849.html'>RFC 9849. TLS Encrypted Client Hello</a></td></tr>
 <tr><td><a href='https://github.com/vladich/pg_jitter'>Better JIT for Postgres</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cly2m5e5ke4o'>TikTok will not introduce end-to-end encryption, saying it makes users less safe</a></td></tr>
 <tr><td><a href='https://simonwillison.net/guides/agentic-engineering-patterns/'>Agentic Engineering Patterns</a></td></tr>
-<tr><td><a href='https://develop--gpvm-website.netlify.app/resources/'>Graphics Programming Resources</a></td></tr>
 </table>
 <!-- END:news -->
 
