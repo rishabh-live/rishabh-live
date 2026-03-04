@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.rfc-editor.org/rfc/rfc9849.html'>RFC 9849. TLS Encrypted Client Hello</a></td></tr>
 <tr><td><a href='https://simonwillison.net/guides/agentic-engineering-patterns/'>Agentic Engineering Patterns</a></td></tr>
 <tr><td><a href='https://github.com/vladich/pg_jitter'>Better JIT for Postgres</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cly2m5e5ke4o'>TikTok will not introduce end-to-end encryption, saying it makes users less safe</a></td></tr>
+<tr><td><a href='https://github.com/robertcprice/nCPU'>A CPU that runs entirely on GPU</a></td></tr>
 </table>
 <!-- END:news -->
 
