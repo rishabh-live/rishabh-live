@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
 <tr><td><a href='https://acko.net/blog/the-l-in-llm-stands-for-lying/'>The L in &quot;LLM&quot; Stands for Lying</a></td></tr>
 <tr><td><a href='https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/'>Relicensing with AI-Assisted Rewrite</a></td></tr>
-<tr><td><a href='https://boxart.lt/blog/poor_mans_polaroid'>Poor Man&#x27;s Polaroid</a></td></tr>
+<tr><td><a href='https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite'>World-first gigabit laser link between aircraft and geostationary satellite</a></td></tr>
 </table>
 <!-- END:news -->
 
