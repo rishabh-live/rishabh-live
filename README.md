@@ -24,7 +24,7 @@
 <tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
 <tr><td><a href='https://dylan.gr/1772520728'>You Just Reveived</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
-<tr><td><a href='https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/'>You need to rewrite your CLI for AI agents</a></td></tr>
+<tr><td><a href='https://relaxng.org/'>Relax NG is a schema language for XML</a></td></tr>
 <tr><td><a href='https://bill.newgrounds.com/news/post/1607118'>Building a new Flash</a></td></tr>
 </table>
 <!-- END:news -->
