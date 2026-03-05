@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
 <tr><td><a href='https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/'>Relicensing with AI-Assisted Rewrite</a></td></tr>
 <tr><td><a href='https://acko.net/blog/the-l-in-llm-stands-for-lying/'>The L in &quot;LLM&quot; Stands for Lying</a></td></tr>
-<tr><td><a href='https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/'>Smalltalk&#x27;s Browser: Unbeatable, yet Not Enough</a></td></tr>
+<tr><td><a href='https://boxart.lt/blog/poor_mans_polaroid'>Poor Man&#x27;s Polaroid</a></td></tr>
 </table>
 <!-- END:news -->
 
