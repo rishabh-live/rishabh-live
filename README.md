@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c'>Judge Orders Government to Begin Refunding More Than $130B in Tariffs</a></td></tr>
-<tr><td><a href='https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23'>Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift</a></td></tr>
-<tr><td><a href='https://www.norn-labs.com/blog/huginn-report-feb-2026'>Google Safe Browsing missed 84% of phishing sites we found in February</a></td></tr>
-<tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-02-carbon-dioxide-human-blood.html'>Rising carbon dioxide levels now detected in human blood</a></td></tr>
+<tr><td><a href='https://www.wikimediastatus.net'>Wikipedia in read-only mode following mass admin account compromise</a></td></tr>
+<tr><td><a href='https://jido.run/blog/jido-2-0-is-here'>Show HN: Jido 2.0, Elixir Agent Framework</a></td></tr>
+<tr><td><a href='https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop'>Good software knows when to stop</a></td></tr>
+<tr><td><a href='https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another'>A GitHub Issue Title Compromised 4k Developer Machines</a></td></tr>
+<tr><td><a href='https://alibaba.github.io/page-agent/'>Show HN: PageAgent, A GUI agent that lives inside your web app</a></td></tr>
 </table>
 <!-- END:news -->
 
