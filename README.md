@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c'>Judge Orders Government to Begin Refunding More Than $130B in Tariffs</a></td></tr>
 <tr><td><a href='https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23'>Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift</a></td></tr>
 <tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
 <tr><td><a href='https://acko.net/blog/the-l-in-llm-stands-for-lying/'>The L in &quot;LLM&quot; Stands for Lying</a></td></tr>
 <tr><td><a href='https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/'>Relicensing with AI-Assisted Rewrite</a></td></tr>
-<tr><td><a href='https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite'>World-first gigabit laser link between aircraft and geostationary satellite</a></td></tr>
 </table>
 <!-- END:news -->
 
