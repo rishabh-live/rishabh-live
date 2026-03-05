@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
 <tr><td><a href='https://www.wikimediastatus.net'>Wikipedia in read-only mode following mass admin account compromise</a></td></tr>
-<tr><td><a href='https://openai.com/index/gpt-5-4-thinking-system-card/'>GPT-5.4 Thinking System Card</a></td></tr>
 <tr><td><a href='https://paulgraham.com/brandage.html'>The Brand Age</a></td></tr>
-<tr><td><a href='https://jido.run/blog/jido-2-0-is-here'>Show HN: Jido 2.0, Elixir Agent Framework</a></td></tr>
-<tr><td><a href='https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop'>Good software knows when to stop</a></td></tr>
+<tr><td><a href='https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523'>Pentagon Formally Labels Anthropic Supply-Chain Risk</a></td></tr>
+<tr><td><a href='https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html'>Hardware hotplug events on Linux, the gory details</a></td></tr>
 </table>
 <!-- END:news -->
 
