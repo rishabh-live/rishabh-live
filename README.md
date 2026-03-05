@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/googleworkspace/cli'>Googleworkspace&#x2F;CLI</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
 <tr><td><a href='https://bill.newgrounds.com/news/post/1607118'>Building a new Flash</a></td></tr>
+<tr><td><a href='https://www.fubardaily.com'>Chaos and Dystopian news for the dead internet survivors</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/'>Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/Mar/4/qwen/'>Something is afoot in the land of Qwen</a></td></tr>
-<tr><td><a href='https://www.sixstepstobetterhealth.com/litter.html'>Picking Up a Zillion Pieces of Litter</a></td></tr>
 </table>
 <!-- END:news -->
 
