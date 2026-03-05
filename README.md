@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/gpt-5-4-thinking-system-card/'>GPT-5.4 Thinking System Card</a></td></tr>
 <tr><td><a href='https://www.wikimediastatus.net'>Wikipedia in read-only mode following mass admin account compromise</a></td></tr>
 <tr><td><a href='https://jido.run/blog/jido-2-0-is-here'>Show HN: Jido 2.0, Elixir Agent Framework</a></td></tr>
 <tr><td><a href='https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop'>Good software knows when to stop</a></td></tr>
 <tr><td><a href='https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another'>A GitHub Issue Title Compromised 4k Developer Machines</a></td></tr>
-<tr><td><a href='https://alibaba.github.io/page-agent/'>Show HN: PageAgent, A GUI agent that lives inside your web app</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
