@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
 <tr><td><a href='https://bill.newgrounds.com/news/post/1607118'>Building a new Flash</a></td></tr>
-<tr><td><a href='https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en'>BMW Group to deploy humanoid robots in production in Germany for the first time</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Mar/4/qwen/'>Something is afoot in the land of Qwen</a></td></tr>
-<tr><td><a href='https://hannahritchie.github.io/energy-use-comparisons/'>Does that use a lot of energy?</a></td></tr>
+<tr><td><a href='https://www.pnas.org/doi/10.1073/pnas.2520385123'>Humans 40k yrs ago developed a system of conventional signs</a></td></tr>
+<tr><td><a href='https://qlabs.sh/slowrun'>NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute</a></td></tr>
 </table>
 <!-- END:news -->
 
