@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23'>Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift</a></td></tr>
 <tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
-<tr><td><a href='https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/'>Relicensing with AI-Assisted Rewrite</a></td></tr>
 <tr><td><a href='https://acko.net/blog/the-l-in-llm-stands-for-lying/'>The L in &quot;LLM&quot; Stands for Lying</a></td></tr>
+<tr><td><a href='https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/'>Relicensing with AI-Assisted Rewrite</a></td></tr>
 <tr><td><a href='https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/'>Smalltalk&#x27;s Browser: Unbeatable, yet Not Enough</a></td></tr>
 </table>
 <!-- END:news -->
