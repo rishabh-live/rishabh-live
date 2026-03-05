@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23'>Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift</a></td></tr>
 <tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
 <tr><td><a href='https://dylan.gr/1772520728'>You Just Reveived</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
-<tr><td><a href='https://tim.blog/2026/03/04/the-self-help-trap/'>The Self-Help Trap: What 20 Years of &quot;Optimizing&quot; Has Taught Me</a></td></tr>
-<tr><td><a href='https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23'>Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift</a></td></tr>
+<tr><td><a href='https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/'>Smalltalk&#x27;s Browser: Unbeatable, yet Not Enough</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
