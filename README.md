@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/googleworkspace/cli'>Googleworkspace&#x2F;CLI</a></td></tr>
+<tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
 <tr><td><a href='https://bill.newgrounds.com/news/post/1607118'>Building a new Flash</a></td></tr>
-<tr><td><a href='https://www.fubardaily.com'>Chaos and Dystopian news for the dead internet survivors</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/'>Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’</a></td></tr>
+<tr><td><a href='https://www.inngest.com/blog/no-lost-updates-python-asyncio'>What Python&#x27;s asyncio primitives get wrong about shared state</a></td></tr>
 </table>
 <!-- END:news -->
 
