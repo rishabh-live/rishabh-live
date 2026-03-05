@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
 <tr><td><a href='https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/'>Relicensing with AI-Assisted Rewrite</a></td></tr>
 <tr><td><a href='https://acko.net/blog/the-l-in-llm-stands-for-lying/'>The L in &quot;LLM&quot; Stands for Lying</a></td></tr>
-<tr><td><a href='https://tim.blog/2026/03/04/the-self-help-trap/'>The Self-Help Trap: What 20 Years of &quot;Optimizing&quot; Has Taught Me</a></td></tr>
+<tr><td><a href='https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/'>Smalltalk&#x27;s Browser: Unbeatable, yet Not Enough</a></td></tr>
 </table>
 <!-- END:news -->
 
