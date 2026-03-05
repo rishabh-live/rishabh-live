@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23'>Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift</a></td></tr>
+<tr><td><a href='https://github.com/chardet/chardet/issues/327'>No right to relicense this project</a></td></tr>
 <tr><td><a href='https://github.com/googleworkspace/cli'>Google Workspace CLI</a></td></tr>
-<tr><td><a href='https://dylan.gr/1772520728'>You Just Reveived</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/'>MacBook Neo</a></td></tr>
+<tr><td><a href='https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/'>Relicensing with AI-Assisted Rewrite</a></td></tr>
 <tr><td><a href='https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/'>Smalltalk&#x27;s Browser: Unbeatable, yet Not Enough</a></td></tr>
 </table>
 <!-- END:news -->
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
