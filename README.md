@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
 <tr><td><a href='https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/'>CBP tapped into the online advertising ecosystem to track peoples’ movements</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/research/labor-market-impacts'>Labor market impacts of AI: A new measure and early evidence</a></td></tr>
 <tr><td><a href='https://paulgraham.com/brandage.html'>The Brand Age</a></td></tr>
-<tr><td><a href='https://www.wikimediastatus.net'>Wikipedia was in read-only mode following mass admin account compromise</a></td></tr>
 <tr><td><a href='https://www.jlauf.com/writing/citrus/'>A ternary plot of citrus geneology</a></td></tr>
 </table>
 <!-- END:news -->
