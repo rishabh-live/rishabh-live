@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://will-keleher.com/posts/this-css-makes-me-human/'>this css proves me human</a></td></tr>
-<tr><td><a href='https://twitter.com/JosephPolitano/status/2029916364664611242'>Tech employment now significantly worse than the 2008 or 2020 recessions</a></td></tr>
+<tr><td><a href='https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap'>C# Strings Silently Kill Your SQL Server Indexes in Dapper</a></td></tr>
+<tr><td><a href='https://acid.vegas/blog/the-shady-world-of-ip-leasing/'>The Shady World of IP Leasing</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/mozilla-firefox-security'>Hardening Firefox with Anthropic&#x27;s Red Team</a></td></tr>
-<tr><td><a href='https://github.com/moongate-community/moongatev2'>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</a></td></tr>
-<tr><td><a href='https://opencamera.org.uk/'>Open Camera is a FOSS camera app for Android</a></td></tr>
+<tr><td><a href='https://twitter.com/JosephPolitano/status/2029916364664611242'>Tech employment now significantly worse than the 2008 or 2020 recessions</a></td></tr>
 </table>
 <!-- END:news -->
 
