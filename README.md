@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct'>Nobody ever got fired for using a struct</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/where-stand-department-war'>Where things stand with the Department of War</a></td></tr>
 <tr><td><a href='https://mas.to/@gabrielesvelto/116171750653898304'>10% of Firefox crashes are caused by bitflips</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/research/labor-market-impacts'>Labor market impacts of AI: A new measure and early evidence</a></td></tr>
+<tr><td><a href='https://paulgraham.com/brandage.html'>The Brand Age</a></td></tr>
 </table>
 <!-- END:news -->
 
