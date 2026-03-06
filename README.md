@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://blog.system76.com/post/system76-on-age-verification/'>System76 on Age Verification Laws</a></td></tr>
 <tr><td><a href='https://runxiyu.org/comp/gplproxy/'>GPL upgrades via section 14 proxy delegation</a></td></tr>
-<tr><td><a href='https://yasint.dev/we-might-all-be-ai-engineers-now/'>We Might All Be AI Engineers Now</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
+<tr><td><a href='https://libresprite.github.io/'>LibreSprite – open-source pixel art editor</a></td></tr>
 <tr><td><a href='https://dev.moment.com/'>Show HN: Swarm – Program a colony of 200 ants using a custom assembly language</a></td></tr>
 </table>
 <!-- END:news -->
