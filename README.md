@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly'>Global Warming Has Accelerated Significantly</a></td></tr>
 <tr><td><a href='https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs'>Workers who love &#x27;synergizing paradigms&#x27; might be bad at their jobs</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cjd98091g28o'>US economy unexpectedly sheds 92,000 jobs in February</a></td></tr>
 <tr><td><a href='https://github.com/moongate-community/moongatev2'>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</a></td></tr>
+<tr><td><a href='https://walzr.com/payphone-go/'>Payphone Go</a></td></tr>
 <tr><td><a href='https://www.lumafield.com/scan-of-the-month/health-wearables'>CT Scans of Health Wearables</a></td></tr>
 </table>
 <!-- END:news -->
