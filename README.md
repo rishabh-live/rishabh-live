@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/moongate-community/moongatev2'>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47278980'>Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs</a></td></tr>
 <tr><td><a href='https://opencamera.org.uk/'>Open Camera is a FOSS Camera App for Android</a></td></tr>
-<tr><td><a href='https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/'>Paul Brainerd, Founder of Aldus PageMaker, has died</a></td></tr>
-<tr><td><a href='https://github.com/ppp-one/astra'>Astra: An open-source observatory control software</a></td></tr>
+<tr><td><a href='https://twitter.com/JosephPolitano/status/2029916364664611242'>Tech employment now significantly worse than the 2008 or 2020 recessions</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47278980'>Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs</a></td></tr>
+<tr><td><a href='https://www.lumafield.com/scan-of-the-month/health-wearables'>CT Scans of Health Wearables</a></td></tr>
 </table>
 <!-- END:news -->
 
