@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://libresprite.github.io/'>LibreSprite – open-source pixel art editor</a></td></tr>
 <tr><td><a href='https://blog.system76.com/post/system76-on-age-verification/'>System76 on Age Verification Laws</a></td></tr>
-<tr><td><a href='https://runxiyu.org/comp/gplproxy/'>GPL upgrades via section 14 proxy delegation</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
 <tr><td><a href='https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/'>Hardening Firefox with Anthropic&#x27;s Red Team</a></td></tr>
+<tr><td><a href='https://runxiyu.org/comp/gplproxy/'>GPL upgrades via section 14 proxy delegation</a></td></tr>
 </table>
 <!-- END:news -->
 
