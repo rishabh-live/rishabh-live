@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://bezoscalculator.com/'>How Much Money Jeff Bezos Made Since You Started Reading This Page</a></td></tr>
 <tr><td><a href='https://blog.system76.com/post/system76-on-age-verification/'>System76 on Age Verification Laws</a></td></tr>
-<tr><td><a href='https://runxiyu.org/comp/gplproxy/'>GPL upgrades via section 14 proxy delegation</a></td></tr>
 <tr><td><a href='https://libresprite.github.io/'>LibreSprite – open-source pixel art editor</a></td></tr>
+<tr><td><a href='https://runxiyu.org/comp/gplproxy/'>GPL upgrades via section 14 proxy delegation</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
+<tr><td><a href='https://mas.to/@gabrielesvelto/116171750653898304'>10% of Firefox crashes are caused by bitflips</a></td></tr>
 </table>
 <!-- END:news -->
 
