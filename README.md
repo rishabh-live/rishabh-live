@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/moongate-community/moongatev2'>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</a></td></tr>
 <tr><td><a href='https://twitter.com/JosephPolitano/status/2029916364664611242'>Tech employment now significantly worse than the 2008 or 2020 recessions</a></td></tr>
+<tr><td><a href='https://github.com/moongate-community/moongatev2'>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</a></td></tr>
 <tr><td><a href='https://opencamera.org.uk/'>Open Camera is a FOSS Camera App for Android</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/mozilla-firefox-security'>Hardening Firefox with Anthropic&#x27;s Red Team</a></td></tr>
 <tr><td><a href='https://www.lumafield.com/scan-of-the-month/health-wearables'>CT Scans of Health Wearables</a></td></tr>
-<tr><td><a href='https://walzr.com/payphone-go/'>Payphone Go</a></td></tr>
 </table>
 <!-- END:news -->
 
