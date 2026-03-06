@@ -24,8 +24,8 @@
 <tr><td><a href='https://blog.system76.com/post/system76-on-age-verification/'>System76 on Age Verification Laws</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
 <tr><td><a href='https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct'>Nobody ever got fired for using a struct</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/where-stand-department-war'>Where things stand with the Department of War</a></td></tr>
 <tr><td><a href='https://mas.to/@gabrielesvelto/116171750653898304'>10% of Firefox crashes are caused by bitflips</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/where-stand-department-war'>Where things stand with the Department of War</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
