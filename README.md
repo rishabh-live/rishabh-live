@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/'>CBP tapped into the online advertising ecosystem to track peoples’ movements</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/where-stand-department-war'>Where things stand with the Department of War</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
 <tr><td><a href='https://charm.land/blog/v2/'>The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now</a></td></tr>
 <tr><td><a href='https://406.fail/'>A standard protocol to handle and discard low-effort, AI-Generated pull requests</a></td></tr>
-<tr><td><a href='https://paulgraham.com/brandage.html'>The Brand Age</a></td></tr>
 </table>
 <!-- END:news -->
 
