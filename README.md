@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.adaic.org/ada-resources/standards/ada22/'>Ada 2022</a></td></tr>
-<tr><td><a href='https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop'>Why it takes you and an elephant the same amount of time to poop</a></td></tr>
 <tr><td><a href='https://twitter.com/JosephPolitano/status/2029916364664611242'>Tech employment now significantly worse than the 2008 or 2020 recessions</a></td></tr>
+<tr><td><a href='https://www.thetravel.com/tsa-leaves-passenger-needing-surgery-after-illegally-forcing-her-through-scanner-spinal-cord-implant/'>TSA leaves passenger needing surgery after illegally forcing her through scanner</a></td></tr>
 <tr><td><a href='https://github.com/moongate-community/moongatev2'>Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/mozilla-firefox-security'>Hardening Firefox with Anthropic&#x27;s Red Team</a></td></tr>
 </table>
