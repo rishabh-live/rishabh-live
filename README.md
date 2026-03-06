@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.system76.com/post/system76-on-age-verification/'>System76 on Age Verification Laws</a></td></tr>
+<tr><td><a href='https://runxiyu.org/comp/gplproxy/'>GPL upgrades via section 14 proxy delegation</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-4/'>GPT-5.4</a></td></tr>
 <tr><td><a href='https://dev.moment.com/'>Show HN: Swarm – Program a colony of 200 ants using a custom assembly language</a></td></tr>
 <tr><td><a href='https://mas.to/@gabrielesvelto/116171750653898304'>10% of Firefox crashes are caused by bitflips</a></td></tr>
-<tr><td><a href='https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another'>A GitHub Issue Title Compromised 4k Developer Machines</a></td></tr>
 </table>
 <!-- END:news -->
 
