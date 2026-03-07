@@ -24,8 +24,8 @@
 <tr><td><a href='https://ki-editor.org/'>Ki Editor - an editor that operates on the AST</a></td></tr>
 <tr><td><a href='https://plasma-bigscreen.org'>Plasma Bigscreen – 10-foot interface for KDE plasma</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47282777'>Tell HN: I&#x27;m 60 years old. Claude Code has re-ignited a passion</a></td></tr>
-<tr><td><a href='https://www.ft.com/content/6542bd0c-59ca-493b-ab5d-2d69e4e00cae'>US economy sheds 92,000 jobs in February in sharp slide</a></td></tr>
 <tr><td><a href='https://github.com/golang/go/issues/62026'>UUID package coming to Go standard library</a></td></tr>
+<tr><td><a href='https://jacquesmattheij.com/48x32-introduction/'>48x32, a 1536 LED Game Computer (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
