@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A Decade of Docker Containers</a></td></tr>
 <tr><td><a href='https://github.com/0x0mer/CasNum'>CasNum</a></td></tr>
+<tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A decade of Docker containers</a></td></tr>
 <tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick</a></td></tr>
-<tr><td><a href='https://www.theatlantic.com/technology/2026/03/polymarket-insider-trading-going-get-people-killed/686283/'>War Prediction Markets Are a National-Security Threat</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/flash-radiotherapy'>The Millisecond That Could Change Cancer Treatment</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/flash-radiotherapy'>FLASH radiotherapy&#x27;s bold approach to cancer treatment</a></td></tr>
+<tr><td><a href='https://ki-editor.org/'>Ki Editor - an editor that operates on the AST</a></td></tr>
 </table>
 <!-- END:news -->
 
