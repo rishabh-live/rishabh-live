@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://plasma-bigscreen.org'>Plasma Bigscreen – 10-foot interface for KDE plasma</a></td></tr>
-<tr><td><a href='https://tanstaafl.email'>Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47282777'>Tell HN: I&#x27;m 60 years old. Claude Code has re-ignited a passion</a></td></tr>
 <tr><td><a href='https://github.com/golang/go/issues/62026'>UUID package coming to Go standard library</a></td></tr>
-<tr><td><a href='https://will-keleher.com/posts/this-css-makes-me-human/'>this css proves me human</a></td></tr>
+<tr><td><a href='https://ki-editor.org/'>Ki Editor - an editor that operates on the AST</a></td></tr>
+<tr><td><a href='https://jacquesmattheij.com/48x32-introduction/'>48x32, a 1536 LED Game Computer</a></td></tr>
 </table>
 <!-- END:news -->
 
