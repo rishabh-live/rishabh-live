@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/0x0mer/CasNum'>CasNum</a></td></tr>
 <tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A decade of Docker containers</a></td></tr>
-<tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick</a></td></tr>
-<tr><td><a href='https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/'>Senators Launch Effort Ban Elected Officials Profiting from Prediction Markets</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/flash-radiotherapy'>FLASH radiotherapy&#x27;s bold approach to cancer treatment</a></td></tr>
+<tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick (2025)</a></td></tr>
+<tr><td><a href='https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/'>Effort to prevent government officials from engaging in prediction markets</a></td></tr>
+<tr><td><a href='https://slashdot.org/submission/17345398/does-apples-m5-max-really-destroy-a-96-core-threadripper'>Does Apple‘s M5 Max Really “Destroy” a 96-Core Threadripper?</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
