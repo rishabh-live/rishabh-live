@@ -24,8 +24,8 @@
 <tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A Decade of Docker Containers</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/flash-radiotherapy'>The Millisecond That Could Change Cancer Treatment</a></td></tr>
 <tr><td><a href='https://ki-editor.org/'>Ki Editor - an editor that operates on the AST</a></td></tr>
+<tr><td><a href='https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/'>macOS code injection for fun and no profit (2024)</a></td></tr>
 <tr><td><a href='https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf'>Compiling Prolog to Forth [pdf]</a></td></tr>
-<tr><td><a href='https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/'>Re-creating the complex cuisine of prehistoric Europeans</a></td></tr>
 </table>
 <!-- END:news -->
 
