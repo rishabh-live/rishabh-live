@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://plasma-bigscreen.org'>Plasma Bigscreen – 10-foot interface for KDE plasma</a></td></tr>
 <tr><td><a href='https://github.com/golang/go/issues/62026'>UUID package coming to Go standard library</a></td></tr>
+<tr><td><a href='https://changelog.qgis.org/en/version/4.0/'>QGIS 4.0</a></td></tr>
 <tr><td><a href='https://will-keleher.com/posts/this-css-makes-me-human/'>this css proves me human</a></td></tr>
-<tr><td><a href='https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code'>LLMs work best when the user defines their acceptance criteria first</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text'>Galileo&#x27;s handwritten notes found in ancient astronomy text</a></td></tr>
+<tr><td><a href='https://dynomight.net/pattern/'>Maybe there&#x27;s a pattern here?</a></td></tr>
 </table>
 <!-- END:news -->
 
