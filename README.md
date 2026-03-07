@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://plasma-bigscreen.org'>Plasma Bigscreen – 10-foot interface for KDE plasma</a></td></tr>
 <tr><td><a href='https://will-keleher.com/posts/this-css-makes-me-human/'>this css proves me human</a></td></tr>
-<tr><td><a href='https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap'>C# Strings Silently Kill Your SQL Server Indexes in Dapper</a></td></tr>
-<tr><td><a href='https://acid.vegas/blog/the-shady-world-of-ip-leasing/'>The Shady World of IP Leasing</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/mozilla-firefox-security'>Hardening Firefox with Anthropic&#x27;s Red Team</a></td></tr>
-<tr><td><a href='https://twitter.com/JosephPolitano/status/2029916364664611242'>Tech employment now significantly worse than the 2008 or 2020 recessions</a></td></tr>
+<tr><td><a href='https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap'>C# strings silently kill your SQL Server indexes in Dapper</a></td></tr>
+<tr><td><a href='https://thelydianstone.com/volume-2'>Show HN: The Roman Industrial Revolution that could have been (Vol 2)</a></td></tr>
+<tr><td><a href='https://mathnotepad.com'>Math Notepad</a></td></tr>
 </table>
 <!-- END:news -->
 
