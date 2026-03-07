@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/0x0mer/CasNum'>CasNum</a></td></tr>
+<tr><td><a href='https://charitysense.com/insights/the-3-trillion-blind-spot'>$3T Blind Spot: US nonprofits</a></td></tr>
 <tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A decade of Docker containers</a></td></tr>
 <tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick (2025)</a></td></tr>
 <tr><td><a href='https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/'>Effort to prevent government officials from engaging in prediction markets</a></td></tr>
-<tr><td><a href='https://slashdot.org/submission/17345398/does-apples-m5-max-really-destroy-a-96-core-threadripper'>Does Apple‘s M5 Max Really “Destroy” a 96-Core Threadripper?</a></td></tr>
 </table>
 <!-- END:news -->
 
