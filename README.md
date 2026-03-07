@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/0x0mer/CasNum'>CasNum</a></td></tr>
 <tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A decade of Docker containers</a></td></tr>
 <tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick</a></td></tr>
+<tr><td><a href='https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/'>Senators Launch Effort Ban Elected Officials Profiting from Prediction Markets</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/flash-radiotherapy'>FLASH radiotherapy&#x27;s bold approach to cancer treatment</a></td></tr>
-<tr><td><a href='https://ki-editor.org/'>Ki Editor - an editor that operates on the AST</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
