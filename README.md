@@ -24,8 +24,8 @@
 <tr><td><a href='https://ki-editor.org/'>Ki Editor - an editor that operates on the AST</a></td></tr>
 <tr><td><a href='https://plasma-bigscreen.org'>Plasma Bigscreen – 10-foot interface for KDE plasma</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47282777'>Tell HN: I&#x27;m 60 years old. Claude Code has re-ignited a passion</a></td></tr>
-<tr><td><a href='https://github.com/golang/go/issues/62026'>UUID package coming to Go standard library</a></td></tr>
-<tr><td><a href='https://jacquesmattheij.com/48x32-introduction/'>48x32, a 1536 LED Game Computer (2023)</a></td></tr>
+<tr><td><a href='https://github.com/lardissone/ansi-saver'>Show HN: ANSI-Saver – A macOS Screensaver</a></td></tr>
+<tr><td><a href='https://www.tomshardware.com/pc-components/cpus/pc-processors-entered-the-gigahertz-era-today-in-the-year-2000-with-amds-athlon-amd-hit-marketing-gold-with-its-1-ghz-athlon-beat-intel-by-a-nose'>PC processors entered the Gigahertz era today in the year 2000 with AMD&#x27;s Athlon</a></td></tr>
 </table>
 <!-- END:news -->
 
