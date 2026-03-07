@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://plasma-bigscreen.org'>Plasma Bigscreen – 10-foot interface for KDE plasma</a></td></tr>
+<tr><td><a href='https://github.com/golang/go/issues/62026'>UUID package coming to Go standard library</a></td></tr>
 <tr><td><a href='https://will-keleher.com/posts/this-css-makes-me-human/'>this css proves me human</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease'>Can a wealthy family change the course of a deadly brain disease?</a></td></tr>
 <tr><td><a href='https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code'>LLMs work best when the user defines their acceptance criteria first</a></td></tr>
-<tr><td><a href='https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap'>C# strings silently kill your SQL Server indexes in Dapper</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text'>Galileo&#x27;s handwritten notes found in ancient astronomy text</a></td></tr>
 </table>
 <!-- END:news -->
 
