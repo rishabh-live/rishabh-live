@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A Decade of Docker Containers</a></td></tr>
+<tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/flash-radiotherapy'>The Millisecond That Could Change Cancer Treatment</a></td></tr>
 <tr><td><a href='https://ki-editor.org/'>Ki Editor - an editor that operates on the AST</a></td></tr>
-<tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick</a></td></tr>
 <tr><td><a href='https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/'>macOS code injection for fun and no profit (2024)</a></td></tr>
 </table>
 <!-- END:news -->
