@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://mlumiste.com/general/openai-charter/'>Based on its own charter, OpenAI should surrender the race</a></td></tr>
 <tr><td><a href='https://fb.edoo.gg'>FrameBook</a></td></tr>
+<tr><td><a href='https://systemic.engineering/ai-needs-identity/'>&quot;I Can&#x27;t Do That, Dave&quot; – No Agent Yet</a></td></tr>
 <tr><td><a href='https://bryananthonio.com/blog/my-homelab-setup/'>My Homelab Setup</a></td></tr>
 <tr><td><a href='https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation'>Log messages are mostly for the people operating your software</a></td></tr>
-<tr><td><a href='https://nicole.express/2026/the-apple-that-wasnt.html'>What if the Apple ][ had run on Field-Sequential?</a></td></tr>
 </table>
 <!-- END:news -->
 
