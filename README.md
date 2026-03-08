@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://arxiv.org/abs/2603.03823'>SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a></td></tr>
 <tr><td><a href='https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html'>Cloud VM benchmarks 2026</a></td></tr>
-<tr><td><a href='https://kaizoudou.com/from-rgb-to-lab-color-space/'>From RGB to L*a*b* color space (2024)</a></td></tr>
 <tr><td><a href='https://github.com/astral-sh/uv/pull/17643'>&quot;Warn about PyPy being unmaintained&quot;</a></td></tr>
-<tr><td><a href='https://github.com/0x0mer/CasNum'>CasNum</a></td></tr>
+<tr><td><a href='https://kaizoudou.com/from-rgb-to-lab-color-space/'>From RGB to L*a*b* color space (2024)</a></td></tr>
+<tr><td><a href='https://curiosity-telescope.vercel.app/'>Show HN: Curiosity – DIY 6&quot; Newtonian Reflector Telescope</a></td></tr>
 </table>
 <!-- END:news -->
 
