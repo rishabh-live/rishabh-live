@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/'>Why can&#x27;t you tune your guitar? (2019)</a></td></tr>
+<tr><td><a href='https://fb.edoo.gg'>FrameBook</a></td></tr>
 <tr><td><a href='https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm'>Notes on Writing WASM</a></td></tr>
+<tr><td><a href='https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/'>Why can&#x27;t you tune your guitar? (2019)</a></td></tr>
 <tr><td><a href='https://github.com/kantord/blogtato'>CLI RSS&#x2F;Atom feed reader inspired by Taskwarrior, synced using Git</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2603.03823'>SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a></td></tr>
-<tr><td><a href='https://xcancel.com/theflow0/status/2030011206040256841'>I ported Linux to the PS5 and turned it into a Steam Machine</a></td></tr>
+<tr><td><a href='https://blog.documentfoundation.org/blog/2026/03/05/cra-guidances/'>LibreOffice: Request to the European Commission to adhere to its own guidances</a></td></tr>
 </table>
 <!-- END:news -->
 
