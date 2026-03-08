@@ -24,8 +24,8 @@
 <tr><td><a href='https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html'>Cloud VM benchmarks 2026: performance&#x2F;price for 44 VM types over 7 providers</a></td></tr>
 <tr><td><a href='https://github.com/0x0mer/CasNum'>CasNum</a></td></tr>
 <tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A decade of Docker containers</a></td></tr>
-<tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick (2025)</a></td></tr>
 <tr><td><a href='https://pulsefeedback.io/'>Show HN: A weird thing that detects your pulse from the browser video</a></td></tr>
+<tr><td><a href='https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html'>Dumping Lego NXT firmware off of an existing brick (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
