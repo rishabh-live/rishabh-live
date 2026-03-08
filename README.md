@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://campedersen.com/noid'>Neural Boids</a></td></tr>
 <tr><td><a href='https://agent-safehouse.dev/'>Agent Safehouse – macOS-native sandboxing for local agents</a></td></tr>
-<tr><td><a href='https://www.vspvision.com/newsroom/eye-health-and-wellness/vision-care/new-research-from-vsp-vision-care-and-workplace-intelligence-finds-desk-workers-spend-nearly-100-hours-a-week-on-screens'>71% Desk Workers Say Screen-Related Visual Discomfort Is Reducing Productivity</a></td></tr>
 <tr><td><a href='https://fb.edoo.gg'>FrameBook</a></td></tr>
-<tr><td><a href='https://jonathan-frere.com/posts/reactivity-algorithms/'>Pushing and Pulling: Three reactivity algorithms</a></td></tr>
+<tr><td><a href='https://bret.dk/every-single-board-computer-i-tested-in-2025/'>Every Single Board Computer I Tested in 2025</a></td></tr>
+<tr><td><a href='https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/'>We should revisit literate programming in the agent era</a></td></tr>
 </table>
 <!-- END:news -->
 
