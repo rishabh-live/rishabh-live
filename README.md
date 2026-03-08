@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://campedersen.com/noid'>Neural Boids</a></td></tr>
 <tr><td><a href='https://agent-safehouse.dev/'>Agent Safehouse – macOS-native sandboxing for local agents</a></td></tr>
-<tr><td><a href='https://fb.edoo.gg'>FrameBook</a></td></tr>
-<tr><td><a href='https://bret.dk/every-single-board-computer-i-tested-in-2025/'>Every Single Board Computer I Tested in 2025</a></td></tr>
+<tr><td><a href='https://bret.dk/every-single-board-computer-i-tested-in-2025/'>Every single board computer I tested in 2025</a></td></tr>
 <tr><td><a href='https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/'>We should revisit literate programming in the agent era</a></td></tr>
+<tr><td><a href='https://fb.edoo.gg'>FrameBook</a></td></tr>
+<tr><td><a href='https://github.com/blacksky-algorithms/atproto'>Blacksky AppView</a></td></tr>
 </table>
 <!-- END:news -->
 
