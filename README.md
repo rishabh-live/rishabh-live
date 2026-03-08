@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://fb.edoo.gg'>FrameBook</a></td></tr>
-<tr><td><a href='https://www.marble.onl/posts/ai_doesnt_replace_work.html'>AI doesn&#x27;t replace white collar work</a></td></tr>
 <tr><td><a href='https://github.com/BigBodyCobain/Shadowbroker'>Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/'>Google just gave Sundar Pichai a $692M pay package</a></td></tr>
-<tr><td><a href='https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation'>Log messages are mostly for the people operating your software</a></td></tr>
+<tr><td><a href='https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/'>Why can&#x27;t you tune your guitar? (2019)</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=yRV8fSw6HaE'>Living human brain cells play DOOM on a CL1 [video]</a></td></tr>
+<tr><td><a href='https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/'>LibreOffice Writer now supports Markdown</a></td></tr>
 </table>
 <!-- END:news -->
 
