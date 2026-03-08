@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html'>Cloud VM benchmarks 2026</a></td></tr>
-<tr><td><a href='https://github.com/0x0mer/CasNum'>CasNum</a></td></tr>
 <tr><td><a href='https://github.com/astral-sh/uv/pull/17643'>&quot;Warn about PyPy being unmaintained&quot;</a></td></tr>
+<tr><td><a href='https://github.com/0x0mer/CasNum'>CasNum</a></td></tr>
 <tr><td><a href='https://github.com/MonoGame/MonoGame'>MonoGame: A .NET framework for making cross-platform games</a></td></tr>
 <tr><td><a href='https://cacm.acm.org/research/a-decade-of-docker-containers/'>A decade of Docker containers</a></td></tr>
 </table>
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
