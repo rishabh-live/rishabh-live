@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2603.03823'>SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a></td></tr>
 <tr><td><a href='https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm'>Notes on Writing WASM</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2603.03823'>SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a></td></tr>
+<tr><td><a href='https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/'>The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp</a></td></tr>
 <tr><td><a href='https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn'>Rijksmuseum researchers discover new painting by Rembrandt van Rijn</a></td></tr>
 <tr><td><a href='https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html'>Cloud VM benchmarks 2026</a></td></tr>
-<tr><td><a href='https://curiosity-telescope.vercel.app/'>Show HN: Curiosity – DIY 6&quot; Newtonian Reflector Telescope</a></td></tr>
 </table>
 <!-- END:news -->
 
