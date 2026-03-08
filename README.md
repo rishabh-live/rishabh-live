@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2603.03823'>SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a></td></tr>
 <tr><td><a href='https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm'>Notes on Writing WASM</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2603.03823'>SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI</a></td></tr>
 <tr><td><a href='https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/'>The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp</a></td></tr>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/'>Apple&#x27;s 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage</a></td></tr>
-<tr><td><a href='https://xcancel.com/theflow0/status/2030011206040256841'>I ported Linux to the PS5 and turned it into a Steam Machine</a></td></tr>
+<tr><td><a href='https://vecstore.app/blog/you-dont-need-a-vector-database'>You Don&#x27;t Need a Vector Database</a></td></tr>
 </table>
 <!-- END:news -->
 
