@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://fb.edoo.gg'>FrameBook</a></td></tr>
-<tr><td><a href='https://corticallabs.com/doom.html'>Living Human Brain Cells Play Doom on a CL1</a></td></tr>
 <tr><td><a href='https://nicole.express/2026/the-apple-that-wasnt.html'>What if the Apple ][ had run on Field-Sequential?</a></td></tr>
+<tr><td><a href='https://www.cio.com/article/4125103/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat.html'>Oracle may slash up to 30k jobs to fund AI data-centers as US banks retreat</a></td></tr>
 <tr><td><a href='https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm'>Notes on Writing WASM</a></td></tr>
-<tr><td><a href='https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/'>Why can&#x27;t you tune your guitar? (2019)</a></td></tr>
+<tr><td><a href='https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation'>Log messages are mostly for the people operating your software</a></td></tr>
 </table>
 <!-- END:news -->
 
