@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://fb.edoo.gg'>FrameBook</a></td></tr>
+<tr><td><a href='https://campedersen.com/noid'>Neural Boids</a></td></tr>
+<tr><td><a href='https://github.com/bostrot/wsl2-distro-manager'>WSL Manager</a></td></tr>
 <tr><td><a href='https://github.com/BigBodyCobain/Shadowbroker'>Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds</a></td></tr>
-<tr><td><a href='https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/'>Why can&#x27;t you tune your guitar? (2019)</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=yRV8fSw6HaE'>Living human brain cells play DOOM on a CL1 [video]</a></td></tr>
-<tr><td><a href='https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/'>LibreOffice Writer now supports Markdown</a></td></tr>
+<tr><td><a href='https://agent-safehouse.dev/'>Agent Safehouse – macOS-native sandboxing for local agents</a></td></tr>
 </table>
 <!-- END:news -->
 
