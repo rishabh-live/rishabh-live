@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf'>US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]</a></td></tr>
 <tr><td><a href='https://arcade.pirillo.com/fontcrafter.html'>Fontcrafter: Turn Your Handwriting into a Real Font</a></td></tr>
 <tr><td><a href='https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/'>Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/'>Owner of ICE detention facility sees big opportunity in AI man camps</a></td></tr>
+<tr><td><a href='https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf'>US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]</a></td></tr>
+<tr><td><a href='https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol'>Reverse-engineering the UniFi inform protocol</a></td></tr>
 <tr><td><a href='https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer'>Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer</a></td></tr>
 </table>
 <!-- END:news -->
