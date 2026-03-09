@@ -25,7 +25,7 @@
 <tr><td><a href='https://bellard.org/jslinux/'>JSLinux Now Supports x86_64</a></td></tr>
 <tr><td><a href='https://writings.hongminhee.org/2026/03/legal-vs-legitimate/'>Is legal the same as legitimate: AI reimplementation and the erosion of copyleft</a></td></tr>
 <tr><td><a href='https://moglang.org'>Show HN: The Mog Programming Language</a></td></tr>
-<tr><td><a href='https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky'>Bluesky CEO Jay Graber is stepping down</a></td></tr>
+<tr><td><a href='https://sjer.red/blog/2026/built-with-ai/'>Things I&#x27;ve Done with AI</a></td></tr>
 </table>
 <!-- END:news -->
 
