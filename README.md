@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://fixfest.therestartproject.org/'>Fixfest is a global gathering of repairers, tinkerers, and activists</a></td></tr>
 <tr><td><a href='https://felixturner.github.io/hex-map-wfc/article/'>Building a Procedural Hex Map with Wave Function Collapse</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47311657'>Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents</a></td></tr>
 <tr><td><a href='https://bellard.org/jslinux/'>JSLinux Now Supports x86_64</a></td></tr>
 <tr><td><a href='https://moglang.org'>Show HN: The Mog Programming Language</a></td></tr>
+<tr><td><a href='https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter'>DARPA&#x27;s new X-76 Experimental Plane</a></td></tr>
 </table>
 <!-- END:news -->
 
