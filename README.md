@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf'>US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]</a></td></tr>
 <tr><td><a href='https://agent-safehouse.dev/'>Agent Safehouse – macOS-native sandboxing for local agents</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=qZuR-772cks'>Microscopes can see video on a laserdisc</a></td></tr>
 <tr><td><a href='https://github.com/Dieu-de-l-elec/AngstromIO-devboard'>PCB devboard the size of a USB-C plug</a></td></tr>
-<tr><td><a href='https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/'>We should revisit literate programming in the agent era</a></td></tr>
-<tr><td><a href='https://bret.dk/every-single-board-computer-i-tested-in-2025/'>Every single board computer I tested in 2025</a></td></tr>
+<tr><td><a href='https://github.com/knowsuchagency/mcp2cli'>Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP</a></td></tr>
 </table>
 <!-- END:news -->
 
