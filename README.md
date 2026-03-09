@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://writings.hongminhee.org/2026/03/legal-vs-legitimate/'>Is legal the same as legitimate: AI reimplementation and the erosion of copyleft</a></td></tr>
-<tr><td><a href='https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram'>Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram</a></td></tr>
-<tr><td><a href='https://old.reddit.com/r/DataHoarder/comments/1q6xnun/flash_media_longevity_testing_6_years_later/'>Flash media longevity testing – 6 years later</a></td></tr>
-<tr><td><a href='https://arcade.pirillo.com/fontcrafter.html'>Fontcrafter: Turn Your Handwriting into a Real Font</a></td></tr>
 <tr><td><a href='https://felixturner.github.io/hex-map-wfc/article/'>Building a Procedural Hex Map with Wave Function Collapse</a></td></tr>
+<tr><td><a href='https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional'>Florida Judge Rules Red Light Camera Tickets Are Unconstitutional</a></td></tr>
+<tr><td><a href='https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram'>Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram</a></td></tr>
+<tr><td><a href='https://fixfest.therestartproject.org/'>Fixfest is a global gathering of repairers, tinkerers, and activists</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47311657'>Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents</a></td></tr>
 </table>
 <!-- END:news -->
 
