@@ -24,8 +24,8 @@
 <tr><td><a href='https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf'>US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]</a></td></tr>
 <tr><td><a href='https://arcade.pirillo.com/fontcrafter.html'>Fontcrafter: Turn Your Handwriting into a Real Font</a></td></tr>
 <tr><td><a href='https://agent-safehouse.dev/'>Agent Safehouse – macOS-native sandboxing for local agents</a></td></tr>
+<tr><td><a href='https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/'>Ireland shuts last coal plant, becomes 15th coal-free country in Europe</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=qZuR-772cks'>Microscopes can see video on a laserdisc</a></td></tr>
-<tr><td><a href='https://github.com/Dieu-de-l-elec/AngstromIO-devboard'>PCB devboard the size of a USB-C plug</a></td></tr>
 </table>
 <!-- END:news -->
 
