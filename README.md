@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://agent-safehouse.dev/'>Agent Safehouse – macOS-native sandboxing for local agents</a></td></tr>
-<tr><td><a href='https://github.com/blacksky-algorithms/atproto'>Blacksky AppView</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=qZuR-772cks'>Microscopes can see video on a laserdisc</a></td></tr>
 <tr><td><a href='https://github.com/Dieu-de-l-elec/AngstromIO-devboard'>PCB devboard the size of a USB-C plug</a></td></tr>
+<tr><td><a href='https://github.com/blacksky-algorithms/atproto'>Blacksky AppView</a></td></tr>
 <tr><td><a href='https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/'>We should revisit literate programming in the agent era</a></td></tr>
 </table>
 <!-- END:news -->
