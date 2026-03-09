@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future'>The engine of Germany&#x27;s wealth is blocking its future</a></td></tr>
 <tr><td><a href='https://arcade.pirillo.com/fontcrafter.html'>Fontcrafter: Turn Your Handwriting into a Real Font</a></td></tr>
-<tr><td><a href='https://vivianvoss.net/blog/capsicum-vs-seccomp'>FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing</a></td></tr>
 <tr><td><a href='https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/'>Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)</a></td></tr>
+<tr><td><a href='https://vivianvoss.net/blog/capsicum-vs-seccomp'>FreeBSD Capsicum vs. Linux Seccomp Process Sandboxing</a></td></tr>
 <tr><td><a href='https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol'>Reverse-engineering the UniFi inform protocol</a></td></tr>
 </table>
 <!-- END:news -->
