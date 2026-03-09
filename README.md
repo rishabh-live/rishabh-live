@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.youtube.com/watch?v=qZuR-772cks'>Microscopes can see video on a laserdisc</a></td></tr>
 <tr><td><a href='https://github.com/Dieu-de-l-elec/AngstromIO-devboard'>PCB devboard the size of a USB-C plug</a></td></tr>
 <tr><td><a href='https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/'>We should revisit literate programming in the agent era</a></td></tr>
-<tr><td><a href='https://bret.dk/every-single-board-computer-i-tested-in-2025/'>Every single board computer I tested in 2025</a></td></tr>
+<tr><td><a href='https://www.smartlab.at/rss-revival-life-after-social-media/'>The death of social media is the renaissance of RSS (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
