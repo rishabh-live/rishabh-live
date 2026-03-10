@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html'>Tony Hoare has died</a></td></tr>
-<tr><td><a href='https://entropicthoughts.com/rebasing-in-magit'>Rebasing in Magit</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/fhe-intel'>Intel Demos Chip to Compute with Encrypted Data</a></td></tr>
-<tr><td><a href='https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be'>RFC 454545 – Human Em Dash Standard</a></td></tr>
+<tr><td><a href='https://entropicthoughts.com/rebasing-in-magit'>Rebasing in Magit</a></td></tr>
 <tr><td><a href='https://howisfelix.today/'>I put my whole life into a single database</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47324296'>Launch HN: Didit (YC W26) – Stripe for Identity Verification</a></td></tr>
 </table>
 <!-- END:news -->
 
