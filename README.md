@@ -25,7 +25,7 @@
 <tr><td><a href='https://lwn.net/SubscriberLink/1061544/125f911834966dd0/'>Debian decides not to decide on AI-generated contributions</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/fhe-intel'>Intel Demos Chip to Compute with Encrypted Data</a></td></tr>
 <tr><td><a href='https://howisfelix.today/'>I put my whole life into a single database</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47324296'>Launch HN: Didit (YC W26) – Stripe for Identity Verification</a></td></tr>
+<tr><td><a href='https://ankursethi.com/blog/programming-language-claude-code/'>I built a programming language using Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
