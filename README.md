@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://howisfelix.today/'>I put my whole life into a single database</a></td></tr>
 <tr><td><a href='https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md'>Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy</a></td></tr>
-<tr><td><a href='https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/'>The Gervais Principle, or the Office According to &quot;The Office&quot;</a></td></tr>
-<tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo</a></td></tr>
-<tr><td><a href='https://stonetools.ghost.io/lotus123-dos/'>Lotus 1-2-3 on the PC with DOS</a></td></tr>
+<tr><td><a href='https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/'>The Gervais Principle, or the Office According to &quot;The Office&quot; (2009)</a></td></tr>
+<tr><td><a href='https://www.freebsd.org/releases/14.4R/announce/'>FreeBSD 14.4-Release Announcement</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47321760'>Ask HN: Remember Fidonet?</a></td></tr>
 </table>
 <!-- END:news -->
 
