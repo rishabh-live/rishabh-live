@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md'>Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy</a></td></tr>
-<tr><td><a href='https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1'>Yann LeCun&#x27;s AI startup raises $1B in Europe&#x27;s largest ever seed round</a></td></tr>
-<tr><td><a href='https://stonetools.ghost.io/lotus123-dos/'>Lotus 1-2-3 on the PC with DOS</a></td></tr>
-<tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo</a></td></tr>
 <tr><td><a href='https://howisfelix.today/'>I put my whole life into a single database</a></td></tr>
+<tr><td><a href='https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md'>Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy</a></td></tr>
+<tr><td><a href='https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/'>The Gervais Principle, or the Office According to &quot;The Office&quot;</a></td></tr>
+<tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo</a></td></tr>
+<tr><td><a href='https://stonetools.ghost.io/lotus123-dos/'>Lotus 1-2-3 on the PC with DOS</a></td></tr>
 </table>
 <!-- END:news -->
 
