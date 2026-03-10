@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html'>Tony Hoare has died</a></td></tr>
-<tr><td><a href='https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep'>You Hired the AI to Write the Tests. Of Course They Pass</a></td></tr>
+<tr><td><a href='https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep'>Agents that run while I sleep</a></td></tr>
 <tr><td><a href='https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/'>Yann LeCun raises $1B to build AI that understands the physical world</a></td></tr>
 <tr><td><a href='https://github.com/RunanywhereAI/rcli'>Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon</a></td></tr>
-<tr><td><a href='https://castlabs.com/blog/widevine-retiring-cloud-license-service/'>Google to Discontinue Widevine Cloud License Service in April 2027</a></td></tr>
+<tr><td><a href='https://castlabs.com/blog/widevine-retiring-cloud-license-service/'>Widevine retiring its Cloud License Service (CLS)</a></td></tr>
 </table>
 <!-- END:news -->
 
