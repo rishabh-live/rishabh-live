@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/'>Learnings from paying artists royalties for AI-generated art</a></td></tr>
-<tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor</a></td></tr>
+<tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo</a></td></tr>
 <tr><td><a href='https://felixturner.github.io/hex-map-wfc/article/'>Building a Procedural Hex Map with Wave Function Collapse</a></td></tr>
-<tr><td><a href='https://www.paradedb.com/blog/optimizing-top-k'>How we optimized Top K in Postgres</a></td></tr>
-<tr><td><a href='https://realtuner.online/'>Show HN: Remotely use my guitar tuner</a></td></tr>
+<tr><td><a href='https://www.paradedb.com/blog/optimizing-top-k'>Optimizing Top K in Postgres</a></td></tr>
+<tr><td><a href='https://washere.live'>Show HN: I Was Here – Draw on street view, others can find your drawings</a></td></tr>
 </table>
 <!-- END:news -->
 
