@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo</a></td></tr>
-<tr><td><a href='https://lapcatsoftware.com/articles/2026/3/1.html'>macOS Tahoe windows have different corner radiuses</a></td></tr>
 <tr><td><a href='https://stonetools.ghost.io/lotus123-dos/'>Lotus 1-2-3 on the PC with DOS</a></td></tr>
+<tr><td><a href='https://lapcatsoftware.com/articles/2026/3/1.html'>macOS Tahoe windows have different corner radiuses</a></td></tr>
 <tr><td><a href='https://www.paradedb.com/blog/optimizing-top-k'>Optimizing Top K in Postgres</a></td></tr>
 <tr><td><a href='https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/'>No, it doesn&#x27;t cost Anthropic $5k per Claude Code user</a></td></tr>
 </table>
