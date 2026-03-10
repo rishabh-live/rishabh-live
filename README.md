@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html'>Tony Hoare has died</a></td></tr>
+<tr><td><a href='https://github.com/RunanywhereAI/rcli'>Show HN: RunAnwhere – Faster AI Inference on Apple Silicon</a></td></tr>
 <tr><td><a href='https://lwn.net/SubscriberLink/1061544/125f911834966dd0/'>Debian decides not to decide on AI-generated contributions</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/fhe-intel'>Intel Demos Chip to Compute with Encrypted Data</a></td></tr>
-<tr><td><a href='https://howisfelix.today/'>I put my whole life into a single database</a></td></tr>
 <tr><td><a href='https://ankursethi.com/blog/programming-language-claude-code/'>I built a programming language using Claude Code</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/fhe-intel'>Intel Demos Chip to Compute with Encrypted Data</a></td></tr>
 </table>
 <!-- END:news -->
 
