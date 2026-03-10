@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://entropicthoughts.com/rebasing-in-magit'>Rebasing in Magit</a></td></tr>
-<tr><td><a href='https://howisfelix.today/'>I put my whole life into a single database</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/fhe-intel'>Intel Demos Chip to Compute with Encrypted Data</a></td></tr>
+<tr><td><a href='https://howisfelix.today/'>I put my whole life into a single database</a></td></tr>
 <tr><td><a href='https://www.freebsd.org/releases/14.4R/announce/'>FreeBSD 14.4-Release Announcement</a></td></tr>
-<tr><td><a href='https://gultsch.de/posts/xmpp-via-http/'>Sending Jabber&#x2F;XMPP Messages via HTTP</a></td></tr>
+<tr><td><a href='https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html'>Online age-verification tools for child safety are surveilling adults</a></td></tr>
 </table>
 <!-- END:news -->
 
