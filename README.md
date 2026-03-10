@@ -25,7 +25,7 @@
 <tr><td><a href='https://stonetools.ghost.io/lotus123-dos/'>Lotus 1-2-3 on the PC with DOS</a></td></tr>
 <tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo</a></td></tr>
 <tr><td><a href='https://loger-project.github.io'>LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)</a></td></tr>
-<tr><td><a href='https://www.paradedb.com/blog/optimizing-top-k'>Optimizing Top K in Postgres</a></td></tr>
+<tr><td><a href='https://felixturner.github.io/hex-map-wfc/article/'>Building a Procedural Hex Map with Wave Function Collapse</a></td></tr>
 </table>
 <!-- END:news -->
 
