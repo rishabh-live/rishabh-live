@@ -24,8 +24,8 @@
 <tr><td><a href='https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html'>Tony Hoare has died</a></td></tr>
 <tr><td><a href='https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/'>After outages, Amazon to make senior engineers sign off on AI-assisted changes</a></td></tr>
 <tr><td><a href='https://ionathan.ch/2026/02/16/angzarr.html'>U+237C ⍼ Is Azimuth</a></td></tr>
-<tr><td><a href='https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/'>RISC-V Is Sloooow</a></td></tr>
 <tr><td><a href='https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep'>Agents that run while I sleep</a></td></tr>
+<tr><td><a href='https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/'>RISC-V Is Sloooow</a></td></tr>
 </table>
 <!-- END:news -->
 
