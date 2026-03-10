@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo</a></td></tr>
-<tr><td><a href='https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/'>Learnings from paying artists royalties for AI-generated art</a></td></tr>
 <tr><td><a href='https://www.paradedb.com/blog/optimizing-top-k'>Optimizing Top K in Postgres</a></td></tr>
+<tr><td><a href='https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/'>Claude Code, Claude Cowork and Codex #5</a></td></tr>
 <tr><td><a href='https://felixturner.github.io/hex-map-wfc/article/'>Building a Procedural Hex Map with Wave Function Collapse</a></td></tr>
 <tr><td><a href='https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/'>No, it doesn&#x27;t cost Anthropic $5k per Claude Code user</a></td></tr>
 </table>
