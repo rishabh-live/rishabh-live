@@ -24,7 +24,7 @@
 <tr><td><a href='https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md'>Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy</a></td></tr>
 <tr><td><a href='https://stonetools.ghost.io/lotus123-dos/'>Lotus 1-2-3 on the PC with DOS</a></td></tr>
 <tr><td><a href='https://www.rahuljuliato.com/posts/emacs-solo-two-years'>Two Years of Emacs Solo</a></td></tr>
-<tr><td><a href='https://www.paradedb.com/blog/optimizing-top-k'>Optimizing Top K in Postgres</a></td></tr>
+<tr><td><a href='https://lapcatsoftware.com/articles/2026/3/1.html'>macOS Tahoe windows have different corner radiuses</a></td></tr>
 <tr><td><a href='https://loger-project.github.io'>LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)</a></td></tr>
 </table>
 <!-- END:news -->
