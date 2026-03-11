@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bloomberg.github.io/js-blog/post/temporal/'>Temporal: A 9-year journey to fix time in JavaScript</a></td></tr>
 <tr><td><a href='https://doi.org/10.1073/pnas.2420092122'>Entities enabling scientific fraud at scale are large, resilient, growing (2025)</a></td></tr>
-<tr><td><a href='https://bloomberg.github.io/js-blog/post/temporal/'>Temporal: The 9-Year Journey to Fix Time in JavaScript</a></td></tr>
 <tr><td><a href='https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/'>Lego&#x27;s 0.002mm specification and its implications for manufacturing (2025)</a></td></tr>
+<tr><td><a href='https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz'>Wiz joins Google</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/BitNet'>Microsoft BitNet: 100B Param 1-Bit model for local CPUs</a></td></tr>
-<tr><td><a href='https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/'>Faster asin() was hiding in plain sight</a></td></tr>
 </table>
 <!-- END:news -->
 
