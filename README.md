@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html'>Create value for others and don’t worry about the returns</a></td></tr>
+<tr><td><a href='https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/'>Why does AI tell you to use Terminal so much?</a></td></tr>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-03-10'>Zig – Type Resolution Redesign and Language Changes</a></td></tr>
-<tr><td><a href='https://github.com/rcarmo/piclaw'>I&#x27;m going to build my own OpenClaw, with blackjack and bun</a></td></tr>
+<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html'>Create value for others and don’t worry about the returns</a></td></tr>
 <tr><td><a href='https://ionathan.ch/2026/02/16/angzarr.html'>U+237C ⍼ Is Azimuth</a></td></tr>
 <tr><td><a href='https://www.hume.ai/blog/opensource-tada'>TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization</a></td></tr>
 </table>
