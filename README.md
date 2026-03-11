@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/'>Lego&#x27;s 0.002 mm Specification and Its Implications for Manufacturing (2025)</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/BitNet'>Microsoft BitNet: 100B Param 1-Bit model for local CPUs</a></td></tr>
+<tr><td><a href='https://doi.org/10.1073/pnas.2420092122'>The entities enabling scientific fraud at scale are large, resilient and growing</a></td></tr>
+<tr><td><a href='https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/'>Whistleblower: DOGE member took Social Security data to new job</a></td></tr>
 <tr><td><a href='https://peppy.bot/'>PeppyOS: A simpler alternative to ROS 2 (now with containers support)</a></td></tr>
-<tr><td><a href='https://loopmaster.xyz/tutorials/tb303-from-scratch'>Building a TB-303 from Scratch</a></td></tr>
-<tr><td><a href='https://ziglang.org/devlog/2026/#2026-03-10'>Zig – Type Resolution Redesign and Language Changes</a></td></tr>
-<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html'>Create value for others and don’t worry about the returns</a></td></tr>
 </table>
 <!-- END:news -->
 
