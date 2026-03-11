@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/'>Lego&#x27;s 0.002 mm Specification and Its Implications for Manufacturing (2025)</a></td></tr>
-<tr><td><a href='https://github.com/microsoft/BitNet'>Microsoft BitNet: 100B Param 1-Bit model for local CPUs</a></td></tr>
 <tr><td><a href='https://doi.org/10.1073/pnas.2420092122'>The entities enabling scientific fraud at scale are large, resilient and growing</a></td></tr>
+<tr><td><a href='https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/'>Faster Asin() Was Hiding in Plain Sight</a></td></tr>
+<tr><td><a href='https://github.com/microsoft/BitNet'>Microsoft BitNet: 100B Param 1-Bit model for local CPUs</a></td></tr>
 <tr><td><a href='https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/'>Whistleblower: DOGE member took Social Security data to new job</a></td></tr>
-<tr><td><a href='https://peppy.bot/'>PeppyOS: A simpler alternative to ROS 2 (now with containers support)</a></td></tr>
 </table>
 <!-- END:news -->
 
