@@ -24,8 +24,8 @@
 <tr><td><a href='https://bloomberg.github.io/js-blog/post/temporal/'>Temporal: A nine-year journey to fix time in JavaScript</a></td></tr>
 <tr><td><a href='https://doi.org/10.1073/pnas.2420092122'>Entities enabling scientific fraud at scale are large, resilient, growing (2025)</a></td></tr>
 <tr><td><a href='https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/'>Making WebAssembly a first-class language on the Web</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/'>Where Some See Strings, She Sees a Space-Time Made of Fractals</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/BitNet'>BitNet: 100B Param 1-Bit model for local CPUs</a></td></tr>
-<tr><td><a href='https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz'>Wiz joins Google</a></td></tr>
 </table>
 <!-- END:news -->
 
