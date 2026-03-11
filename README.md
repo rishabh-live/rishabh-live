@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://loopmaster.xyz/tutorials/tb303-from-scratch'>Building a TB-303 from Scratch</a></td></tr>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-03-10'>Zig – Type Resolution Redesign and Language Changes</a></td></tr>
-<tr><td><a href='https://ionathan.ch/2026/02/16/angzarr.html'>U+237C ⍼ Is Azimuth</a></td></tr>
 <tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html'>Create value for others and don’t worry about the returns</a></td></tr>
 <tr><td><a href='https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/'>Cloudflare crawl endpoint</a></td></tr>
+<tr><td><a href='https://ionathan.ch/2026/02/16/angzarr.html'>U+237C ⍼ Is Azimuth</a></td></tr>
 </table>
 <!-- END:news -->
 
