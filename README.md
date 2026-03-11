@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://news.ycombinator.com/newsguidelines.html#generated'>Don&#x27;t post generated&#x2F;AI-edited comments. HN is for conversation between humans.</a></td></tr>
-<tr><td><a href='https://www.adriankrebs.ch/blog/dead-internet/'>The dead Internet is not a theory anymore</a></td></tr>
-<tr><td><a href='https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4'>Britain is ejecting hereditary nobles from Parliament after 700 years</a></td></tr>
 <tr><td><a href='https://bloomberg.github.io/js-blog/post/temporal/'>Temporal: A nine-year journey to fix time in JavaScript</a></td></tr>
+<tr><td><a href='https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/'>Many SWE-bench-Passing PRs would not be merged</a></td></tr>
 <tr><td><a href='https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/'>Making WebAssembly a first-class language on the Web</a></td></tr>
+<tr><td><a href='https://sitespy.app'>Show HN: I built a tool that watches webpages and exposes changes as RSS</a></td></tr>
 </table>
 <!-- END:news -->
 
