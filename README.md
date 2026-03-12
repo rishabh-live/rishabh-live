@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
 <tr><td><a href='https://parametricavocado.itch.io/amen-sorting'>Bubble Sorted Amen Break</a></td></tr>
+<tr><td><a href='https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html'>Reversing memory loss via gut-brain communication</a></td></tr>
 <tr><td><a href='https://github.com/onecli/onecli'>Show HN: OneCLI – Vault for AI Agents in Rust</a></td></tr>
 <tr><td><a href='https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html'>The Met Releases High-Def 3D Scans of 140 Famous Art Objects</a></td></tr>
-<tr><td><a href='https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller'>ATMs didn&#x27;t kill bank teller jobs, but the iPhone did</a></td></tr>
 </table>
 <!-- END:news -->
 
