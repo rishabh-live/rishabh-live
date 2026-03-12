@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook'>Big Data on the Cheapest MacBook</a></td></tr>
-<tr><td><a href='https://entropicthoughts.com/no-swe-bench-improvement'>Are LLMs not getting better?</a></td></tr>
 <tr><td><a href='https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/'>Dolphin Progress Release 2603</a></td></tr>
 <tr><td><a href='https://www.oliver-charles.com/pages/3d-knitting'>3D-Knitting: The Ultimate Guide</a></td></tr>
+<tr><td><a href='https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d'>US private credit defaults hit record 9.2% in 2025, Fitch says</a></td></tr>
 <tr><td><a href='https://iquilezles.org/articles/noacos/'>Avoiding Trigonometry (2013)</a></td></tr>
 </table>
 <!-- END:news -->
