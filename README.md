@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
 <tr><td><a href='https://parametricavocado.itch.io/amen-sorting'>Bubble Sorted Amen Break</a></td></tr>
+<tr><td><a href='https://rachelbythebay.com/w/2022/01/26/swcbbs/'>An old photo of a large BBS</a></td></tr>
 <tr><td><a href='https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller'>ATMs didn&#x27;t kill bank teller jobs, but the iPhone did</a></td></tr>
 <tr><td><a href='https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html'>Reversing memory loss via gut-brain communication</a></td></tr>
-<tr><td><a href='https://github.com/Luka12-dev/AurionOS'>Show HN: Aurion OS – A 32-bit GUI operating system written from scratch in C</a></td></tr>
 </table>
 <!-- END:news -->
 
