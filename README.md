@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://rachelbythebay.com/w/2022/01/26/swcbbs/'>An old photo of a large BBS (2022)</a></td></tr>
 <tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
 <tr><td><a href='https://parametricavocado.itch.io/amen-sorting'>Bubble Sorted Amen Break</a></td></tr>
 <tr><td><a href='https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html'>Reversing memory loss via gut-brain communication</a></td></tr>
 <tr><td><a href='https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller'>ATMs didn&#x27;t kill bank teller jobs, but the iPhone did</a></td></tr>
+<tr><td><a href='https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case'>AI error jails innocent grandmother for months in North Dakota fraud case</a></td></tr>
 </table>
 <!-- END:news -->
 
