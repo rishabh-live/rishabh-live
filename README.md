@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://micahflee.github.io/ice-contracts/'>ICE&#x2F;DHS gets hacked, all Contractors exposed</a></td></tr>
 <tr><td><a href='http://satproto.org/'>Show HN: s@: decentralized social networking over static sites</a></td></tr>
-<tr><td><a href='https://bloomberg.github.io/js-blog/post/temporal/'>Temporal: A nine-year journey to fix time in JavaScript</a></td></tr>
+<tr><td><a href='https://bloomberg.github.io/js-blog/post/temporal/'>Temporal: The 9-year journey to fix time in JavaScript</a></td></tr>
 <tr><td><a href='https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/'>Many SWE-bench-Passing PRs would not be merged</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/newsguidelines.html#generated'>Don&#x27;t post generated&#x2F;AI-edited comments. HN is for conversation between humans</a></td></tr>
+<tr><td><a href='https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/'>Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results</a></td></tr>
+<tr><td><a href='https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/'>Making WebAssembly a first-class language on the Web</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
