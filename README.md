@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/'>US banks&#x27; exposure to private credit hits $300B (2025)</a></td></tr>
-<tr><td><a href='https://github.com/obsessiondb/rudel'>Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work</a></td></tr>
-<tr><td><a href='https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/'>Dolphin Progress Release 2603</a></td></tr>
+<tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
+<tr><td><a href='https://codespeak.dev/'>Kotlin creator&#x27;s new language: a formal way to talk to LLMs instead of English</a></td></tr>
+<tr><td><a href='https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller'>ATMs didn&#x27;t kill bank Teller jobs, but the iPhone did</a></td></tr>
 <tr><td><a href='https://github.com/jrswab/axe'>Show HN: Axe A 12MB binary that replaces your AI framework</a></td></tr>
-<tr><td><a href='https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook'>Big Data on the Cheapest MacBook</a></td></tr>
 </table>
 <!-- END:news -->
 
