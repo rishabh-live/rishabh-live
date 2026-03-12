@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='http://satproto.org/'>Show HN: s@: decentralized social networking over static sites</a></td></tr>
 <tr><td><a href='https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/'>Returning to Rails in 2026</a></td></tr>
+<tr><td><a href='http://satproto.org/'>Show HN: s@: decentralized social networking over static sites</a></td></tr>
+<tr><td><a href='https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf'>SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]</a></td></tr>
 <tr><td><a href='https://bloomberg.github.io/js-blog/post/temporal/'>Temporal: The 9-year journey to fix time in JavaScript</a></td></tr>
 <tr><td><a href='https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/'>Making WebAssembly a first-class language on the Web</a></td></tr>
-<tr><td><a href='https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/'>Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results</a></td></tr>
 </table>
 <!-- END:news -->
 
