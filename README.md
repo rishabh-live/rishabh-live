@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters'>US- and Greek-owned tankers ablaze after Iran claims &#x27;underwater drone&#x27; strike</a></td></tr>
 <tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
+<tr><td><a href='https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html'>The Met Releases High-Def 3D Scans of 140 Famous Art Objects</a></td></tr>
 <tr><td><a href='https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/'>US banks&#x27; exposure to private credit hits $300B (2025)</a></td></tr>
 <tr><td><a href='https://codespeak.dev/'>Kotlin creator&#x27;s new language: a formal way to talk to LLMs instead of English</a></td></tr>
 <tr><td><a href='https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/'>Dolphin Progress Release 2603</a></td></tr>
