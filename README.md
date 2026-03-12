@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://micahflee.github.io/ice-contracts/'>ICE&#x2F;DHS gets hacked, all Contractors exposed</a></td></tr>
+<tr><td><a href='http://satproto.org/'>Show HN: s@: decentralized social networking over static sites</a></td></tr>
 <tr><td><a href='https://bloomberg.github.io/js-blog/post/temporal/'>Temporal: A nine-year journey to fix time in JavaScript</a></td></tr>
 <tr><td><a href='https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/'>Many SWE-bench-Passing PRs would not be merged</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/newsguidelines.html#generated'>Don&#x27;t post generated&#x2F;AI-edited comments. HN is for conversation between humans.</a></td></tr>
-<tr><td><a href='https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/'>Making WebAssembly a first-class language on the Web</a></td></tr>
-<tr><td><a href='https://support.apple.com/en-us/126632'>Apple releases iOS 15.8.7 to fix Coruna exploit for iPhone 6S from 2015</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/newsguidelines.html#generated'>Don&#x27;t post generated&#x2F;AI-edited comments. HN is for conversation between humans</a></td></tr>
 </table>
 <!-- END:news -->
 
