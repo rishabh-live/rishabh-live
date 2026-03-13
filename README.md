@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://onecloudplease.com/blog/bucketsquatting-is-finally-dead'>Bucketsquatting is (finally) dead</a></td></tr>
-<tr><td><a href='https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/'>Source code of Swedish e-government services has been leaked</a></td></tr>
 <tr><td><a href='https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/'>I traced $2B in grants and 45 states&#x27; lobbying behind age‑verification bills</a></td></tr>
+<tr><td><a href='https://prompt-caching.ai/'>Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)</a></td></tr>
 <tr><td><a href='https://sharif.io/looking-stupid'>Willingness to look stupid</a></td></tr>
-<tr><td><a href='https://www.percepta.ai/blog/can-llms-be-computers'>Executing programs inside transformers with exponentially faster inference</a></td></tr>
+<tr><td><a href='https://tui.studio/'>TUI Studio – visual terminal UI design tool</a></td></tr>
 </table>
 <!-- END:news -->
 
