@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://onecloudplease.com/blog/bucketsquatting-is-finally-dead'>Bucketsquatting is (finally) dead</a></td></tr>
 <tr><td><a href='https://sharif.io/looking-stupid'>Willingness to look stupid</a></td></tr>
+<tr><td><a href='https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/'>Source code of Swedish e-government services has been leaked</a></td></tr>
 <tr><td><a href='https://www.percepta.ai/blog/can-llms-be-computers'>Executing programs inside transformers with exponentially faster inference</a></td></tr>
 <tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
-<tr><td><a href='https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/'>“This is not the computer for you”</a></td></tr>
 </table>
 <!-- END:news -->
 
