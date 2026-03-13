@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/upper-up/meta-lobbying-and-other-findings'>Meta Platforms: Lobbying, Dark Money, and the App Store Accountability Act</a></td></tr>
-<tr><td><a href='https://github.com/pandas-dev/pandas/issues/64584'>OVH forgot they donated documentation hosting to Pandas</a></td></tr>
-<tr><td><a href='https://channelsurfer.tv/'>Channel Surfer – Watch YouTube Like It&#x27;s Cable TV</a></td></tr>
+<tr><td><a href='https://channelsurfer.tv'>Show HN: Channel Surfer – Watch YouTube like it’s cable TV</a></td></tr>
+<tr><td><a href='https://www.canirun.ai/'>Can I run AI locally?</a></td></tr>
 <tr><td><a href='https://tui.studio/'>TUI Studio – visual terminal UI design tool</a></td></tr>
-<tr><td><a href='https://www.canirun.ai/'>Can I Run AI locally?</a></td></tr>
+<tr><td><a href='https://www.runcaptain.com/'>Launch HN: Captain (YC W26) – Automated RAG for Files</a></td></tr>
+<tr><td><a href='https://github.com/upper-up/meta-lobbying-and-other-findings'>Meta Platforms: Lobbying, dark money, and the App Store Accountability Act</a></td></tr>
 </table>
 <!-- END:news -->
 
