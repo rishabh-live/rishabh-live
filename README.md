@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://channelsurfer.tv'>Show HN: Channel Surfer – Watch YouTube like it’s cable TV</a></td></tr>
 <tr><td><a href='https://www.canirun.ai/'>Can I run AI locally?</a></td></tr>
-<tr><td><a href='https://github.com/Hammerspoon/hammerspoon'>Hammerspoon</a></td></tr>
 <tr><td><a href='https://github.com/TomBadash/MouseControl'>Mouser: An open source alternative to Logi-Plus mouse software</a></td></tr>
+<tr><td><a href='https://github.com/Hammerspoon/hammerspoon'>Hammerspoon</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock'>Qatar helium shutdown puts chip supply chain on a two-week clock</a></td></tr>
 </table>
 <!-- END:news -->
