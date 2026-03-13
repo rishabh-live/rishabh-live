@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0'>Shall I implement it? No</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud'>Tennessee grandmother jailed after AI face recognition error links her to fraud</a></td></tr>
 <tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
 <tr><td><a href='https://parametricavocado.itch.io/amen-sorting'>Bubble Sorted Amen Break</a></td></tr>
 <tr><td><a href='https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html'>Reversing memory loss via gut-brain communication</a></td></tr>
-<tr><td><a href='https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller'>ATMs didn&#x27;t kill bank teller jobs, but the iPhone did</a></td></tr>
 </table>
 <!-- END:news -->
 
