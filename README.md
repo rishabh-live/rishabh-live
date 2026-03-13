@@ -24,8 +24,8 @@
 <tr><td><a href='https://sharif.io/looking-stupid'>Willingness to look stupid</a></td></tr>
 <tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
 <tr><td><a href='https://vite.dev/blog/announcing-vite8'>Vite 8.0 Is Out</a></td></tr>
-<tr><td><a href='https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/'>Prefix sums at gigabytes per second with ARM NEON</a></td></tr>
 <tr><td><a href='https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/'>“This is not the computer for you”</a></td></tr>
+<tr><td><a href='https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/'>Prefix sums at gigabytes per second with ARM NEON</a></td></tr>
 </table>
 <!-- END:news -->
 
