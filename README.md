@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://sharif.io/looking-stupid'>A willingness to look stupid is the most underrated moat in doing creative work</a></td></tr>
+<tr><td><a href='https://sharif.io/looking-stupid'>Willingness to look stupid</a></td></tr>
 <tr><td><a href='https://malus.sh'>Malus – Clean Room as a Service</a></td></tr>
-<tr><td><a href='https://pbj.deliberateinc.com/'>Can You Instruct a Robot to Make a PBJ Sandwich?</a></td></tr>
+<tr><td><a href='https://vite.dev/blog/announcing-vite8'>Vite 8.0 Is Out</a></td></tr>
+<tr><td><a href='https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda'>Hyperlinks in Terminal Emulators</a></td></tr>
 <tr><td><a href='https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0'>Shall I implement it? No</a></td></tr>
-<tr><td><a href='https://parametricavocado.itch.io/amen-sorting'>Bubble Sorted Amen Break</a></td></tr>
 </table>
 <!-- END:news -->
 
