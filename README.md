@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://medhir.com/blog/your-phone-is-an-entire-computer'>Your phone is an entire computer</a></td></tr>
 <tr><td><a href='https://channelsurfer.tv'>Show HN: Channel Surfer – Watch YouTube like it’s cable TV</a></td></tr>
 <tr><td><a href='https://www.canirun.ai/'>Can I run AI locally?</a></td></tr>
+<tr><td><a href='https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5'>Elon Musk pushes out more xAI founders as AI coding effort falters</a></td></tr>
 <tr><td><a href='https://github.com/Compresr-ai/Context-Gateway'>Show HN: Context Gateway – Compress agent context before it hits the LLM</a></td></tr>
-<tr><td><a href='https://tui.studio/'>TUI Studio – visual terminal UI design tool</a></td></tr>
-<tr><td><a href='https://github.com/Hammerspoon/hammerspoon'>Hammerspoon</a></td></tr>
 </table>
 <!-- END:news -->
 
