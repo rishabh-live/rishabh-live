@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.canirun.ai/'>Can I run AI locally?</a></td></tr>
 <tr><td><a href='https://github.com/Hammerspoon/hammerspoon'>Hammerspoon</a></td></tr>
 <tr><td><a href='https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate'>Stanford researchers report first recording of a blue whale&#x27;s heart rate (2019)</a></td></tr>
-<tr><td><a href='https://github.com/Compresr-ai/Context-Gateway'>Show HN: Context Gateway – Compress agent context before it hits the LLM</a></td></tr>
+<tr><td><a href='https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock'>Qatar helium shutdown puts chip supply chain on a two-week clock</a></td></tr>
 </table>
 <!-- END:news -->
 
