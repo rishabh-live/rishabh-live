@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable'>What happens when US economic data becomes unreliable</a></td></tr>
-<tr><td><a href='https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/'>Montana passes Right to Compute act (2025)</a></td></tr>
 <tr><td><a href='https://jazzband.co/news/2026/03/14/sunsetting-jazzband'>Sunsetting Jazzband</a></td></tr>
-<tr><td><a href='https://purplesyringa.moe/blog/an-ode-to-bzip/'>An Ode to Bzip</a></td></tr>
+<tr><td><a href='https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/'>Montana passes Right to Compute act (2025)</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cq571g9gd4lo'>The $2 per hour worker behind the OnlyFans boom</a></td></tr>
+<tr><td><a href='https://purplesyringa.moe/blog/an-ode-to-bzip/'>An Ode to Bzip</a></td></tr>
 </table>
 <!-- END:news -->
 
