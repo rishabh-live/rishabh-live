@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jazzband.co/news/2026/03/14/sunsetting-jazzband'>Sunsetting Jazzband</a></td></tr>
 <tr><td><a href='https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/'>Montana passes Right to Compute act (2025)</a></td></tr>
-<tr><td><a href='https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable'>What happens when US economic data becomes unreliable</a></td></tr>
 <tr><td><a href='https://hostilevolume.com/'>Hostile Volume – A game about adjusting volume with intentionally bad UI</a></td></tr>
-<tr><td><a href='https://support.claude.com/en/articles/14063676-claude-spring-break-usage-promotion'>Claude spring break usage promotion</a></td></tr>
+<tr><td><a href='https://github.com/liorwn/claudetop'>Claudetop – htop for Claude Code sessions (see your AI spend in real-time)</a></td></tr>
+<tr><td><a href='https://twitter.com/BrendanCarrFCC/status/2032855414233047172'>Head of FCC threatens broadcaster licenses over critical coverage of Iran war</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47379898'>Show HN: Ichinichi – One note per day, E2E encrypted, local-first</a></td></tr>
 </table>
 <!-- END:news -->
 
