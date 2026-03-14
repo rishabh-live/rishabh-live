@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable'>What happens when US economic data becomes unreliable</a></td></tr>
 <tr><td><a href='https://jazzband.co/news/2026/03/14/sunsetting-jazzband'>Sunsetting Jazzband</a></td></tr>
 <tr><td><a href='https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/'>Montana passes Right to Compute act (2025)</a></td></tr>
-<tr><td><a href='https://purplesyringa.moe/blog/an-ode-to-bzip/'>An Ode to Bzip</a></td></tr>
-<tr><td><a href='https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about'>Baochip-1x: What it is, why I&#x27;m doing it now and how it came about</a></td></tr>
+<tr><td><a href='https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable'>What happens when US economic data becomes unreliable</a></td></tr>
+<tr><td><a href='https://hostilevolume.com/'>Hostile Volume – A game about adjusting volume with intentionally bad UI</a></td></tr>
+<tr><td><a href='https://support.claude.com/en/articles/14063676-claude-spring-break-usage-promotion'>Claude spring break usage promotion</a></td></tr>
 </table>
 <!-- END:news -->
 
