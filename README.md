@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://backnotprop.com/blog/do-not-ab-test-my-workflow/'>Claude Code&#x27;s binary reveals silent A&#x2F;B tests on core features</a></td></tr>
 <tr><td><a href='https://claude.com/blog/1m-context-ga'>1M context is now generally available for Opus 4.6 and Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about'>Baochip-1x: What It Is, Why I&#x27;m Doing It Now and How It Came About</a></td></tr>
 <tr><td><a href='http://karpathy.github.io/2016/09/07/phd/'>A Survival Guide to a PhD (2016)</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock'>Qatar helium shutdown puts chip supply chain on a two-week clock</a></td></tr>
-<tr><td><a href='https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube'>You gotta think outside the hypercube</a></td></tr>
 </table>
 <!-- END:news -->
 
