@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.openttd.org/news/2026/03/14/steam-changes'>Changes to OpenTTD Distribution on Steam</a></td></tr>
 <tr><td><a href='https://github.com/xodn348/han'>Show HN: Han – A Korean programming language written in Rust</a></td></tr>
-<tr><td><a href='https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion'>Claude March 2026 usage promotion</a></td></tr>
+<tr><td><a href='https://agelesslinux.org/'>Ageless Linux. We are legally required to ask how old you are. We won&#x27;t</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-partner-network'>Anthropic invests $100M into the Claude Partner Network</a></td></tr>
-<tr><td><a href='https://stigmollerhansen.dk/resume/learning-creative-coding/'>Learning Creative Coding</a></td></tr>
+<tr><td><a href='https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion'>Claude March 2026 usage promotion</a></td></tr>
 </table>
 <!-- END:news -->
 
