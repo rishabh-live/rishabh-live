@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/'>MCP Is Dead; Long Live MCP</a></td></tr>
+<tr><td><a href='https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion'>Claude March 2026 usage promotion</a></td></tr>
 <tr><td><a href='https://www.gimp.org/news/2026/03/14/gimp-3-2-released/'>Gimp 3.2 Released</a></td></tr>
-<tr><td><a href='https://github.com/EdoStra/Marketing-for-Founders'>Marketing for Founders</a></td></tr>
-<tr><td><a href='https://hostilevolume.com/'>Hostile Volume – A game about adjusting volume with intentionally bad UI</a></td></tr>
 <tr><td><a href='https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/'>2026 tech layoffs reach 45,000 in March</a></td></tr>
+<tr><td><a href='https://hostilevolume.com/'>Hostile Volume – A game about adjusting volume with intentionally bad UI</a></td></tr>
+<tr><td><a href='https://github.com/EdoStra/Marketing-for-Founders'>Marketing for Founders</a></td></tr>
 </table>
 <!-- END:news -->
 
