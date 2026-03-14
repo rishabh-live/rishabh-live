@@ -24,8 +24,8 @@
 <tr><td><a href='https://claude.com/blog/1m-context-ga'>1M context is now generally available for Opus 4.6 and Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://benzimmermann.dev/blog/algolia-docsearch-admin-keys'>I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites</a></td></tr>
 <tr><td><a href='https://www.canirun.ai/'>Can I run AI locally?</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/cge84xqjg5lo'>Games with loot boxes to get minimum 16 age rating across Europe</a></td></tr>
 <tr><td><a href='https://channelsurfer.tv'>Show HN: Channel Surfer – Watch YouTube like it’s cable TV</a></td></tr>
-<tr><td><a href='https://github.com/TomBadash/MouseControl'>Mouser: An open source alternative to Logi-Plus mouse software</a></td></tr>
 </table>
 <!-- END:news -->
 
