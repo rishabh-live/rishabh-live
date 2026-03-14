@@ -25,7 +25,7 @@
 <tr><td><a href='https://claude.com/blog/1m-context-ga'>1M context is now generally available for Opus 4.6 and Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about'>Baochip-1x: What It Is, Why I&#x27;m Doing It Now and How It Came About</a></td></tr>
 <tr><td><a href='https://github.com/drojaazu/megadev'>Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware</a></td></tr>
-<tr><td><a href='https://backnotprop.com/blog/do-not-ab-test-my-workflow/'>Please Do Not A&#x2F;B Test My Workflow</a></td></tr>
+<tr><td><a href='https://cemrehancavdar.com/2026/03/10/optimization-ladder/'>Python: The Optimization Ladder</a></td></tr>
 </table>
 <!-- END:news -->
 
