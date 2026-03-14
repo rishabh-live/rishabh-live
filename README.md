@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.openttd.org/news/2026/03/14/steam-changes'>Changes to OpenTTD Distribution on Steam</a></td></tr>
 <tr><td><a href='https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion'>Claude March 2026 usage promotion</a></td></tr>
 <tr><td><a href='https://github.com/xodn348/han'>Show HN: Han – A Korean programming language written in Rust</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-partner-network'>Anthropic invests $100M into the Claude Partner Network</a></td></tr>
 <tr><td><a href='https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/'>Fedora 44 on the Raspberry Pi 5</a></td></tr>
-<tr><td><a href='https://hostilevolume.com/'>Hostile Volume – A game about adjusting volume with intentionally bad UI</a></td></tr>
-<tr><td><a href='https://github.com/EdoStra/Marketing-for-Founders'>Marketing for Founders</a></td></tr>
 </table>
 <!-- END:news -->
 
