@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://benzimmermann.dev/blog/algolia-docsearch-admin-keys'>I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites</a></td></tr>
+<tr><td><a href='https://claude.com/blog/1m-context-ga'>1M context is now generally available for Opus 4.6 and Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://www.canirun.ai/'>Can I run AI locally?</a></td></tr>
-<tr><td><a href='https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/'>Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group</a></td></tr>
 <tr><td><a href='https://channelsurfer.tv'>Show HN: Channel Surfer – Watch YouTube like it’s cable TV</a></td></tr>
 <tr><td><a href='https://github.com/TomBadash/MouseControl'>Mouser: An open source alternative to Logi-Plus mouse software</a></td></tr>
 </table>
