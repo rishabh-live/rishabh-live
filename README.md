@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/'>Montana passes Right to Compute act</a></td></tr>
+<tr><td><a href='https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/'>Montana passes Right to Compute act (2025)</a></td></tr>
 <tr><td><a href='https://claude.com/blog/1m-context-ga'>1M context is now generally available for Opus 4.6 and Sonnet 4.6</a></td></tr>
 <tr><td><a href='https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about'>Baochip-1x: What it is, why I&#x27;m doing it now and how it came about</a></td></tr>
-<tr><td><a href='https://unplannedobsolescence.com/blog/xml-cheap-dsl/'>XML Is a Cheap DSL</a></td></tr>
 <tr><td><a href='https://cemrehancavdar.com/2026/03/10/optimization-ladder/'>Python: The Optimization Ladder</a></td></tr>
+<tr><td><a href='https://www.eater.com/23651631/cookie-jar-trend-appreciation-collecting-history'>Cookie jars capture American kitsch (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
