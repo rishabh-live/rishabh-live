@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable'>What happens when US economic data becomes unreliable</a></td></tr>
 <tr><td><a href='https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/'>Montana passes Right to Compute act (2025)</a></td></tr>
 <tr><td><a href='https://claude.com/blog/1m-context-ga'>1M context is now generally available for Opus 4.6 and Sonnet 4.6</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=mzS7dmCUzcQ'>AI Gets Wrong Woman Jailed for Six Months, Life Ruined</a></td></tr>
 <tr><td><a href='https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about'>Baochip-1x: What it is, why I&#x27;m doing it now and how it came about</a></td></tr>
-<tr><td><a href='https://cemrehancavdar.com/2026/03/10/optimization-ladder/'>Python: The Optimization Ladder</a></td></tr>
-<tr><td><a href='https://nmap.org/movies/'>NMAP in the Movies</a></td></tr>
 </table>
 <!-- END:news -->
 
