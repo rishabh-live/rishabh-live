@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/'>Montana passes Right to Compute act (2025)</a></td></tr>
 <tr><td><a href='https://hostilevolume.com/'>Hostile Volume – A game about adjusting volume with intentionally bad UI</a></td></tr>
-<tr><td><a href='https://github.com/liorwn/claudetop'>Claudetop – htop for Claude Code sessions (see your AI spend in real-time)</a></td></tr>
-<tr><td><a href='https://twitter.com/BrendanCarrFCC/status/2032855414233047172'>Head of FCC threatens broadcaster licenses over critical coverage of Iran war</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47379898'>Show HN: Ichinichi – One note per day, E2E encrypted, local-first</a></td></tr>
+<tr><td><a href='https://www.gimp.org/news/2026/03/14/gimp-3-2-released/'>Gimp 3.2 Released</a></td></tr>
+<tr><td><a href='https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/'>2026 tech layoffs reach 45,000 in March</a></td></tr>
+<tr><td><a href='https://github.com/EdoStra/Marketing-for-Founders'>Marketing for Founders</a></td></tr>
+<tr><td><a href='https://chrlschn.dev/blog/2026/03/mcp-is-dead-long-live-mcp/'>MCP Is Dead; Long Live MCP</a></td></tr>
 </table>
 <!-- END:news -->
 
