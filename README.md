@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://office.eu/media/pressrelease-20260304'>Office.eu launches as Europe&#x27;s sovereign office platform</a></td></tr>
 <tr><td><a href='https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/'>What makes Intel Optane stand out (2023)</a></td></tr>
-<tr><td><a href='https://isaacfreund.com/blog/river-window-management/'>Separating the Wayland Compositor and Window Manager</a></td></tr>
+<tr><td><a href='https://isaacfreund.com/blog/river-window-management/'>Separating the Wayland compositor and window manager</a></td></tr>
+<tr><td><a href='https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma'>C++26: The Oxford Variadic Comma</a></td></tr>
 <tr><td><a href='https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode'>Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories</a></td></tr>
 <tr><td><a href='https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/'>In Memoriam: John W. Addison, my PhD advisor</a></td></tr>
 </table>
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
