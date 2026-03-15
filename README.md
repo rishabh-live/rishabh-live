@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Let your Coding Agent debug the browser session with Chrome DevTools MCP</a></td></tr>
-<tr><td><a href='https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/'>What makes Intel Optane stand out (2023)</a></td></tr>
-<tr><td><a href='https://isaacfreund.com/blog/river-window-management/'>Separating the Wayland compositor and window manager</a></td></tr>
-<tr><td><a href='https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/'>In Memoriam: John W. Addison, my PhD advisor</a></td></tr>
+<tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB Web Page</a></td></tr>
 <tr><td><a href='https://sebastianraschka.com/llm-architecture-gallery/'>LLM Architecture Gallery</a></td></tr>
+<tr><td><a href='https://go.dev/blog/inliner'>&#x2F;&#x2F;go:fix inline and the source-level inliner</a></td></tr>
+<tr><td><a href='https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/'>What makes Intel Optane stand out (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
