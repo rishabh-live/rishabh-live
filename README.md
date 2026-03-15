@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried'>Grandparents are glued to their phones, families are worried [video]</a></td></tr>
 <tr><td><a href='https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/'>What makes Intel Optane stand out (2023)</a></td></tr>
-<tr><td><a href='https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode'>Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories</a></td></tr>
-<tr><td><a href='https://r2d3.us/visual-intro-to-machine-learning-part-1/'>A Visual Introduction to Machine Learning (2015)</a></td></tr>
-<tr><td><a href='https://firthemouse.github.io/'>Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300</a></td></tr>
+<tr><td><a href='https://www.theolympus.net/13531/'>Tech companies defeat bill as AI drains local water supplies</a></td></tr>
 <tr><td><a href='https://isaacfreund.com/blog/river-window-management/'>Separating the Wayland Compositor and Window Manager</a></td></tr>
+<tr><td><a href='https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode'>Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories</a></td></tr>
 </table>
 <!-- END:news -->
 
