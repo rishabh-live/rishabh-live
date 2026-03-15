@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Let your Coding Agent debug the browser session with Chrome DevTools MCP</a></td></tr>
 <tr><td><a href='https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/'>What makes Intel Optane stand out (2023)</a></td></tr>
 <tr><td><a href='https://isaacfreund.com/blog/river-window-management/'>Separating the Wayland compositor and window manager</a></td></tr>
-<tr><td><a href='https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma'>C++26: The Oxford Variadic Comma</a></td></tr>
-<tr><td><a href='https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode'>Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories</a></td></tr>
 <tr><td><a href='https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/'>In Memoriam: John W. Addison, my PhD advisor</a></td></tr>
+<tr><td><a href='https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma'>C++26: The Oxford Variadic Comma</a></td></tr>
 </table>
 <!-- END:news -->
 
