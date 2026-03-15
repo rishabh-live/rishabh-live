@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sa.lj.am/rack-mount-hydroponics/'>Rack-mount hydroponics</a></td></tr>
+<tr><td><a href='https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html'>The Appalling Stupidity of Spotify&#x27;s AI DJ</a></td></tr>
 <tr><td><a href='https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/'>Why Mathematica does not simplify sinh(arccosh(x))</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cg4g7kn99q3o'>Treasure hunter freed from jail after refusing to turn over shipwreck gold</a></td></tr>
 <tr><td><a href='https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html'>A most elegant TCP hole punching algorithm</a></td></tr>
-<tr><td><a href='https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/'>How kernel anti-cheats work</a></td></tr>
 </table>
 <!-- END:news -->
 
