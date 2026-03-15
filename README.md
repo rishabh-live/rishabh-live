@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/'>What makes Intel Optane stand out (2023)</a></td></tr>
-<tr><td><a href='https://cbmg.umd.edu/news-events/news/brantley-hall-umd-scientists-create-smart-underwear-measure-human-flatulence'>UMD Scientists Create &#x27;Smart Underwear&#x27; to Measure Human Flatulence</a></td></tr>
 <tr><td><a href='https://r2d3.us/visual-intro-to-machine-learning-part-1/'>A Visual Introduction to Machine Learning (2015)</a></td></tr>
 <tr><td><a href='https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode'>Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories</a></td></tr>
 <tr><td><a href='https://firthemouse.github.io/'>Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300</a></td></tr>
+<tr><td><a href='https://signet.watch'>Show HN: Signet – Autonomous wildfire tracking from satellite and weather data</a></td></tr>
 </table>
 <!-- END:news -->
 
