@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.openttd.org/news/2026/03/14/steam-changes'>Changes to OpenTTD Distribution on Steam</a></td></tr>
+<tr><td><a href='https://agelesslinux.org/'>Ageless Linux – Software for humans of indeterminate age</a></td></tr>
 <tr><td><a href='https://github.com/xodn348/han'>Show HN: Han – A Korean programming language written in Rust</a></td></tr>
-<tr><td><a href='https://agelesslinux.org/'>Ageless Linux. We are legally required to ask how old you are. We won&#x27;t</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-partner-network'>Anthropic invests $100M into the Claude Partner Network</a></td></tr>
+<tr><td><a href='https://www.openttd.org/news/2026/03/14/steam-changes'>Changes to OpenTTD Distribution on Steam</a></td></tr>
+<tr><td><a href='https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european'>Airbus is preparing two uncrewed combat aircraft</a></td></tr>
 <tr><td><a href='https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion'>Claude March 2026 usage promotion</a></td></tr>
 </table>
 <!-- END:news -->
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
