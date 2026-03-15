@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://r2d3.us/visual-intro-to-machine-learning-part-1/'>A Visual Introduction to Machine Learning</a></td></tr>
-<tr><td><a href='https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html'>The Appalling Stupidity of Spotify&#x27;s AI DJ</a></td></tr>
 <tr><td><a href='https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket'>$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor</a></td></tr>
+<tr><td><a href='https://r2d3.us/visual-intro-to-machine-learning-part-1/'>A Visual Introduction to Machine Learning</a></td></tr>
+<tr><td><a href='https://hnlyman.github.io/pages/prime32_I.html'>Generating All 32-Bit Primes (Part I)</a></td></tr>
 <tr><td><a href='https://sa.lj.am/rack-mount-hydroponics/'>Rack-mount hydroponics</a></td></tr>
-<tr><td><a href='https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/'>Why Mathematica does not simplify sinh(arccosh(x))</a></td></tr>
+<tr><td><a href='https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html'>The Appalling Stupidity of Spotify&#x27;s AI DJ</a></td></tr>
 </table>
 <!-- END:news -->
 
