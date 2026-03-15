@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://agelesslinux.org/'>Ageless Linux – Software for humans of indeterminate age</a></td></tr>
-<tr><td><a href='https://github.com/xodn348/han'>Show HN: Han – A Korean programming language written in Rust</a></td></tr>
 <tr><td><a href='https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european'>Airbus is preparing two uncrewed combat aircraft</a></td></tr>
-<tr><td><a href='https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals'>Hazardous substances found in all headphones tested by ToxFREE project</a></td></tr>
-<tr><td><a href='https://david.alvarezrosa.com/posts/deriving-type-erasure/'>Deriving Type Erasure</a></td></tr>
+<tr><td><a href='https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/'>How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection</a></td></tr>
+<tr><td><a href='https://github.com/xodn348/han'>Show HN: Han – A Korean programming language written in Rust</a></td></tr>
+<tr><td><a href='https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/'>Tree Search Distillation for Language Models Using PPO</a></td></tr>
 </table>
 <!-- END:news -->
 
