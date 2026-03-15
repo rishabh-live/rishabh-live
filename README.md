@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Let your Coding Agent debug the browser session with Chrome DevTools MCP</a></td></tr>
-<tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB Web Page</a></td></tr>
-<tr><td><a href='https://go.dev/blog/inliner'>&#x2F;&#x2F;go:fix inline and the source-level inliner</a></td></tr>
+<tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Chrome DevTools MCP</a></td></tr>
+<tr><td><a href='https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/'>Canada&#x27;s bill C-22 mandates mass metadata surveillance of Canadians</a></td></tr>
+<tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB web page</a></td></tr>
 <tr><td><a href='https://sebastianraschka.com/llm-architecture-gallery/'>LLM Architecture Gallery</a></td></tr>
-<tr><td><a href='https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading'>Canada&#x27;s Bill C-22 Mandates Mass Metadata Surveillance of Canadians</a></td></tr>
+<tr><td><a href='https://github.com/lux-db/lux'>Show HN: Lux – Drop-in Redis replacement in Rust. 5.6x faster, ~1MB Docker image</a></td></tr>
 </table>
 <!-- END:news -->
 
