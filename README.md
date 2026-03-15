@@ -25,7 +25,7 @@
 <tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB Web Page</a></td></tr>
 <tr><td><a href='https://go.dev/blog/inliner'>&#x2F;&#x2F;go:fix inline and the source-level inliner</a></td></tr>
 <tr><td><a href='https://sebastianraschka.com/llm-architecture-gallery/'>LLM Architecture Gallery</a></td></tr>
-<tr><td><a href='https://isaacfreund.com/blog/river-window-management/'>Separating the Wayland compositor and window manager</a></td></tr>
+<tr><td><a href='https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-reading'>Canada&#x27;s Bill C-22 Mandates Mass Metadata Surveillance of Canadians</a></td></tr>
 </table>
 <!-- END:news -->
 
