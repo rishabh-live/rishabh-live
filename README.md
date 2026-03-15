@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://sa.lj.am/rack-mount-hydroponics/'>Rack-Mount Hydroponics</a></td></tr>
-<tr><td><a href='https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/'>Mathematics Distillation Challenge – Equational Theories</a></td></tr>
-<tr><td><a href='https://github.com/xodn348/han'>Show HN: Han – A Korean programming language written in Rust</a></td></tr>
-<tr><td><a href='https://agelesslinux.org/'>Ageless Linux – Software for humans of indeterminate age</a></td></tr>
+<tr><td><a href='https://sa.lj.am/rack-mount-hydroponics/'>Rack-mount hydroponics</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/cg4g7kn99q3o'>Treasure hunter freed from jail after refusing to turn over shipwreck gold</a></td></tr>
+<tr><td><a href='https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/'>How kernel anti-cheats work</a></td></tr>
 <tr><td><a href='https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html'>A most elegant TCP hole punching algorithm</a></td></tr>
+<tr><td><a href='https://github.com/xodn348/han'>Show HN: Han – A Korean programming language written in Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
