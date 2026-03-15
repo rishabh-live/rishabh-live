@@ -25,7 +25,7 @@
 <tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB Web Page</a></td></tr>
 <tr><td><a href='https://go.dev/blog/inliner'>&#x2F;&#x2F;go:fix inline and the source-level inliner</a></td></tr>
 <tr><td><a href='https://sebastianraschka.com/llm-architecture-gallery/'>LLM Architecture Gallery</a></td></tr>
-<tr><td><a href='https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/'>What makes Intel Optane stand out (2023)</a></td></tr>
+<tr><td><a href='https://isaacfreund.com/blog/river-window-management/'>Separating the Wayland compositor and window manager</a></td></tr>
 </table>
 <!-- END:news -->
 
