@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sa.lj.am/rack-mount-hydroponics/'>Rack-Mount Hydroponics</a></td></tr>
+<tr><td><a href='https://www.s-config.com/microslop/'>Microslop</a></td></tr>
 <tr><td><a href='https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/'>Mathematics Distillation Challenge – Equational Theories</a></td></tr>
-<tr><td><a href='https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/'>Tree Search Distillation for Language Models Using PPO</a></td></tr>
 <tr><td><a href='https://agelesslinux.org/'>Ageless Linux – Software for humans of indeterminate age</a></td></tr>
-<tr><td><a href='https://atgreen.github.io/repl-yell/posts/sbcl-fibers/'>SBCL Fibers – Lightweight Cooperative Threads</a></td></tr>
+<tr><td><a href='https://github.com/xodn348/han'>Show HN: Han – A Korean programming language written in Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
