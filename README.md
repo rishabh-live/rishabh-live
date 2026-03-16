@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Chrome DevTools MCP</a></td></tr>
 <tr><td><a href='https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/'>Canada&#x27;s bill C-22 mandates mass metadata surveillance of Canadians</a></td></tr>
+<tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Chrome DevTools MCP</a></td></tr>
 <tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB web page</a></td></tr>
-<tr><td><a href='https://sebastianraschka.com/llm-architecture-gallery/'>LLM Architecture Gallery</a></td></tr>
+<tr><td><a href='https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/'>Cannabinoids remove plaque-forming Alzheimer&#x27;s proteins from brain cells</a></td></tr>
 <tr><td><a href='https://tomjohnell.com/llms-can-be-absolutely-exhausting/'>LLMs can be exhausting</a></td></tr>
 </table>
 <!-- END:news -->
