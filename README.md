@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/'>Jemalloc un-abandoned by Meta</a></td></tr>
 <tr><td><a href='https://kevinboone.me/small_web_is_big.html'>The “small web” is bigger than you might think</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c70n2x7p22do'>Palestinian boy, 12, describes how Israeli forces killed his family in car</a></td></tr>
 <tr><td><a href='https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860'>My Journey to a reliable and enjoyable locally hosted voice assistant</a></td></tr>
 <tr><td><a href='https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative'>Apideck CLI – An AI-agent interface with much lower context consumption than MCP</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47401042'>Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps</a></td></tr>
-<tr><td><a href='https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/'>I Love FreeBSD</a></td></tr>
 </table>
 <!-- END:news -->
 
