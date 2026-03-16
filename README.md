@@ -24,7 +24,7 @@
 <tr><td><a href='https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full'>Corruption erodes social trust more in democracies than in autocracies</a></td></tr>
 <tr><td><a href='https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets'>MoD sources warn Palantir role at heart of government is threat to UK security</a></td></tr>
 <tr><td><a href='https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860'>My Journey to a reliable and enjoyable locally hosted voice assistant</a></td></tr>
-<tr><td><a href='https://hackerbrief.vercel.app/'>Show HN: Hackerbrief – Top posts on Hacker News summarized daily</a></td></tr>
+<tr><td><a href='https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/'>I Love FreeBSD</a></td></tr>
 <tr><td><a href='https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/'>Canada&#x27;s bill C-22 mandates mass metadata surveillance</a></td></tr>
 </table>
 <!-- END:news -->
