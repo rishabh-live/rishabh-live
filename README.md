@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full'>Corruption erodes social trust more in democracies than in autocracies</a></td></tr>
 <tr><td><a href='https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/'>Canada&#x27;s bill C-22 mandates mass metadata surveillance</a></td></tr>
 <tr><td><a href='https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/'>Polymarket gamblers threaten to kill me over Iran missile story</a></td></tr>
-<tr><td><a href='https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full'>Corruption erodes social trust more in democracies than in autocracies</a></td></tr>
 <tr><td><a href='https://www.stavros.io/posts/how-i-write-software-with-llms/'>How I write software with LLMs</a></td></tr>
 <tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB web page</a></td></tr>
 </table>
