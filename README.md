@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/'>Canada&#x27;s bill C-22 mandates mass metadata surveillance of Canadians</a></td></tr>
-<tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Chrome DevTools MCP</a></td></tr>
+<tr><td><a href='https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/'>What is agentic engineering?</a></td></tr>
+<tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Chrome DevTools MCP (2025)</a></td></tr>
 <tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB web page</a></td></tr>
-<tr><td><a href='https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/'>What Is Agentic Engineering?</a></td></tr>
-<tr><td><a href='https://tomjohnell.com/llms-can-be-absolutely-exhausting/'>LLMs can be exhausting</a></td></tr>
+<tr><td><a href='https://sebastianraschka.com/llm-architecture-gallery/'>LLM Architecture Gallery</a></td></tr>
 </table>
 <!-- END:news -->
 
