@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full'>Corruption erodes social trust more in democracies than in autocracies</a></td></tr>
-<tr><td><a href='https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets'>MoD sources warn Palantir role at heart of government is threat to UK security</a></td></tr>
 <tr><td><a href='https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860'>My Journey to a reliable and enjoyable locally hosted voice assistant</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2511.04427'>Speed at the Cost of Quality. Study of Use of Cursor AI in Open Source Projects</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47401042'>Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps</a></td></tr>
-<tr><td><a href='https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/'>I Love FreeBSD</a></td></tr>
+<tr><td><a href='https://kevinboone.me/small_web_is_big.html'>Kevin Boone: The &quot;small web&quot; is bigger than you might think</a></td></tr>
+<tr><td><a href='https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative'>Apideck CLI – An AI-agent interface with much lower context consumption than MCP</a></td></tr>
 </table>
 <!-- END:news -->
 
