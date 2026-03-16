@@ -24,8 +24,8 @@
 <tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-Source foundation for trustworthy vibe-coding</a></td></tr>
 <tr><td><a href='https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/'>Meta’s renewed commitment to jemalloc</a></td></tr>
 <tr><td><a href='https://kevinboone.me/small_web_is_big.html'>The “small web” is bigger than you might think</a></td></tr>
-<tr><td><a href='https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860'>My Journey to a reliable and enjoyable locally hosted voice assistant (2025)</a></td></tr>
 <tr><td><a href='https://github.com/rexrodeo/american-healthcare-conundrum'>US commercial insurers pay 254% of Medicare for the same hospital procedures</a></td></tr>
+<tr><td><a href='https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860'>My Journey to a reliable and enjoyable locally hosted voice assistant (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
