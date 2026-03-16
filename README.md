@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/'>Meta’s renewed commitment to jemalloc</a></td></tr>
 <tr><td><a href='https://kevinboone.me/small_web_is_big.html'>The “small web” is bigger than you might think</a></td></tr>
+<tr><td><a href='https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/'>Beyond Meat CEO &#x27;It&#x27;s Just Not the Moment for Plant-Based Meat&#x27; After Rebrand</a></td></tr>
 <tr><td><a href='https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860'>My Journey to a reliable and enjoyable locally hosted voice assistant (2025)</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2603.12229'>Language Model Teams as Distrbuted Systems</a></td></tr>
-<tr><td><a href='https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/'>Why I love FreeBSD</a></td></tr>
 </table>
 <!-- END:news -->
 
