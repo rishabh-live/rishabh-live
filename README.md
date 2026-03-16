@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets'>MoD sources warn Palantir role at heart of government is threat to UK security</a></td></tr>
 <tr><td><a href='https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860'>My Journey to a reliable and enjoyable locally hosted voice assistant</a></td></tr>
 <tr><td><a href='https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/'>I Love FreeBSD</a></td></tr>
-<tr><td><a href='https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/'>Canada&#x27;s bill C-22 mandates mass metadata surveillance</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47401042'>Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps</a></td></tr>
 </table>
 <!-- END:news -->
 
