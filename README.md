@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/'>Canada&#x27;s bill C-22 mandates mass metadata surveillance</a></td></tr>
-<tr><td><a href='https://www.stavros.io/posts/how-i-write-software-with-llms/'>How I write software with LLMs</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47397190'>Ask HN: What is it like being in a CS major program these days?</a></td></tr>
+<tr><td><a href='https://www.stavros.io/posts/how-i-write-software-with-llms/'>How I write software with LLMs</a></td></tr>
 <tr><td><a href='https://thatshubham.com/blog/news-audit'>The 49MB web page</a></td></tr>
 <tr><td><a href='https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session'>Chrome DevTools MCP (2025)</a></td></tr>
 </table>
