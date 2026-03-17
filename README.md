@@ -25,7 +25,7 @@
 <tr><td><a href='https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak'>Kagi Translate now supports LinkedIn Speak as an output language</a></td></tr>
 <tr><td><a href='https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech'>Reddit User Uncovers Who Is Behind Meta&#x27;s $2B Lobbying for Age Verification Tech</a></td></tr>
 <tr><td><a href='https://healeycodes.com/building-a-shell'>Building a Shell</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a></td></tr>
+<tr><td><a href='https://brianmoore.com/fontsmuggler/'>Font Smuggler – copy hidden brand fonts into Google Docs</a></td></tr>
 </table>
 <!-- END:news -->
 
