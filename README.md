@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://kagi.com/smallweb/'>Kagi Small Web</a></td></tr>
 <tr><td><a href='https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak'>Kagi Translate now supports LinkedIn Speak as an output language</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a></td></tr>
-<tr><td><a href='https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html'>The unlikely story of Teardown Multiplayer</a></td></tr>
 <tr><td><a href='https://healeycodes.com/building-a-shell'>Building a Shell</a></td></tr>
+<tr><td><a href='https://www.thefuriousopposites.com/p/grace-hoppers-revenge'>Grace Hopper&#x27;s Revenge</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a></td></tr>
 </table>
 <!-- END:news -->
 
