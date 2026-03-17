@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level'>Microsoft&#x27;s &#x27;unhackable&#x27; Xbox One has been hacked by &#x27;Bliss&#x27;</a></td></tr>
 <tr><td><a href='https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&amp;DocNum=5511'>Illinois Introducing Operating System Account Age Bill</a></td></tr>
 <tr><td><a href='https://kagi.com/smallweb/'>Kagi Small Web</a></td></tr>
+<tr><td><a href='https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems'>If you thought the code writing speed was your problem; you have bigger problems</a></td></tr>
 <tr><td><a href='https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system'>Node.js needs a virtual file system</a></td></tr>
-<tr><td><a href='https://theasc.com/articles/the-secret-agent-cinematography'>&#x27;The Secret Agent&#x27;: Exploring a Vibrant, yet Violent Brazil (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
