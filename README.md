@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://terathon.com/blog/decade-slug.html'>A Decade of Slug</a></td></tr>
-<tr><td><a href='https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level'>Microsoft&#x27;s &#x27;unhackable&#x27; Xbox One has been hacked by &#x27;Bliss&#x27;</a></td></tr>
 <tr><td><a href='https://fidget-spinner.github.io/posts/jit-on-track.html'>Python 3.15&#x27;s JIT is now back on track</a></td></tr>
 <tr><td><a href='https://github.com/gsd-build/get-shit-done'>Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System</a></td></tr>
-<tr><td><a href='https://kagi.com/smallweb/'>Kagi Small Web</a></td></tr>
+<tr><td><a href='https://github.com/garrytan/gstack/tree/main'>Garry Tan&#x27;s Claude Code Setup</a></td></tr>
+<tr><td><a href='https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level'>Microsoft&#x27;s &#x27;unhackable&#x27; Xbox One has been hacked by &#x27;Bliss&#x27;</a></td></tr>
 </table>
 <!-- END:news -->
 
