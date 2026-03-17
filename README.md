@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak'>Kagi Translate now supports LinkedIn Speak as an output language</a></td></tr>
-<tr><td><a href='https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/'>US SEC preparing to scrap quarterly reporting requirement</a></td></tr>
-<tr><td><a href='https://apenwarr.ca/log/20260316'>Every layer of review makes you 10x slower</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a></td></tr>
-<tr><td><a href='https://www.davesnider.com/posts/claude-3d'>Claude Tips for 3D Work</a></td></tr>
+<tr><td><a href='https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html'>The unlikely story of Teardown Multiplayer</a></td></tr>
+<tr><td><a href='https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/'>Meta’s renewed commitment to jemalloc</a></td></tr>
+<tr><td><a href='https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran'>Gitana 18: the new flying Ultim trimaran</a></td></tr>
+<tr><td><a href='https://kevinboone.me/small_web_is_big.html'>The “small web” is bigger than you might think</a></td></tr>
 </table>
 <!-- END:news -->
 
