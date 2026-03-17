@@ -24,7 +24,7 @@
 <tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a></td></tr>
 <tr><td><a href='https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html'>The unlikely story of Teardown Multiplayer</a></td></tr>
 <tr><td><a href='https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/'>Meta’s renewed commitment to jemalloc</a></td></tr>
-<tr><td><a href='https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran'>Gitana 18: the new flying Ultim trimaran</a></td></tr>
+<tr><td><a href='https://github.com/rexrodeo/american-healthcare-conundrum'>The American Healthcare Conundrum</a></td></tr>
 <tr><td><a href='https://kevinboone.me/small_web_is_big.html'>The “small web” is bigger than you might think</a></td></tr>
 </table>
 <!-- END:news -->
