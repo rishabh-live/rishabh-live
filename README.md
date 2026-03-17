@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/'>US SEC preparing to scrap quarterly reporting requirement</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a></td></tr>
 <tr><td><a href='https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/'>Meta’s renewed commitment to jemalloc</a></td></tr>
-<tr><td><a href='https://github.com/rexrodeo/american-healthcare-conundrum'>The American Healthcare Conundrum</a></td></tr>
 <tr><td><a href='https://kevinboone.me/small_web_is_big.html'>The “small web” is bigger than you might think</a></td></tr>
+<tr><td><a href='https://github.com/rexrodeo/american-healthcare-conundrum'>The American Healthcare Conundrum</a></td></tr>
 </table>
 <!-- END:news -->
 
