@@ -25,7 +25,7 @@
 <tr><td><a href='https://fidget-spinner.github.io/posts/jit-on-track.html'>Python 3.15&#x27;s JIT is now back on track</a></td></tr>
 <tr><td><a href='https://github.com/gsd-build/get-shit-done'>Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level'>Microsoft&#x27;s &#x27;unhackable&#x27; Xbox One has been hacked by &#x27;Bliss&#x27;</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=3Ploi723hg4'>It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]</a></td></tr>
+<tr><td><a href='https://nearzero.software/p/warranty-void-if-regenerated'>Warranty Void If Regenerated</a></td></tr>
 </table>
 <!-- END:news -->
 
