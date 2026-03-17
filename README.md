@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems'>If you thought the code writing speed was your problem; you have bigger problems</a></td></tr>
-<tr><td><a href='https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435'>Meta Horizon Worlds on Meta Quest is being discontinued</a></td></tr>
+<tr><td><a href='https://terathon.com/blog/decade-slug.html'>A Decade of Slug</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level'>Microsoft&#x27;s &#x27;unhackable&#x27; Xbox One has been hacked by &#x27;Bliss&#x27;</a></td></tr>
-<tr><td><a href='https://terathon.com/blog/decade-slug.html'>Slug Text Rendering Algorithm Dedicated to Public Domain</a></td></tr>
 <tr><td><a href='https://kagi.com/smallweb/'>Kagi Small Web</a></td></tr>
+<tr><td><a href='https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system'>Node.js needs a virtual file system</a></td></tr>
+<tr><td><a href='https://fidget-spinner.github.io/posts/jit-on-track.html'>Python 3.15&#x27;s JIT is now back on track</a></td></tr>
 </table>
 <!-- END:news -->
 
