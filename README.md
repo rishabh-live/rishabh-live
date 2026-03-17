@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://kagi.com/smallweb/'>Kagi Small Web</a></td></tr>
+<tr><td><a href='https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/'>Give Django your time and money, not your tokens</a></td></tr>
+<tr><td><a href='https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system'>Why Node.js needs a virtual file system</a></td></tr>
 <tr><td><a href='https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak'>Kagi Translate now supports LinkedIn Speak as an output language</a></td></tr>
 <tr><td><a href='https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech'>Reddit User Uncovers Who Is Behind Meta&#x27;s $2B Lobbying for Age Verification Tech</a></td></tr>
-<tr><td><a href='https://healeycodes.com/building-a-shell'>Building a Shell</a></td></tr>
-<tr><td><a href='https://brianmoore.com/fontsmuggler/'>Font Smuggler – copy hidden brand fonts into Google Docs</a></td></tr>
 </table>
 <!-- END:news -->
 
