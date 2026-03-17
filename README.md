@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/'>US SEC preparing to scrap quarterly reporting requirement</a></td></tr>
-<tr><td><a href='https://pixeldust.se/monkey-island-project'>Monkey Island for Commodore 64 Ground Up</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a></td></tr>
 <tr><td><a href='https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak'>Kagi Translate now supports LinkedIn Speak as an output language</a></td></tr>
+<tr><td><a href='https://pixeldust.se/monkey-island-project'>Monkey Island for Commodore 64 Ground Up</a></td></tr>
 <tr><td><a href='https://apenwarr.ca/log/20260316'>Every layer of review makes you 10x slower</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/leanstral'>Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a></td></tr>
 </table>
 <!-- END:news -->
 
