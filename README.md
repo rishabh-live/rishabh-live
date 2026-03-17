@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/'>Give Django your time and money, not your tokens</a></td></tr>
+<tr><td><a href='https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level'>Microsoft&#x27;s &#x27;unhackable&#x27; Xbox One has been hacked by &#x27;Bliss&#x27;</a></td></tr>
 <tr><td><a href='https://kagi.com/smallweb/'>Kagi Small Web</a></td></tr>
+<tr><td><a href='https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system'>Node.js needs a virtual file system</a></td></tr>
 <tr><td><a href='https://kalpadesktop.org/'>OpenSUSE Kalpa</a></td></tr>
-<tr><td><a href='https://ffmpeg.org/index.html#pr8.1'>FFmpeg 8.1</a></td></tr>
-<tr><td><a href='https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/'>Finding a CPU Design Bug in the Xbox 360</a></td></tr>
 </table>
 <!-- END:news -->
 
