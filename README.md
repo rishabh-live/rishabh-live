@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://notes.visaint.space/ai-coding-is-gambling/'>AI Coding Is Gambling</a></td></tr>
-<tr><td><a href='https://dbushell.com/2026/01/09/death-to-scroll-fade/'>Death to Scroll Fade</a></td></tr>
-<tr><td><a href='https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware'>Snowflake AI Escapes Sandbox and Executes Malware</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47428650'>Show HN: Will my flight have Starlink?</a></td></tr>
-<tr><td><a href='https://codeberg.org/susam/wander'>A tiny, decentralised tool to explore the small web</a></td></tr>
+<tr><td><a href='https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html'>Rob Pike&#x27;s Rules of Programming (1989)</a></td></tr>
+<tr><td><a href='https://openrocket.info/'>OpenRocket</a></td></tr>
+<tr><td><a href='https://awards.acm.org/about/2025-turing'>2025 Turing award given for quantum information science</a></td></tr>
+<tr><td><a href='https://github.com/NVIDIA/NemoClaw'>Nvidia NemoClaw</a></td></tr>
+<tr><td><a href='https://notes.visaint.space/ai-coding-is-gambling/'>AI coding is gambling</a></td></tr>
 </table>
 <!-- END:news -->
 
