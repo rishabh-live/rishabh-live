@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html'>Rob Pike&#x27;s 5 Rules of Programming</a></td></tr>
-<tr><td><a href='https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription'>Kagi is contemplating the removal of the assistant from its professional tier</a></td></tr>
-<tr><td><a href='https://www.sophielwang.com/blog/jpeg'>JPEG Compression</a></td></tr>
 <tr><td><a href='https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/'>OpenAI Has New Focus (On the IPO)</a></td></tr>
+<tr><td><a href='https://www.sophielwang.com/blog/jpeg'>JPEG Compression</a></td></tr>
 <tr><td><a href='https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/'>Write up of my homebrew CPU build</a></td></tr>
+<tr><td><a href='https://eon.systems/updates/embodied-brain-emulation'>How the Eon Team Produced a Virtual Embodied Fly</a></td></tr>
 </table>
 <!-- END:news -->
 
