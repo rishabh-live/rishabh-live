@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware'>Snowflake AI Escapes Sandbox and Executes Malware</a></td></tr>
 <tr><td><a href='https://codeberg.org/susam/wander'>A tiny, decentralised tool to explore the small web</a></td></tr>
 <tr><td><a href='https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html'>Rob Pike&#x27;s Rules of Programming (1989)</a></td></tr>
-<tr><td><a href='https://github.com/NVIDIA/NemoClaw'>Nvidia NemoClaw</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47428650'>Show HN: Will my flight have Starlink?</a></td></tr>
 </table>
 <!-- END:news -->
 
