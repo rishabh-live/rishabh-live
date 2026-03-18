@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html'>Rob Pike&#x27;s 5 Rules of Programming</a></td></tr>
-<tr><td><a href='https://whois.domaintools.com/aliens.gov'>Aliens.gov ~ domain registered 17MAR2026</a></td></tr>
 <tr><td><a href='https://nightingale.cafe/'>Nightingale – open-source karaoke app that works with any song on your computer</a></td></tr>
 <tr><td><a href='https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/'>Pandas Exercises for Data Analysis (Interactive)</a></td></tr>
 <tr><td><a href='https://www.sophielwang.com/blog/jpeg'>JPEG Compression</a></td></tr>
+<tr><td><a href='https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government'>Federal Cyber Experts Called Microsoft&#x27;s Cloud &quot;A Pile of Shit&quot;, yet Approved It</a></td></tr>
 </table>
 <!-- END:news -->
 
