@@ -25,7 +25,7 @@
 <tr><td><a href='https://susam.net/wander/'>Wander – A tiny, decentralised tool to explore the small web</a></td></tr>
 <tr><td><a href='https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html'>Rob Pike’s Rules of Programming (1989)</a></td></tr>
 <tr><td><a href='https://github.com/NVIDIA/NemoClaw'>Nvidia NemoClaw</a></td></tr>
-<tr><td><a href='https://huggingface.co/datasets/open-index/hacker-news'>Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m</a></td></tr>
+<tr><td><a href='https://nearzero.software/p/warranty-void-if-regenerated'>Warranty Void If Regenerated</a></td></tr>
 </table>
 <!-- END:news -->
 
