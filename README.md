@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.sophielwang.com/blog/jpeg'>JPEG Compression</a></td></tr>
 <tr><td><a href='https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/'>Write up of my homebrew CPU build</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/forge'>Mistral AI Releases Forge</a></td></tr>
-<tr><td><a href='https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/'>Celebrating Tony Hoare&#x27;s mark on computer science</a></td></tr>
 <tr><td><a href='https://terathon.com/blog/decade-slug.html'>A Decade of Slug</a></td></tr>
+<tr><td><a href='https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/'>Celebrating Tony Hoare&#x27;s mark on computer science</a></td></tr>
 </table>
 <!-- END:news -->
 
