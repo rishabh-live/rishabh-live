@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html'>Rob Pike&#x27;s Rules of Programming (1989)</a></td></tr>
 <tr><td><a href='https://openrocket.info/'>OpenRocket</a></td></tr>
-<tr><td><a href='https://awards.acm.org/about/2025-turing'>2025 Turing award given for quantum information science</a></td></tr>
 <tr><td><a href='https://huggingface.co/datasets/open-index/hacker-news'>Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m</a></td></tr>
-<tr><td><a href='https://notes.visaint.space/ai-coding-is-gambling/'>AI coding is gambling</a></td></tr>
+<tr><td><a href='https://susam.net/wander/'>Wanter – A tiny, decentralised tool to explore the small web</a></td></tr>
+<tr><td><a href='https://awards.acm.org/about/2025-turing'>2025 Turing award given for quantum information science</a></td></tr>
 </table>
 <!-- END:news -->
 
