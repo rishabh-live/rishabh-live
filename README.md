@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html'>Rob Pike&#x27;s 5 Rules of Programming</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/'>Measuring progress toward AGI: A cognitive framework</a></td></tr>
 <tr><td><a href='https://www.sophielwang.com/blog/jpeg'>JPEG Compression</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47386284'>Ask HN: What breaks first when your team grows from 10 to 50 people?</a></td></tr>
-<tr><td><a href='https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/'>Write up of my homebrew CPU build</a></td></tr>
+<tr><td><a href='https://nightingale.cafe/'>Nightingale – open-source karaoke app that works with any song on your computer</a></td></tr>
+<tr><td><a href='https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/'>Pandas Exercises for Data Analysis (Interactive)</a></td></tr>
 </table>
 <!-- END:news -->
 
