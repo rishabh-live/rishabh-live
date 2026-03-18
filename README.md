@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.sophielwang.com/blog/jpeg'>JPEG Compression</a></td></tr>
-<tr><td><a href='https://terathon.com/blog/decade-slug.html'>A Decade of Slug</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/forge'>Mistral AI Releases Forge</a></td></tr>
+<tr><td><a href='https://terathon.com/blog/decade-slug.html'>A Decade of Slug</a></td></tr>
+<tr><td><a href='https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/'>Write up of my homebrew CPU build</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level'>Microsoft&#x27;s &#x27;unhackable&#x27; Xbox One has been hacked by &#x27;Bliss&#x27;</a></td></tr>
-<tr><td><a href='https://openhardware.directory'>More than 135 open hardware devices flashable with your own firmware</a></td></tr>
 </table>
 <!-- END:news -->
 
