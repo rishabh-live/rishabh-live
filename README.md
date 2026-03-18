@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://terathon.com/blog/decade-slug.html'>A Decade of Slug</a></td></tr>
 <tr><td><a href='https://openhardware.directory'>More than 135 open hardware devices flashable with your own firmware</a></td></tr>
+<tr><td><a href='https://terathon.com/blog/decade-slug.html'>A Decade of Slug</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level'>Microsoft&#x27;s &#x27;unhackable&#x27; Xbox One has been hacked by &#x27;Bliss&#x27;</a></td></tr>
 <tr><td><a href='https://fidget-spinner.github.io/posts/jit-on-track.html'>Python 3.15&#x27;s JIT is now back on track</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/forge'>Mistral AI Releases Forge</a></td></tr>
