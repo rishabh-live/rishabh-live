@@ -24,8 +24,8 @@
 <tr><td><a href='https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code'>A sufficiently detailed spec is code</a></td></tr>
 <tr><td><a href='https://rjcorwin.github.io/cook/'>Cook: A simple CLI for orchestrating Claude Code</a></td></tr>
 <tr><td><a href='https://gitlab.com/IsolatedOctopi/nvidia_greenboost'>Nvidia greenboost: transparently extend GPU VRAM using system RAM&#x2F;NVMe</a></td></tr>
-<tr><td><a href='https://nearzero.software/p/warranty-void-if-regenerated'>Warranty Void If Regenerated</a></td></tr>
 <tr><td><a href='https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life'>Conway&#x27;s Game of Life, in real life</a></td></tr>
+<tr><td><a href='https://nearzero.software/p/warranty-void-if-regenerated'>Warranty Void If Regenerated</a></td></tr>
 </table>
 <!-- END:news -->
 
