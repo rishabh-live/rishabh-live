@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf'>Tesla: Failure of the FSD&#x27;s degradation detection system [pdf]</a></td></tr>
 <tr><td><a href='https://astral.sh/blog/openai'>Astral to Join OpenAI</a></td></tr>
-<tr><td><a href='https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/'>Google details new 24-hour process to sideload unverified Android apps</a></td></tr>
 <tr><td><a href='https://github.com/cockpit-project/cockpit'>Cockpit is a web-based graphical interface for servers</a></td></tr>
+<tr><td><a href='https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/'>Google details new 24-hour process to sideload unverified Android apps</a></td></tr>
 <tr><td><a href='https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742'>Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game</a></td></tr>
+<tr><td><a href='https://github.com/KittenML/KittenTTS'>Show HN: Three new Kitten TTS models – smallest less than 25MB</a></td></tr>
 </table>
 <!-- END:news -->
 
