@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.openttd.org/news/2026/03/19/steam-changes-update'>An update on Steam &#x2F; GOG changes for OpenTTD</a></td></tr>
 <tr><td><a href='https://github.com/KittenML/KittenTTS'>Show HN: Three new Kitten TTS models – smallest less than 25MB</a></td></tr>
 <tr><td><a href='https://taylor.town/succession-000'>How to Not Pay Your Taxes</a></td></tr>
-<tr><td><a href='https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography'>UK&#x27;s Ofcom has today fined 4chan £450k for not having age checks in place</a></td></tr>
+<tr><td><a href='https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742'>Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game</a></td></tr>
 </table>
 <!-- END:news -->
 
