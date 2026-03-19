@@ -25,7 +25,7 @@
 <tr><td><a href='https://undeadly.org/cgi?action=article;sid=20260319125859'>OpenBSD: PF queues break the 4 Gbps barrier</a></td></tr>
 <tr><td><a href='https://consequence.net/2019/07/juggalo-makeup-facial-recognition/'>Juggalo Makeup Blocks Facial Recognition Technology (2019)</a></td></tr>
 <tr><td><a href='https://matklad.github.io/2026/03/19/consensus-board-game.html'>Consensus Board Game</a></td></tr>
-<tr><td><a href='https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/'>Afroman found not liable in defamation case</a></td></tr>
+<tr><td><a href='https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/'>The Shape of Inequalities</a></td></tr>
 </table>
 <!-- END:news -->
 
