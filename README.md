@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://astral.sh/blog/openai'>Astral to Join OpenAI</a></td></tr>
-<tr><td><a href='https://consequence.net/2019/07/juggalo-makeup-facial-recognition/'>Juggalo Makeup Blocks Facial Recognition Technology</a></td></tr>
+<tr><td><a href='https://undeadly.org/cgi?action=article;sid=20260319125859'>OpenBSD: PF queues break the 4 Gbps barrier</a></td></tr>
+<tr><td><a href='https://consequence.net/2019/07/juggalo-makeup-facial-recognition/'>Juggalo Makeup Blocks Facial Recognition Technology (2019)</a></td></tr>
 <tr><td><a href='https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/'>Afroman found not liable in defamation case brought by Ohio cops who raided home</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html'>Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos</a></td></tr>
-<tr><td><a href='https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life'>Conway&#x27;s Game of Life, in real life</a></td></tr>
+<tr><td><a href='https://matklad.github.io/2026/03/19/consensus-board-game.html'>Consensus Board Game</a></td></tr>
 </table>
 <!-- END:news -->
 
