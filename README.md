@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://astral.sh/blog/openai'>Astral to Join OpenAI</a></td></tr>
 <tr><td><a href='https://github.com/KittenML/KittenTTS'>Show HN: Three new Kitten TTS models – smallest less than 25MB</a></td></tr>
+<tr><td><a href='https://www.openttd.org/news/2026/03/19/steam-changes-update'>An update on Steam &#x2F; GOG changes for OpenTTD</a></td></tr>
 <tr><td><a href='https://undeadly.org/cgi?action=article;sid=20260319125859'>OpenBSD: PF queues break the 4 Gbps barrier</a></td></tr>
 <tr><td><a href='https://consequence.net/2019/07/juggalo-makeup-facial-recognition/'>Juggalo Makeup Blocks Facial Recognition Technology (2019)</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47442452'>Launch HN: Voltair (YC W26) – Drone and charging network for power utilities</a></td></tr>
 </table>
 <!-- END:news -->
 
