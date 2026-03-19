@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/'>2% of ICML papers desk rejected because the authors used LLM in their reviews</a></td></tr>
 <tr><td><a href='https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life'>Conway&#x27;s Game of Life, in real life</a></td></tr>
 <tr><td><a href='https://gitlab.com/IsolatedOctopi/nvidia_greenboost'>Nvidia greenboost: transparently extend GPU VRAM using system RAM&#x2F;NVMe</a></td></tr>
+<tr><td><a href='https://ir.cwi.nl/pub/5998/5998D.pdf'>Stdwin: Standard window interface by Guido Van Rossum [pdf]</a></td></tr>
 <tr><td><a href='https://nearzero.software/p/warranty-void-if-regenerated'>Warranty Void If Regenerated</a></td></tr>
-<tr><td><a href='https://openrocket.info/'>OpenRocket</a></td></tr>
-<tr><td><a href='https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents'>Austin’s surge of new housing construction drove down rents</a></td></tr>
 </table>
 <!-- END:news -->
 
