@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://rjcorwin.github.io/cook/'>Cook: A simple CLI for orchestrating Claude Code</a></td></tr>
 <tr><td><a href='https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code'>A sufficiently detailed spec is code</a></td></tr>
+<tr><td><a href='https://rjcorwin.github.io/cook/'>Cook: A simple CLI for orchestrating Claude Code</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/features/81k-interviews'>What 81,000 people want from AI</a></td></tr>
 <tr><td><a href='https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents'>Austin’s surge of new housing construction drove down rents</a></td></tr>
 <tr><td><a href='https://gitlab.com/IsolatedOctopi/nvidia_greenboost'>Nvidia greenboost: transparently extend GPU VRAM using system RAM&#x2F;NVMe</a></td></tr>
-<tr><td><a href='https://nearzero.software/p/warranty-void-if-regenerated'>Warranty Void If Regenerated</a></td></tr>
 </table>
 <!-- END:news -->
 
