@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://astral.sh/blog/openai'>Astral to Join OpenAI</a></td></tr>
+<tr><td><a href='https://github.com/KittenML/KittenTTS'>Show HN: Three new Kitten TTS models – smallest less than 25MB</a></td></tr>
 <tr><td><a href='https://undeadly.org/cgi?action=article;sid=20260319125859'>OpenBSD: PF queues break the 4 Gbps barrier</a></td></tr>
 <tr><td><a href='https://consequence.net/2019/07/juggalo-makeup-facial-recognition/'>Juggalo Makeup Blocks Facial Recognition Technology (2019)</a></td></tr>
-<tr><td><a href='https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/'>The Shape of Inequalities</a></td></tr>
 <tr><td><a href='https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a'>macOS 26 breaks custom DNS settings including .internal</a></td></tr>
 </table>
 <!-- END:news -->
