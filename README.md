@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/anomalyco/opencode/pull/18186'>Anthropic takes legal action against OpenCode</a></td></tr>
 <tr><td><a href='https://astral.sh/blog/openai'>Astral to Join OpenAI</a></td></tr>
-<tr><td><a href='https://www.openttd.org/news/2026/03/19/steam-changes-update'>An update on Steam &#x2F; GOG changes for OpenTTD</a></td></tr>
 <tr><td><a href='https://github.com/KittenML/KittenTTS'>Show HN: Three new Kitten TTS models – smallest less than 25MB</a></td></tr>
+<tr><td><a href='https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/'>Google details new 24-hour process to sideload unverified Android apps</a></td></tr>
+<tr><td><a href='https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742'>Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game</a></td></tr>
 <tr><td><a href='https://www.iroh.computer/blog/noq-announcement'>Noq: n0&#x27;s new QUIC implementation in Rust</a></td></tr>
 </table>
 <!-- END:news -->
