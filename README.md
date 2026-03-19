@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f'>Denmark was reportedly preparing for full-scale war with the US over Greenland</a></td></tr>
-<tr><td><a href='https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/'>2% of ICML papers desk rejected because the authors used LLM in their reviews</a></td></tr>
 <tr><td><a href='https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life'>Conway&#x27;s Game of Life, in real life</a></td></tr>
-<tr><td><a href='https://gitlab.com/IsolatedOctopi/nvidia_greenboost'>Nvidia greenboost: transparently extend GPU VRAM using system RAM&#x2F;NVMe</a></td></tr>
+<tr><td><a href='https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/'>2% of ICML papers desk rejected because the authors used LLM in their reviews</a></td></tr>
 <tr><td><a href='https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/'>Afroman found not liable in defamation case brought by Ohio cops who raided home</a></td></tr>
+<tr><td><a href='https://gitlab.com/IsolatedOctopi/nvidia_greenboost'>Nvidia greenboost: transparently extend GPU VRAM using system RAM&#x2F;NVMe</a></td></tr>
+<tr><td><a href='https://nearzero.software/p/warranty-void-if-regenerated'>Warranty Void If Regenerated</a></td></tr>
 </table>
 <!-- END:news -->
 
