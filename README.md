@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell'>ArXiv Declares Independence from Cornell</a></td></tr>
-<tr><td><a href='https://www.fsf.org/blogs/licensing/2026-anthropic-settlement'>FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel</a></td></tr>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/'>Google details new 24-hour process to sideload unverified Android apps</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/channels'>Push events into a running session with channels</a></td></tr>
-<tr><td><a href='https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found'>Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found</a></td></tr>
+<tr><td><a href='https://ayosec.github.io/ffmpeg-drawvg/'>Drawvg Filter for FFmpeg</a></td></tr>
+<tr><td><a href='https://www.fsf.org/blogs/licensing/2026-anthropic-settlement'>FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel</a></td></tr>
 </table>
 <!-- END:news -->
 
