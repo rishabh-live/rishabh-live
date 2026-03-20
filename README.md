@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://code.claude.com/docs/en/channels'>Claude Code: Channels</a></td></tr>
-<tr><td><a href='https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years'>Wayland set the Linux Desktop back by 10 years</a></td></tr>
+<tr><td><a href='https://code.claude.com/docs/en/channels'>Push events into a running session with channels</a></td></tr>
 <tr><td><a href='https://astral.sh/blog/openai'>Astral to Join OpenAI</a></td></tr>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/'>Google details new 24-hour process to sideload unverified Android apps</a></td></tr>
-<tr><td><a href='https://github.com/cockpit-project/cockpit'>Cockpit is a web-based graphical interface for servers</a></td></tr>
+<tr><td><a href='https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404'>Drugwars for the TI-82&#x2F;83&#x2F;83 Calculators</a></td></tr>
+<tr><td><a href='https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found'>Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found</a></td></tr>
 </table>
 <!-- END:news -->
 
