@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell'>ArXiv Declares Independence from Cornell</a></td></tr>
+<tr><td><a href='https://blog.samaltman.com/ai'>AI (2014)</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2603.09229'>Flash-KMeans: Fast and Memory-Efficient Exact K-Means</a></td></tr>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/'>Google details new 24-hour process to sideload unverified Android apps</a></td></tr>
 <tr><td><a href='https://ayosec.github.io/ffmpeg-drawvg/'>Drawvg Filter for FFmpeg</a></td></tr>
-<tr><td><a href='https://www.sheldonbrown.com/pedicab.html'>The Soul of a Pedicab Driver</a></td></tr>
 </table>
 <!-- END:news -->
 
