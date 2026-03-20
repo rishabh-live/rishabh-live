@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/'>Oregon School Cell Phone Ban: &#x27;Engaged Students, Joyful Teachers&#x27;</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell'>ArXiv declares independence from Cornell</a></td></tr>
 <tr><td><a href='https://zserge.com/posts/visicalc/'>VisiCalc Reconstructed</a></td></tr>
-<tr><td><a href='https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/'>Entso-E final report on Iberian 2025 blackout</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell'>ArXiv declares independence from Cornell</a></td></tr>
 <tr><td><a href='https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild'>The Los Angeles Aqueduct Is Wild</a></td></tr>
+<tr><td><a href='https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/'>Entso-E final report on Iberian 2025 blackout</a></td></tr>
 </table>
 <!-- END:news -->
 
