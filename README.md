@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html'>France&#x27;s aircraft carrier located in real time by Le Monde through fitness app</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell'>ArXiv declares independence from Cornell</a></td></tr>
+<tr><td><a href='https://github.com/MoonshotAI/Attention-Residuals'>Attention Residuals</a></td></tr>
 <tr><td><a href='https://zserge.com/posts/visicalc/'>VisiCalc Reconstructed</a></td></tr>
 <tr><td><a href='https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild'>The Los Angeles Aqueduct Is Wild</a></td></tr>
-<tr><td><a href='https://github.com/MoonshotAI/Attention-Residuals'>Attention Residuals</a></td></tr>
+<tr><td><a href='https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1'>Parallel Perl – autoparallelizing interpreter with JIT</a></td></tr>
 </table>
 <!-- END:news -->
 
