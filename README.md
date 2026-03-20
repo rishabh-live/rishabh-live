@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell'>ArXiv Declares Independence from Cornell</a></td></tr>
 <tr><td><a href='https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/'>Entso-E final report on Iberian 2025 blackout</a></td></tr>
+<tr><td><a href='https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg'>Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2603.09229'>Flash-KMeans: Fast and Memory-Efficient Exact K-Means</a></td></tr>
 <tr><td><a href='https://www.sheldonbrown.com/pedicab.html'>The Soul of a Pedicab Driver</a></td></tr>
-<tr><td><a href='https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg'>Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg</a></td></tr>
 </table>
 <!-- END:news -->
 
