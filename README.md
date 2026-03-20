@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://code.claude.com/docs/en/channels'>Claude Code: Channels</a></td></tr>
-<tr><td><a href='https://astral.sh/blog/openai'>Astral to Join OpenAI</a></td></tr>
-<tr><td><a href='https://github.com/cockpit-project/cockpit'>Cockpit is a web-based graphical interface for servers</a></td></tr>
-<tr><td><a href='https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/'>Google details new 24-hour process to sideload unverified Android apps</a></td></tr>
 <tr><td><a href='https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years'>Wayland set the Linux Desktop back by 10 years</a></td></tr>
+<tr><td><a href='https://astral.sh/blog/openai'>Astral to Join OpenAI</a></td></tr>
+<tr><td><a href='https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/'>Google details new 24-hour process to sideload unverified Android apps</a></td></tr>
+<tr><td><a href='https://github.com/cockpit-project/cockpit'>Cockpit is a web-based graphical interface for servers</a></td></tr>
 </table>
 <!-- END:news -->
 
