@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/'>I&#x27;m OK being left behind, thanks</a></td></tr>
-<tr><td><a href='https://news.northwestern.edu/stories/2026/03/schizophrenia-study-finds-new-biomarker-drug-candidate-to-treat-cognitive-symptoms'>Schizophrenia study finds new biomarker, drug candidate to treat symptoms</a></td></tr>
-<tr><td><a href='https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/'>Chuck Norris Has Died</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell'>ArXiv Declares Independence from Cornell</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell'>ArXiv declares independence from Cornell</a></td></tr>
 <tr><td><a href='https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/'>Entso-E final report on Iberian 2025 blackout</a></td></tr>
+<tr><td><a href='https://zserge.com/posts/visicalc/'>VisiCalc Reconstructed</a></td></tr>
+<tr><td><a href='https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild'>The Los Angeles Aqueduct Is Wild</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2603.09229'>Flash-KMeans: Fast and Memory-Efficient Exact K-Means</a></td></tr>
 </table>
 <!-- END:news -->
 
