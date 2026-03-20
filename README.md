@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/'>Our commitment to Windows quality</a></td></tr>
 <tr><td><a href='https://opencode.ai/'>OpenCode – The open source AI coding agent</a></td></tr>
+<tr><td><a href='https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/'>Our commitment to Windows quality</a></td></tr>
 <tr><td><a href='https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html'>France&#x27;s aircraft carrier located in real time by Le Monde through fitness app</a></td></tr>
 <tr><td><a href='https://github.com/MoonshotAI/Attention-Residuals'>Attention Residuals</a></td></tr>
-<tr><td><a href='https://www.nippon.com/en/japan-data/h01362/'>A Japanese Glossary of Chopsticks Faux Pas</a></td></tr>
+<tr><td><a href='https://github.com/FormerLab/fortransky'>Show HN: We built a terminal-only Bluesky &#x2F; AT Proto client written in Fortran</a></td></tr>
 </table>
 <!-- END:news -->
 
