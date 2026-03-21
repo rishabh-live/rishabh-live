@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://tinygrad.org/#tinybox'>Tinybox- offline AI device 120B parameters</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some things just take time</a></td></tr>
+<tr><td><a href='https://news.dyne.org/child-protection-is-not-access-control/'>Do Not Turn Child Protection into Internet Access Control</a></td></tr>
 <tr><td><a href='https://grafeo.dev/'>Grafeo – A fast, lean, embeddable graph database built in Rust</a></td></tr>
 <tr><td><a href='https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/'>How Invisalign became the biggest user of 3D printers</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-03-hour-explosion.html'>The seven hour explosion nobody could explain</a></td></tr>
 </table>
 <!-- END:news -->
 
