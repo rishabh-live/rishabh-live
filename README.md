@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://news.dyne.org/child-protection-is-not-access-control/'>Do Not Turn Child Protection into Internet Access Control</a></td></tr>
 <tr><td><a href='https://tinygrad.org/#tinybox'>Tinybox- offline AI device 120B parameters</a></td></tr>
-<tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some things just take time</a></td></tr>
 <tr><td><a href='https://tooscut.app/'>Professional video editing, right in the browser with WebGPU and WASM</a></td></tr>
+<tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some things just take time</a></td></tr>
 <tr><td><a href='https://grafeo.dev/'>Grafeo – A fast, lean, embeddable graph database built in Rust</a></td></tr>
 </table>
 <!-- END:news -->
