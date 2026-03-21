@@ -24,8 +24,8 @@
 <tr><td><a href='https://opencode.ai/'>OpenCode – Open source AI coding agent</a></td></tr>
 <tr><td><a href='https://www.together.ai/blog/mamba-3'>Mamba-3</a></td></tr>
 <tr><td><a href='https://blogs.igalia.com/llepage/ffmpeg-101/'>FFmpeg 101 (2024)</a></td></tr>
-<tr><td><a href='https://bookofjoe2.blogspot.com/2026/02/molly-guard.html'>Molly Guard</a></td></tr>
 <tr><td><a href='https://www.nippon.com/en/japan-data/h01362/'>A Japanese glossary of chopsticks faux pas (2022)</a></td></tr>
+<tr><td><a href='https://bookofjoe2.blogspot.com/2026/02/molly-guard.html'>Molly Guard</a></td></tr>
 </table>
 <!-- END:news -->
 
