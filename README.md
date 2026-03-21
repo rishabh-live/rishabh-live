@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://dbushell.com/2026/03/20/denos-decline-and-layoffs/'>404 Deno CEO not found</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some Things Just Take Time</a></td></tr>
 <tr><td><a href='https://grafeo.dev/'>Grafeo – A fast, lean, embeddable graph database built in Rust</a></td></tr>
-<tr><td><a href='https://github.com/ARPAHLS/skillware'>Show HN: A deterministic middleware to compress LLM prompts by 50-80%</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c5yljdgwppzo'>Iran launched unsuccessful attack on UK&#x27;s Diego Garcia</a></td></tr>
+<tr><td><a href='https://dbushell.com/2026/03/20/denos-decline-and-layoffs/'>404 Deno CEO not found</a></td></tr>
 <tr><td><a href='https://opencode.ai/'>OpenCode – Open source AI coding agent</a></td></tr>
 </table>
 <!-- END:news -->
