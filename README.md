@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://opencode.ai/'>OpenCode – The open source AI coding agent</a></td></tr>
 <tr><td><a href='https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/'>Our commitment to Windows quality</a></td></tr>
-<tr><td><a href='https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029'>Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists</a></td></tr>
+<tr><td><a href='https://kellblog.com/2026/03/19/why-im-not-worried-about-running-out-of-work-in-the-age-of-ai/'>Why I&#x27;m Not Worried About Running Out of Work in the Age of AI</a></td></tr>
 <tr><td><a href='https://www.openui.com/blog/rust-wasm-parser'>We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster</a></td></tr>
-<tr><td><a href='https://gary.onl/a-post-about-watches/'>I love my dumb watches</a></td></tr>
+<tr><td><a href='https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html'>France&#x27;s aircraft carrier located in real time by Le Monde through fitness app</a></td></tr>
 </table>
 <!-- END:news -->
 
