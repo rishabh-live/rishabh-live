@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://android-developers.googleblog.com/2025/08/elevating-android-security.html'>Google adds 24-hour wait and mandatory reboot to Android sideloading flow</a></td></tr>
 <tr><td><a href='https://opencode.ai/'>OpenCode – Open source AI coding agent</a></td></tr>
 <tr><td><a href='https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/'>Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords</a></td></tr>
 <tr><td><a href='https://www.together.ai/blog/mamba-3'>Mamba-3</a></td></tr>
-<tr><td><a href='https://bookofjoe2.blogspot.com/2026/02/molly-guard.html'>Molly Guard</a></td></tr>
+<tr><td><a href='https://github.com/eggricesoy/filmkit'>Fujifilm X RAW STUDIO webapp clone</a></td></tr>
+<tr><td><a href='https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html'>France&#x27;s aircraft carrier located in real time by Le Monde through fitness app</a></td></tr>
 </table>
 <!-- END:news -->
 
