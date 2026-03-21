@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://opencode.ai/'>OpenCode – Open source AI coding agent</a></td></tr>
 <tr><td><a href='https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor'>Mayor of Paris removed parking spaces, &quot;drastically&quot; reduced the number of cars</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china'>Why western carmakers&#x27; retreat from electric risks dooming them to irrelevance</a></td></tr>
 <tr><td><a href='https://www.together.ai/blog/mamba-3'>Mamba-3</a></td></tr>
-<tr><td><a href='https://trigger.dev/blog/how-trql-works'>We give every user SQL access to a shared ClickHouse cluster</a></td></tr>
-<tr><td><a href='https://blogs.igalia.com/llepage/ffmpeg-101/'>FFmpeg 101 (2024)</a></td></tr>
+<tr><td><a href='https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1'>Meta&#x27;s Omnilingual MT for 1,600 Languages</a></td></tr>
 </table>
 <!-- END:news -->
 
