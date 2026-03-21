@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://dbushell.com/2026/03/20/denos-decline-and-layoffs/'>404 Deno CEO not found</a></td></tr>
+<tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some Things Just Take Time</a></td></tr>
+<tr><td><a href='https://grafeo.dev/'>Grafeo – A fast, lean, embeddable graph database built in Rust</a></td></tr>
 <tr><td><a href='https://opencode.ai/'>OpenCode – Open source AI coding agent</a></td></tr>
 <tr><td><a href='https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1'>Meta&#x27;s Omnilingual MT for 1,600 Languages</a></td></tr>
-<tr><td><a href='https://www.together.ai/blog/mamba-3'>Mamba-3</a></td></tr>
-<tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some Things Just Take Time</a></td></tr>
-<tr><td><a href='https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/'>Major leap towards reanimation after death as mammal&#x27;s brain preserved</a></td></tr>
 </table>
 <!-- END:news -->
 
