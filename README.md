@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://opencode.ai/'>OpenCode – Open source AI coding agent</a></td></tr>
 <tr><td><a href='https://www.together.ai/blog/mamba-3'>Mamba-3</a></td></tr>
-<tr><td><a href='https://blog.atuin.sh/atuin-v18-13/'>Atuin v18.13 – better search, a PTY proxy, and AI for your shell</a></td></tr>
 <tr><td><a href='https://blogs.igalia.com/llepage/ffmpeg-101/'>FFmpeg 101 (2024)</a></td></tr>
+<tr><td><a href='https://blog.atuin.sh/atuin-v18-13/'>Atuin v18.13 – better search, a PTY proxy, and AI for your shell</a></td></tr>
 <tr><td><a href='https://www.nippon.com/en/japan-data/h01362/'>A Japanese glossary of chopsticks faux pas (2022)</a></td></tr>
 </table>
 <!-- END:news -->
