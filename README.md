@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some Things Just Take Time</a></td></tr>
 <tr><td><a href='https://grafeo.dev/'>Grafeo – A fast, lean, embeddable graph database built in Rust</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/03/21/travel/travel-news-happiest-countries'>Passengers who refuse to use headphones can now be kicked off United flights</a></td></tr>
+<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html'>Democracy Is a Liability</a></td></tr>
 <tr><td><a href='https://opencode.ai/'>OpenCode – Open source AI coding agent</a></td></tr>
-<tr><td><a href='https://dbushell.com/2026/03/20/denos-decline-and-layoffs/'>404 Deno CEO not found</a></td></tr>
-<tr><td><a href='https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/'>ZJIT removes redundant object loads and stores</a></td></tr>
 </table>
 <!-- END:news -->
 
