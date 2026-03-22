@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</a></td></tr>
 <tr><td><a href='https://hormuz.pythonic.ninja/'>Hormuz Minesweeper – Are you tired of winning?</a></td></tr>
+<tr><td><a href='https://domenic.me/windows-native-dev/'>Windows native app development is a mess</a></td></tr>
 <tr><td><a href='https://www.john-rush.com/posts/eggs-25-years-20260219.html'>25 Years of Eggs</a></td></tr>
-<tr><td><a href='https://pooladkhay.com/posts/first-kernel-patch/'>My first patch to the Linux kernel</a></td></tr>
-<tr><td><a href='https://43081j.com/2026/03/three-pillars-of-javascript-bloat'>The three pillars of JavaScript bloat</a></td></tr>
+<tr><td><a href='https://www.inngest.com/blog/node-worker-threads'>Node.js worker threads are problematic, but they work great for us</a></td></tr>
 </table>
 <!-- END:news -->
 
