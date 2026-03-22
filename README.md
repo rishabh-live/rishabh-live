@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bramcohen.com/p/manyana'>The Future of Version Control</a></td></tr>
+<tr><td><a href='https://www.birkey.co/2026-03-22-why-i-love-nixos.html'>Why I love NixOS</a></td></tr>
 <tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-MoE: Running a 397B Parameter Model on a Laptop</a></td></tr>
 <tr><td><a href='https://www.projectnomad.us'>Project Nomad – Knowledge That Never Goes Offline</a></td></tr>
-<tr><td><a href='https://noquiche.fyi/voodoo'>Building an FPGA 3dfx Voodoo with Modern RTL Tools</a></td></tr>
-<tr><td><a href='https://bramcohen.com/p/manyana'>The Future of Version Control</a></td></tr>
-<tr><td><a href='https://jry.io/writing/you-are-not-your-job/'>You are not your job</a></td></tr>
+<tr><td><a href='https://stevekrouse.com/precision'>Reports of code&#x27;s death are greatly exaggerated</a></td></tr>
 </table>
 <!-- END:news -->
 
