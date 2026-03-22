@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</a></td></tr>
 <tr><td><a href='https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/'>Bored of eating your own dogfood? Try smelling your own farts</a></td></tr>
+<tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</a></td></tr>
 <tr><td><a href='https://hormuz.pythonic.ninja/'>Hormuz Minesweeper – Are you tired of winning?</a></td></tr>
-<tr><td><a href='https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/'>More common mistakes to avoid when creating system architecture diagrams</a></td></tr>
-<tr><td><a href='https://www.john-rush.com/posts/eggs-25-years-20260219.html'>25 Years of Eggs</a></td></tr>
+<tr><td><a href='https://emi-h.com/articles/a-case-against-currying.html'>A Case Against Currying</a></td></tr>
+<tr><td><a href='https://www.projectnomad.us'>Project Nomad – Knowledge That Never Goes Offline</a></td></tr>
 </table>
 <!-- END:news -->
 
