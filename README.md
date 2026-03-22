@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://hormuz.pythonic.ninja/'>Hormuz Minesweeper – Are you tired of winning?</a></td></tr>
-<tr><td><a href='https://43081j.com/2026/03/three-pillars-of-javascript-bloat'>The three pillars of JavaScript bloat</a></td></tr>
+<tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</a></td></tr>
 <tr><td><a href='https://www.john-rush.com/posts/eggs-25-years-20260219.html'>25 Years of Eggs</a></td></tr>
+<tr><td><a href='https://43081j.com/2026/03/three-pillars-of-javascript-bloat'>The three pillars of JavaScript bloat</a></td></tr>
 <tr><td><a href='https://pooladkhay.com/posts/first-kernel-patch/'>My first patch to the Linux kernel</a></td></tr>
-<tr><td><a href='https://tinygrad.org/#tinybox'>Tinybox – A powerful computer for deep learning</a></td></tr>
 </table>
 <!-- END:news -->
 
