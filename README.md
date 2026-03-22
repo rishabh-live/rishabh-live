@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://trustcompliance.xyz'>We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical</a></td></tr>
-<tr><td><a href='https://composio.dev/content/openclaw-security-and-vulnerabilities'>OpenClaw Is a Security Nightmare Dressed Up as a Daydream</a></td></tr>
-<tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading</a></td></tr>
-<tr><td><a href='https://bramcohen.com/p/manyana'>The Future of Version Control</a></td></tr>
+<tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></td></tr>
+<tr><td><a href='https://bramcohen.com/p/manyana'>The future of version control</a></td></tr>
 <tr><td><a href='https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/'>The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</a></td></tr>
+<tr><td><a href='https://stevekrouse.com/precision'>Reports of code&#x27;s death are greatly exaggerated</a></td></tr>
+<tr><td><a href='https://armaansood.com/posts/systems-reading-group/'>Five Years of Running a Systems Reading Group at Microsoft</a></td></tr>
 </table>
 <!-- END:news -->
 
