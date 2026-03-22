@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://43081j.com/2026/03/three-pillars-of-javascript-bloat'>The Three Pillars of JavaScript Bloat</a></td></tr>
+<tr><td><a href='https://43081j.com/2026/03/three-pillars-of-javascript-bloat'>The three pillars of JavaScript bloat</a></td></tr>
 <tr><td><a href='https://tinygrad.org/#tinybox'>Tinybox – Offline AI device 120B parameters</a></td></tr>
+<tr><td><a href='https://mtbest.net/chest-fridge/'>Chest Fridge (2009)</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some things just take time</a></td></tr>
 <tr><td><a href='https://tooscut.app/'>Professional video editing, right in the browser with WebGPU and WASM</a></td></tr>
-<tr><td><a href='https://mtbest.net/chest-fridge/'>Chest Fridge (2009)</a></td></tr>
 </table>
 <!-- END:news -->
 
