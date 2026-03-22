@@ -24,8 +24,8 @@
 <tr><td><a href='https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/'>Bored of eating your own dogfood? Try smelling your own farts</a></td></tr>
 <tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</a></td></tr>
 <tr><td><a href='https://noquiche.fyi/voodoo'>Building an FPGA 3dfx Voodoo with Modern RTL Tools</a></td></tr>
-<tr><td><a href='https://emi-h.com/articles/a-case-against-currying.html'>A Case Against Currying</a></td></tr>
 <tr><td><a href='https://www.projectnomad.us'>Project Nomad – Knowledge That Never Goes Offline</a></td></tr>
+<tr><td><a href='https://www.ibook-clamshell.com/index.php/en/'>iBook Clamshell</a></td></tr>
 </table>
 <!-- END:news -->
 
