@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bramcohen.com/p/manyana'>The Future of Version Control</a></td></tr>
+<tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading</a></td></tr>
 <tr><td><a href='https://composio.dev/content/openclaw-security-and-vulnerabilities'>OpenClaw Is a Security Nightmare Dressed Up as a Daydream</a></td></tr>
 <tr><td><a href='https://www.projectnomad.us'>Project Nomad – Knowledge That Never Goes Offline</a></td></tr>
-<tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-MoE: Running a 397B Parameter Model on a Laptop</a></td></tr>
-<tr><td><a href='https://www.farmprogress.com/forage/nebraska-wildfires-leave-ranchers-scrambling-for-forage'>Nebraska wildfires leave ranchers scrambling for forage</a></td></tr>
+<tr><td><a href='https://armaansood.com/posts/systems-reading-group/'>Five Years of Running a Systems Reading Group at Microsoft</a></td></tr>
 </table>
 <!-- END:news -->
 
