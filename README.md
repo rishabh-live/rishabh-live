@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://43081j.com/2026/03/three-pillars-of-javascript-bloat'>The three pillars of JavaScript bloat</a></td></tr>
-<tr><td><a href='https://zenodo.org/records/18976656'>Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence</a></td></tr>
 <tr><td><a href='https://pooladkhay.com/posts/first-kernel-patch/'>My first patch to the Linux kernel</a></td></tr>
 <tr><td><a href='https://tinygrad.org/#tinybox'>Tinybox – A powerful computer for deep learning</a></td></tr>
+<tr><td><a href='https://zenodo.org/records/18976656'>Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some things just take time</a></td></tr>
 </table>
 <!-- END:news -->
