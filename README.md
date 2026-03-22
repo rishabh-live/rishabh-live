@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://grapheneos.social/@GrapheneOS/116261301913660830'>GrapheneOS will remain usable by anyone without requiring personal information</a></td></tr>
 <tr><td><a href='https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html'>Rust Project Perspectives on AI</a></td></tr>
 <tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></td></tr>
 <tr><td><a href='https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/'>The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</a></td></tr>
 <tr><td><a href='https://bramcohen.com/p/manyana'>The future of version control</a></td></tr>
+<tr><td><a href='https://stevekrouse.com/precision'>Reports of code&#x27;s death are greatly exaggerated</a></td></tr>
 </table>
 <!-- END:news -->
 
