@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</a></td></tr>
 <tr><td><a href='https://noquiche.fyi/voodoo'>Building an FPGA 3dfx Voodoo with Modern RTL Tools</a></td></tr>
 <tr><td><a href='https://www.projectnomad.us'>Project Nomad – Knowledge That Never Goes Offline</a></td></tr>
-<tr><td><a href='https://www.ibook-clamshell.com/index.php/en/'>iBook Clamshell</a></td></tr>
+<tr><td><a href='https://blog.alaindichiappari.dev/p/convincing-is-not-persuading'>Convincing Is Not Persuading</a></td></tr>
 </table>
 <!-- END:news -->
 
