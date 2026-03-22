@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.p4m.dev/posts/29/index.html'>I Hate: Programming Wayland Applications</a></td></tr>
-<tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM</a></td></tr>
-<tr><td><a href='https://noquiche.fyi/voodoo'>Building an FPGA 3dfx Voodoo with Modern RTL Tools</a></td></tr>
+<tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-MoE: Running a 397B Parameter Model on a Laptop</a></td></tr>
 <tr><td><a href='https://www.projectnomad.us'>Project Nomad – Knowledge That Never Goes Offline</a></td></tr>
-<tr><td><a href='https://bramcohen.com/p/manyana'>A Coherent Vision for the Future of Version Control</a></td></tr>
+<tr><td><a href='https://noquiche.fyi/voodoo'>Building an FPGA 3dfx Voodoo with Modern RTL Tools</a></td></tr>
+<tr><td><a href='https://bramcohen.com/p/manyana'>The Future of Version Control</a></td></tr>
+<tr><td><a href='https://jry.io/writing/you-are-not-your-job/'>You are not your job</a></td></tr>
 </table>
 <!-- END:news -->
 
