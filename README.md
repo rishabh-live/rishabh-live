@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bramcohen.com/p/manyana'>The Future of Version Control</a></td></tr>
-<tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-MoE: Running a 397B Parameter Model on a Laptop</a></td></tr>
 <tr><td><a href='https://www.projectnomad.us'>Project Nomad – Knowledge That Never Goes Offline</a></td></tr>
+<tr><td><a href='https://github.com/danveloper/flash-moe'>Flash-MoE: Running a 397B Parameter Model on a Laptop</a></td></tr>
 <tr><td><a href='https://avaloniaui.net/blog/maui-avalonia-preview-1'>MAUI Is Coming to Linux</a></td></tr>
-<tr><td><a href='https://about.doordash.com/en-us/news/introducing-doordash-tasks'>Introducing DoorDash Tasks</a></td></tr>
+<tr><td><a href='https://armaansood.com/posts/systems-reading-group/'>Five Years of Running a Systems Reading Group at Microsoft</a></td></tr>
 </table>
 <!-- END:news -->
 
