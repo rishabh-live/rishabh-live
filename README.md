@@ -25,7 +25,7 @@
 <tr><td><a href='https://tinygrad.org/#tinybox'>Tinybox – Offline AI device 120B parameters</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/'>Some things just take time</a></td></tr>
 <tr><td><a href='https://tooscut.app/'>Professional video editing, right in the browser with WebGPU and WASM</a></td></tr>
-<tr><td><a href='https://github.com/hectorvent/floci'>Floci – A free, open-source local AWS emulator</a></td></tr>
+<tr><td><a href='https://mtbest.net/chest-fridge/'>Chest Fridge (2009)</a></td></tr>
 </table>
 <!-- END:news -->
 
