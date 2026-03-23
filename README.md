@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>I tried Karpathy&#x27;s Autoresearch on an old research project</a></td></tr>
+<tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>Autoresearch on an old research idea</a></td></tr>
 <tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
-<tr><td><a href='https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise'>Trivy under attack again: Widespread GitHub Actions tag compromise secrets</a></td></tr>
-<tr><td><a href='https://iev.ee/blog/the-quadratic-problem-nobody-fixed/'>The quadratic problem nobody fixed</a></td></tr>
 <tr><td><a href='https://github.com/localstack/localstack'>Local Stack Archived their GitHub repo and requires an account to run</a></td></tr>
+<tr><td><a href='https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise'>Trivy under attack again: Widespread GitHub Actions tag compromise secrets</a></td></tr>
+<tr><td><a href='https://iev.ee/blog/the-quadratic-problem-nobody-fixed/'>Finding all regex matches has always been O(n²)</a></td></tr>
 </table>
 <!-- END:news -->
 
