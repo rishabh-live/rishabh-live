@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>Autoresearch on an old research idea</a></td></tr>
-<tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
 <tr><td><a href='https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers'>FCC Updates Covered List to Include Foreign-Made Consumer Routers</a></td></tr>
-<tr><td><a href='https://cc.storyfox.cz'>Printable Claude Code Cheat Sheet (auto-updated daily)</a></td></tr>
-<tr><td><a href='https://www.fcc.gov/document/fcc-adds-routers-produced-foreign-countries-covered-list'>FCC Adds Routers Produced in Foreign Countries to Covered List</a></td></tr>
+<tr><td><a href='https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/'>Hacker Mints $80M USD Worth of USR Stablecoins</a></td></tr>
+<tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
+<tr><td><a href='https://neilkakkar.com/productive-with-claude-code.html'>How I&#x27;m Productive with Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
