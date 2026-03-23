@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://isitapint.com/'>Is it a pint?</a></td></tr>
+<tr><td><a href='https://github.com/jer-irl/threadprocs'>Show HN: Threadprocs – executables sharing one address space (0-copy pointers)</a></td></tr>
 <tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
 <tr><td><a href='https://github.com/antithesishq/bombadil'>Bombadil: Property-based testing for web UIs</a></td></tr>
-<tr><td><a href='https://skylarbpayne.com/posts/dspy-engineering-patterns/'>If DSPy is so great, why isn&#x27;t anyone using it?</a></td></tr>
-<tr><td><a href='https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf'>An unsolicited guide to being a researcher [pdf]</a></td></tr>
+<tr><td><a href='https://www.cyber.mil/stigs/downloads'>Cyber.mil serving file downloads using TLS certificate which expired 3 days ago</a></td></tr>
 </table>
 <!-- END:news -->
 
