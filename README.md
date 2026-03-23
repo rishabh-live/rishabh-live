@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>I tried Karpathy&#x27;s Autoresearch on an old research project</a></td></tr>
 <tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
 <tr><td><a href='https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise'>Trivy under attack again: Widespread GitHub Actions tag compromise secrets</a></td></tr>
-<tr><td><a href='https://www.cyber.mil/stigs/downloads'>Cyber.mil serving file downloads using TLS certificate which expired 3 days ago</a></td></tr>
 <tr><td><a href='https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/'>BIO: The Bao I&#x2F;O Coprocessor</a></td></tr>
-<tr><td><a href='https://github.com/antithesishq/bombadil'>Bombadil: Property-based testing for web UIs</a></td></tr>
+<tr><td><a href='https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html'>US govt pays TotalEnergies nearly $1B to stop US offshore wind projects</a></td></tr>
 </table>
 <!-- END:news -->
 
