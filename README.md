@@ -25,7 +25,7 @@
 <tr><td><a href='https://indieweb.org/POSSE'>POSSE – Publish on your Own Site, Syndicate Elsewhere</a></td></tr>
 <tr><td><a href='https://www.sciencedirect.com/science/article/pii/S016517652200283X'>Attractive students no longer receive better results as classes moved online</a></td></tr>
 <tr><td><a href='https://www.theregister.com/2026/02/10/github_outages/'>GitHub appears to be struggling with measly three nines availability</a></td></tr>
-<tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></td></tr>
+<tr><td><a href='https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/'>General Motors Is Assisting with the Restoration of a Rare EV1</a></td></tr>
 </table>
 <!-- END:news -->
 
