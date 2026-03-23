@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/'>I Built an AI Receptionist for a Luxury Mechanic Shop – Part 1</a></td></tr>
 <tr><td><a href='https://indieweb.org/POSSE'>POSSE – Publish on your Own Site, Syndicate Elsewhere</a></td></tr>
-<tr><td><a href='https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071'>Walmart: ChatGPT checkout converted 3x worse than website</a></td></tr>
 <tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></td></tr>
+<tr><td><a href='https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071'>Walmart: ChatGPT checkout converted 3x worse than website</a></td></tr>
 <tr><td><a href='https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9'>Tin Can, a &#x27;landline&#x27; for kids</a></td></tr>
-<tr><td><a href='https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html'>Can you get root with only a cigarette lighter? (2024)</a></td></tr>
 </table>
 <!-- END:news -->
 
