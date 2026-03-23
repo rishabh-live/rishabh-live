@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://skylarbpayne.com/posts/dspy-engineering-patterns/'>If Dspy is so great, why isn&#x27;t anyone using it?</a></td></tr>
 <tr><td><a href='https://github.com/antithesishq/bombadil'>Bombadil: Property-based testing for web UIs by Antithesis</a></td></tr>
+<tr><td><a href='https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses'>Study: &#x27;Security Fatigue&#x27; May Weaken Digital Defenses</a></td></tr>
 <tr><td><a href='https://rz01.org/eu-migration/'>Migrating to the EU</a></td></tr>
 <tr><td><a href='https://indieweb.org/POSSE'>POSSE – Publish on your Own Site, Syndicate Elsewhere</a></td></tr>
-<tr><td><a href='https://www.sciencedirect.com/science/article/pii/S016517652200283X'>Attractive students no longer receive better results as classes moved online</a></td></tr>
-<tr><td><a href='https://www.theregister.com/2026/02/10/github_outages/'>GitHub appears to be struggling with measly three nines availability</a></td></tr>
 </table>
 <!-- END:news -->
 
