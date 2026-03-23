@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>Autoresearch on an old research idea</a></td></tr>
 <tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
-<tr><td><a href='https://iev.ee/blog/the-quadratic-problem-nobody-fixed/'>Finding all regex matches has always been O(n²)</a></td></tr>
-<tr><td><a href='https://github.com/dune3d/dune3d'>Dune3d: A parametric 3D CAD application</a></td></tr>
-<tr><td><a href='https://github.com/localstack/localstack'>Local Stack Archived their GitHub repo and requires an account to run</a></td></tr>
+<tr><td><a href='https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers'>FCC Updates Covered List to Include Foreign-Made Consumer Routers</a></td></tr>
+<tr><td><a href='https://cc.storyfox.cz'>Printable Claude Code Cheat Sheet (auto-updated daily)</a></td></tr>
+<tr><td><a href='https://www.fcc.gov/document/fcc-adds-routers-produced-foreign-countries-covered-list'>FCC Adds Routers Produced in Foreign Countries to Covered List</a></td></tr>
 </table>
 <!-- END:news -->
 
