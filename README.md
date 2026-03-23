@@ -24,8 +24,8 @@
 <tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></td></tr>
 <tr><td><a href='https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/'>The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</a></td></tr>
 <tr><td><a href='https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9'>Tin Can, a &#x27;landline&#x27; for kids</a></td></tr>
+<tr><td><a href='https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html'>Can you get root with only a cigarette lighter? (2024)</a></td></tr>
 <tr><td><a href='https://bramcohen.com/p/manyana'>The future of version control</a></td></tr>
-<tr><td><a href='https://stevekrouse.com/precision'>Reports of code&#x27;s death are greatly exaggerated</a></td></tr>
 </table>
 <!-- END:news -->
 
