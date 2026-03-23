@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://rz01.org/eu-migration/'>Migrating to the EU</a></td></tr>
 <tr><td><a href='https://indieweb.org/POSSE'>POSSE – Publish on your Own Site, Syndicate Elsewhere</a></td></tr>
+<tr><td><a href='https://www.sciencedirect.com/science/article/pii/S016517652200283X'>Attractive students no longer receive better results as classes moved online</a></td></tr>
 <tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></td></tr>
-<tr><td><a href='https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9'>Tin Can, a &#x27;landline&#x27; for kids</a></td></tr>
-<tr><td><a href='https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/'>The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</a></td></tr>
+<tr><td><a href='https://www.theregister.com/2026/02/10/github_outages/'>GitHub appears to be struggling with measly three nines availability</a></td></tr>
 </table>
 <!-- END:news -->
 
