@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>Autoresearch on an old research idea</a></td></tr>
-<tr><td><a href='https://neilkakkar.com/productive-with-claude-code.html'>How I&#x27;m Productive with Claude Code</a></td></tr>
 <tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
 <tr><td><a href='https://iev.ee/blog/the-quadratic-problem-nobody-fixed/'>Finding all regex matches has always been O(n²)</a></td></tr>
+<tr><td><a href='https://github.com/dune3d/dune3d'>Dune3d: A parametric 3D CAD application</a></td></tr>
 <tr><td><a href='https://github.com/localstack/localstack'>Local Stack Archived their GitHub repo and requires an account to run</a></td></tr>
 </table>
 <!-- END:news -->
