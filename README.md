@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html'>Rust Project Perspectives on AI</a></td></tr>
 <tr><td><a href='https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/'>PC Gamer recommends RSS readers in a 37mb article that just keeps downloading</a></td></tr>
 <tr><td><a href='https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/'>The gold standard of optimization: A look under the hood of RollerCoaster Tycoon</a></td></tr>
 <tr><td><a href='https://bramcohen.com/p/manyana'>The future of version control</a></td></tr>
 <tr><td><a href='https://stevekrouse.com/precision'>Reports of code&#x27;s death are greatly exaggerated</a></td></tr>
+<tr><td><a href='https://www.birkey.co/2026-03-22-why-i-love-nixos.html'>Why I love NixOS</a></td></tr>
 </table>
 <!-- END:news -->
 
