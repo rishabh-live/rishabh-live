@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/andreasjansson/win-3.1-backgrounds'>Windows 3.1 tiled background .bmp archive</a></td></tr>
-<tr><td><a href='https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers'>FCC Updates Covered List to Include Foreign-Made Consumer Routers</a></td></tr>
 <tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>Autoresearch on an old research idea</a></td></tr>
+<tr><td><a href='https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers'>FCC Updates Covered List to Include Foreign-Made Consumer Routers</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c74787w149zo'>US bans new foreign-made consumer Internet routers</a></td></tr>
 <tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
-<tr><td><a href='https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/'>Ju Ci: The Art of Repairing Porcelain</a></td></tr>
 </table>
 <!-- END:news -->
 
