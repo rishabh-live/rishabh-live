@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead'>I wanted to build vertical SaaS for pest control, so I took a technician job</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/'>Apple Business</a></td></tr>
 <tr><td><a href='https://github.com/BerriAI/litellm/issues/24512'>Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</a></td></tr>
-<tr><td><a href='https://github.com/t8/hypura'>Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon</a></td></tr>
 <tr><td><a href='https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/'>Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains</a></td></tr>
-<tr><td><a href='https://newsroom.arm.com/blog/introducing-arm-agi-cpu'>Arm AGI CPU</a></td></tr>
+<tr><td><a href='https://github.com/t8/hypura'>Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon</a></td></tr>
 </table>
 <!-- END:news -->
 
