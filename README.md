@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/BerriAI/litellm/issues/24512'>LiteLLM Python package compromised by supply-chain attack</a></td></tr>
+<tr><td><a href='https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/'>ARM AGI CPU: Specs and SKUs</a></td></tr>
 <tr><td><a href='https://github.com/t8/hypura'>Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe</a></td></tr>
 <tr><td><a href='https://antithesis.com/blog/2026/hegel/'>Hypothesis, Antithesis, Synthesis</a></td></tr>
-<tr><td><a href='https://notermsnoconditions.com'>No Terms. No Conditions</a></td></tr>
-<tr><td><a href='https://github.com/ssrajadh/sentrysearch'>Show HN: Gemini can now natively embed video, so I built sub-second video search</a></td></tr>
+<tr><td><a href='https://newsroom.arm.com/blog/introducing-arm-agi-cpu'>Arm AGI CPU</a></td></tr>
 </table>
 <!-- END:news -->
 
