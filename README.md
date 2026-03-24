@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://newsroom.arm.com/blog/introducing-arm-agi-cpu'>Arm AGI CPU</a></td></tr>
+<tr><td><a href='https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/'>Epic Games to cut more than 1k jobs as Fortnite usage falls</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/'>Apple Business</a></td></tr>
 <tr><td><a href='https://github.com/t8/hypura'>Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon</a></td></tr>
-<tr><td><a href='https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/'>Epic Games to cut more than 1k jobs as Fortnite usage falls</a></td></tr>
-<tr><td><a href='https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/'>ARM AGI CPU: Specs and SKUs</a></td></tr>
+<tr><td><a href='https://github.com/BerriAI/litellm/issues/24512'>Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</a></td></tr>
 </table>
 <!-- END:news -->
 
