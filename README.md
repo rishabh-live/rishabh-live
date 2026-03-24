@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/BerriAI/litellm/issues/24512'>LiteLLM Python package compromised by supply-chain attack</a></td></tr>
 <tr><td><a href='https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/'>ARM AGI CPU: Specs and SKUs</a></td></tr>
-<tr><td><a href='https://github.com/t8/hypura'>Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe</a></td></tr>
-<tr><td><a href='https://antithesis.com/blog/2026/hegel/'>Hypothesis, Antithesis, Synthesis</a></td></tr>
+<tr><td><a href='https://github.com/t8/hypura'>Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/'>Apple Business</a></td></tr>
 <tr><td><a href='https://newsroom.arm.com/blog/introducing-arm-agi-cpu'>Arm AGI CPU</a></td></tr>
+<tr><td><a href='https://antithesis.com/blog/2026/hegel/'>Hypothesis, Antithesis, synthesis</a></td></tr>
 </table>
 <!-- END:news -->
 
