@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.githubstatus.com/incidents/kp06czybl7dw'>GitHub is once again down</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/'>Apple Business</a></td></tr>
-<tr><td><a href='https://newsroom.arm.com/blog/introducing-arm-agi-cpu'>Arm AGI CPU</a></td></tr>
-<tr><td><a href='https://github.com/t8/hypura'>Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon</a></td></tr>
-<tr><td><a href='https://github.com/BerriAI/litellm/issues/24512'>Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</a></td></tr>
 <tr><td><a href='https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/'>Is anybody else bored of talking about AI?</a></td></tr>
+<tr><td><a href='https://newsroom.arm.com/blog/introducing-arm-agi-cpu'>Arm AGI CPU</a></td></tr>
+<tr><td><a href='https://github.com/BerriAI/litellm/issues/24512'>Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</a></td></tr>
 </table>
 <!-- END:news -->
 
