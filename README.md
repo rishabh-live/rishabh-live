@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/andreasjansson/win-3.1-backgrounds'>Windows 3.1 tiled background .bmp archive</a></td></tr>
+<tr><td><a href='https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs'>Epoch confirms GPT5.4 Pro solved a frontier math open problem</a></td></tr>
 <tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>Autoresearch on an old research idea</a></td></tr>
-<tr><td><a href='https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers'>FCC Updates Covered List to Include Foreign-Made Consumer Routers</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c74787w149zo'>US bans new foreign-made consumer Internet routers</a></td></tr>
 <tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
+<tr><td><a href='https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers'>FCC updates covered list to include foreign-made consumer routers</a></td></tr>
+<tr><td><a href='https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html'>Pompeii&#x27;s battle scars linked to an ancient &#x27;machine gun&#x27;</a></td></tr>
 </table>
 <!-- END:news -->
 
