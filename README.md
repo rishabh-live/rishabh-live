@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.jackhogan.me/blog/box-of-secrets/'>Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home</a></td></tr>
+<tr><td><a href='https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/'>Microsoft&#x27;s &quot;Fix&quot; for Windows 11: Flowers After the Beating</a></td></tr>
 <tr><td><a href='https://www.web-rewind.com'>Opera: Rewind The Web to 1996 (Opera at 30)</a></td></tr>
+<tr><td><a href='https://www.jackhogan.me/blog/box-of-secrets/'>Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home</a></td></tr>
 <tr><td><a href='https://lnav.org/'>Log File Viewer for the Terminal</a></td></tr>
 <tr><td><a href='https://proofshot.argil.io/'>Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build</a></td></tr>
-<tr><td><a href='https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor'>BIO – The Bao I&#x2F;O Co-Processor</a></td></tr>
 </table>
 <!-- END:news -->
 
