@@ -24,7 +24,7 @@
 <tr><td><a href='https://github.com/BerriAI/litellm/issues/24512'>LiteLLM Python package compromised by supply-chain attack</a></td></tr>
 <tr><td><a href='https://notermsnoconditions.com'>No Terms. No Conditions</a></td></tr>
 <tr><td><a href='https://antithesis.com/blog/2026/hegel/'>Hypothesis, Antithesis, Synthesis</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash'>LaGuardia pilots raised safety alarms months before deadly runway crash</a></td></tr>
+<tr><td><a href='https://github.com/t8/hypura'>Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe</a></td></tr>
 <tr><td><a href='https://github.com/wolfssl/wolfguard'>WolfGuard: WireGuard with FIPS 140-3 cryptography</a></td></tr>
 </table>
 <!-- END:news -->
