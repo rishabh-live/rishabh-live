@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.jackhogan.me/blog/box-of-secrets/'>Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home</a></td></tr>
 <tr><td><a href='https://lnav.org/'>Log File Viewer for the Terminal</a></td></tr>
-<tr><td><a href='https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs'>Epoch confirms GPT5.4 Pro solved a frontier math open problem</a></td></tr>
 <tr><td><a href='https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor'>BIO – The Bao I&#x2F;O Co-Processor</a></td></tr>
 <tr><td><a href='https://ykumar.me/blog/eclip-autoresearch/'>Autoresearch on an old research idea</a></td></tr>
+<tr><td><a href='https://twitter.com/anemll/status/2035901335984611412'>iPhone 17 Pro Demonstrated Running a 400B LLM</a></td></tr>
 </table>
 <!-- END:news -->
 
