@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arcprize.org/arc-agi/3'>ARC-AGI-3</a></td></tr>
+<tr><td><a href='https://fightchatcontrol.eu/?foo=bar'>The EU still wants to scan  your private messages and photos</a></td></tr>
 <tr><td><a href='https://rpastro.square.site/s/stories/phm'>My astrophotography in the movie Project Hail Mary</a></td></tr>
-<tr><td><a href='https://lapcatsoftware.com/articles/2026/3/11.html'>Apple randomly closes bug reports unless you &quot;verify&quot; the bug remains unfixed</a></td></tr>
+<tr><td><a href='https://arcprize.org/arc-agi/3'>ARC-AGI-3</a></td></tr>
 <tr><td><a href='https://ente.com/blog/ensu/'>Ensu – Ente’s Local LLM app</a></td></tr>
-<tr><td><a href='https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/'>Updates to GitHub Copilot interaction data usage policy</a></td></tr>
+<tr><td><a href='https://ngrok.com/blog/quantization'>Quantization from the Ground Up</a></td></tr>
 </table>
 <!-- END:news -->
 
