@@ -24,8 +24,8 @@
 <tr><td><a href='https://ente.com/blog/ensu/'>Local LLM App by Ente</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cql75dn07n2o'>Meta told to pay $375M for misleading users over child safety</a></td></tr>
 <tr><td><a href='https://rpastro.square.site/s/stories/phm'>My Astrophotography in the Movie Project Hail Mary</a></td></tr>
-<tr><td><a href='https://andregarzia.com/2026/03/apple-just-lost-me.html'>Apple Just Lost Me</a></td></tr>
 <tr><td><a href='https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/'>TurboQuant: Redefining AI efficiency with extreme compression</a></td></tr>
+<tr><td><a href='https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html'>Supreme Court Sides with Cox in Copyright Fight over Pirated Music</a></td></tr>
 </table>
 <!-- END:news -->
 
