@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf'>US Army raises enlistment age to 42 and removes marijuana waiver requirement</a></td></tr>
 <tr><td><a href='https://flighty.com/airports'>Flighty Airports</a></td></tr>
-<tr><td><a href='https://twitter.com/soraofficialapp/status/2036532795984715896'>Goodbye to Sora</a></td></tr>
 <tr><td><a href='https://v-os.dev'>VitruvianOS – Desktop Linux Inspired by the BeOS</a></td></tr>
-<tr><td><a href='https://github.com/cigrainger/duckdb-hnsw-acorn'>Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1</a></td></tr>
+<tr><td><a href='https://twitter.com/soraofficialapp/status/2036532795984715896'>Goodbye to Sora</a></td></tr>
+<tr><td><a href='https://videojs.org/blog/videojs-v10-beta-hello-world-again'>Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller</a></td></tr>
+<tr><td><a href='https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead'>I wanted to build vertical SaaS for pest control, so I took a technician job</a></td></tr>
 </table>
 <!-- END:news -->
 
