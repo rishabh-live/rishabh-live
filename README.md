@@ -25,7 +25,7 @@
 <tr><td><a href='https://fightchatcontrol.eu/?foo=bar'>The EU still wants to scan  your private messages and photos</a></td></tr>
 <tr><td><a href='https://arcprize.org/arc-agi/3'>ARC-AGI-3</a></td></tr>
 <tr><td><a href='https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/'>Earthquake scientists reveal how overplowing weakens soil at experimental farm</a></td></tr>
-<tr><td><a href='https://rpastro.square.site/s/stories/phm'>My astrophotography in the movie Project Hail Mary</a></td></tr>
+<tr><td><a href='https://www.claudescode.dev/?window=since_launch'>90% of Claude-linked output going to GitHub repos w &#x3C;2 stars</a></td></tr>
 </table>
 <!-- END:news -->
 
