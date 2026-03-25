@@ -21,7 +21,7 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tildeweb.nl/~michiel/httpxyz.html'>I Forked Httpx</a></td></tr>
+<tr><td><a href='https://tildeweb.nl/~michiel/httpxyz.html'>Why I forked httpx</a></td></tr>
 <tr><td><a href='https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/'>TurboQuant: Redefining AI efficiency with extreme compression</a></td></tr>
 <tr><td><a href='https://v-os.dev'>VitruvianOS – Desktop Linux Inspired by the BeOS</a></td></tr>
 <tr><td><a href='https://twitter.com/soraofficialapp/status/2036532795984715896'>Goodbye to Sora</a></td></tr>
