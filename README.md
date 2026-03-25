@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.bbc.com/news/articles/cql75dn07n2o'>Meta told to pay $375M for misleading users over child safety</a></td></tr>
 <tr><td><a href='https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/'>TurboQuant: Redefining AI efficiency with extreme compression</a></td></tr>
-<tr><td><a href='https://mropert.github.io/2026/03/20/unity_cpp_coroutines/'>Looking at Unity made me understand the point of C++ coroutines</a></td></tr>
-<tr><td><a href='https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake'>I tried to prove I&#x27;m not AI. My aunt wasn&#x27;t convinced</a></td></tr>
 <tr><td><a href='https://twitter.com/soraofficialapp/status/2036532795984715896'>Goodbye to Sora</a></td></tr>
+<tr><td><a href='https://v-os.dev'>VitruvianOS – Desktop Linux Inspired by the BeOS</a></td></tr>
+<tr><td><a href='https://mropert.github.io/2026/03/20/unity_cpp_coroutines/'>Looking at Unity made me understand the point of C++ coroutines</a></td></tr>
 </table>
 <!-- END:news -->
 
