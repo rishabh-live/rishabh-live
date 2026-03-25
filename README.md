@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ente.com/blog/ensu/'>Local LLM App by Ente</a></td></tr>
 <tr><td><a href='https://rpastro.square.site/s/stories/phm'>My Astrophotography in the Movie Project Hail Mary</a></td></tr>
-<tr><td><a href='https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a'>Slovenian officials catch Israeli firm Black Cube trying to manipulate vote</a></td></tr>
+<tr><td><a href='https://ente.com/blog/ensu/'>Local LLM App by Ente</a></td></tr>
 <tr><td><a href='https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/'>Thoughts on Slowing the Fuck Down</a></td></tr>
+<tr><td><a href='https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict'>Jury says Meta knowingly harmed children for profit, awarding landmark verdict</a></td></tr>
 <tr><td><a href='https://supreme.justia.com/cases/federal/us/607/24-171/'>Sony V. Cox Decision Reversed</a></td></tr>
 </table>
 <!-- END:news -->
