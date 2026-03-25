@@ -25,7 +25,7 @@
 <tr><td><a href='https://v-os.dev'>VitruvianOS – Desktop Linux Inspired by the BeOS</a></td></tr>
 <tr><td><a href='https://flighty.com/airports'>Flighty Airports</a></td></tr>
 <tr><td><a href='https://twitter.com/soraofficialapp/status/2036532795984715896'>Goodbye to Sora</a></td></tr>
-<tr><td><a href='https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/'>Miscellanea: The War in Iran</a></td></tr>
+<tr><td><a href='https://videojs.org/blog/videojs-v10-beta-hello-world-again'>Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller</a></td></tr>
 </table>
 <!-- END:news -->
 
