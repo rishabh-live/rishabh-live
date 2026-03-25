@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/'>Thoughts on Slowing the Fuck Down</a></td></tr>
 <tr><td><a href='https://rpastro.square.site/s/stories/phm'>My Astrophotography in the Movie Project Hail Mary</a></td></tr>
 <tr><td><a href='https://ente.com/blog/ensu/'>Local LLM App by Ente</a></td></tr>
-<tr><td><a href='https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict'>Jury says Meta knowingly harmed children for profit, awarding landmark verdict</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html'>Meta and YouTube Found Negligent in Landmark Social Media Addiction Case</a></td></tr>
+<tr><td><a href='https://renewables-map.robinhawkes.com/records'>UK total wind generation record beaten today</a></td></tr>
+<tr><td><a href='https://www.bbc.co.uk/news/articles/c747x7gz249o'>Meta and Google found liable in social media addiction trial</a></td></tr>
 </table>
 <!-- END:news -->
 
