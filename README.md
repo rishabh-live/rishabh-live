@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.bbc.com/news/articles/cql75dn07n2o'>Meta told to pay $375M for misleading users over child safety</a></td></tr>
+<tr><td><a href='https://ente.com/blog/ensu/'>Local LLM by Ente</a></td></tr>
 <tr><td><a href='https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/'>TurboQuant: Redefining AI efficiency with extreme compression</a></td></tr>
 <tr><td><a href='https://twitter.com/soraofficialapp/status/2036532795984715896'>Goodbye to Sora</a></td></tr>
 <tr><td><a href='https://v-os.dev'>VitruvianOS – Desktop Linux Inspired by the BeOS</a></td></tr>
-<tr><td><a href='https://mropert.github.io/2026/03/20/unity_cpp_coroutines/'>Looking at Unity made me understand the point of C++ coroutines</a></td></tr>
 </table>
 <!-- END:news -->
 
