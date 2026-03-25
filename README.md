@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://spectrum.ieee.org/data-center-dc'>In Edison’s Revenge, Data Centers Are Transitioning From AC to DC</a></td></tr>
+<tr><td><a href='https://flighty.com/airports'>Flighty Airports</a></td></tr>
+<tr><td><a href='https://twitter.com/soraofficialapp/status/2036532795984715896'>Goodbye to Sora</a></td></tr>
 <tr><td><a href='https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead'>I wanted to build vertical SaaS for pest control, so I took a technician job</a></td></tr>
 <tr><td><a href='https://videojs.org/blog/videojs-v10-beta-hello-world-again'>Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller</a></td></tr>
-<tr><td><a href='https://twitter.com/soraofficialapp/status/2036532795984715896'>Goodbye to Sora</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/'>Apple Business</a></td></tr>
-<tr><td><a href='https://newsroom.arm.com/blog/introducing-arm-agi-cpu'>Arm AGI CPU</a></td></tr>
 </table>
 <!-- END:news -->
 
