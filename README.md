@@ -25,7 +25,7 @@
 <tr><td><a href='https://arcprize.org/arc-agi/3'>ARC-AGI-3</a></td></tr>
 <tr><td><a href='https://rpastro.square.site/s/stories/phm'>My astrophotography in the movie Project Hail Mary</a></td></tr>
 <tr><td><a href='https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/'>Earthquake scientists reveal how overplowing weakens soil at experimental farm</a></td></tr>
-<tr><td><a href='https://github.com/lightfeed/extractor'>Show HN: Robust LLM Extractor for Websites in TypeScript</a></td></tr>
+<tr><td><a href='https://blog.mikhe.ch/quake2-on-fpga/part4.html'>My DIY FPGA board can run Quake II</a></td></tr>
 </table>
 <!-- END:news -->
 
