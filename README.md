@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what'>We haven&#x27;t seen the worst of what gambling and prediction markets will do</a></td></tr>
 <tr><td><a href='https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform'>CERN to host Europe&#x27;s flagship open access publishing platform</a></td></tr>
-<tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
 <tr><td><a href='https://voxday.net/2026/03/25/rip-john-bradley/'>John Bradley, author of xv, has passed away</a></td></tr>
-<tr><td><a href='https://futuresearch.ai/blog/litellm-attack-transcript/'>My minute-by-minute response to the LiteLLM malware attack</a></td></tr>
+<tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
+<tr><td><a href='https://little-book-of.github.io/c/books/en-US/book.html'>The Little Book of C</a></td></tr>
 </table>
 <!-- END:news -->
 
