@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/'>Running Tesla Model 3&#x27;s computer on my desk using parts from crashed cars</a></td></tr>
-<tr><td><a href='https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&amp;moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259'>False claims in a widely-cited paper. No corrections. No consequences</a></td></tr>
 <tr><td><a href='https://arcprize.org/arc-agi/3'>ARC-AGI-3</a></td></tr>
-<tr><td><a href='https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/'>Two Studies in Compiler Optimisations</a></td></tr>
+<tr><td><a href='https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/'>False claims in a widely-cited paper</a></td></tr>
 <tr><td><a href='https://rpastro.square.site/s/stories/phm'>My astrophotography in the movie Project Hail Mary</a></td></tr>
+<tr><td><a href='https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/'>Two studies in compiler optimisations</a></td></tr>
 </table>
 <!-- END:news -->
 
