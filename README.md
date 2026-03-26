@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what'>We Haven&#x27;t Seen the Worst of What Gambling and Prediction Markets Will Do</a></td></tr>
 <tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
 <tr><td><a href='https://voxday.net/2026/03/25/rip-john-bradley/'>John Bradley, author of xv, has passed away</a></td></tr>
 <tr><td><a href='https://futuresearch.ai/blog/litellm-attack-transcript/'>My minute-by-minute response to the LiteLLM malware attack</a></td></tr>
 <tr><td><a href='https://github.com/resumex/doom-over-dns'>Doom entirely from DNS records</a></td></tr>
-<tr><td><a href='https://colibri.social/'>Colibri – chat platform built on the AT Protocol for communities big and small</a></td></tr>
 </table>
 <!-- END:news -->
 
