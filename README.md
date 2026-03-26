@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://whoami.wiki/blog/personal-encyclopedias'>Personal Encyclopedias</a></td></tr>
 <tr><td><a href='https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/'>Running Tesla Model 3&#x27;s computer on my desk using parts from crashed cars</a></td></tr>
 <tr><td><a href='https://arcprize.org/arc-agi/3'>ARC-AGI-3</a></td></tr>
-<tr><td><a href='https://rpastro.square.site/s/stories/phm'>My astrophotography in the movie Project Hail Mary</a></td></tr>
 <tr><td><a href='https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/'>Earthquake scientists reveal how overplowing weakens soil at experimental farm</a></td></tr>
-<tr><td><a href='https://blog.mikhe.ch/quake2-on-fpga/part4.html'>My DIY FPGA board can run Quake II</a></td></tr>
+<tr><td><a href='https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html'>The truth that haunts the Ramones: &#x27;They sold more T-shirts than records&#x27;</a></td></tr>
 </table>
 <!-- END:news -->
 
