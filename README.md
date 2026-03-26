@@ -24,7 +24,7 @@
 <tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
 <tr><td><a href='https://deploytarot.com/setup'>Deploytarot.com – tarot card reading for deployments</a></td></tr>
 <tr><td><a href='https://github.com/resumex/doom-over-dns'>DOOM Over DNS</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/gen13-launch/'>Cloudflare&#x27;s Gen 13 servers: trading cache for cores for 2x performance</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai'>New York City hospitals drop Palantir as controversial AI firm expands in UK</a></td></tr>
 <tr><td><a href='https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform'>CERN to host a new phase of Open Research Europe</a></td></tr>
 </table>
 <!-- END:news -->
