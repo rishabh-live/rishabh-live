@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://unterwaditzer.net/2025/codeberg.html'>Moving from GitHub to Codeberg, for lazy people</a></td></tr>
 <tr><td><a href='https://futuresearch.ai/blog/litellm-attack-transcript/'>My minute-by-minute response to the LiteLLM malware attack</a></td></tr>
-<tr><td><a href='https://opentelemetry.io/blog/2026/profiles-alpha/'>OpenTelemetry Profiles Enters Public Alpha</a></td></tr>
-<tr><td><a href='https://whoami.wiki/blog/personal-encyclopedias'>Personal Encyclopedias</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/doctorow-interoperability'>Cory Doctorow: Interoperability Can Save the Open Web</a></td></tr>
+<tr><td><a href='https://opentelemetry.io/blog/2026/profiles-alpha/'>OpenTelemetry profiles enters public alpha</a></td></tr>
+<tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
+<tr><td><a href='https://colibri.social/'>Colibri – chat platform built on the AT Protocol for communities big and small</a></td></tr>
 </table>
 <!-- END:news -->
 
