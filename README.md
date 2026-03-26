@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://unterwaditzer.net/2025/codeberg.html'>Moving from GitHub to Codeberg, for lazy people</a></td></tr>
+<tr><td><a href='https://futuresearch.ai/blog/litellm-attack-transcript/'>My minute-by-minute response to the LiteLLM malware attack</a></td></tr>
 <tr><td><a href='https://bsky.app/profile/tuta.com/post/3mhxkfowv322c'>European Parliament decided that Chat Control 1.0 must stop</a></td></tr>
 <tr><td><a href='https://whoami.wiki/blog/personal-encyclopedias'>Personal Encyclopedias</a></td></tr>
-<tr><td><a href='https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/'>From zero to a RAG system: successes and failures</a></td></tr>
-<tr><td><a href='https://www.latimes.com/california/story/2026-03-25/social-media-lawsuit-trial-meta-google-verdict'>Landmark L.A. jury verdict finds Instagram, YouTube were designed to addict kids</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/doctorow-interoperability'>Cory Doctorow: Interoperability Can Save the Open Web</a></td></tr>
 </table>
 <!-- END:news -->
 
