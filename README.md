@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://whoami.wiki/blog/personal-encyclopedias'>Personal Encyclopedias</a></td></tr>
+<tr><td><a href='https://www.swift.org/blog/swift-6.3-released/'>Swift 6.3</a></td></tr>
 <tr><td><a href='https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/'>Running Tesla Model 3&#x27;s computer on my desk using parts from crashed cars</a></td></tr>
 <tr><td><a href='https://dfarq.homeip.net/what-came-after-486/'>What came after the 486?</a></td></tr>
-<tr><td><a href='https://www.metropolitanreview.org/p/the-last-contract'>The Last Contract: William T. Vollmann&#x27;s Battle to Publish an Epic (2025)</a></td></tr>
-<tr><td><a href='https://arcprize.org/arc-agi/3'>ARC-AGI-3</a></td></tr>
+<tr><td><a href='https://citiesandmemory.com/obsolete-sounds/'>Obsolete Sounds</a></td></tr>
 </table>
 <!-- END:news -->
 
