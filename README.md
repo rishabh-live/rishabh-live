@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
 <tr><td><a href='https://deploytarot.com/setup'>Deploytarot.com – tarot card reading for deployments</a></td></tr>
-<tr><td><a href='https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform'>CERN to host a new phase of Open Research Europe</a></td></tr>
 <tr><td><a href='https://github.com/resumex/doom-over-dns'>DOOM Over DNS</a></td></tr>
-<tr><td><a href='https://press.asimov.com/articles/culture-shift'>Fermented foods shaped human biology</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/gen13-launch/'>Cloudflare&#x27;s Gen 13 servers: trading cache for cores for 2x performance</a></td></tr>
+<tr><td><a href='https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform'>CERN to host a new phase of Open Research Europe</a></td></tr>
 </table>
 <!-- END:news -->
 
