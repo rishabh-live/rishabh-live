@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.reco.ai/blog/we-rewrote-jsonata-with-ai'>We Rewrote JSONata with AI in a Day, Saved $500K&#x2F;Year</a></td></tr>
 <tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
 <tr><td><a href='https://deploytarot.com/setup'>Deploytarot.com – tarot card reading for deployments</a></td></tr>
+<tr><td><a href='https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/'>Show HN: I put an AI agent on a $7&#x2F;month VPS with IRC as its transport layer</a></td></tr>
 <tr><td><a href='https://github.com/resumex/doom-over-dns'>DOOM Over DNS</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai'>New York City hospitals drop Palantir as controversial AI firm expands in UK</a></td></tr>
-<tr><td><a href='https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform'>CERN to host a new phase of Open Research Europe</a></td></tr>
 </table>
 <!-- END:news -->
 
