@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://whoami.wiki/blog/personal-encyclopedias'>Personal Encyclopedias</a></td></tr>
 <tr><td><a href='https://www.swift.org/blog/swift-6.3-released/'>Swift 6.3</a></td></tr>
-<tr><td><a href='https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/'>Running Tesla Model 3&#x27;s computer on my desk using parts from crashed cars</a></td></tr>
 <tr><td><a href='https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/'>From zero to a RAG system: successes and failures</a></td></tr>
+<tr><td><a href='https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/'>Running Tesla Model 3&#x27;s computer on my desk using parts from crashed cars</a></td></tr>
 <tr><td><a href='https://citiesandmemory.com/obsolete-sounds/'>Obsolete Sounds</a></td></tr>
 </table>
 <!-- END:news -->
