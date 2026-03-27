@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://micahkepe.com/blog/jsongrep/'>A Faster Alternative to Jq</a></td></tr>
 <tr><td><a href='https://xn--gckvb8fzb.com/hold-on-to-your-hardware/'>Hold on to Your Hardware</a></td></tr>
+<tr><td><a href='https://micahkepe.com/blog/jsongrep/'>A Faster Alternative to Jq</a></td></tr>
 <tr><td><a href='https://www.rubick.com/should-qa-exist/'>Should QA Exist</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/web-scheduled-tasks'>Schedule tasks on the web</a></td></tr>
 <tr><td><a href='https://www.allsky7.net/#archive'>The European AllSky7 fireball network</a></td></tr>
