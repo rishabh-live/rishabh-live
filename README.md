@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sightlessscribbles.com/posts/the-paperwork-flood/'>The &#x27;Paperwork Flood&#x27;: How I Drowned a Bureaucrat Before Dinner</a></td></tr>
+<tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; Folder</a></td></tr>
+<tr><td><a href='https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)'>Installing a Let&#x27;s Encrypt TLS Certificate on a Brother Printer with Certbot</a></td></tr>
 <tr><td><a href='https://micahkepe.com/blog/jsongrep/'>A Faster Alternative to Jq</a></td></tr>
-<tr><td><a href='https://xn--gckvb8fzb.com/hold-on-to-your-hardware/'>Hold on to Your Hardware</a></td></tr>
-<tr><td><a href='https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules'>Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules</a></td></tr>
-<tr><td><a href='https://code.claude.com/docs/en/web-scheduled-tasks'>Schedule tasks on the web</a></td></tr>
+<tr><td><a href='https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/'>Iran-linked hackers claim breach of FBI director&#x27;s personal email</a></td></tr>
 </table>
 <!-- END:news -->
 
