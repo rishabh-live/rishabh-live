@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; folder</a></td></tr>
 <tr><td><a href='https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)'>Installing a Let&#x27;s Encrypt TLS Certificate on a Brother Printer with Certbot</a></td></tr>
+<tr><td><a href='https://magnifiedsand.com/'>Sand from Different Beaches in the World</a></td></tr>
 <tr><td><a href='https://jeapostrophe.github.io/tech/jc-workflow/'>Don&#x27;t Wait for Claude</a></td></tr>
 <tr><td><a href='https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/'>Desk for people who work at home with a cat</a></td></tr>
-<tr><td><a href='https://magnifiedsand.com/'>Sand from Different Beaches in the World</a></td></tr>
 </table>
 <!-- END:news -->
 
