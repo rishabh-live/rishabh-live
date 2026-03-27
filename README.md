@@ -24,8 +24,8 @@
 <tr><td><a href='https://micahkepe.com/blog/jsongrep/'>A Faster Alternative to Jq</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/web-scheduled-tasks'>Schedule tasks on the web</a></td></tr>
 <tr><td><a href='https://www.allsky7.net/#archive'>The European AllSky7 fireball network</a></td></tr>
-<tr><td><a href='https://jacobfilipp.com/yu/'>21,864 Yugoslavian .yu Domains</a></td></tr>
 <tr><td><a href='https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/'>Apple discontinues the Mac Pro</a></td></tr>
+<tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
