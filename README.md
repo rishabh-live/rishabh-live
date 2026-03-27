@@ -24,8 +24,8 @@
 <tr><td><a href='https://lr0.org/blog/p/macos/'>Make macOS consistently bad (unironically)</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47548243'>If you don&#x27;t opt out by Apr 24 GitHub will train on your private repos</a></td></tr>
 <tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; folder</a></td></tr>
+<tr><td><a href='https://github.com/davidmonterocrespo24/velxio'>Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser</a></td></tr>
 <tr><td><a href='https://annas-archive.gd/isbn-visualization?'>ISBN Visualization – Annas Archive</a></td></tr>
-<tr><td><a href='https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies'>Nashville library launches Memory Lab for digitizing home movies</a></td></tr>
 </table>
 <!-- END:news -->
 
