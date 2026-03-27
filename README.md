@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://lr0.org/blog/p/macos/'>Make macOS consistently bad (unironically)</a></td></tr>
 <tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; folder</a></td></tr>
-<tr><td><a href='https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/'>Vibe-Coded Ext4 for OpenBSD</a></td></tr>
-<tr><td><a href='https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)'>Installing a Let&#x27;s Encrypt TLS certificate on a Brother printer with Certbot</a></td></tr>
 <tr><td><a href='https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026'>Telnyx package compromised on PyPI</a></td></tr>
+<tr><td><a href='https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)'>Installing a Let&#x27;s Encrypt TLS certificate on a Brother printer with Certbot</a></td></tr>
+<tr><td><a href='https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies'>Nashville library launches Memory Lab for digitizing home movies</a></td></tr>
 </table>
 <!-- END:news -->
 
