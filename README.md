@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; Folder</a></td></tr>
+<tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; folder</a></td></tr>
 <tr><td><a href='https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)'>Installing a Let&#x27;s Encrypt TLS Certificate on a Brother Printer with Certbot</a></td></tr>
 <tr><td><a href='https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/'>Desk for people who work at home with a cat</a></td></tr>
-<tr><td><a href='https://sightlessscribbles.com/posts/the-paperwork-flood/'>The &#x27;paperwork flood&#x27;: How I drowned a bureaucrat before dinner</a></td></tr>
-<tr><td><a href='https://micahkepe.com/blog/jsongrep/'>A Faster Alternative to Jq</a></td></tr>
+<tr><td><a href='https://magnifiedsand.com/'>Sand from Different Beaches in the World</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying'>AI got the blame for the Iran school bombing. The truth is more worrying</a></td></tr>
 </table>
 <!-- END:news -->
 
