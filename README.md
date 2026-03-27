@@ -25,7 +25,7 @@
 <tr><td><a href='https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam'>Why so many control rooms were seafoam green (2025)</a></td></tr>
 <tr><td><a href='https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/'>Chicago artist creates tourism posters for city&#x27;s neighborhoods</a></td></tr>
 <tr><td><a href='https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk'>Judge blocks Pentagon effort to &#x27;punish&#x27; Anthropic with supply chain risk label</a></td></tr>
-<tr><td><a href='https://github.com/resumex/doom-over-dns'>DOOM Over DNS</a></td></tr>
+<tr><td><a href='https://unterwaditzer.net/2025/codeberg.html'>Moving from GitHub to Codeberg, for lazy people</a></td></tr>
 </table>
 <!-- END:news -->
 
