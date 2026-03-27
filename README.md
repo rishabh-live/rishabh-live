@@ -24,8 +24,8 @@
 <tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; Folder</a></td></tr>
 <tr><td><a href='https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)'>Installing a Let&#x27;s Encrypt TLS Certificate on a Brother Printer with Certbot</a></td></tr>
 <tr><td><a href='https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/'>Desk for people who work at home with a cat</a></td></tr>
-<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html'>The Last Gasps of the Rent Seeking Class</a></td></tr>
 <tr><td><a href='https://sightlessscribbles.com/posts/the-paperwork-flood/'>The &#x27;paperwork flood&#x27;: How I drowned a bureaucrat before dinner</a></td></tr>
+<tr><td><a href='https://micahkepe.com/blog/jsongrep/'>A Faster Alternative to Jq</a></td></tr>
 </table>
 <!-- END:news -->
 
