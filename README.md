@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://sightlessscribbles.com/posts/the-paperwork-flood/'>The &#x27;Paperwork Flood&#x27;: How I Drowned a Bureaucrat Before Dinner</a></td></tr>
 <tr><td><a href='https://xn--gckvb8fzb.com/hold-on-to-your-hardware/'>Hold on to Your Hardware</a></td></tr>
 <tr><td><a href='https://micahkepe.com/blog/jsongrep/'>A Faster Alternative to Jq</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/web-scheduled-tasks'>Schedule tasks on the web</a></td></tr>
 <tr><td><a href='https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/'>Apple discontinues the Mac Pro</a></td></tr>
-<tr><td><a href='https://www.allsky7.net/#archive'>The European AllSky7 fireball network</a></td></tr>
 </table>
 <!-- END:news -->
 
