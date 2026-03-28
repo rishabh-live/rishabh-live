@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
 <tr><td><a href='https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/'>Linux is an interpreter</a></td></tr>
+<tr><td><a href='https://twitter.com/BoWang87/status/2037648937453232504'>Further human + AI + proof assistant work on Knuth&#x27;s &quot;Claude Cycles&quot; problem</a></td></tr>
 <tr><td><a href='https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research'>AI overly affirms users asking for personal advice</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=lXxmIw9axWw'>I Built an Open-World Engine for the N64 [video]</a></td></tr>
-<tr><td><a href='https://github.com/EnriqueLop/legalize-es'>Spanish legislation as a Git repo</a></td></tr>
 </table>
 <!-- END:news -->
 
