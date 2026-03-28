@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://github.com/EnriqueLop/legalize-es'>I put all 8,642 Spanish laws in Git – every reform is a commit</a></td></tr>
 <tr><td><a href='https://grid.iamkate.com/'>Britain today generating 90%+ of electricity from renewables</a></td></tr>
-<tr><td><a href='https://github.com/J-x-Z/cocoa-way'>Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=lXxmIw9axWw'>I Built an Open-World Engine for the N64 [video]</a></td></tr>
+<tr><td><a href='https://github.com/J-x-Z/cocoa-way'>Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly</a></td></tr>
 <tr><td><a href='https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering'>CERN uses tiny AI models burned into silicon for real-time LHC data filtering</a></td></tr>
 </table>
 <!-- END:news -->
