@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lr0.org/blog/p/macos/'>Make macOS consistently bad (unironically)</a></td></tr>
-<tr><td><a href='https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/'>Why are executives enamored with AI, but ICs aren&#x27;t?</a></td></tr>
-<tr><td><a href='https://github.com/davidmonterocrespo24/velxio'>Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser</a></td></tr>
-<tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; folder</a></td></tr>
+<tr><td><a href='https://cursor.com/blog/real-time-rl-for-composer'>Improving Composer through real-time RL</a></td></tr>
+<tr><td><a href='https://twitchroulette.net/'>Show HN: Twitch Roulette – Find live streamers who need views the most</a></td></tr>
 <tr><td><a href='https://annas-archive.gd/isbn-visualization?'>ISBN Visualization</a></td></tr>
+<tr><td><a href='https://github.com/davidmonterocrespo24/velxio'>Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser</a></td></tr>
 </table>
 <!-- END:news -->
 
