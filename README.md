@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research'>AI overly affirms users asking for personal advice</a></td></tr>
+<tr><td><a href='https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/'>Linux is an interpreter</a></td></tr>
 <tr><td><a href='https://github.com/EnriqueLop/legalize-es'>Spanish legislation as a Git repo</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=lXxmIw9axWw'>I Built an Open-World Engine for the N64 [video]</a></td></tr>
-<tr><td><a href='https://breezepdf.com/?v=2'>Show HN: Free, in-browser PDF editor</a></td></tr>
 <tr><td><a href='https://github.com/J-x-Z/cocoa-way'>Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly</a></td></tr>
 </table>
 <!-- END:news -->
