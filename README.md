@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://jai.scs.stanford.edu/'>Don&#x27;t YOLO your file system</a></td></tr>
-<tr><td><a href='https://lr0.org/blog/p/macos/'>Make macOS consistently bad (unironically)</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c86e3eglv2go'>Fear and denial in Silicon Valley over social media addiction trial</a></td></tr>
-<tr><td><a href='https://libertystreeteconomics.newyorkfed.org/2026/03/sports-betting-is-everywhere-especially-on-credit-reports/'>Sports Betting Is Everywhere, Especially on Credit Reports</a></td></tr>
+<tr><td><a href='https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/'>AMD&#x27;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip</a></td></tr>
+<tr><td><a href='https://lr0.org/blog/p/macos/'>Make macOS consistently bad unironically</a></td></tr>
 <tr><td><a href='https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html'>LG&#x27;s new 1Hz display is the secret behind a new laptop&#x27;s battery life</a></td></tr>
+<tr><td><a href='https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder'>Anatomy of the .claude&#x2F; folder</a></td></tr>
 </table>
 <!-- END:news -->
 
