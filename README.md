@@ -24,8 +24,8 @@
 <tr><td><a href='https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering'>CERN uses tiny AI models burned into silicon for real-time LHC data filtering</a></td></tr>
 <tr><td><a href='https://jai.scs.stanford.edu/'>Go hard on agents, not on your filesystem</a></td></tr>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/'>AMD&#x27;s Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip</a></td></tr>
-<tr><td><a href='https://lr0.org/blog/p/macos/'>Make macOS consistently bad unironically</a></td></tr>
 <tr><td><a href='https://matadisco.org/'>Matadisco – Decentralized Data Discovery</a></td></tr>
+<tr><td><a href='https://lr0.org/blog/p/macos/'>Make macOS consistently bad unironically</a></td></tr>
 </table>
 <!-- END:news -->
 
