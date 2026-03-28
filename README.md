@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://jai.scs.stanford.edu/'>Don&#x27;t YOLO your file system</a></td></tr>
 <tr><td><a href='https://lr0.org/blog/p/macos/'>Make macOS consistently bad (unironically)</a></td></tr>
-<tr><td><a href='https://cursor.com/blog/real-time-rl-for-composer'>Improving Composer through real-time RL</a></td></tr>
-<tr><td><a href='https://twitchroulette.net/'>Show HN: Twitch Roulette – Find live streamers who need views the most</a></td></tr>
-<tr><td><a href='https://github.com/davidmonterocrespo24/velxio'>Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser</a></td></tr>
-<tr><td><a href='https://annas-archive.gd/isbn-visualization?'>ISBN Visualization</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c86e3eglv2go'>Fear and denial in Silicon Valley over social media addiction trial</a></td></tr>
+<tr><td><a href='https://libertystreeteconomics.newyorkfed.org/2026/03/sports-betting-is-everywhere-especially-on-credit-reports/'>Sports Betting Is Everywhere, Especially on Credit Reports</a></td></tr>
+<tr><td><a href='https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html'>LG&#x27;s new 1Hz display is the secret behind a new laptop&#x27;s battery life</a></td></tr>
 </table>
 <!-- END:news -->
 
