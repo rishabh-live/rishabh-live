@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
 <tr><td><a href='https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/'>CSS is DOOMed</a></td></tr>
+<tr><td><a href='https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research'>AI overly affirms users asking for personal advice</a></td></tr>
 <tr><td><a href='https://www.bmj.com/content/387/bmj-2024-082194'>Alzheimer&#x27;s disease mortality among taxi and ambulance drivers (2024)</a></td></tr>
 <tr><td><a href='http://miod.online.fr/software/openbsd/stories/m88k1.html'>OpenBSD on Motorola 88000 Processors</a></td></tr>
-<tr><td><a href='https://twitter.com/BoWang87/status/2037648937453232504'>Further human + AI + proof assistant work on Knuth&#x27;s &quot;Claude Cycles&quot; problem</a></td></tr>
 </table>
 <!-- END:news -->
 
