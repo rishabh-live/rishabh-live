@@ -24,8 +24,8 @@
 <tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
 <tr><td><a href='https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really'>When Do We Become Adults, Really?</a></td></tr>
 <tr><td><a href='https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/'>The road to electric – in charts and data [UK]</a></td></tr>
-<tr><td><a href='https://newrepublic.com/article/206731/loneliness-room-one-virginia-woolf-hold-up'>The Loneliness of a Room of One&#x27;s Own</a></td></tr>
-<tr><td><a href='https://quillette.com/2026/03/25/the-many-roots-of-our-suffering-reflections-on-robert-trivers-1943-2026/'>The Many Roots of Our Suffering: Reflections on Robert Trivers (1943–2026)</a></td></tr>
+<tr><td><a href='https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/'>Technology: The (nearly) perfect USB cable tester does exist</a></td></tr>
+<tr><td><a href='https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research'>AI overly affirms users asking for personal advice</a></td></tr>
 </table>
 <!-- END:news -->
 
