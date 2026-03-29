@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/'>Overestimation of microplastics potentially caused by scientists&#x27; gloves</a></td></tr>
+<tr><td><a href='https://sheetninja.io'>Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders</a></td></tr>
+<tr><td><a href='https://github.com/austin-weeks/miasma'>Miasma: A tool to trap AI web scrapers in an endless poison pit</a></td></tr>
 <tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
 <tr><td><a href='https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/'>Technology: The (nearly) perfect USB cable tester does exist</a></td></tr>
-<tr><td><a href='https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research'>AI overly affirms users asking for personal advice</a></td></tr>
-<tr><td><a href='https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/'>CSS is DOOMed</a></td></tr>
-<tr><td><a href='https://r-type.org/articles/art-452.htm'>Siclair Microvision (1977)</a></td></tr>
 </table>
 <!-- END:news -->
 
