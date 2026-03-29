@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/'>Overestimation of microplastics potentially caused by scientists&#x27; gloves</a></td></tr>
 <tr><td><a href='https://action.wemove.eu/sign/2026-03-palantir-petition-EN'>Say No to Palantir in Europe</a></td></tr>
+<tr><td><a href='https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/'>Overestimation of microplastics potentially caused by scientists&#x27; gloves</a></td></tr>
 <tr><td><a href='https://github.com/austin-weeks/miasma'>Miasma: A tool to trap AI web scrapers in an endless poison pit</a></td></tr>
-<tr><td><a href='https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/'>Building a Mostly IPv6 Only Home Network</a></td></tr>
-<tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
+<tr><td><a href='https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/'>Stop Publishing Garbage Data, It&#x27;s Embarrassing</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition'>Police used AI facial recognition to wrongly arrest TN woman for crimes in ND</a></td></tr>
 </table>
 <!-- END:news -->
 
