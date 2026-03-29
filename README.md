@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/'>Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a></td></tr>
-<tr><td><a href='https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/'>The RISE RISC-V Runners: free, native RISC-V CI on GitHub</a></td></tr>
-<tr><td><a href='https://github.com/DavidHavoc/ayaFlow'>AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust</a></td></tr>
+<tr><td><a href='https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/'>C++26 is done ISO C++ standards meeting, Trip Report</a></td></tr>
 <tr><td><a href='https://github.com/chenglou/pretext'>Pretext: TypeScript library for multiline text measurement and layout</a></td></tr>
-<tr><td><a href='https://yadin.com/notes/vr-abides/'>VR Is Not Dead</a></td></tr>
+<tr><td><a href='https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/'>The RISE RISC-V Runners: free, native RISC-V CI on GitHub</a></td></tr>
+<tr><td><a href='https://github.com/neovim/neovim/releases/tag/v0.12.0'>Neovim 0.12.0</a></td></tr>
 </table>
 <!-- END:news -->
 
