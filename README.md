@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
-<tr><td><a href='https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/'>The road to electric – in charts and data [UK]</a></td></tr>
 <tr><td><a href='https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/'>Technology: The (nearly) perfect USB cable tester does exist</a></td></tr>
 <tr><td><a href='https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research'>AI overly affirms users asking for personal advice</a></td></tr>
 <tr><td><a href='https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/'>CSS is DOOMed</a></td></tr>
+<tr><td><a href='https://r-type.org/articles/art-452.htm'>Siclair Microvision (1977)</a></td></tr>
 </table>
 <!-- END:news -->
 
