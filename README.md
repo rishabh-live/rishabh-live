@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
 <tr><td><a href='https://github.com/openyak/desktop'>OpenYak – An open-source Cowork that runs any model and owns your filesystem</a></td></tr>
+<tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
 <tr><td><a href='https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/'>CSS is DOOMed</a></td></tr>
 <tr><td><a href='https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research'>AI overly affirms users asking for personal advice</a></td></tr>
-<tr><td><a href='http://miod.online.fr/software/openbsd/stories/m88k1.html'>OpenBSD on Motorola 88000 Processors</a></td></tr>
+<tr><td><a href='https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager'>The case for becoming a manager</a></td></tr>
 </table>
 <!-- END:news -->
 
