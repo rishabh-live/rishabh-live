@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/'>Overestimation of microplastics potentially caused by scientists&#x27; gloves</a></td></tr>
+<tr><td><a href='https://mcpaas.live/globe'>Show HN: 2.7KB Zig WASM – live globe showing executions at 300 CF edges</a></td></tr>
 <tr><td><a href='https://github.com/austin-weeks/miasma'>Miasma: A tool to trap AI web scrapers in an endless poison pit</a></td></tr>
 <tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
 <tr><td><a href='https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/'>Technology: The (nearly) perfect USB cable tester does exist</a></td></tr>
-<tr><td><a href='https://www.washingtonpost.com/travel/2026/03/28/tsa-line-sitters/'>TSA lines are so out of control that travelers are hiring line-sitters</a></td></tr>
 </table>
 <!-- END:news -->
 
