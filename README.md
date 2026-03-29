@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/'>Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a></td></tr>
 <tr><td><a href='https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/'>C++26 is done ISO C++ standards meeting, Trip Report</a></td></tr>
-<tr><td><a href='https://github.com/chenglou/pretext'>Pretext: TypeScript library for multiline text measurement and layout</a></td></tr>
+<tr><td><a href='https://bramcohen.com/p/more-on-version-control'>More on Version Control</a></td></tr>
+<tr><td><a href='https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/'>My MacBook Keyboard Is Broken and It&#x27;s Insanely Expensive to Fix</a></td></tr>
 <tr><td><a href='https://lzon.ca/posts/series/grateful/typing-and-keyboards/'>Typing and Keyboards</a></td></tr>
-<tr><td><a href='https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/'>The RISE RISC-V Runners: free, native RISC-V CI on GitHub</a></td></tr>
 </table>
 <!-- END:news -->
 
