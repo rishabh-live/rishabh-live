@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ'>South Korea Mandates Solar Panels for Public Parking Lots</a></td></tr>
 <tr><td><a href='https://sytse.com/cancer/'>Founder of GitLab battles cancer by founding companies</a></td></tr>
 <tr><td><a href='https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/'>CSS is DOOMed</a></td></tr>
+<tr><td><a href='http://miod.online.fr/software/openbsd/stories/m88k1.html'>OpenBSD on Motorola 88000 Processors</a></td></tr>
 <tr><td><a href='https://twitter.com/BoWang87/status/2037648937453232504'>Further human + AI + proof assistant work on Knuth&#x27;s &quot;Claude Cycles&quot; problem</a></td></tr>
-<tr><td><a href='https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research'>AI overly affirms users asking for personal advice</a></td></tr>
-<tr><td><a href='https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/'>Linux is an interpreter</a></td></tr>
 </table>
 <!-- END:news -->
 
