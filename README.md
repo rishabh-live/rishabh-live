@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why'>The bot situation on the internet is worse than you could imagine</a></td></tr>
 <tr><td><a href='https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/'>Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a></td></tr>
-<tr><td><a href='https://successfulsoftware.net/2026/03/29/stop-publishing-garbage-data-its-embarrassing/'>Stop Publishing Garbage Data, It&#x27;s Embarrassing</a></td></tr>
-<tr><td><a href='https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/'>Overestimation of microplastics potentially caused by scientists&#x27; gloves</a></td></tr>
+<tr><td><a href='https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/'>Nitrile and latex gloves may cause overestimation of microplastics</a></td></tr>
 <tr><td><a href='https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/'>The RISE RISC-V Runners: free, native RISC-V CI on GitHub</a></td></tr>
+<tr><td><a href='https://github.com/austin-weeks/miasma'>Miasma: A tool to trap AI web scrapers in an endless poison pit</a></td></tr>
+<tr><td><a href='https://github.com/DavidHavoc/ayaFlow'>AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
