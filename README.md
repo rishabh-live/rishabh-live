@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://nbailey.ca/post/router/'>How to turn anything into a router</a></td></tr>
+<tr><td><a href='https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/'>Fedware: Government Apps That Spy Harder Than the Apps They Ban</a></td></tr>
+<tr><td><a href='https://alexhwoods.com/dont-let-ai-write-for-you/'>Do your own writing</a></td></tr>
 <tr><td><a href='https://www.dhanishsemar.com/writing/bird-brains'>Bird brains (2023)</a></td></tr>
 <tr><td><a href='https://github.com/electrikmilk/cherri'>Cherri – programming language that compiles to an Apple Shortuct</a></td></tr>
-<tr><td><a href='https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors'>OCR for construction documents does not work, we fixed it</a></td></tr>
-<tr><td><a href='https://www.codingfont.com/'>CodingFont: A game to help you pick a coding font</a></td></tr>
 </table>
 <!-- END:news -->
 
