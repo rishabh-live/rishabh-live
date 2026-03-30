@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/40710'>Claude Code runs Git reset –hard origin&#x2F;main against project repo every 10 mins</a></td></tr>
+<tr><td><a href='https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/'>New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays</a></td></tr>
 <tr><td><a href='https://ryelang.org/blog/posts/cognitive-dark-forest/'>The Cognitive Dark Forest</a></td></tr>
+<tr><td><a href='https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html'>Philly courts will ban all smart eyeglasses starting next week</a></td></tr>
 <tr><td><a href='https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/'>Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a></td></tr>
 <tr><td><a href='https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/'>ChatGPT won&#x27;t let you type until Cloudflare reads your React state</a></td></tr>
-<tr><td><a href='https://www.waterfox.com/blog/15-years-of-forking/'>15 Years of Forking</a></td></tr>
 </table>
 <!-- END:news -->
 
