@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.datagubbe.se/aipixels/'>The curious case of retro demo scene graphics</a></td></tr>
 <tr><td><a href='https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/'>ChatGPT won&#x27;t let you type until Cloudflare reads your React state</a></td></tr>
+<tr><td><a href='https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/'>VHDL&#x27;s Crown Jewel</a></td></tr>
+<tr><td><a href='https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/'>Copilot edited an ad into my PR</a></td></tr>
 <tr><td><a href='https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/'>Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a></td></tr>
-<tr><td><a href='https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html'>Philly courts will ban all smart eyeglasses starting next week</a></td></tr>
-<tr><td><a href='https://www.waterfox.com/blog/15-years-of-forking/'>15 Years of Forking</a></td></tr>
-<tr><td><a href='https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/'>Copilot Edited an Ad into My PR</a></td></tr>
 </table>
 <!-- END:news -->
 
