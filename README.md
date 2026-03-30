@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://nbailey.ca/post/router/'>How to turn anything into a router</a></td></tr>
-<tr><td><a href='https://www.dhanishsemar.com/writing/bird-brains'>Parrots pack twice as many neurons as primate brains of the same mass</a></td></tr>
-<tr><td><a href='https://www.codingfont.com/'>CodingFont: A game to help you pick a coding font</a></td></tr>
-<tr><td><a href='https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli'>Bitwarden Integrates with OneCLI Agent Vault</a></td></tr>
-<tr><td><a href='https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/'>&quot;Over 1.5 million GitHub PRs have had ads injected into them by Copilot&quot;</a></td></tr>
+<tr><td><a href='https://www.dhanishsemar.com/writing/bird-brains'>Bird brains (2023)</a></td></tr>
+<tr><td><a href='https://brianschrader.com/archive/take-better-notes-by-hand/'>Take better notes, by hand</a></td></tr>
+<tr><td><a href='https://www.getanchorgrid.com/developer/docs/endpoints/drawings-doors'>OCR for construction documents does not work, we fixed it</a></td></tr>
+<tr><td><a href='https://github.com/electrikmilk/cherri'>Cherri – programming language that compiles directly to a Apple Shortuct</a></td></tr>
 </table>
 <!-- END:news -->
 
