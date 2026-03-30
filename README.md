@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/'>Fedware: Government apps that spy harder than the apps they ban</a></td></tr>
 <tr><td><a href='https://alexhwoods.com/dont-let-ai-write-for-you/'>Do your own writing</a></td></tr>
+<tr><td><a href='https://www.cape.co/blog/easter-egg-in-privacy-policy'>We Hid a Free Trip to Switzerland in Our Privacy Policy. Someone Found It</a></td></tr>
 <tr><td><a href='https://nbailey.ca/post/router/'>How to turn anything into a router</a></td></tr>
 <tr><td><a href='https://anishathalye.com/macbook-touchscreen/'>Turning a MacBook into a touchscreen with $1 of hardware (2018)</a></td></tr>
-<tr><td><a href='https://www.dhanishsemar.com/writing/bird-brains'>Bird brains (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
