@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.mgrunwald.com/ghostmoon/'>Ghostmoon.app – The Swiss Army Knife for your macOS menu bar</a></td></tr>
 <tr><td><a href='https://www.datagubbe.se/aipixels/'>The curious case of retro demo scene graphics</a></td></tr>
-<tr><td><a href='https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/'>ChatGPT won&#x27;t let you type until Cloudflare reads your React state</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2603.26524'>Mathematical methods and human thought in the age of AI</a></td></tr>
 <tr><td><a href='https://blog.lysk.tech/excalidraw-frame-export/'>I use excalidraw to manage my diagrams for my blog</a></td></tr>
-<tr><td><a href='https://dani2442.github.io/posts/continuous-rl/'>Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models</a></td></tr>
+<tr><td><a href='https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/'>ChatGPT won&#x27;t let you type until Cloudflare reads your React state</a></td></tr>
 </table>
 <!-- END:news -->
 
