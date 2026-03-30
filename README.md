@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/'>Fedware: Government apps that spy harder than the apps they ban</a></td></tr>
 <tr><td><a href='https://alexhwoods.com/dont-let-ai-write-for-you/'>Do your own writing</a></td></tr>
 <tr><td><a href='https://nbailey.ca/post/router/'>How to turn anything into a router</a></td></tr>
+<tr><td><a href='https://anishathalye.com/macbook-touchscreen/'>Turning a MacBook into a touchscreen with $1 of hardware (2018)</a></td></tr>
 <tr><td><a href='https://www.dhanishsemar.com/writing/bird-brains'>Bird brains (2023)</a></td></tr>
-<tr><td><a href='https://github.com/electrikmilk/cherri'>Cherri – programming language that compiles to an Apple Shortuct</a></td></tr>
 </table>
 <!-- END:news -->
 
