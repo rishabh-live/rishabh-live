@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/anthropics/claude-code/issues/40710'>Claude Code runs Git reset –hard origin&#x2F;main against project repo every 10 mins</a></td></tr>
-<tr><td><a href='https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/'>ChatGPT Won&#x27;t Let You Type Until Cloudflare Reads Your React State</a></td></tr>
+<tr><td><a href='https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/'>ChatGPT won&#x27;t let you type until Cloudflare reads your React state</a></td></tr>
 <tr><td><a href='https://ryelang.org/blog/posts/cognitive-dark-forest/'>The Cognitive Dark Forest</a></td></tr>
 <tr><td><a href='https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/'>Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</a></td></tr>
-<tr><td><a href='https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/'>Coding Agents Could Make Free Software Matter Again</a></td></tr>
+<tr><td><a href='https://www.dayworkx.com/'>I&#x27;ll buy your electronics to feed our robot</a></td></tr>
 </table>
 <!-- END:news -->
 
