@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://nbailey.ca/post/router/'>How to Turn Anything into a Router</a></td></tr>
+<tr><td><a href='https://nbailey.ca/post/router/'>How to turn anything into a router</a></td></tr>
 <tr><td><a href='https://www.dhanishsemar.com/writing/bird-brains'>Parrots pack twice as many neurons as primate brains of the same mass</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2603.26524'>Mathematical methods and human thought in the age of AI</a></td></tr>
-<tr><td><a href='https://www.datagubbe.se/aipixels/'>The curious case of retro demo scene graphics</a></td></tr>
-<tr><td><a href='https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/'>ChatGPT won&#x27;t let you type until Cloudflare reads your React state</a></td></tr>
+<tr><td><a href='https://eco3min.fr/en/us-inflation-is-not-linear/'>72% of the dollar&#x27;s purchasing power was destroyed in just four episodes</a></td></tr>
+<tr><td><a href='https://www.codingfont.com/'>CodingFont: A game to help you pick a coding font</a></td></tr>
+<tr><td><a href='https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/'>&quot;Over 1.5 million GitHub PRs have had ads injected into them by Copilot&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
