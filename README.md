@@ -24,8 +24,8 @@
 <tr><td><a href='https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/'>How the AI Bubble Bursts</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2603.26524'>Mathematical methods and human thought in the age of AI</a></td></tr>
 <tr><td><a href='https://www.datagubbe.se/aipixels/'>The curious case of retro demo scene graphics</a></td></tr>
-<tr><td><a href='https://blog.lysk.tech/excalidraw-frame-export/'>I use excalidraw to manage my diagrams for my blog</a></td></tr>
 <tr><td><a href='https://www.mgrunwald.com/ghostmoon/'>Ghostmoon.app – The Swiss Army Knife for your macOS menu bar</a></td></tr>
+<tr><td><a href='https://blog.lysk.tech/excalidraw-frame-export/'>I use excalidraw to manage my diagrams for my blog</a></td></tr>
 </table>
 <!-- END:news -->
 
