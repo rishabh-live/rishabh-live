@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html'>OpenAI raises $122B</a></td></tr>
 <tr><td><a href='https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/'>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a></td></tr>
 <tr><td><a href='https://damrnelson.github.io/github-historical-uptime/'>GitHub&#x27;s Historic Uptime</a></td></tr>
+<tr><td><a href='https://ministack.org/'>Ministack (Replacement for LocalStack)</a></td></tr>
 <tr><td><a href='https://cohere.com/blog/transcribe'>Cohere Transcribe: Speech Recognition</a></td></tr>
-<tr><td><a href='https://www.greptile.com/blog/ai-slopware-future'>Slop is not necessarily the future</a></td></tr>
 </table>
 <!-- END:news -->
 
