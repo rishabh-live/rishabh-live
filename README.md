@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan'>Axios compromised on NPM – Malicious versions drop remote access trojan</a></td></tr>
+<tr><td><a href='https://aftermath.site/a-love-letter-to-girl-games/'>A Love Letter to &#x27;Girl Games&#x27;</a></td></tr>
+<tr><td><a href='https://cohere.com/blog/transcribe'>Cohere Transcribe: Speech Recognition</a></td></tr>
 <tr><td><a href='https://solvespace.com/webver.pl'>Open source CAD in the browser (Solvespace)</a></td></tr>
 <tr><td><a href='https://lettermatic.com/custom/monaspace-case-study'>GitHub Monaspace Case Study</a></td></tr>
-<tr><td><a href='https://cohere.com/blog/transcribe'>Cohere Transcribe: Speech Recognition</a></td></tr>
-<tr><td><a href='https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/'>Oracle slashes 30k jobs</a></td></tr>
 </table>
 <!-- END:news -->
 
