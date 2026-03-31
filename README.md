@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan'>Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan</a></td></tr>
-<tr><td><a href='https://github.com/drona23/claude-token-efficient'>Universal Claude.md – cut Claude output tokens by 63%</a></td></tr>
+<tr><td><a href='https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan'>Axios compromised on NPM – Malicious versions drop remote access trojan</a></td></tr>
+<tr><td><a href='https://github.com/drona23/claude-token-efficient'>Universal Claude.md – cut Claude output tokens</a></td></tr>
+<tr><td><a href='https://ollama.com/blog/mlx'>Ollama is now powered by MLX on Apple Silicon in preview</a></td></tr>
+<tr><td><a href='https://github.com/concensure/Semantic'>Semantic – Reducing LLM &quot;Agent Loops&quot; by 27.78% via AST Logic Graphs</a></td></tr>
 <tr><td><a href='https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm'>Artemis II is not safe to fly</a></td></tr>
-<tr><td><a href='https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/'>Fedware: Government apps that spy harder than the apps they ban</a></td></tr>
-<tr><td><a href='https://alexhwoods.com/dont-let-ai-write-for-you/'>Do your own writing</a></td></tr>
 </table>
 <!-- END:news -->
 
