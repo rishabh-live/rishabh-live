@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/'>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a></td></tr>
-<tr><td><a href='https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html'>OpenAI closes funding round at an $852B valuation</a></td></tr>
 <tr><td><a href='https://ministack.org/'>Ministack (Replacement for LocalStack)</a></td></tr>
-<tr><td><a href='https://openai.com/index/accelerating-the-next-phase-ai/'>OpenAI raises $122B to accelerate the next phase of AI</a></td></tr>
+<tr><td><a href='https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html'>OpenAI closes funding round at an $852B valuation</a></td></tr>
+<tr><td><a href='https://scottlawsonbc.com/post/dot-system'>A dot a day keeps the clutter away</a></td></tr>
 <tr><td><a href='https://github.com/danieldugas/HYPERHELL'>4D Doom</a></td></tr>
 </table>
 <!-- END:news -->
