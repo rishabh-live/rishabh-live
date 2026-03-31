@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/'>Oracle slashes 30k jobs with a cold 6 a.m. email</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47588658'>Tell HN: Chrome says &quot;Suspicious Download&quot; when trying to download yt-dlp</a></td></tr>
 <tr><td><a href='https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan'>Axios compromised on NPM – Malicious versions drop remote access trojan</a></td></tr>
 <tr><td><a href='https://solvespace.com/webver.pl'>Open source CAD in the browser (Solvespace)</a></td></tr>
-<tr><td><a href='https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/'>Oracle slashes 30k jobs with a cold 6 a.m. email</a></td></tr>
-<tr><td><a href='https://tinyapl.rubenverg.com/docs/info/combinators'>Combinators</a></td></tr>
-<tr><td><a href='https://ollama.com/blog/mlx'>Ollama is now powered by MLX on Apple Silicon in preview</a></td></tr>
+<tr><td><a href='https://lettermatic.com/custom/monaspace-case-study'>GitHub Monaspace Case Study</a></td></tr>
 </table>
 <!-- END:news -->
 
