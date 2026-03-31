@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan'>Axios compromised on NPM – Malicious versions drop remote access trojan</a></td></tr>
 <tr><td><a href='https://ollama.com/blog/mlx'>Ollama is now powered by MLX on Apple Silicon in preview</a></td></tr>
 <tr><td><a href='https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm'>Artemis II is not safe to fly</a></td></tr>
+<tr><td><a href='https://twitter.com/Fried_rice/status/2038894956459290963'>Claude Code&#x27;s source code has been leaked via a map file in their NPM registry</a></td></tr>
 <tr><td><a href='https://github.com/drona23/claude-token-efficient'>Universal Claude.md – cut Claude output tokens</a></td></tr>
-<tr><td><a href='https://github.com/google-research/timesfm'>Google&#x27;s 200M-parameter time-series foundation model with 16k context</a></td></tr>
 </table>
 <!-- END:news -->
 
