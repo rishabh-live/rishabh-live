@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan'>Axios compromised on NPM – Malicious versions drop remote access trojan</a></td></tr>
+<tr><td><a href='https://solvespace.com/webver.pl'>Open source CAD in the browser (Solvespace)</a></td></tr>
+<tr><td><a href='https://tinyapl.rubenverg.com/docs/info/combinators'>Combinators</a></td></tr>
 <tr><td><a href='https://ollama.com/blog/mlx'>Ollama is now powered by MLX on Apple Silicon in preview</a></td></tr>
 <tr><td><a href='https://twitter.com/Fried_rice/status/2038894956459290963'>Claude Code&#x27;s source code has been leaked via a map file in their NPM registry</a></td></tr>
-<tr><td><a href='https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm'>Artemis II is not safe to fly</a></td></tr>
-<tr><td><a href='https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/'>Audio tapes reveal mass rule-breaking in Milgram&#x27;s obedience experiments</a></td></tr>
 </table>
 <!-- END:news -->
 
