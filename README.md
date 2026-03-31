@@ -25,7 +25,7 @@
 <tr><td><a href='https://cohere.com/blog/transcribe'>Cohere Transcribe: Speech Recognition</a></td></tr>
 <tr><td><a href='https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan'>Axios compromised on NPM – Malicious versions drop remote access trojan</a></td></tr>
 <tr><td><a href='https://solvespace.com/webver.pl'>Open source CAD in the browser (Solvespace)</a></td></tr>
-<tr><td><a href='https://github.com/jkool702/forkrun'>Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)</a></td></tr>
+<tr><td><a href='https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/'>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a></td></tr>
 </table>
 <!-- END:news -->
 
