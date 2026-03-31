@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://twitter.com/Fried_rice/status/2038894956459290963'>Claude Code&#x27;s source code has been leaked via a map file in their NPM registry</a></td></tr>
 <tr><td><a href='https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/'>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a></td></tr>
+<tr><td><a href='https://twitter.com/Fried_rice/status/2038894956459290963'>Claude Code&#x27;s source code has been leaked via a map file in their NPM registry</a></td></tr>
+<tr><td><a href='https://damrnelson.github.io/github-historical-uptime/'>GitHub&#x27;s Historic Uptime</a></td></tr>
 <tr><td><a href='https://cohere.com/blog/transcribe'>Cohere Transcribe: Speech Recognition</a></td></tr>
-<tr><td><a href='https://solvespace.com/webver.pl'>Open source CAD in the browser (Solvespace)</a></td></tr>
-<tr><td><a href='https://github.com/jkool702/forkrun'>Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)</a></td></tr>
+<tr><td><a href='https://www.greptile.com/blog/ai-slopware-future'>Good code will still win</a></td></tr>
 </table>
 <!-- END:news -->
 
