@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ccunpacked.dev/'>Claude Code Unpacked : A visual guide</a></td></tr>
 <tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years'>Neanderthals survived on a knife&#x27;s edge for 350k years</a></td></tr>
+<tr><td><a href='https://ccunpacked.dev/'>Claude Code Unpacked : A visual guide</a></td></tr>
 <tr><td><a href='https://github.com/yannick-cw/korb'>Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years'>Neanderthals survived on a knife&#x27;s edge for 350k years</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/'>Bring Back MiniDV with This Raspberry Pi FireWire Hat</a></td></tr>
 </table>
 <!-- END:news -->
