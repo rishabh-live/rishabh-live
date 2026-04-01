@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/'>We intercepted the White House app&#x27;s traffic. 77% of requests go to 3rd parties</a></td></tr>
 <tr><td><a href='https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/'>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.04118'>TinyLoRA – Learning to Reason in 13 Parameters</a></td></tr>
-<tr><td><a href='https://ministack.org/'>Ministack (Replacement for LocalStack)</a></td></tr>
 <tr><td><a href='https://chrisseaton.com/truffleruby/'>TruffleRuby</a></td></tr>
 <tr><td><a href='https://scottlawsonbc.com/post/dot-system'>A dot a day keeps the clutter away</a></td></tr>
 </table>
