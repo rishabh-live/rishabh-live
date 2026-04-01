@@ -24,8 +24,8 @@
 <tr><td><a href='https://isbgpsafeyet.com/'>Is BGP Safe Yet? No. Test Your ISP</a></td></tr>
 <tr><td><a href='https://ccunpacked.dev/'>Claude Code Unpacked : A visual guide</a></td></tr>
 <tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
-<tr><td><a href='https://sycamore.dev'>Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity</a></td></tr>
 <tr><td><a href='https://getbaton.dev/'>Show HN: Baton – A desktop app for developing with AI agents</a></td></tr>
+<tr><td><a href='https://louis.co.nz/2026/03/26/pratt-parsing.html'>Intuiting Pratt Parsing</a></td></tr>
 </table>
 <!-- END:news -->
 
