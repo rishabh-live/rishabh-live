@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/'>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a></td></tr>
-<tr><td><a href='https://neuberg.ai/'>I built a 516-panel financial terminal in 3 weeks using AI</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years'>Neanderthals survived on a knife&#x27;s edge for 350k years</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.04118'>TinyLoRA – Learning to Reason in 13 Parameters</a></td></tr>
-<tr><td><a href='https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/'>Analyzing Geekbench 6 under Intel&#x27;s BOT</a></td></tr>
+<tr><td><a href='https://ccunpacked.dev/'>Claude Code Unpacked : A visual guide</a></td></tr>
+<tr><td><a href='https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/'>Bring Back MiniDV with This Raspberry Pi FireWire Hat</a></td></tr>
 </table>
 <!-- END:news -->
 
