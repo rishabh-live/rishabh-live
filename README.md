@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://unmitigatedrisk.com/?p=1227'>We Built It with Slide Rules. Then We Forgot How</a></td></tr>
-<tr><td><a href='https://isbgpsafeyet.com/'>Is BGP safe yet?</a></td></tr>
-<tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash: A spiritual successor to WordPress and plugin security</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash – a spiritual successor to WordPress that solves plugin security</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47601859'>Ask HN: Who is hiring? (April 2026)</a></td></tr>
+<tr><td><a href='https://app.uniclaw.ai/arena?tab=costEffectiveness&amp;via=hn'>StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)</a></td></tr>
+<tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
+<tr><td><a href='https://isbgpsafeyet.com/'>Is BGP safe yet?</a></td></tr>
 </table>
 <!-- END:news -->
 
