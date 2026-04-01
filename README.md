@@ -25,7 +25,7 @@
 <tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
 <tr><td><a href='https://louis.co.nz/2026/03/26/pratt-parsing.html'>Intuiting Pratt Parsing</a></td></tr>
 <tr><td><a href='https://github.com/yannick-cw/korb'>Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)</a></td></tr>
-<tr><td><a href='https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html'>Solar panels at Lidl? Plug-in versions set to appear in shops</a></td></tr>
+<tr><td><a href='https://dbushell.com/2026/04/01/i-quit-the-clankers-won/'>I Quit. The Clankers Won</a></td></tr>
 </table>
 <!-- END:news -->
 
