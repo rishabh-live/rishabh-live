@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://techfixated.com/artemis-ii-astronauts-arrive-at-launch-pad-39b-in-an-astrovan/'>Artemis II astronauts arrive at launch pad 39B in an astrovan</a></td></tr>
+<tr><td><a href='https://blog.foks.pub/posts/domain-separation-in-idl/'>You&#x27;re still signing data structures the wrong way</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash – a spiritual successor to WordPress that solves plugin security</a></td></tr>
-<tr><td><a href='https://github.com/SharpAI/SwiftLM'>TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47601859'>Ask HN: Who is hiring? (April 2026)</a></td></tr>
-<tr><td><a href='https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/'>AI for American-produced cement and concrete</a></td></tr>
-<tr><td><a href='https://github.com/hauntsaninja/git_bayesect'>Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs</a></td></tr>
+<tr><td><a href='https://github.com/SharpAI/SwiftLM'>TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS</a></td></tr>
 </table>
 <!-- END:news -->
 
