@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/'>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</a></td></tr>
-<tr><td><a href='https://ministack.org/'>Ministack (Replacement for LocalStack)</a></td></tr>
-<tr><td><a href='https://scottlawsonbc.com/post/dot-system'>A dot a day keeps the clutter away</a></td></tr>
-<tr><td><a href='https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html'>OpenAI closes funding round at an $852B valuation</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2602.04118'>TinyLoRA – Learning to Reason in 13 Parameters</a></td></tr>
+<tr><td><a href='https://ministack.org/'>Ministack (Replacement for LocalStack)</a></td></tr>
+<tr><td><a href='https://chrisseaton.com/truffleruby/'>TruffleRuby</a></td></tr>
+<tr><td><a href='https://scottlawsonbc.com/post/dot-system'>A dot a day keeps the clutter away</a></td></tr>
 </table>
 <!-- END:news -->
 
