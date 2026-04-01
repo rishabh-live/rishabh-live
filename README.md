@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/'>DRAM pricing is killing the hobbyist SBC market</a></td></tr>
-<tr><td><a href='https://blog.foks.pub/posts/domain-separation-in-idl/'>Signing data structures the wrong way</a></td></tr>
 <tr><td><a href='https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away'>Swappa.com for GrapheneOS compatible devices – Stay Away</a></td></tr>
+<tr><td><a href='https://blog.foks.pub/posts/domain-separation-in-idl/'>Signing data structures the wrong way</a></td></tr>
 <tr><td><a href='https://github.com/hauntsaninja/git_bayesect'>Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs</a></td></tr>
 <tr><td><a href='https://hamel.dev/blog/posts/revenge/'>The revenge of the data scientist</a></td></tr>
 </table>
