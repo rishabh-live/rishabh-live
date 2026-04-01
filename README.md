@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.foks.pub/posts/domain-separation-in-idl/'>Signing data structures the wrong way</a></td></tr>
-<tr><td><a href='https://github.com/hauntsaninja/git_bayesect'>Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs</a></td></tr>
 <tr><td><a href='https://hamel.dev/blog/posts/revenge/'>The revenge of the data scientist</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash – a spiritual successor to WordPress that solves plugin security</a></td></tr>
+<tr><td><a href='https://github.com/hauntsaninja/git_bayesect'>Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs</a></td></tr>
+<tr><td><a href='https://flight-viz.com'>Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47601859'>Ask HN: Who is hiring? (April 2026)</a></td></tr>
 </table>
 <!-- END:news -->
