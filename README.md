@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
 <tr><td><a href='https://ccunpacked.dev/'>Claude Code Unpacked : A visual guide</a></td></tr>
+<tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
 <tr><td><a href='https://github.com/yannick-cw/korb'>Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)</a></td></tr>
+<tr><td><a href='https://louis.co.nz/2026/03/26/pratt-parsing.html'>Intuiting Pratt Parsing</a></td></tr>
 <tr><td><a href='https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md'>Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2602.04118'>TinyLoRA – Learning to Reason in 13 Parameters</a></td></tr>
 </table>
 <!-- END:news -->
 
