@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash – a spiritual successor to WordPress that solves plugin security</a></td></tr>
+<tr><td><a href='https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/'>AI for American-Produced Cement and Concrete</a></td></tr>
 <tr><td><a href='https://app.uniclaw.ai/arena?tab=costEffectiveness&amp;via=hn'>StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47601859'>Ask HN: Who is hiring? (April 2026)</a></td></tr>
 <tr><td><a href='https://github.com/simple10/agents-observe'>Show HN: Real-time dashboard for Claude Code agent teams</a></td></tr>
-<tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
 </table>
 <!-- END:news -->
 
