@@ -24,8 +24,8 @@
 <tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
 <tr><td><a href='https://ccunpacked.dev/'>Claude Code Unpacked : A visual guide</a></td></tr>
 <tr><td><a href='https://github.com/yannick-cw/korb'>Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years'>Neanderthals survived on a knife&#x27;s edge for 350k years</a></td></tr>
-<tr><td><a href='https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/'>Bring Back MiniDV with This Raspberry Pi FireWire Hat</a></td></tr>
+<tr><td><a href='https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md'>Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2602.04118'>TinyLoRA – Learning to Reason in 13 Parameters</a></td></tr>
 </table>
 <!-- END:news -->
 
