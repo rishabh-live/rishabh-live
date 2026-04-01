@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://isbgpsafeyet.com/'>Is BGP Safe Yet? No. Test Your ISP</a></td></tr>
-<tr><td><a href='https://ccunpacked.dev/'>Claude Code Unpacked : A visual guide</a></td></tr>
+<tr><td><a href='https://unmitigatedrisk.com/?p=1227'>We Built It with Slide Rules. Then We Forgot How</a></td></tr>
+<tr><td><a href='https://isbgpsafeyet.com/'>Is BGP safe yet?</a></td></tr>
 <tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
-<tr><td><a href='https://getbaton.dev/'>Show HN: Baton – A desktop app for developing with AI agents</a></td></tr>
-<tr><td><a href='https://louis.co.nz/2026/03/26/pratt-parsing.html'>Intuiting Pratt Parsing</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash: A spiritual successor to WordPress and plugin security</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47601859'>Ask HN: Who is hiring? (April 2026)</a></td></tr>
 </table>
 <!-- END:news -->
 
