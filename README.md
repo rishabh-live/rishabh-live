@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://isbgpsafeyet.com/'>Is BGP Safe Yet? No. Test Your ISP</a></td></tr>
 <tr><td><a href='https://ccunpacked.dev/'>Claude Code Unpacked : A visual guide</a></td></tr>
 <tr><td><a href='https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts'>CERN levels up with new superconducting karts</a></td></tr>
+<tr><td><a href='https://sycamore.dev'>Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity</a></td></tr>
 <tr><td><a href='https://louis.co.nz/2026/03/26/pratt-parsing.html'>Intuiting Pratt Parsing</a></td></tr>
-<tr><td><a href='https://github.com/yannick-cw/korb'>Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)</a></td></tr>
-<tr><td><a href='https://dbushell.com/2026/04/01/i-quit-the-clankers-won/'>I Quit. The Clankers Won</a></td></tr>
 </table>
 <!-- END:news -->
 
