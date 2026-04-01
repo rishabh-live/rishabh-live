@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash – a spiritual successor to WordPress that solves plugin security</a></td></tr>
-<tr><td><a href='https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/'>AI for American-Produced Cement and Concrete</a></td></tr>
+<tr><td><a href='https://github.com/SharpAI/SwiftLM'>TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47601859'>Ask HN: Who is hiring? (April 2026)</a></td></tr>
-<tr><td><a href='https://bastian.rieck.me/blog/2026/bs/'>The AI Marketing BS Index</a></td></tr>
+<tr><td><a href='https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/'>AI for American-produced cement and concrete</a></td></tr>
 <tr><td><a href='https://app.uniclaw.ai/arena?tab=costEffectiveness&amp;via=hn'>StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)</a></td></tr>
 </table>
 <!-- END:news -->
