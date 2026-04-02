@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/'>Live: Artemis II Launch Day Updates</a></td></tr>
-<tr><td><a href='https://scottaaronson.blog/?p=9665'>Quantum computing bombshells that are not April Fools</a></td></tr>
+<tr><td><a href='https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/'>Subscription bombing and how to mitigate it</a></td></tr>
 <tr><td><a href='https://build.ms/2026/4/1/the-claude-code-leak/'>The Claude Code Leak</a></td></tr>
+<tr><td><a href='https://scottaaronson.blog/?p=9665'>Quantum computing bombshells that are not April Fools</a></td></tr>
 <tr><td><a href='https://github.com/ocaml/ocaml/pull/14701'>A new C++ back end for ocamlc</a></td></tr>
-<tr><td><a href='https://www.phoronix.com/news/Steam-On-Linux-Tops-5p'>Steam on Linux Use Skyrocketed Above 5% in March</a></td></tr>
 </table>
 <!-- END:news -->
 
