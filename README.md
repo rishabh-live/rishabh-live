@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/'>Live: Artemis II Launch Day Updates</a></td></tr>
+<tr><td><a href='https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing'>IBM Announces Strategic Collaboration with Arm</a></td></tr>
 <tr><td><a href='https://blogit.michelin.io/clojure-programming/'>Bringing Clojure programming to Enterprise (2021)</a></td></tr>
+<tr><td><a href='https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/'>Live: Artemis II Launch Day Updates</a></td></tr>
 <tr><td><a href='https://spencermortensen.com/articles/email-obfuscation/'>Email obfuscation: What works in 2026?</a></td></tr>
-<tr><td><a href='https://www.phoronix.com/news/Steam-On-Linux-Tops-5p'>Steam on Linux Use Skyrocketed Above 5% in March</a></td></tr>
 <tr><td><a href='https://scottaaronson.blog/?p=9665'>Quantum computing bombshells that are not April Fools</a></td></tr>
 </table>
 <!-- END:news -->
