@@ -25,7 +25,7 @@
 <tr><td><a href='https://tailscale.com/blog/macos-notch-escape'>Tailscale&#x27;s New macOS Home</a></td></tr>
 <tr><td><a href='https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779'>George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6'>Qwen3.6-Plus: Towards real world agents</a></td></tr>
-<tr><td><a href='https://yggdrasil-network.github.io/'>Yggdrasil Network</a></td></tr>
+<tr><td><a href='https://vers.sh/blog/git-zig-bun-100x'>We sped up bun by 100x</a></td></tr>
 </table>
 <!-- END:news -->
 
