@@ -25,7 +25,7 @@
 <tr><td><a href='https://browsergate.eu/'>LinkedIn Is Illegally Searching Your Computer</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/'>Delve allegedly forked an open-source tool and sold it as its own</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6'>Qwen3.6-Plus: Towards Real World Agents</a></td></tr>
-<tr><td><a href='https://lemonade-server.ai'>Lemonade by AMD: a fast and open source local LLM server using GPU and NPU</a></td></tr>
+<tr><td><a href='https://futuresearch.ai/spacex-ipo-valuation/'>A $1.75T IPO Would Be Overpaying 30% for SpaceX</a></td></tr>
 </table>
 <!-- END:news -->
 
