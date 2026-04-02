@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://deepmind.google/models/gemma/gemma-4/'>Google releases Gemma 4 open models</a></td></tr>
 <tr><td><a href='https://tailscale.com/blog/macos-notch-escape'>Tailscale&#x27;s New macOS Home</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.6'>Qwen3.6-Plus: Towards real world agents</a></td></tr>
 <tr><td><a href='https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779'>George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting</a></td></tr>
-<tr><td><a href='https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/'>Hugo&#x27;s New CSS Powers</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.6'>Qwen3.6-Plus: Towards real world agents</a></td></tr>
+<tr><td><a href='https://yggdrasil-network.github.io/'>Yggdrasil Network</a></td></tr>
 </table>
 <!-- END:news -->
 
