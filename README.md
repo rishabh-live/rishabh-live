@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/ocaml/ocaml/pull/14701'>A new C++ back end for ocamlc</a></td></tr>
+<tr><td><a href='https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/'>NASA’s Artemis II Crew Launches to the Moon</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/'>DRAM pricing is killing the hobbyist SBC market</a></td></tr>
-<tr><td><a href='https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away'>Swappa.com for GrapheneOS compatible devices – Stay Away</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates'>Artemis II lifts off: four astronauts begin 10-day lunar mission</a></td></tr>
-<tr><td><a href='https://blog.foks.pub/posts/domain-separation-in-idl/'>Signing data structures the wrong way</a></td></tr>
-<tr><td><a href='https://github.com/hauntsaninja/git_bayesect'>Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash – A spiritual successor to WordPress that solves plugin security</a></td></tr>
+<tr><td><a href='https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html'>Fast and Gorgeous Erosion Filter</a></td></tr>
 </table>
 <!-- END:news -->
 
