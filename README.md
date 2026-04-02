@@ -25,7 +25,7 @@
 <tr><td><a href='https://blogit.michelin.io/clojure-programming/'>Bringing Clojure programming to Enterprise (2021)</a></td></tr>
 <tr><td><a href='https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/'>Artemis II Launch Day Updates</a></td></tr>
 <tr><td><a href='https://ma.tt/2026/03/gone-almost-phishin/'>Gone (Almost) Phishin&#x27;</a></td></tr>
-<tr><td><a href='https://spencermortensen.com/articles/email-obfuscation/'>Email obfuscation: What works in 2026?</a></td></tr>
+<tr><td><a href='https://lwn.net/Articles/1065620/'>Significant Raise of Reports</a></td></tr>
 </table>
 <!-- END:news -->
 
