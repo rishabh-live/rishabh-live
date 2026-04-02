@@ -25,7 +25,7 @@
 <tr><td><a href='https://tailscale.com/blog/macos-notch-escape'>Tailscale&#x27;s new macOS home</a></td></tr>
 <tr><td><a href='https://cursor.com/blog/cursor-3'>Cursor 3</a></td></tr>
 <tr><td><a href='https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/'>Artemis II&#x27;s toilet is a moon mission milestone</a></td></tr>
-<tr><td><a href='https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779'>George Goble has died</a></td></tr>
+<tr><td><a href='https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion'>Decisions that eroded trust in Azure – by a former Azure Core engineer</a></td></tr>
 </table>
 <!-- END:news -->
 
