@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://browsergate.eu/'>LinkedIn Is Illegally Searching Your Computer</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6'>Qwen3.6-Plus: Towards Real World Agents</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/'>Delve allegedly forked an open-source tool and sold it as its own</a></td></tr>
 <tr><td><a href='https://lemonade-server.ai'>Lemonade by AMD: a fast and open source local LLM server using GPU and NPU</a></td></tr>
 <tr><td><a href='https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket'>Inside Nepal&#x27;s Fake Rescue Racket</a></td></tr>
-<tr><td><a href='https://undark.org/2026/04/01/sweden-schools-books/'>Sweden goes back to basics, swapping screens for books in the classroom</a></td></tr>
 </table>
 <!-- END:news -->
 
