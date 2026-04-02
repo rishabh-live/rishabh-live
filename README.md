@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/'>Live: Artemis II Launch Day Updates</a></td></tr>
 <tr><td><a href='https://github.com/ocaml/ocaml/pull/14701'>A new C++ back end for ocamlc</a></td></tr>
-<tr><td><a href='https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/'>NASA’s Artemis II Crew Launches to the Moon</a></td></tr>
+<tr><td><a href='https://scottaaronson.blog/?p=9665'>Quantum computing bombshells that are not April Fools</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/'>DRAM pricing is killing the hobbyist SBC market</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/emdash-wordpress/'>EmDash – A spiritual successor to WordPress that solves plugin security</a></td></tr>
-<tr><td><a href='https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html'>Fast and Gorgeous Erosion Filter</a></td></tr>
 </table>
 <!-- END:news -->
 
