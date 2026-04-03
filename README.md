@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://deepmind.google/models/gemma/gemma-4/'>Google releases Gemma 4 open models</a></td></tr>
-<tr><td><a href='https://v1d0b0t.github.io/blog/posts/2026-03-29-every-law-a-commit.html'>Every Law a Commit – US Law in GitHub</a></td></tr>
-<tr><td><a href='https://tailscale.com/blog/macos-notch-escape'>Tailscale&#x27;s new macOS home</a></td></tr>
 <tr><td><a href='https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion'>Decisions that eroded trust in Azure – by a former Azure Core engineer</a></td></tr>
+<tr><td><a href='https://tailscale.com/blog/macos-notch-escape'>Tailscale&#x27;s new macOS home</a></td></tr>
 <tr><td><a href='https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/'>Artemis II&#x27;s toilet is a moon mission milestone</a></td></tr>
+<tr><td><a href='https://cursor.com/blog/cursor-3'>Cursor 3</a></td></tr>
 </table>
 <!-- END:news -->
 
