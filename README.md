@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take &#x27;spectacular&#x27; image of Earth</a></td></tr>
-<tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
 <tr><td><a href='https://github.com/cmc-labo/tinyos-rtos'>Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C</a></td></tr>
+<tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
 <tr><td><a href='https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/'>What changes when you turn a Linux box into a router</a></td></tr>
 <tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
 </table>
