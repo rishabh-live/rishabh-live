@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
 <tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
 <tr><td><a href='https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant'>We replaced RAG with a virtual filesystem for our AI documentation assistant</a></td></tr>
+<tr><td><a href='https://tinygo.org/'>Go on Embedded Systems and WebAssembly</a></td></tr>
 <tr><td><a href='https://chalmovsky.com/2026/03/29/samsung-magician.html'>Samsung Magician disk utility takes 18 steps and two reboots to uninstall</a></td></tr>
-<tr><td><a href='https://donotresearch.substack.com/p/welcome-to-the-technocracy'>The Technocracy Movement of the 1930s</a></td></tr>
 </table>
 <!-- END:news -->
 
