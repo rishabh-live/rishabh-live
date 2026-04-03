@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
 <tr><td><a href='https://www.hanshq.net/big-endian-qemu.html'>Big-Endian Testing with QEMU</a></td></tr>
+<tr><td><a href='https://ctx.rs'>Show HN: ctx – an Agentic Development Environment (ADE)</a></td></tr>
 <tr><td><a href='https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5'>April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini</a></td></tr>
 <tr><td><a href='https://chalmovsky.com/2026/03/29/samsung-magician.html'>Samsung Magician disk utility takes 18 steps and two reboots to uninstall</a></td></tr>
-<tr><td><a href='https://ctx.rs'>Show HN: ctx – an Agentic Development Environment (ADE)</a></td></tr>
 </table>
 <!-- END:news -->
 
