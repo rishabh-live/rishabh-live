@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
 <tr><td><a href='https://nworbmot.org/blog/solar-battery-world.html'>Solar and batteries can power the world</a></td></tr>
 <tr><td><a href='https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/'>Marc Andreessen is wrong about introspection</a></td></tr>
-<tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
 <tr><td><a href='https://www.hanshq.net/big-endian-qemu.html'>Big-Endian Testing with QEMU</a></td></tr>
 <tr><td><a href='https://chalmovsky.com/2026/03/29/samsung-magician.html'>Samsung Magician disk utility takes 18 steps and two reboots to uninstall</a></td></tr>
 </table>
