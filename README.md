@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://apfel.franzai.com'>Show HN: Apfel – The free AI already on your Mac</a></td></tr>
-<tr><td><a href='https://only-eu.eu/en/'>Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps</a></td></tr>
 <tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
+<tr><td><a href='https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html'>TDF ejects its core developers</a></td></tr>
 <tr><td><a href='https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5'>April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini</a></td></tr>
 <tr><td><a href='https://deepmind.google/models/gemma/gemma-4/'>Google releases Gemma 4 open models</a></td></tr>
 </table>
