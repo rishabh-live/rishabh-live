@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take &#x27;spectacular&#x27; image of Earth</a></td></tr>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
-<tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
-<tr><td><a href='https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/'>How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)</a></td></tr>
 <tr><td><a href='https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/'>What changes when you turn a Linux box into a router</a></td></tr>
+<tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
+<tr><td><a href='https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/'>Oracle Files H-1B Visa Petitions Amid Mass Layoffs</a></td></tr>
 </table>
 <!-- END:news -->
 
