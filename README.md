@@ -25,7 +25,7 @@
 <tr><td><a href='https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion'>Decisions that eroded trust in Azure – by a former Azure Core engineer</a></td></tr>
 <tr><td><a href='https://www.weareinquisitive.com/news/hidden-in-the-shadow'>The True Shape of Io&#x27;s Steeple Mountain</a></td></tr>
 <tr><td><a href='https://tailscale.com/blog/macos-notch-escape'>Tailscale&#x27;s new macOS home</a></td></tr>
-<tr><td><a href='https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19'>C89cc.sh – standalone C89&#x2F;ELF64 compiler in pure portable shell</a></td></tr>
+<tr><td><a href='https://www.espressif.com/en/news/ESP32_S31_Release'>ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO</a></td></tr>
 </table>
 <!-- END:news -->
 
