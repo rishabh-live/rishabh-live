@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take &#x27;spectacular&#x27; image of Earth</a></td></tr>
 <tr><td><a href='https://text.blogosphere.app/'>Show HN: I built a frontpage for personal blogs</a></td></tr>
 <tr><td><a href='https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant'>We replaced RAG with a virtual filesystem for our AI documentation assistant</a></td></tr>
 <tr><td><a href='https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/'>How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)</a></td></tr>
-<tr><td><a href='https://cybrkyd.com/post/age-verification-on-systemd-and-flatpak/'>Age Verification on Systemd and Flatpak</a></td></tr>
 </table>
 <!-- END:news -->
 
