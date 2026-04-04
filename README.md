@@ -21,7 +21,7 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2604.01193'>Apple: Embarrassingly Simple Self-Distillation Improves Code Generation</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2604.01193'>Simple self-distillation improves code generation</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47633396'>Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></td></tr>
 <tr><td><a href='https://thoughts.wyounas.com/p/some-unusual-trees'>Some Unusual Trees</a></td></tr>
 <tr><td><a href='https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms'>The CMS is dead. Long live the CMS</a></td></tr>
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
