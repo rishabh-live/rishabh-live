@@ -24,8 +24,8 @@
 <tr><td><a href='https://arxiv.org/abs/2604.01193'>Simple self-distillation improves code generation</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47633396'>Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></td></tr>
 <tr><td><a href='https://thoughts.wyounas.com/p/some-unusual-trees'>Some Unusual Trees</a></td></tr>
-<tr><td><a href='https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms'>The CMS is dead. Long live the CMS</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
+<tr><td><a href='https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms'>The CMS is dead. Long live the CMS</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
