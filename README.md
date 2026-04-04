@@ -22,7 +22,7 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arxiv.org/abs/2604.01193'>Simple self-distillation improves code generation</a></td></tr>
-<tr><td><a href='https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677'>German men 18-45 need military permit to leave country for longer than 3 months</a></td></tr>
+<tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
 <tr><td><a href='https://github.com/teamchong/turboquant-wasm'>Show HN: TurboQuant-WASM – Google&#x27;s vector quantization in the browser</a></td></tr>
 <tr><td><a href='https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf'>Author of &quot;Careless People&quot; banned from saying anything negative about Meta</a></td></tr>
 <tr><td><a href='https://thoughts.wyounas.com/p/some-unusual-trees'>Some Unusual Trees</a></td></tr>
