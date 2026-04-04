@@ -24,8 +24,8 @@
 <tr><td><a href='https://news.ycombinator.com/item?id=47633396'>Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
 <tr><td><a href='https://thoughts.wyounas.com/p/some-unusual-trees'>Some Unusual Trees</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/claude-code/forks'>GitHub has DMCA&#x27;d nearly all forks of the official Claude-code repo</a></td></tr>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
-<tr><td><a href='https://nvd.nist.gov/vuln/detail/CVE-2026-33579'>OpenClaw privilege escalation vulnerability</a></td></tr>
 </table>
 <!-- END:news -->
 
