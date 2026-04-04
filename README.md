@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47633396'>Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
 <tr><td><a href='https://github.com/cmc-labo/tinyos-rtos'>Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C</a></td></tr>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
-<tr><td><a href='https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/'>What changes when you turn a Linux box into a router</a></td></tr>
+<tr><td><a href='https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans'>Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)</a></td></tr>
 </table>
 <!-- END:news -->
 
