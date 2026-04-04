@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
-<tr><td><a href='http://www.sopwith.org/'>Sopwith</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2604.01193'>Embarrassingly simple self-distillation improves code generation</a></td></tr>
+<tr><td><a href='https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html'>How many products does Microsoft have named &#x27;Copilot&#x27;?</a></td></tr>
 <tr><td><a href='https://github.com/teamchong/turboquant-wasm'>Show HN: TurboQuant-WASM – Google&#x27;s vector quantization in the browser</a></td></tr>
-<tr><td><a href='https://sllm.cloud'>Show HN: sllm – Split a GPU node with other developers, unlimited tokens</a></td></tr>
+<tr><td><a href='https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs'>Apple approves driver that lets Nvidia eGPUs work with Arm Macs</a></td></tr>
 </table>
 <!-- END:news -->
 
