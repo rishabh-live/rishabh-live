@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
 <tr><td><a href='https://github.com/cmc-labo/tinyos-rtos'>Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C</a></td></tr>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
-<tr><td><a href='https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans'>Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)</a></td></tr>
+<tr><td><a href='https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice'>The FAA’s flight restriction for drones is an attempt to criminalize filming ICE</a></td></tr>
 </table>
 <!-- END:news -->
 
