@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
 <tr><td><a href='https://thoughts.wyounas.com/p/some-unusual-trees'>Some Unusual Trees</a></td></tr>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
-<tr><td><a href='https://www.ycombinator.com/companies/delve'>Delve removed from Y Combinator</a></td></tr>
+<tr><td><a href='https://nvd.nist.gov/vuln/detail/CVE-2026-33579'>OpenClaw privilege escalation vulnerability</a></td></tr>
 </table>
 <!-- END:news -->
 
