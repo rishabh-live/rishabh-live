@@ -24,8 +24,8 @@
 <tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
 <tr><td><a href='https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html'>How many products does Microsoft have named &#x27;Copilot&#x27;?</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2604.01193'>Embarrassingly simple self-distillation improves code generation</a></td></tr>
-<tr><td><a href='https://github.com/teamchong/turboquant-wasm'>Show HN: TurboQuant-WASM – Google&#x27;s vector quantization in the browser</a></td></tr>
-<tr><td><a href='https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf'>Author of &quot;Careless People&quot; banned from saying anything negative about Meta</a></td></tr>
+<tr><td><a href='https://ruckus.defn.io/'>Ruckus: Racket for iOS</a></td></tr>
+<tr><td><a href='https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f'>LLM Wiki – example of an &quot;idea file&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
