@@ -25,7 +25,7 @@
 <tr><td><a href='https://news.ycombinator.com/item?id=47633396'>Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></td></tr>
 <tr><td><a href='https://thoughts.wyounas.com/p/some-unusual-trees'>Some Unusual Trees</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
-<tr><td><a href='https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms'>The CMS is dead. Long live the CMS</a></td></tr>
+<tr><td><a href='https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html'>The Cathedral, the Bazaar, and the Winchester Mystery House</a></td></tr>
 </table>
 <!-- END:news -->
 
