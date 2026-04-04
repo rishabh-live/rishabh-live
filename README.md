@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://news.ycombinator.com/item?id=47633396'>Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
-<tr><td><a href='https://github.com/cmc-labo/tinyos-rtos'>Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C</a></td></tr>
+<tr><td><a href='https://github.com/borski/travel-hacking-toolkit'>Show HN: Travel Hacking Toolkit – Points search and trip planning with AI</a></td></tr>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
-<tr><td><a href='https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice'>The FAA’s flight restriction for drones is an attempt to criminalize filming ICE</a></td></tr>
+<tr><td><a href='https://herbie.uwplse.org/doc/latest/tutorial.html'>Herbie: Automatically improve imprecise floating point formulas</a></td></tr>
 </table>
 <!-- END:news -->
 
