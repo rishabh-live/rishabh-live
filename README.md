@@ -23,7 +23,7 @@
 <table>
 <tr><td><a href='https://news.ycombinator.com/item?id=47633396'>Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/research/emotion-concepts-function'>Emotion concepts and their function in a large language model</a></td></tr>
+<tr><td><a href='https://thoughts.wyounas.com/p/some-unusual-trees'>Some Unusual Trees</a></td></tr>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
 <tr><td><a href='https://www.ycombinator.com/companies/delve'>Delve removed from Y Combinator</a></td></tr>
 </table>
