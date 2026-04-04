@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.bbc.com/news/articles/ce8jzr423p9o'>Artemis II crew take “spectacular” image of Earth</a></td></tr>
 <tr><td><a href='https://www.ycombinator.com/companies/delve'>Delve removed from Y Combinator</a></td></tr>
 <tr><td><a href='https://www.inaturalist.org/'>iNaturalist</a></td></tr>
-<tr><td><a href='https://github.com/borski/travel-hacking-toolkit'>Show HN: Travel Hacking Toolkit – Points search and trip planning with AI</a></td></tr>
+<tr><td><a href='https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr'>Gold overtakes U.S. Treasuries as the largest foreign reserve asset</a></td></tr>
 </table>
 <!-- END:news -->
 
