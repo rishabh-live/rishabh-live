@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
 <tr><td><a href='https://lisette.run/'>Lisette a little language inspired by Rust that compiles to Go</a></td></tr>
+<tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
 <tr><td><a href='https://composerprogrammer.com/introductiontocomputermusic.pdf'>Introduction to Computer Music (2009) [pdf]</a></td></tr>
 <tr><td><a href='https://github.com/siddharthvaddem/openscreen'>OpenScreen is an open-source alternative to Screen Studio</a></td></tr>
 <tr><td><a href='https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/'>German implementation of eIDAS will require an Apple&#x2F;Google account to function</a></td></tr>
