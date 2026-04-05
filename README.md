@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/love2d/love'>LÖVE: 2D Game Framework for Lua</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/videos/ce3d5gkd2geo'>Artemis II crew see first glimpse of far side of Moon [video]</a></td></tr>
 <tr><td><a href='https://lalitm.com/post/building-syntaqlite-ai/'>Eight years of wanting, three months of building with AI</a></td></tr>
-<tr><td><a href='https://github.com/JuliusBrussee/caveman'>Caveman: Why use many token when few token do trick</a></td></tr>
+<tr><td><a href='https://ai.georgeliu.com/p/running-google-gemma-4-locally-with'>Running Gemma 4 locally with LM Studio&#x27;s new headless CLI and Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
