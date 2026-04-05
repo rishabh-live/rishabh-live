@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.bbc.com/news/videos/ce3d5gkd2geo'>Artemis II crew see first glimpse of far side of Moon [video]</a></td></tr>
 <tr><td><a href='https://lalitm.com/post/building-syntaqlite-ai/'>Eight years of wanting, three months of building with AI</a></td></tr>
 <tr><td><a href='https://github.com/JuliusBrussee/caveman'>A Claude Code skill that makes Claude talk like a caveman, cutting token use</a></td></tr>
-<tr><td><a href='https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice'>Microsoft terms say Copilot is for entertainment purposes only, not serious use</a></td></tr>
-<tr><td><a href='https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract'>Finnish sauna heat exposure induces stronger immune cell than cytokine responses</a></td></tr>
+<tr><td><a href='https://www.mattkeeter.com/blog/2026-04-05-tailcall/'>A tail-call interpreter in (nightly) Rust</a></td></tr>
+<tr><td><a href='https://help.openai.com/en/articles/20001106-codex-rate-card'>Codex is switching to API pricing based usage for all users</a></td></tr>
 </table>
 <!-- END:news -->
 
