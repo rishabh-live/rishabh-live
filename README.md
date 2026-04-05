@@ -25,7 +25,7 @@
 <tr><td><a href='https://composerprogrammer.com/introductiontocomputermusic.pdf'>Introduction to Computer Music (2009) [pdf]</a></td></tr>
 <tr><td><a href='https://github.com/siddharthvaddem/openscreen'>OpenScreen is an open-source alternative to Screen Studio</a></td></tr>
 <tr><td><a href='https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/'>German implementation of eIDAS will require an Apple&#x2F;Google account to function</a></td></tr>
-<tr><td><a href='https://zml.ai/posts/zml-smi/'>Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs</a></td></tr>
+<tr><td><a href='https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f'>LLM Wiki – example of an &quot;idea file&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
