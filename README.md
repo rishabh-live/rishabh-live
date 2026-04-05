@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength'>Bacteria found in the human intestine capable of improving muscle strength</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/videos/ce3d5gkd2geo'>Artemis II crew see first glimpse of far side of Moon [video]</a></td></tr>
 <tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/videos/ce3d5gkd2geo'>Artemis II crew see first glimpse of far side of Moon [video]</a></td></tr>
 <tr><td><a href='https://github.com/love2d/love'>LÖVE: 2D Game Framework for Lua</a></td></tr>
 <tr><td><a href='https://lalitm.com/post/building-syntaqlite-ai/'>Eight years of wanting, three months of building with AI</a></td></tr>
 </table>
