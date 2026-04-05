@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract'>Finnish sauna heat exposure induces stronger immune cell than cytokine responses</a></td></tr>
-<tr><td><a href='http://iguanaworks.net/products/usb-ir-transceiver.html'>Iguanaworks has closed down. USB Infrared hardware open source maker</a></td></tr>
-<tr><td><a href='https://ergosphere.blog/posts/the-machines-are-fine/'>The threat is comfortable drift toward not understanding what you&#x27;re doing</a></td></tr>
-<tr><td><a href='https://github.com/JuliusBrussee/caveman'>Talk like caveman</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/videos/ce3d5gkd2geo'>Artemis II crew see first glimpse of far side of Moon [video]</a></td></tr>
 <tr><td><a href='https://lalitm.com/post/building-syntaqlite-ai/'>Eight years of wanting, three months of building with AI</a></td></tr>
+<tr><td><a href='https://github.com/JuliusBrussee/caveman'>A Claude Code skill that makes Claude talk like a caveman, cutting token use</a></td></tr>
+<tr><td><a href='https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract'>Finnish sauna heat exposure induces stronger immune cell than cytokine responses</a></td></tr>
+<tr><td><a href='https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/'>Someone at BrowserStack Is Leaking Users&#x27; Email Address</a></td></tr>
 </table>
 <!-- END:news -->
 
