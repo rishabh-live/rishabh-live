@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://composerprogrammer.com/introductiontocomputermusic.pdf'>Introduction to Computer Music [pdf]</a></td></tr>
+<tr><td><a href='https://composerprogrammer.com/introductiontocomputermusic.pdf'>Introduction to Computer Music (2009) [pdf]</a></td></tr>
 <tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
-<tr><td><a href='https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/'>Writing Lisp is AI resistant and I&#x27;m sad</a></td></tr>
-<tr><td><a href='https://isseven.app/'>Isseven</a></td></tr>
+<tr><td><a href='https://jonno.nz/posts/what-if-your-browser-built-the-ui-for-you/'>What if the browser built the UI for you?</a></td></tr>
 <tr><td><a href='https://github.com/siddharthvaddem/openscreen'>OpenScreen is an open-source alternative to Screen Studio</a></td></tr>
+<tr><td><a href='https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f'>LLM Wiki – example of an &quot;idea file&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
