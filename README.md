@@ -24,8 +24,8 @@
 <tr><td><a href='https://ergosphere.blog/posts/the-machines-are-fine/'>The threat is comfortable drift toward not understanding what you&#x27;re doing</a></td></tr>
 <tr><td><a href='https://github.com/JuliusBrussee/caveman'>Talk like caveman</a></td></tr>
 <tr><td><a href='https://lisette.run/'>Lisette a little language inspired by Rust that compiles to Go</a></td></tr>
-<tr><td><a href='https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/'>Ubuntu now requires more RAM than Windows 11</a></td></tr>
 <tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
+<tr><td><a href='https://zencapital.substack.com/p/sad-story-of-my-google-workspace'>Sad Story of My Google Workspace Account Suspension</a></td></tr>
 </table>
 <!-- END:news -->
 
