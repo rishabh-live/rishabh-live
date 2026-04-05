@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
-<tr><td><a href='https://scottlawsonbc.com/post/shooting-down-ideas'>Shooting Down Ideas Is Not a Skill</a></td></tr>
+<tr><td><a href='https://scottlawsonbc.com/post/shooting-down-ideas'>Shooting down ideas is not a skill</a></td></tr>
 <tr><td><a href='https://github.com/siddharthvaddem/openscreen'>OpenScreen is an open-source alternative to Screen Studio</a></td></tr>
-<tr><td><a href='https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html'>How many products does Microsoft have named &#x27;Copilot&#x27;?</a></td></tr>
 <tr><td><a href='https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f'>LLM Wiki – example of an &quot;idea file&quot;</a></td></tr>
+<tr><td><a href='https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html'>How many products does Microsoft have named &#x27;Copilot&#x27;?</a></td></tr>
 </table>
 <!-- END:news -->
 
