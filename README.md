@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://composerprogrammer.com/introductiontocomputermusic.pdf'>Introduction to Computer Music [pdf]</a></td></tr>
+<tr><td><a href='https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/'>Writing Lisp Is AI Resistant and I&#x27;m Sad</a></td></tr>
 <tr><td><a href='https://jaso1024.com/mvidia/'>Show HN: A game where you build a GPU</a></td></tr>
 <tr><td><a href='https://github.com/siddharthvaddem/openscreen'>OpenScreen is an open-source alternative to Screen Studio</a></td></tr>
-<tr><td><a href='https://jxnl.co/writing/2024/06/01/advice-to-young-people/'>Advice to Young People, the Lies I Tell Myself (2024)</a></td></tr>
-<tr><td><a href='https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f'>LLM Wiki – example of an &quot;idea file&quot;</a></td></tr>
+<tr><td><a href='https://isseven.app/'>Isseven</a></td></tr>
 </table>
 <!-- END:news -->
 
