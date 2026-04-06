@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.0xsid.com/blog/wont-download-your-app'>I Won&#x27;t Download Your App. The Web Version Is A-OK</a></td></tr>
-<tr><td><a href='https://github.com/andmarti1424/sc-im'>sc-im Spreadsheets in Your Terminal</a></td></tr>
 <tr><td><a href='https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/'>Germany Doxes &quot;UNKN,&quot; Head of RU Ransomware Gangs REvil, GandCrab</a></td></tr>
-<tr><td><a href='https://www.stephendiehl.com/posts/no_antimimetics/'>Book Review: There Is No Antimemetics Division</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/42796'>Claude Code is unusable for complex engineering tasks with the Feb updates</a></td></tr>
+<tr><td><a href='https://www.freestyle.sh'>Launch HN: Freestyle: Sandboxes for AI Coding Agents</a></td></tr>
+<tr><td><a href='https://github.com/andmarti1424/sc-im'>sc-im Spreadsheets in Your Terminal</a></td></tr>
+<tr><td><a href='https://www.0xsid.com/blog/wont-download-your-app'>I won&#x27;t download your app. The web version is a-ok</a></td></tr>
+<tr><td><a href='https://words.filippo.io/crqc-timeline/'>A Cryptography Engineer&#x27;s Perspective on Quantum Computing Timelines</a></td></tr>
 </table>
 <!-- END:news -->
 
