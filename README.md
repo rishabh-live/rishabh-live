@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking'>A time bomb in macOS TCP networking that detonates after 49 days</a></td></tr>
-<tr><td><a href='https://github.com/matthartman/ghost-pepper'>Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS</a></td></tr>
+<tr><td><a href='https://github.com/matthartman/ghost-pepper'>Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS</a></td></tr>
 <tr><td><a href='https://www.freestyle.sh/'>Launch HN: Freestyle – Sandboxes for Coding Agents</a></td></tr>
 <tr><td><a href='https://words.filippo.io/crqc-timeline/'>A cryptography engineer&#x27;s perspective on quantum computing timelines</a></td></tr>
+<tr><td><a href='https://monyatwu.com/blog/iitsocial/'>Got kicked out of uni and had the cops called for a social media website I made</a></td></tr>
 <tr><td><a href='https://www.govauctions.app/'>Show HN: GovAuctions lets you browse government auctions at once</a></td></tr>
 </table>
 <!-- END:news -->
