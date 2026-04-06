@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/matthartman/ghost-pepper'>Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS</a></td></tr>
 <tr><td><a href='https://www.freestyle.sh/'>Launch HN: Freestyle – Sandboxes for Coding Agents</a></td></tr>
 <tr><td><a href='https://words.filippo.io/crqc-timeline/'>A cryptography engineer&#x27;s perspective on quantum computing timelines</a></td></tr>
+<tr><td><a href='https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted'>Sam Altman may control our future – can he be trusted?</a></td></tr>
 <tr><td><a href='https://www.govauctions.app/'>Show HN: GovAuctions lets you browse government auctions at once</a></td></tr>
-<tr><td><a href='https://github.com/kitfunso/hippo-memory'>Show HN: Hippo, biologically inspired memory for AI agents</a></td></tr>
 </table>
 <!-- END:news -->
 
