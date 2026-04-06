@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/arman-bd/guppylm'>Show HN: I built a tiny LLM to demystify how language models work</a></td></tr>
-<tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
 <tr><td><a href='https://playlists.at/youtube/search/'>Show HN: YouTube search barely works, I made a search form with advanced filters</a></td></tr>
+<tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/'>Copilot is &#x27;for entertainment purposes only&#x27;, per Microsoft&#x27;s terms of use</a></td></tr>
 <tr><td><a href='https://moonrf.com/'>An open-source 240-antenna array to bounce signals off the Moon</a></td></tr>
 </table>
