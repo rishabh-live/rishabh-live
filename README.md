@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/mikf/gallery-dl/discussions/9304'>Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice</a></td></tr>
 <tr><td><a href='https://github.com/arman-bd/guppylm'>Show HN: I built a tiny LLM to demystify how language models work</a></td></tr>
 <tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
-<tr><td><a href='https://playlists.at/youtube/search/'>Show HN: YouTube search barely works, I made a search form with advanced filters</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/'>Copilot is &#x27;for entertainment purposes only&#x27;, per Microsoft&#x27;s terms of use</a></td></tr>
 <tr><td><a href='https://github.com/love2d/love'>LÖVE: 2D Game Framework for Lua</a></td></tr>
-<tr><td><a href='https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/'>Microsoft hasn&#x27;t had a coherent GUI strategy since Petzold</a></td></tr>
 </table>
 <!-- END:news -->
 
