@@ -25,7 +25,7 @@
 <tr><td><a href='https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/'>Germany Doxes &quot;UNKN,&quot; Head of RU Ransomware Gangs REvil, GandCrab</a></td></tr>
 <tr><td><a href='https://www.stephendiehl.com/posts/no_antimimetics/'>Book Review: There Is No Antimemetics Division</a></td></tr>
 <tr><td><a href='https://belief.horse/notes/what-being-ripped-off-taught-me/'>What Being Ripped Off Taught Me</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign'>The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47662112'>Claude Code Down</a></td></tr>
 </table>
 <!-- END:news -->
 
