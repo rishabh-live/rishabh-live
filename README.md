@@ -21,7 +21,7 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tboteproject.com/surveillancefindings/'>Age Verification as Mass Surveillance Infrastructure</a></td></tr>
+<tr><td><a href='https://belief.horse/notes/what-being-ripped-off-taught-me/'>What Being Ripped Off Taught Me</a></td></tr>
 <tr><td><a href='https://github.com/arman-bd/guppylm'>Show HN: I built a tiny LLM to demystify how language models work</a></td></tr>
 <tr><td><a href='https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/'>France pulls last gold held in US for $15B gain</a></td></tr>
 <tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
