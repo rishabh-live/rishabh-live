@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/'>In Japan, the robot isn&#x27;t coming for your job; it&#x27;s filling the one nobody wants</a></td></tr>
+<tr><td><a href='https://playlists.at/youtube/search/'>Show HN: YouTube search barely works, I made a search form with advanced filters</a></td></tr>
 <tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/'>In Japan, the robot isn&#x27;t coming for your job; it&#x27;s filling the one nobody wants</a></td></tr>
 <tr><td><a href='https://github.com/love2d/love'>LÖVE: 2D Game Framework for Lua</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/videos/ce3d5gkd2geo'>Artemis II crew see first glimpse of far side of Moon [video]</a></td></tr>
-<tr><td><a href='https://lalitm.com/post/building-syntaqlite-ai/'>Eight years of wanting, three months of building with AI</a></td></tr>
 </table>
 <!-- END:news -->
 
