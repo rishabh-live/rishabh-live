@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.wesnoth.org'>Battle for Wesnoth: open-source, turn-based strategy game</a></td></tr>
-<tr><td><a href='https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane'>The cult of vibe coding is insane</a></td></tr>
+<tr><td><a href='https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking'>A time bomb in macOS TCP networking that detonates after 49 days</a></td></tr>
 <tr><td><a href='https://github.com/matthartman/ghost-pepper'>Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS</a></td></tr>
-<tr><td><a href='https://www.freestyle.sh'>Launch HN: Freestyle: Sandboxes for AI Coding Agents</a></td></tr>
-<tr><td><a href='https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking'>A macOS kernel bug can cause OpenClaw to stop working after 49.7 days</a></td></tr>
+<tr><td><a href='https://www.freestyle.sh/'>Launch HN: Freestyle – Sandboxes for Coding Agents</a></td></tr>
+<tr><td><a href='https://words.filippo.io/crqc-timeline/'>A cryptography engineer&#x27;s perspective on quantum computing timelines</a></td></tr>
+<tr><td><a href='https://www.govauctions.app/'>Show HN: GovAuctions lets you browse government auctions at once</a></td></tr>
 </table>
 <!-- END:news -->
 
