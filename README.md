@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://tboteproject.com/surveillancefindings/'>Age Verification as Mass Surveillance Infrastructure</a></td></tr>
 <tr><td><a href='https://github.com/arman-bd/guppylm'>Show HN: I built a tiny LLM to demystify how language models work</a></td></tr>
-<tr><td><a href='https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873'>Is Germany&#x27;s gold safe in New York ?</a></td></tr>
 <tr><td><a href='https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/'>France pulls last gold held in US for $15B gain</a></td></tr>
+<tr><td><a href='https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873'>Is Germany&#x27;s gold safe in New York ?</a></td></tr>
 <tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
 </table>
 <!-- END:news -->
