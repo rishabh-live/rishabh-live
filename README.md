@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tboteproject.com/surveillancefindings/'>Age Verification as Mass Surveillance Infrastructure</a></td></tr>
 <tr><td><a href='https://github.com/arman-bd/guppylm'>Show HN: I built a tiny LLM to demystify how language models work</a></td></tr>
-<tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
-<tr><td><a href='https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/'>Microsoft hasn&#x27;t had a coherent GUI strategy since Petzold</a></td></tr>
-<tr><td><a href='https://moonrf.com/'>An open-source 240-antenna array to bounce signals off the Moon</a></td></tr>
+<tr><td><a href='https://www.dw.com/en/is-germanys-gold-safe-in-new-york/video-75766873'>Is Germany&#x27;s gold safe in New York ?</a></td></tr>
 <tr><td><a href='https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/'>France pulls last gold held in US for $15B gain</a></td></tr>
+<tr><td><a href='https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337'>Gemma 4 on iPhone</a></td></tr>
 </table>
 <!-- END:news -->
 
