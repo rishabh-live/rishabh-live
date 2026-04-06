@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.0xsid.com/blog/wont-download-your-app'>I Won&#x27;t Download Your App. The Web Version Is A-OK</a></td></tr>
 <tr><td><a href='https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/'>Germany Doxes &quot;UNKN,&quot; Head of RU Ransomware Gangs REvil, GandCrab</a></td></tr>
+<tr><td><a href='https://github.com/andmarti1424/sc-im'>sc-im Spreadsheets in Your Terminal</a></td></tr>
 <tr><td><a href='https://www.stephendiehl.com/posts/no_antimimetics/'>Book Review: There Is No Antimemetics Division</a></td></tr>
-<tr><td><a href='https://belief.horse/notes/what-being-ripped-off-taught-me/'>What Being Ripped Off Taught Me</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47662112'>Claude Code Down</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/42796'>Claude Code is unusable for complex engineering tasks with the Feb updates</a></td></tr>
 </table>
 <!-- END:news -->
 
