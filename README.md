@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane'>The Cult of Vibe Coding Is Insane</a></td></tr>
 <tr><td><a href='https://www.wesnoth.org'>Battle for Wesnoth: open-source, turn-based strategy game</a></td></tr>
 <tr><td><a href='https://www.freestyle.sh'>Launch HN: Freestyle: Sandboxes for AI Coding Agents</a></td></tr>
-<tr><td><a href='https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane'>The Cult of Vibe Coding Is Insane</a></td></tr>
 <tr><td><a href='https://words.filippo.io/crqc-timeline/'>A cryptography engineer&#x27;s perspective on quantum computing timelines</a></td></tr>
 <tr><td><a href='https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/'>Germany Doxes &quot;UNKN,&quot; Head of RU Ransomware Gangs REvil, GandCrab</a></td></tr>
 </table>
