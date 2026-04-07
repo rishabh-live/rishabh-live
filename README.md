@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://idiocracy.wtf/'>Are We Idiocracy Yet?</a></td></tr>
-<tr><td><a href='https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/'>LLM may be standardizing human expression – and subtly influencing how we think</a></td></tr>
-<tr><td><a href='https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/'>We found an undocumented bug in the Apollo 11 guidance computer code</a></td></tr>
-<tr><td><a href='https://locker.dev'>Show HN: Stop paying for Dropbox&#x2F;Google Drive, use your own S3 bucket instead</a></td></tr>
 <tr><td><a href='https://sam-burns.com/posts/concrete-laptop-stand/'>Show HN: Brutalist Concrete Laptop Stand (2024)</a></td></tr>
+<tr><td><a href='https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/'>We found an undocumented bug in the Apollo 11 guidance computer code</a></td></tr>
+<tr><td><a href='https://www.intofarlands.com/atlasofarda'>Show HN: A cartographer&#x27;s attempt to realistically map Tolkien&#x27;s world</a></td></tr>
+<tr><td><a href='https://github.com/pion/handoff'>Show HN: Pion&#x2F;handoff – Move WebRTC out of browser and into Go</a></td></tr>
+<tr><td><a href='https://tubesoundquiz.com/'>Identify a London Underground Line just by listening to it</a></td></tr>
 </table>
 <!-- END:news -->
 
