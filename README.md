@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/Netflix/void-model'>VOID: Video Object and Interaction Deletion</a></td></tr>
 <tr><td><a href='https://github.com/matthartman/ghost-pepper'>Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS</a></td></tr>
 <tr><td><a href='https://github.com/solod-dev/solod'>Solod – A Subset of Go That Translates to C</a></td></tr>
 <tr><td><a href='https://www.freestyle.sh/'>Launch HN: Freestyle – Sandboxes for Coding Agents</a></td></tr>
 <tr><td><a href='https://words.filippo.io/crqc-timeline/'>A cryptography engineer&#x27;s perspective on quantum computing timelines</a></td></tr>
+<tr><td><a href='https://github.com/Netflix/void-model'>VOID: Video Object and Interaction Deletion</a></td></tr>
 </table>
 <!-- END:news -->
 
