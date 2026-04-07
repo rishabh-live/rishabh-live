@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sheets.works/data-viz/every-gpu'>Every GPU That Mattered</a></td></tr>
+<tr><td><a href='https://idiocracy.wtf/'>Are We Idiocracy Yet?</a></td></tr>
 <tr><td><a href='https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html'>My Experience as a Rice Farmer</a></td></tr>
+<tr><td><a href='https://midi.guide/blog/three-hunded-synths-one-app/'>Three hundred synths, 3 hardware projects, and one app</a></td></tr>
 <tr><td><a href='https://github.com/matthartman/ghost-pepper'>Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS</a></td></tr>
-<tr><td><a href='https://github.com/solod-dev/solod'>Solod – A subset of Go that translates to C</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/42796'>Issue: Claude Code is unusable for complex engineering tasks with Feb updates</a></td></tr>
 </table>
 <!-- END:news -->
 
