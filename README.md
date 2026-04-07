@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm'>After 20 years I turned off Google Adsense for my websites</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/google-broadcom-partnership-compute'>Anthropic expands partnership with Google and Broadcom for next-gen compute</a></td></tr>
+<tr><td><a href='https://github.com/Netflix/void-model'>VOID: Video Object and Interaction Deletion</a></td></tr>
 <tr><td><a href='https://github.com/matthartman/ghost-pepper'>Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted'>Sam Altman may control our future – can he be trusted?</a></td></tr>
+<tr><td><a href='https://github.com/solod-dev/solod'>Solod – A Subset of Go That Translates to C</a></td></tr>
 <tr><td><a href='https://www.freestyle.sh/'>Launch HN: Freestyle – Sandboxes for Coding Agents</a></td></tr>
+<tr><td><a href='https://words.filippo.io/crqc-timeline/'>A cryptography engineer&#x27;s perspective on quantum computing timelines</a></td></tr>
 </table>
 <!-- END:news -->
 
