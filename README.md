@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/glasswing'>Project Glasswing: Securing critical software for the AI era</a></td></tr>
-<tr><td><a href='https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf'>System Card: Claude Mythos Preview [pdf]</a></td></tr>
-<tr><td><a href='https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html'>S3 Files and the changing face of S3</a></td></tr>
 <tr><td><a href='https://www.nasa.gov/gallery/lunar-flyby/'>Lunar Flyby</a></td></tr>
+<tr><td><a href='https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf'>System Card: Claude Mythos Preview [pdf]</a></td></tr>
+<tr><td><a href='https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html'>S3 Files</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5.1'>GLM-5.1: Towards Long-Horizon Tasks</a></td></tr>
 </table>
 <!-- END:news -->
