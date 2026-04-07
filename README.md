@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sam-burns.com/posts/concrete-laptop-stand/'>Show HN: Brutalist Concrete Laptop Stand (2024)</a></td></tr>
-<tr><td><a href='https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/'>We found an undocumented bug in the Apollo 11 guidance computer code</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/44257'>Claude Code is locking people out for hours</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/post-quantum-roadmap/'>Cloudflare targets 2029 for full post-quantum security</a></td></tr>
-<tr><td><a href='https://jola.dev/posts/dropping-cloudflare'>Dropping Cloudflare for Bunny.net</a></td></tr>
+<tr><td><a href='https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/'>Good Taste the Only Real Moat Left</a></td></tr>
+<tr><td><a href='https://blog.zacka.io/p/simplify-then-add-lightness-bc4'>Moving fast in hardware: lessons from lab to $100M ARR</a></td></tr>
+<tr><td><a href='https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/'>We found an undocumented bug in the Apollo 11 guidance computer code</a></td></tr>
 </table>
 <!-- END:news -->
 
