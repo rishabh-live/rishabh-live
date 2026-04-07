@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/glasswing'>Project Glasswing: Securing critical software for the AI era</a></td></tr>
-<tr><td><a href='https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf'>System Card: Claude Mythos Preview [pdf]</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5.1'>GLM-5.1: Towards Long-Horizon Tasks</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c0rx7xzd10xo'>Cambodia unveils a statue of famous landmine-sniffing rat Magawa</a></td></tr>
 <tr><td><a href='https://red.anthropic.com/2026/mythos-preview/'>Assessing Claude Mythos Preview&#x27;s cybersecurity capabilities</a></td></tr>
+<tr><td><a href='https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf'>System Card: Claude Mythos Preview [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
