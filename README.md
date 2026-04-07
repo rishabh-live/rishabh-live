@@ -25,7 +25,7 @@
 <tr><td><a href='https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf'>System Card: Claude Mythos Preview [pdf]</a></td></tr>
 <tr><td><a href='https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html'>S3 Files and the changing face of S3</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5.1'>GLM-5.1: Towards Long-Horizon Tasks</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c0rx7xzd10xo'>Cambodia unveils a statue of famous landmine-sniffing rat Magawa</a></td></tr>
+<tr><td><a href='https://github.com/mattmireles/gemma-tuner-multimodal'>Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon</a></td></tr>
 </table>
 <!-- END:news -->
 
