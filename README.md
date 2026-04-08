@@ -24,8 +24,8 @@
 <tr><td><a href='https://piechowski.io/post/git-commands-before-reading-code/'>Git commands I run before reading any code</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2604.05091'>MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU</a></td></tr>
 <tr><td><a href='https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/'>Veracrypt project update</a></td></tr>
-<tr><td><a href='https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/'>Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones</a></td></tr>
 <tr><td><a href='http://www.terrybisson.com/theyre-made-out-of-meat-2/'>They&#x27;re Made Out of Meat (1991)</a></td></tr>
+<tr><td><a href='https://rival.tips/research/model-similarity'>Show HN: We fingerprinted 178 AI models&#x27; writing styles and similarity clusters</a></td></tr>
 </table>
 <!-- END:news -->
 
