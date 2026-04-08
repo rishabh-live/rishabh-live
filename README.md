@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/glasswing'>Project Glasswing: Securing critical software for the AI era</a></td></tr>
-<tr><td><a href='https://www.nasa.gov/gallery/lunar-flyby/'>Lunar Flyby</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=Lw4W9V57SKs&amp;t=5716s'>Revision Demoparty 2026: Razor1911 [video]</a></td></tr>
+<tr><td><a href='https://www.nasa.gov/gallery/lunar-flyby/'>Lunar Flyby</a></td></tr>
+<tr><td><a href='https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/'>Veracrypt Project Update</a></td></tr>
 <tr><td><a href='https://dylanbutler.dev/blog/protect-your-shed/'>Protect your shed</a></td></tr>
-<tr><td><a href='http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html'>Slightly safer vibecoding by adopting old hacker habits</a></td></tr>
 </table>
 <!-- END:news -->
 
