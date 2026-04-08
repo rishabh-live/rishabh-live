@@ -24,8 +24,8 @@
 <tr><td><a href='https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html'>I Ported Mac OS X to the Nintendo Wii</a></td></tr>
 <tr><td><a href='https://piechowski.io/post/git-commands-before-reading-code/'>Git commands I run before reading any code</a></td></tr>
 <tr><td><a href='https://meta.ai/'>Muse Spark – Meta Superintelligence Labs</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2604.05091'>MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU</a></td></tr>
 <tr><td><a href='https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1'>Muse Spark: Scaling Towards Personal Superintelligence</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2604.05091'>MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU</a></td></tr>
 </table>
 <!-- END:news -->
 
