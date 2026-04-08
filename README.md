@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://piechowski.io/post/git-commands-before-reading-code/'>The Git Commands I Run Before Reading Any Code</a></td></tr>
-<tr><td><a href='https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/'>Veracrypt Project Update</a></td></tr>
+<tr><td><a href='https://piechowski.io/post/git-commands-before-reading-code/'>Git commands I run before reading any code</a></td></tr>
+<tr><td><a href='https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/'>Veracrypt project update</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2604.05091'>MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU</a></td></tr>
 <tr><td><a href='https://mariozechner.at/posts/2026-04-08-ive-sold-out/'>I&#x27;ve sold out</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=Lw4W9V57SKs&amp;t=5716s'>Revision Demoparty 2026: Razor1911 [video]</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/glasswing'>Project Glasswing: Securing critical software for the AI era</a></td></tr>
+<tr><td><a href='https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/'>Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones</a></td></tr>
 </table>
 <!-- END:news -->
 
