@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/glasswing'>Project Glasswing: Securing critical software for the AI era</a></td></tr>
-<tr><td><a href='https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html'>OpenAI says its new model GPT-2 is too dangerous to release (2019)</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire'>US and Iran agree to provisional ceasefire</a></td></tr>
 <tr><td><a href='https://www.nasa.gov/gallery/lunar-flyby/'>Lunar Flyby</a></td></tr>
+<tr><td><a href='https://dylanbutler.dev/blog/protect-your-shed/'>Protect Your Shed</a></td></tr>
+<tr><td><a href='http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html'>Slightly safer vibecoding by adopting old hacker habits</a></td></tr>
 <tr><td><a href='https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf'>System Card: Claude Mythos Preview [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
