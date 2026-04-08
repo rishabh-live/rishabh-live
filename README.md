@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/'>Veracrypt Project Update</a></td></tr>
 <tr><td><a href='https://piechowski.io/post/git-commands-before-reading-code/'>The Git Commands I Run Before Reading Any Code</a></td></tr>
+<tr><td><a href='https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/'>Veracrypt Project Update</a></td></tr>
+<tr><td><a href='https://mariozechner.at/posts/2026-04-08-ive-sold-out/'>I&#x27;ve Sold Out</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=Lw4W9V57SKs&amp;t=5716s'>Revision Demoparty 2026: Razor1911 [video]</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/glasswing'>Project Glasswing: Securing critical software for the AI era</a></td></tr>
-<tr><td><a href='https://indraneelpatil.github.io/blog/2026/robot-vacuum/'>Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)</a></td></tr>
 </table>
 <!-- END:news -->
 
