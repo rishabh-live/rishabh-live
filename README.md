@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.nasa.gov/gallery/lunar-flyby/'>Lunar Flyby</a></td></tr>
 <tr><td><a href='https://dylanbutler.dev/blog/protect-your-shed/'>Protect Your Shed</a></td></tr>
 <tr><td><a href='http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html'>Slightly safer vibecoding by adopting old hacker habits</a></td></tr>
-<tr><td><a href='https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf'>System Card: Claude Mythos Preview [pdf]</a></td></tr>
+<tr><td><a href='https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426'>Native Americans had dice 12,000 years ago</a></td></tr>
 </table>
 <!-- END:news -->
 
