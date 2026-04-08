@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html'>I Ported Mac OS X to the Nintendo Wii</a></td></tr>
+<tr><td><a href='https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html'>I ported Mac OS X to the Nintendo Wii</a></td></tr>
 <tr><td><a href='https://piechowski.io/post/git-commands-before-reading-code/'>Git commands I run before reading any code</a></td></tr>
-<tr><td><a href='https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1'>Muse Spark: Scaling Towards Personal Superintelligence</a></td></tr>
-<tr><td><a href='https://joshghent.com/online-shopping/'>One item purchased, Ten emails</a></td></tr>
-<tr><td><a href='http://www.terrybisson.com/theyre-made-out-of-meat-2/'>They&#x27;re Made Out of Meat (1991)</a></td></tr>
+<tr><td><a href='https://kalmanfilter.net'>Understanding the Kalman filter with a simple radar example</a></td></tr>
+<tr><td><a href='https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1'>Muse Spark: Scaling towards personal superintelligence</a></td></tr>
+<tr><td><a href='http://oj-hn.com/'>Show HN: Orange Juice – Small UX improvements that make HN easier to read</a></td></tr>
 </table>
 <!-- END:news -->
 
