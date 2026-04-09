@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://obdev.at/products/littlesnitch-linux/index.html'>LittleSnitch for Linux</a></td></tr>
 <tr><td><a href='https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/'>Help Keep Thunderbird Alive</a></td></tr>
+<tr><td><a href='https://cssstudio.ai'>Show HN: CSS Studio. Design by hand, code by agent</a></td></tr>
 <tr><td><a href='https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html'>I ported Mac OS X to the Nintendo Wii</a></td></tr>
-<tr><td><a href='https://astral.sh/blog/open-source-security-at-astral'>Open Source Security at Astral</a></td></tr>
 <tr><td><a href='https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us'>Wit, unker, Git: The lost medieval pronouns of English intimacy</a></td></tr>
 </table>
 <!-- END:news -->
