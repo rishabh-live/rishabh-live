@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
+<tr><td><a href='https://davidoks.blog/p/how-funerals-keep-africa-poor'>Many African families spend fortunes burying their dead</a></td></tr>
 <tr><td><a href='https://charcuterie.elastiq.ch/'>Charcuterie – Visual similarity Unicode explorer</a></td></tr>
 <tr><td><a href='https://github.com/aloshdenny/reverse-SynthID'>Reverse engineering Gemini&#x27;s SynthID detection</a></td></tr>
 <tr><td><a href='https://eaw.app/picoz80/'>PicoZ80 – Drop-In Z80 Replacement</a></td></tr>
-<tr><td><a href='https://hegel.dev'>Hegel, a universal property-based testing protocol and family of PBT libraries</a></td></tr>
 </table>
 <!-- END:news -->
 
