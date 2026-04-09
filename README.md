@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
-<tr><td><a href='https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/'>Netflix Prices Went Up Again – I Bought a DVD Player Instead</a></td></tr>
-<tr><td><a href='https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers'>Maine is about to become the first state to ban major new data centers</a></td></tr>
-<tr><td><a href='https://github.com/aloshdenny/reverse-SynthID'>Discovering, detecting, and surgically removing Google&#x27;s AI watermark</a></td></tr>
+<tr><td><a href='https://github.com/aloshdenny/reverse-SynthID'>Reverse engineering Gemini&#x27;s SynthID detection</a></td></tr>
+<tr><td><a href='https://charcuterie.elastiq.ch/'>Charcuterie – Visual similarity Unicode explorer</a></td></tr>
 <tr><td><a href='https://eaw.app/picoz80/'>PicoZ80 – Drop-In Z80 Replacement</a></td></tr>
+<tr><td><a href='https://lzon.ca/posts/other/microsoft-user-abuse/'>How Microsoft Abuses Its Users</a></td></tr>
 </table>
 <!-- END:news -->
 
