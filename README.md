@@ -25,7 +25,7 @@
 <tr><td><a href='https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html'>I ported Mac OS X to the Nintendo Wii</a></td></tr>
 <tr><td><a href='https://werwolv.net/posts/usb_for_sw_devs/'>USB for Software Developers: An introduction to writing userspace USB drivers</a></td></tr>
 <tr><td><a href='https://kalmanfilter.net'>Understanding the Kalman filter with a simple radar example</a></td></tr>
-<tr><td><a href='http://www.terrybisson.com/theyre-made-out-of-meat-2/'>They&#x27;re made out of meat (1991)</a></td></tr>
+<tr><td><a href='https://www.perfectlynormal.co.uk/blog-kl-divergence'>Six (and a half) intuitions for KL divergence</a></td></tr>
 </table>
 <!-- END:news -->
 
