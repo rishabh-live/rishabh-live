@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.yanist.com/clean-code-in-the-age-of-coding-agents/'>Clean code in the age of coding agents</a></td></tr>
+<tr><td><a href='https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn'>Emperor penguin and Antarctic fur seal now endangered</a></td></tr>
+<tr><td><a href='https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry'>Vercel Claude Code plugin wants to read your prompt</a></td></tr>
+<tr><td><a href='https://www.axios.com/2026/04/09/meta-social-media-addiction-ads'>Meta removes ads for social media addiction litigation</a></td></tr>
 <tr><td><a href='https://obdev.at/products/littlesnitch-linux/index.html'>LittleSnitch for Linux</a></td></tr>
 <tr><td><a href='https://github.com/jure/webphysics'>A WebGPU Implementation of Augmented Vertex Block Descent</a></td></tr>
-<tr><td><a href='https://www.axios.com/2026/04/09/meta-social-media-addiction-ads'>Meta removes ads for social media addiction litigation</a></td></tr>
-<tr><td><a href='https://getsession.org/donate'>Session is shutting down in 90 days</a></td></tr>
 </table>
 <!-- END:news -->
 
