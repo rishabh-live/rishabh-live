@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://obdev.at/products/littlesnitch-linux/index.html'>LittleSnitch for Linux</a></td></tr>
 <tr><td><a href='https://ssta.willhelps.org'>Show HN: 41 years sea surface temperature anomalies</a></td></tr>
-<tr><td><a href='https://cssstudio.ai'>Show HN: CSS Studio. Design by hand, code by agent</a></td></tr>
-<tr><td><a href='https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us'>Wit, unker, Git: The lost medieval pronouns of English intimacy</a></td></tr>
-<tr><td><a href='https://german.millermanschool.com/'>Am I German or Autistic?</a></td></tr>
+<tr><td><a href='https://obdev.at/products/littlesnitch-linux/index.html'>LittleSnitch for Linux</a></td></tr>
+<tr><td><a href='https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/'>Help Keep Thunderbird Alive</a></td></tr>
+<tr><td><a href='https://github.com/jure/webphysics'>A WebGPU Implementation of Augmented Vertex Block Descent</a></td></tr>
+<tr><td><a href='https://www.axios.com/2026/04/09/meta-social-media-addiction-ads'>Meta removes ads for social media addiction litigation</a></td></tr>
 </table>
 <!-- END:news -->
 
