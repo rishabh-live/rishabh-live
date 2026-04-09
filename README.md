@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://nockawa.github.io/blog/what-game-engines-know-about-data/'>What Game Engines Know About Data That Databases Forgot</a></td></tr>
-<tr><td><a href='https://github.com/randerson112/craft'>Show HN: I built a Cargo-like build tool for C&#x2F;C++</a></td></tr>
 <tr><td><a href='https://hegel.dev'>Hegel, a universal property-based testing protocol and family of PBT libraries</a></td></tr>
-<tr><td><a href='https://www.eff.org/deeplinks/2026/04/eff-leaving-x'>EFF is leaving X</a></td></tr>
 <tr><td><a href='https://blog.skypilot.co/research-driven-agents/'>Research-Driven Agents: What Happens When Your Agent Reads Before It Codes</a></td></tr>
+<tr><td><a href='https://github.com/randerson112/craft'>Show HN: I built a Cargo-like build tool for C&#x2F;C++</a></td></tr>
+<tr><td><a href='https://eaw.app/picoz80/'>PicoZ80 – Drop-In Z80 Replacement</a></td></tr>
 </table>
 <!-- END:news -->
 
