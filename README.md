@@ -25,7 +25,7 @@
 <tr><td><a href='https://astral.sh/blog/open-source-security-at-astral'>Open Source Security at Astral</a></td></tr>
 <tr><td><a href='https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html'>I ported Mac OS X to the Nintendo Wii</a></td></tr>
 <tr><td><a href='http://ravensblight.com/papertoys.html'>Haunted Paper Toys</a></td></tr>
-<tr><td><a href='https://theamericanscholar.org/the-importance-of-being-idle/'>The Importance of Being Idle</a></td></tr>
+<tr><td><a href='https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element'>Creating the Futurescape for the Fifth Element</a></td></tr>
 </table>
 <!-- END:news -->
 
