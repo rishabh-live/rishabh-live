@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://obdev.at/products/littlesnitch-linux/index.html'>LittleSnitch for Linux</a></td></tr>
 <tr><td><a href='https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html'>I ported Mac OS X to the Nintendo Wii</a></td></tr>
+<tr><td><a href='https://astral.sh/blog/open-source-security-at-astral'>Open Source Security at Astral</a></td></tr>
 <tr><td><a href='https://theamericanscholar.org/the-importance-of-being-idle/'>The Importance of Being Idle</a></td></tr>
 <tr><td><a href='https://werwolv.net/posts/usb_for_sw_devs/'>USB for Software Developers: An introduction to writing userspace USB drivers</a></td></tr>
-<tr><td><a href='https://kalmanfilter.net'>Understanding the Kalman filter with a simple radar example</a></td></tr>
 </table>
 <!-- END:news -->
 
