@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://nockawa.github.io/blog/what-game-engines-know-about-data/'>What Game Engines Know About Data That Databases Forgot</a></td></tr>
-<tr><td><a href='https://hegel.dev'>Hegel, a universal property-based testing protocol and family of PBT libraries</a></td></tr>
-<tr><td><a href='https://blog.skypilot.co/research-driven-agents/'>Research-Driven Agents: What Happens When Your Agent Reads Before It Codes</a></td></tr>
-<tr><td><a href='https://github.com/randerson112/craft'>Show HN: I built a Cargo-like build tool for C&#x2F;C++</a></td></tr>
+<tr><td><a href='https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers'>Maine Is About to Become the First State to Ban Major New Data Centers</a></td></tr>
+<tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
 <tr><td><a href='https://eaw.app/picoz80/'>PicoZ80 – Drop-In Z80 Replacement</a></td></tr>
+<tr><td><a href='https://hegel.dev'>Hegel, a universal property-based testing protocol and family of PBT libraries</a></td></tr>
+<tr><td><a href='https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture'>The Future of Everything Is Lies, I Guess: Part 3 – Culture</a></td></tr>
 </table>
 <!-- END:news -->
 
