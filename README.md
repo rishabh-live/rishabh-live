@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers'>Maine Is About to Become the First State to Ban Major New Data Centers</a></td></tr>
 <tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
 <tr><td><a href='https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/'>Netflix Prices Went Up Again – I Bought a DVD Player Instead</a></td></tr>
+<tr><td><a href='https://www.gadgetreview.com/maine-is-about-to-become-the-first-state-to-ban-major-new-data-centers'>Maine is about to become the first state to ban major new data centers</a></td></tr>
+<tr><td><a href='https://github.com/aloshdenny/reverse-SynthID'>Discovering, detecting, and surgically removing Google&#x27;s AI watermark</a></td></tr>
 <tr><td><a href='https://eaw.app/picoz80/'>PicoZ80 – Drop-In Z80 Replacement</a></td></tr>
-<tr><td><a href='https://hegel.dev'>Hegel, a universal property-based testing protocol and family of PBT libraries</a></td></tr>
 </table>
 <!-- END:news -->
 
