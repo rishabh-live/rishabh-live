@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://obdev.at/products/littlesnitch-linux/index.html'>LittleSnitch for Linux</a></td></tr>
-<tr><td><a href='https://publicdomainreview.org/collection/claude-monet-caricatures/'>Doing Impressions: Monet&#x27;s Early Caricatures (ca. late 1850s)</a></td></tr>
-<tr><td><a href='https://www.patater.com/files/projects/manual/manual.html'>Introduction to Nintendo DS Programming</a></td></tr>
+<tr><td><a href='https://www.eff.org/deeplinks/2026/04/eff-leaving-x'>EFF is leaving X</a></td></tr>
+<tr><td><a href='https://github.com/randerson112/craft'>Show HN: I built a Cargo-like build tool for C&#x2F;C++</a></td></tr>
 <tr><td><a href='https://freebsdfoundation.github.io/freebsd-laptop-testing/'>Top laptops to use with FreeBSD</a></td></tr>
-<tr><td><a href='https://github.com/jure/webphysics'>A WebGPU implementation of Augmented Vertex Block Descent</a></td></tr>
+<tr><td><a href='https://chatgpt.com/pricing/'>ChatGPT Pro now starts at $100&#x2F;month</a></td></tr>
+<tr><td><a href='https://www.patater.com/files/projects/manual/manual.html'>Introduction to Nintendo DS Programming</a></td></tr>
 </table>
 <!-- END:news -->
 
