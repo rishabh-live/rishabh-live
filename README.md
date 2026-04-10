@@ -25,7 +25,7 @@
 <tr><td><a href='https://rowan441.github.io/1dchess/chess.html'>1D Chess</a></td></tr>
 <tr><td><a href='https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html'>WireGuard makes new Windows release following Microsoft signing resolution</a></td></tr>
 <tr><td><a href='https://github.com/Keychron/Keychron-Keyboards-Hardware-Design'>Industrial design files for Keychron keyboards and mice</a></td></tr>
-<tr><td><a href='https://github.com/callumlocke/json-formatter'>JSON Formatter Chrome Plugin Now Closed and Injecting Adware</a></td></tr>
+<tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the Corners Off MacBooks</a></td></tr>
 </table>
 <!-- END:news -->
 
