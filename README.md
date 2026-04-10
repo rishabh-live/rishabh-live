@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/'>France Launches Government Linux Desktop Plan as Windows Exit Begins</a></td></tr>
 <tr><td><a href='https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/'>Intel 486 CPU announced April 10, 1989</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/'>Microsoft suspends dev accounts for high-profile open source projects</a></td></tr>
+<tr><td><a href='https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/'>France Launches Government Linux Desktop Plan as Windows Exit Begins</a></td></tr>
 <tr><td><a href='https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/'>How NASA built Artemis II’s fault-tolerant computer</a></td></tr>
 <tr><td><a href='https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html'>ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity</a></td></tr>
 </table>
