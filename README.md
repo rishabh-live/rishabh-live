@@ -24,8 +24,8 @@
 <tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the Corners Off MacBooks</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cr71lkzv49po'>Chimpanzees in Uganda locked in eight-year &#x27;civil war&#x27;, say researchers</a></td></tr>
 <tr><td><a href='https://rowan441.github.io/1dchess/chess.html'>1D Chess</a></td></tr>
+<tr><td><a href='https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/'>Has Mythos just broken the deal that kept the internet safe?</a></td></tr>
 <tr><td><a href='https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html'>WireGuard makes new Windows release following Microsoft signing resolution</a></td></tr>
-<tr><td><a href='https://github.com/Keychron/Keychron-Keyboards-Hardware-Design'>Industrial design files for Keychron keyboards and mice</a></td></tr>
 </table>
 <!-- END:news -->
 
