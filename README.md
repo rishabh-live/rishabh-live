@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/'>How NASA built Artemis II’s fault-tolerant computer</a></td></tr>
-<tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
 <tr><td><a href='https://david.coffee/i-still-prefer-mcp-over-skills/'>I still prefer MCP over skills</a></td></tr>
-<tr><td><a href='https://blog.veitheller.de/Generative_art_over_the_years.html'>Generative art over the years</a></td></tr>
+<tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
 <tr><td><a href='https://blog.gitbutler.com/series-a'>We&#x27;ve raised $17M to build what comes after Git</a></td></tr>
+<tr><td><a href='https://blog.veitheller.de/Generative_art_over_the_years.html'>Generative art over the years</a></td></tr>
 </table>
 <!-- END:news -->
 
