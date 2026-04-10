@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/'>How NASA built Artemis II’s fault-tolerant computer</a></td></tr>
+<tr><td><a href='https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html'>ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity</a></td></tr>
 <tr><td><a href='https://david.coffee/i-still-prefer-mcp-over-skills/'>I still prefer MCP over skills</a></td></tr>
 <tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
 <tr><td><a href='https://blog.gitbutler.com/series-a'>We&#x27;ve raised $17M to build what comes after Git</a></td></tr>
-<tr><td><a href='https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html'>ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity</a></td></tr>
 </table>
 <!-- END:news -->
 
