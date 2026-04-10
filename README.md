@@ -24,8 +24,8 @@
 <tr><td><a href='https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/'>How NASA built Artemis II’s fault-tolerant computer</a></td></tr>
 <tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
 <tr><td><a href='https://blog.veitheller.de/Generative_art_over_the_years.html'>Generative art over the years</a></td></tr>
-<tr><td><a href='https://charcuterie.elastiq.ch/'>Charcuterie – Visual similarity Unicode explorer</a></td></tr>
-<tr><td><a href='https://eaw.app/picoz80/'>PicoZ80 – Drop-In Z80 Replacement</a></td></tr>
+<tr><td><a href='https://bigbrotherwatch.org.uk/blog/apples-new-iphone-update-is-restricting-internet-freedom-in-the-uk/'>Apple&#x27;s New iPhone Update Is Restricting Internet Freedom in the UK</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=KKbgulTp3FE'>RAM Has a Design Flaw from 1966. I Bypassed It [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
