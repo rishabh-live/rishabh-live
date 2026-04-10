@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/'>France to ditch Windows for Linux to reduce reliance on US tech</a></td></tr>
-<tr><td><a href='https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf'>Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]</a></td></tr>
-<tr><td><a href='https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/'>CPU-Z and HWMonitor Compromised</a></td></tr>
+<tr><td><a href='https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/'>You can&#x27;t trust macOS Privacy and Security settings</a></td></tr>
+<tr><td><a href='https://www.construction-physics.com/p/helium-is-hard-to-replace'>Helium Is Hard to Replace</a></td></tr>
+<tr><td><a href='https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html'>WireGuard makes new Windows release following Microsoft signing resolution</a></td></tr>
+<tr><td><a href='https://rowan441.github.io/1dchess/chess.html'>1D Chess</a></td></tr>
 <tr><td><a href='https://olano.dev/blog/code-is-run-more-than-read/'>Code is run more than read (2023)</a></td></tr>
-<tr><td><a href='https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/'>FBI used iPhone notification data to retrieve deleted Signal messages</a></td></tr>
 </table>
 <!-- END:news -->
 
