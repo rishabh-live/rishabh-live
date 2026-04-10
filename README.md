@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://rowan441.github.io/1dchess/chess.html'>1D Chess</a></td></tr>
-<tr><td><a href='https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html'>WireGuard makes new Windows release following Microsoft signing resolution</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cr71lkzv49po'>Chimpanzees in Uganda locked in vicious &#x27;civil war&#x27;, say researchers</a></td></tr>
+<tr><td><a href='https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html'>WireGuard makes new Windows release following Microsoft signing resolution</a></td></tr>
 <tr><td><a href='https://github.com/Keychron/Keychron-Keyboards-Hardware-Design'>Industrial design files for Keychron keyboards and mice</a></td></tr>
 <tr><td><a href='https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/'>Watgo – A WebAssembly Toolkit for Go</a></td></tr>
 </table>
