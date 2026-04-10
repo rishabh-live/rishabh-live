@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://davidoks.blog/p/how-funerals-keep-africa-poor'>Many African families spend fortunes burying their dead</a></td></tr>
+<tr><td><a href='https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/'>How NASA built Artemis II’s fault-tolerant computer</a></td></tr>
 <tr><td><a href='https://arhan.sh/blog/native-instant-space-switching-on-macos/'>Native Instant Space Switching on macOS</a></td></tr>
-<tr><td><a href='https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/'>How NASA Built Artemis II’s Fault-Tolerant Computer</a></td></tr>
+<tr><td><a href='https://blog.veitheller.de/Generative_art_over_the_years.html'>Generative art over the years</a></td></tr>
 <tr><td><a href='https://charcuterie.elastiq.ch/'>Charcuterie – Visual similarity Unicode explorer</a></td></tr>
 <tr><td><a href='https://eaw.app/picoz80/'>PicoZ80 – Drop-In Z80 Replacement</a></td></tr>
 </table>
