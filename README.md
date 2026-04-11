@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
 <tr><td><a href='https://playstarfling.com'>Starfling: A one-tap endless orbital slingshot game in a single HTML file</a></td></tr>
-<tr><td><a href='https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/'>Artemis II safely splashes down</a></td></tr>
 <tr><td><a href='https://rowan441.github.io/1dchess/chess.html'>1D Chess</a></td></tr>
+<tr><td><a href='https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/'>Artemis II safely splashes down</a></td></tr>
 <tr><td><a href='https://jack.cab/blog/every-firefox-extension'>Installing every* Firefox extension</a></td></tr>
 </table>
 <!-- END:news -->
