@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier'>Small models also found the vulnerabilities that Mythos found</a></td></tr>
-<tr><td><a href='https://cirruslabs.org/'>Cirrus Labs to join OpenAI</a></td></tr>
 <tr><td><a href='https://www.v68k.org/advanced-mac-substitute/'>Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS</a></td></tr>
+<tr><td><a href='https://cirruslabs.org/'>Cirrus Labs to join OpenAI</a></td></tr>
 <tr><td><a href='https://notes.brooklynzelenka.com/Blog/Surelock'>Surelock: Deadlock-Free Mutexes for Rust</a></td></tr>
-<tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
+<tr><td><a href='https://planetscale.com/blog/keeping-a-postgres-queue-healthy'>Keeping a Postgres Queue Healthy</a></td></tr>
 </table>
 <!-- END:news -->
 
