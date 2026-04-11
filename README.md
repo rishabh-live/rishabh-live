@@ -22,7 +22,7 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier'>Small models also found the vulnerabilities that Mythos found</a></td></tr>
-<tr><td><a href='https://flight-viz.com/cockpit.html?lat=40.64&amp;lon=-73.78&amp;alt=3000&amp;hdg=220&amp;spd=130&amp;cs=DAL123'>Every plane you see in the sky – you can now follow it from the cockpit in 3D</a></td></tr>
+<tr><td><a href='https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/'>How We Broke Top AI Agent Benchmarks: And What Comes Next</a></td></tr>
 <tr><td><a href='https://www.v68k.org/advanced-mac-substitute/'>Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS</a></td></tr>
 <tr><td><a href='https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/'>How to build a `Git diff` driver</a></td></tr>
 <tr><td><a href='https://cirruslabs.org/'>Cirrus Labs to join OpenAI</a></td></tr>
