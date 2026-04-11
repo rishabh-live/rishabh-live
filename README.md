@@ -24,8 +24,8 @@
 <tr><td><a href='https://cirruslabs.org/'>Cirrus Labs to join OpenAI</a></td></tr>
 <tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
 <tr><td><a href='https://2swap.github.io/WeakC4/explanation/'>Optimal Strategy for Connect 4</a></td></tr>
+<tr><td><a href='https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/'>The Problem That Built an Industry</a></td></tr>
 <tr><td><a href='https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction'>Cooperative Vectors Introduction</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47727960'>Show HN: Pardonned.com – A searchable database of US Pardons</a></td></tr>
 </table>
 <!-- END:news -->
 
