@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
+<tr><td><a href='https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home'>How to breathe in fewer microplastics in your home</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth'>’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war</a></td></tr>
 <tr><td><a href='https://2swap.github.io/WeakC4/explanation/'>Optimal Strategy for Connect 4</a></td></tr>
-<tr><td><a href='https://playstarfling.com'>Starfling: A one-tap endless orbital slingshot game in a single HTML file</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47727960'>Show HN: Pardonned.com – A searchable database of US Pardons</a></td></tr>
-<tr><td><a href='https://rowan441.github.io/1dchess/chess.html'>1D Chess</a></td></tr>
 </table>
 <!-- END:news -->
 
