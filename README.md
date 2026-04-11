@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://cirruslabs.org/'>Cirrus Labs to join OpenAI</a></td></tr>
-<tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
-<tr><td><a href='https://2swap.github.io/WeakC4/explanation/'>Optimal Strategy for Connect 4</a></td></tr>
 <tr><td><a href='https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/'>The Problem That Built an Industry</a></td></tr>
-<tr><td><a href='https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction'>Cooperative Vectors Introduction</a></td></tr>
+<tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
+<tr><td><a href='https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances'>The Future of Everything Is Lies, I Guess: Annoyances</a></td></tr>
+<tr><td><a href='https://www.theregister.com/2026/04/10/south_korea_data_access_universal/'>South Korea introduces universal basic mobile data access</a></td></tr>
 </table>
 <!-- END:news -->
 
