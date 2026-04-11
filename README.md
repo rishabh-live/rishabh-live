@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home'>How to breathe in fewer microplastics in your home</a></td></tr>
-<tr><td><a href='https://cirruslabs.org/'>Cirrus Labs to join OpenAI shut down Circus CI on Monday, June 1, 2026</a></td></tr>
+<tr><td><a href='https://cirruslabs.org/'>Cirrus Labs to join OpenAI</a></td></tr>
+<tr><td><a href='https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8'>Bitcoin miners are losing on every coin produced as difficulty drops</a></td></tr>
 <tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
-<tr><td><a href='https://www.coindesk.com/markets/2026/03/22/bitcoin-miners-are-losing-usd19-000-on-every-btc-produced-as-difficulty-drops-7-8'>Bitcoin miners are losing $19,000 on every BTC produced as difficulty drops 7.8%</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/business/2026/apr/11/polymarket-gamblers-betting-iran-war-ukraine-news-truth'>’Abhorrent’: the inside story of the Polymarket gamblers betting millions on war</a></td></tr>
+<tr><td><a href='https://www.bbc.com/future/article/20260410-how-to-breathe-in-fewer-microplastics-in-your-home'>How to breathe in fewer microplastics in your home</a></td></tr>
+<tr><td><a href='https://2swap.github.io/WeakC4/explanation/'>Optimal Strategy for Connect 4</a></td></tr>
 </table>
 <!-- END:news -->
 
