@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html'>20 Years on AWS and Never Not My Job</a></td></tr>
 <tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
 <tr><td><a href='https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/'>Artemis II safely splashes down</a></td></tr>
 <tr><td><a href='https://rowan441.github.io/1dchess/chess.html'>1D Chess</a></td></tr>
-<tr><td><a href='https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html'>20 Years on AWS and Never Not My Job</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cr71lkzv49po'>Chimpanzees in Uganda locked in eight-year &#x27;civil war&#x27;, say researchers</a></td></tr>
 </table>
 <!-- END:news -->
