@@ -24,8 +24,8 @@
 <tr><td><a href='https://kentwalters.com/posts/corners/'>Filing the corners off my MacBooks</a></td></tr>
 <tr><td><a href='https://2swap.github.io/WeakC4/explanation/'>Optimal Strategy for Connect 4</a></td></tr>
 <tr><td><a href='https://playstarfling.com'>Starfling: A one-tap endless orbital slingshot game in a single HTML file</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47727960'>Show HN: Pardonned.com – A searchable database of US Pardons</a></td></tr>
 <tr><td><a href='https://rowan441.github.io/1dchess/chess.html'>1D Chess</a></td></tr>
-<tr><td><a href='https://apnews.com/article/aadam-jacobs-collection-concerts-internet-archive-chicago-b1c9c4466a2db409a83523ad84b79d62'>Volunteers turn a fan&#x27;s recordings of 10K concerts into an online treasure trove</a></td></tr>
 </table>
 <!-- END:news -->
 
