@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/'>We have a 99% email reputation. Gmail disagrees</a></td></tr>
 <tr><td><a href='https://github.com/anthropics/claude-code/issues/45756'>Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage</a></td></tr>
 <tr><td><a href='https://chriswhocodes.com/vm-options-explorer.html'>JVM Options Explorer</a></td></tr>
-<tr><td><a href='https://pudding.cool/2026/02/happy-map/'>Happy Map</a></td></tr>
-<tr><td><a href='https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and'>AI Will Be Met with Violence, and Nothing Good Will Come of It</a></td></tr>
-<tr><td><a href='https://phyphox.org/'>Phyphox – Physical Experiments Using a Smartphone</a></td></tr>
+<tr><td><a href='https://nerdy.dev/why-ai-sucks-at-front-end'>Why AI Sucks at Front End</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47739305'>Tell HN: OpenAI silently removed Study Mode from ChatGPT</a></td></tr>
 </table>
 <!-- END:news -->
 
