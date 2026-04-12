@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/45756'>Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage</a></td></tr>
 <tr><td><a href='https://chriswhocodes.com/vm-options-explorer.html'>JVM Options Explorer</a></td></tr>
 <tr><td><a href='https://pudding.cool/2026/02/happy-map/'>Happy Map</a></td></tr>
+<tr><td><a href='https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and'>AI Will Be Met with Violence, and Nothing Good Will Come of It</a></td></tr>
 <tr><td><a href='https://phyphox.org/'>Phyphox – Physical Experiments Using a Smartphone</a></td></tr>
-<tr><td><a href='https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026'>An Interview with Pat Gelsinger</a></td></tr>
-<tr><td><a href='https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/'>The Miller Principle (2007)</a></td></tr>
 </table>
 <!-- END:news -->
 
