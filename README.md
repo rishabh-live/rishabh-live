@@ -25,7 +25,7 @@
 <tr><td><a href='https://essays.johnloeber.com/p/4-bring-back-idiomatic-design'>Bring Back Idiomatic Design</a></td></tr>
 <tr><td><a href='https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball'>Most people can&#x27;t juggle one ball</a></td></tr>
 <tr><td><a href='https://blinry.org/diy-soft-drinks/'>DIY Soft Drinks</a></td></tr>
-<tr><td><a href='https://github.com/halfwhey/claudraband'>Show HN: Claudraband – Claude Code for the Power User</a></td></tr>
+<tr><td><a href='https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t'>Google removes &quot;Doki Doki Literature Club&quot; from Google Play</a></td></tr>
 </table>
 <!-- END:news -->
 
