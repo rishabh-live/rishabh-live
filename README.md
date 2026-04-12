@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/'>The peril of laziness lost</a></td></tr>
+<tr><td><a href='https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/'>Taking on CUDA with ROCm: &#x27;One Step After Another&#x27;</a></td></tr>
 <tr><td><a href='https://essays.johnloeber.com/p/4-bring-back-idiomatic-design'>Bring Back Idiomatic Design</a></td></tr>
 <tr><td><a href='https://blinry.org/diy-soft-drinks/'>DIY Soft Drinks</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47741527'>Ask HN: What Are You Working On? (April 2026)</a></td></tr>
-<tr><td><a href='https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t'>Google removes &quot;Doki Doki Literature Club&quot; from Google Play</a></td></tr>
 </table>
 <!-- END:news -->
 
