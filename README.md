@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://firethering.com/minimax-m2-7-agentic-model/'>MiniMax M2.7 Is Now Open Source</a></td></tr>
+<tr><td><a href='https://chriswhocodes.com/vm-options-explorer.html'>JVM Options Explorer</a></td></tr>
+<tr><td><a href='https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html'>What have been the greatest intellectual achievements?(2017)</a></td></tr>
 <tr><td><a href='https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026'>An Interview with Pat Gelsinger</a></td></tr>
-<tr><td><a href='https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/'>The Miller Principle</a></td></tr>
-<tr><td><a href='https://phyphox.org/'>Phyphox – Physical Experiments Using a Smartphone</a></td></tr>
-<tr><td><a href='https://www.johndcook.com/blog/2026/04/06/tofolli-gates/'>Tofolli gates are all you need</a></td></tr>
+<tr><td><a href='https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/'>The Miller Principle (2007)</a></td></tr>
 </table>
 <!-- END:news -->
 
