@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier'>Small models also found the vulnerabilities that Mythos found</a></td></tr>
 <tr><td><a href='https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026'>An Interview with Pat Gelsinger</a></td></tr>
-<tr><td><a href='https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack'>I run multiple $10K MRR companies on a $20&#x2F;month tech stack</a></td></tr>
 <tr><td><a href='https://www.johndcook.com/blog/2026/04/06/tofolli-gates/'>Tofolli gates are all you need</a></td></tr>
-<tr><td><a href='https://www.theregister.com/2026/04/12/ios_passcode_bug/'>Apple update looks like Czech mate for locked-out iPhone user</a></td></tr>
+<tr><td><a href='https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack'>I run multiple $10K MRR companies on a $20&#x2F;month tech stack</a></td></tr>
+<tr><td><a href='https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/'>The Miller Principle</a></td></tr>
+<tr><td><a href='https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/'>How We Broke Top AI Agent Benchmarks: And What Comes Next</a></td></tr>
 </table>
 <!-- END:news -->
 
