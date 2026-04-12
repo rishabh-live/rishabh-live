@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://brennan.day/the-end-of-eleventy/'>The End of Eleventy</a></td></tr>
 <tr><td><a href='https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier'>Small models also found the vulnerabilities that Mythos found</a></td></tr>
-<tr><td><a href='https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/'>How We Broke Top AI Agent Benchmarks: And What Comes Next</a></td></tr>
-<tr><td><a href='https://philodev.one/posts/2026-04-code-complexity/'>How Complex is my Code?</a></td></tr>
-<tr><td><a href='https://zenodo.org/records/19513269'>447 TB&#x2F;cm² at zero retention energy – atomic-scale memory on fluorographane</a></td></tr>
+<tr><td><a href='https://jshamsul.com/essays/2026-04-12-brainrot-industrial-complex'>The Brainrot Industrial Complex</a></td></tr>
+<tr><td><a href='https://www.flyingbarron.com/2026/04/excellence-is-habit.html'>Excellence Is a Habit</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional'>US appeals court declares 158-year-old home distilling ban unconstitutional</a></td></tr>
 </table>
 <!-- END:news -->
 
