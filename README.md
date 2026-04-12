@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and'>AI Will Be Met with Violence, and Nothing Good Will Come of It</a></td></tr>
 <tr><td><a href='https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier'>Small models also found the vulnerabilities that Mythos found</a></td></tr>
 <tr><td><a href='https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack'>I run multiple $10K MRR companies on a $20&#x2F;month tech stack</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/46829'>Anthropic silently downgraded cache TTL from 1h → 5M on March 6th</a></td></tr>
+<tr><td><a href='https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026'>An Interview with Pat Gelsinger</a></td></tr>
 <tr><td><a href='https://www.johndcook.com/blog/2026/04/06/tofolli-gates/'>Tofolli gates are all you need</a></td></tr>
-<tr><td><a href='https://brennan.day/the-end-of-eleventy/'>The End of Eleventy</a></td></tr>
 </table>
 <!-- END:news -->
 
