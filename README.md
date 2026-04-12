@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/'>We have a 99% email reputation. Gmail disagrees</a></td></tr>
 <tr><td><a href='https://github.com/anthropics/claude-code/issues/45756'>Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage</a></td></tr>
+<tr><td><a href='https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/'>We have a 99% email reputation. Gmail disagrees</a></td></tr>
+<tr><td><a href='https://github.com/rochus-keller/OberonSystem3Native/releases'>Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)</a></td></tr>
 <tr><td><a href='https://chriswhocodes.com/vm-options-explorer.html'>JVM Options Explorer</a></td></tr>
-<tr><td><a href='https://nerdy.dev/why-ai-sucks-at-front-end'>Why AI Sucks at Front End</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47739305'>Tell HN: OpenAI silently removed Study Mode from ChatGPT</a></td></tr>
+<tr><td><a href='https://essays.johnloeber.com/p/4-bring-back-idiomatic-design'>Bring Back Idiomatic Design</a></td></tr>
 </table>
 <!-- END:news -->
 
