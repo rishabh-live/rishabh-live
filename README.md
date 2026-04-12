@@ -24,7 +24,7 @@
 <tr><td><a href='https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/'>The peril of laziness lost</a></td></tr>
 <tr><td><a href='https://essays.johnloeber.com/p/4-bring-back-idiomatic-design'>Bring Back Idiomatic Design</a></td></tr>
 <tr><td><a href='https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball'>Most people can&#x27;t juggle one ball</a></td></tr>
-<tr><td><a href='https://maps.apple.com/frame?center=33.723388%2C35.614698&amp;span=1.983925%2C4.004193'>Apple has removed most of the towns and villages in Lebanon from Apple maps?</a></td></tr>
+<tr><td><a href='https://blinry.org/diy-soft-drinks/'>DIY Soft Drinks</a></td></tr>
 <tr><td><a href='https://github.com/halfwhey/claudraband'>Show HN: Claudraband – Claude Code for the Power User</a></td></tr>
 </table>
 <!-- END:news -->
