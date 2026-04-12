@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html'>The Closing of the Frontier</a></td></tr>
+<tr><td><a href='https://europe.mistral.ai/'>European AI. A playbook to own it. By Mistral</a></td></tr>
 <tr><td><a href='https://boringbar.app/'>Show HN: boringBar – a taskbar-style dock replacement for macOS</a></td></tr>
 <tr><td><a href='https://essays.johnloeber.com/p/4-bring-back-idiomatic-design'>Bring Back Idiomatic Design</a></td></tr>
 <tr><td><a href='https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball'>Most people can&#x27;t juggle one ball</a></td></tr>
-<tr><td><a href='https://www.trainjazz.com/'>I gave every train in New York an instrument</a></td></tr>
 </table>
 <!-- END:news -->
 
