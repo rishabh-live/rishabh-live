@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier'>Small models also found the vulnerabilities that Mythos found</a></td></tr>
 <tr><td><a href='https://brennan.day/the-end-of-eleventy/'>The End of Eleventy</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cjd8jrd1vnyo'>We spoke to the man making viral Lego-style AI videos for Iran</a></td></tr>
+<tr><td><a href='https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier'>Small models also found the vulnerabilities that Mythos found</a></td></tr>
 <tr><td><a href='https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/'>How We Broke Top AI Agent Benchmarks: And What Comes Next</a></td></tr>
-<tr><td><a href='https://khronokernel.com/macos/2023/08/08/AS-VM.html'>Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)</a></td></tr>
+<tr><td><a href='https://philodev.one/posts/2026-04-code-complexity/'>How Complex is my Code?</a></td></tr>
+<tr><td><a href='https://zenodo.org/records/19513269'>447 TB&#x2F;cm² at zero retention energy – atomic-scale memory on fluorographane</a></td></tr>
 </table>
 <!-- END:news -->
 
