@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://boringbar.app/'>Show HN: boringBar – a taskbar-style dock replacement for macOS</a></td></tr>
 <tr><td><a href='https://essays.johnloeber.com/p/4-bring-back-idiomatic-design'>Bring Back Idiomatic Design</a></td></tr>
-<tr><td><a href='https://www.trainjazz.com/'>I gave every train in New York an instrument</a></td></tr>
-<tr><td><a href='https://github.com/rochus-keller/OberonSystem3Native/releases'>Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)</a></td></tr>
 <tr><td><a href='https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball'>Most people can&#x27;t juggle one ball</a></td></tr>
+<tr><td><a href='https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing'>Are sugar substitutes healthier than the real thing?</a></td></tr>
+<tr><td><a href='https://www.trainjazz.com/'>I gave every train in New York an instrument</a></td></tr>
 </table>
 <!-- END:news -->
 
