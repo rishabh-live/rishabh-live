@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/'>Android now stops you sharing your location in photos</a></td></tr>
-<tr><td><a href='https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/'>AI could be the end of the digital wave, not the next big thing</a></td></tr>
-<tr><td><a href='https://substack.com/home/post/p-193626949'>I went to America&#x27;s worst national parks so you don&#x27;t have to</a></td></tr>
+<tr><td><a href='https://servo.org/blog/2026/04/13/servo-0.1.0-release/'>Servo is now available on crates.io</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2603.21852'>All elementary functions from a single binary operator</a></td></tr>
-<tr><td><a href='https://theyseeyourphotos.com/'>They See Your Photos</a></td></tr>
+<tr><td><a href='https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/'>Android now stops you sharing your location in photos</a></td></tr>
+<tr><td><a href='https://substack.com/home/post/p-193626949'>I went to America&#x27;s worst national parks so you don&#x27;t have to</a></td></tr>
+<tr><td><a href='https://www.viktorcessan.com/the-economics-of-software-teams/'>The economics of software teams: Why most engineering orgs are flying blind</a></td></tr>
 </table>
 <!-- END:news -->
 
