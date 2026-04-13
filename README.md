@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/'>Taking on CUDA with ROCm: &#x27;One Step After Another&#x27;</a></td></tr>
-<tr><td><a href='https://essays.johnloeber.com/p/4-bring-back-idiomatic-design'>Bring Back Idiomatic Design (2023)</a></td></tr>
-<tr><td><a href='https://blinry.org/diy-soft-drinks/'>DIY Soft Drinks</a></td></tr>
-<tr><td><a href='https://boringbar.app/'>Show HN: boringBar – a taskbar-style dock replacement for macOS</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2603.21852'>All elementary functions from a single binary operator</a></td></tr>
+<tr><td><a href='https://haunt.madebywindmill.com'>Haunt, the 70s text adventure game, is now playable on a website</a></td></tr>
+<tr><td><a href='https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/'>Taking on CUDA with ROCm: &#x27;One Step After Another&#x27;</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2604.07902'>Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets</a></td></tr>
+<tr><td><a href='https://mrlokans.work/posts/state-of-homelab-2026/'>State of Homelab 2026</a></td></tr>
 </table>
 <!-- END:news -->
 
