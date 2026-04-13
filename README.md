@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/sterlingcrispin/nothing-ever-happens'>Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</a></td></tr>
 <tr><td><a href='https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety'>The Future of Everything Is Lies, I Guess: Safety</a></td></tr>
 <tr><td><a href='https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/'>How to make Firefox builds 17% faster</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/cf-cli-local-explorer/'>Building a CLI for All of Cloudflare</a></td></tr>
+<tr><td><a href='https://github.github.com/gh-stack/'>GitHub Stacked PRs</a></td></tr>
 </table>
 <!-- END:news -->
 
