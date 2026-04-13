@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.github.com/gh-stack/'>GitHub Stacked PRs</a></td></tr>
 <tr><td><a href='https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/'>Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them</a></td></tr>
+<tr><td><a href='https://github.github.com/gh-stack/'>GitHub Stacked PRs</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/'>Stanford report highlights growing disconnect between AI insiders and everyone</a></td></tr>
-<tr><td><a href='https://github.com/sterlingcrispin/nothing-ever-happens'>Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</a></td></tr>
 <tr><td><a href='https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/'>How to make Firefox builds 17% faster</a></td></tr>
+<tr><td><a href='https://github.com/sterlingcrispin/nothing-ever-happens'>Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</a></td></tr>
 </table>
 <!-- END:news -->
 
