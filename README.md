@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/brightbeanxyz/brightbean-studio'>Show HN: I built a social media management tool in 3 weeks with Claude and Codex</a></td></tr>
+<tr><td><a href='https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/'>Android now stops you sharing your location in photos</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2603.21852'>All elementary functions from a single binary operator</a></td></tr>
-<tr><td><a href='https://www.viktorcessan.com/the-economics-of-software-teams/'>The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind</a></td></tr>
+<tr><td><a href='https://www.viktorcessan.com/the-economics-of-software-teams/'>The economics of software teams: Why most engineering orgs are flying blind</a></td></tr>
 <tr><td><a href='https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/'>Taking on CUDA with ROCm: &#x27;One Step After Another&#x27;</a></td></tr>
 <tr><td><a href='https://blinry.org/diy-soft-drinks/'>DIY Soft Drinks</a></td></tr>
 </table>
