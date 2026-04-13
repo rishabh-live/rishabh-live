@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/sterlingcrispin/nothing-ever-happens'>Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</a></td></tr>
+<tr><td><a href='https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety'>The Future of Everything Is Lies, I Guess: Safety</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/cf-cli-local-explorer/'>Building a CLI for All of Cloudflare</a></td></tr>
 <tr><td><a href='https://servo.org/blog/2026/04/13/servo-0.1.0-release/'>Servo is now available on crates.io</a></td></tr>
-<tr><td><a href='https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety'>The Future of Everything Is Lies, I Guess: Safety</a></td></tr>
-<tr><td><a href='https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/'>Make Tmux Pretty and Usable</a></td></tr>
+<tr><td><a href='https://www.campbellramble.ai/p/the-rational-conclusion'>The Rational Conclusion of Doomerism Is Violence</a></td></tr>
 </table>
 <!-- END:news -->
 
