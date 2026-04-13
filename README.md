@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.viktorcessan.com/the-economics-of-software-teams/'>The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2603.21852'>All elementary functions from a single binary operator</a></td></tr>
+<tr><td><a href='https://www.viktorcessan.com/the-economics-of-software-teams/'>The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind</a></td></tr>
 <tr><td><a href='https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/'>Taking on CUDA with ROCm: &#x27;One Step After Another&#x27;</a></td></tr>
+<tr><td><a href='https://blinry.org/diy-soft-drinks/'>DIY Soft Drinks</a></td></tr>
 <tr><td><a href='https://essays.johnloeber.com/p/4-bring-back-idiomatic-design'>Bring Back Idiomatic Design (2023)</a></td></tr>
-<tr><td><a href='https://boringbar.app/'>Show HN: boringBar – a taskbar-style dock replacement for macOS</a></td></tr>
 </table>
 <!-- END:news -->
 
