@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/'>Rare concert recordings are landing on the Internet Archive</a></td></tr>
-<tr><td><a href='https://openai.com/index/scaling-trusted-access-for-cyber-defense/'>Trusted access for the next era of cyber defense</a></td></tr>
 <tr><td><a href='https://taoofmac.com/space/reviews/2026/04/11/1900'>The Orange Pi 6 Plus</a></td></tr>
+<tr><td><a href='https://openai.com/index/scaling-trusted-access-for-cyber-defense/'>Trusted access for the next era of cyber defense</a></td></tr>
 <tr><td><a href='https://kb.databasedesignbook.com/posts/5nf/'>5NF and Database Design</a></td></tr>
 </table>
 <!-- END:news -->
