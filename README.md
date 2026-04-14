@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://nim-lang.org/blog/2026/04/07/nimconf-2026.html'>NimConf 2026: Dates Announced, Registrations Open</a></td></tr>
-<tr><td><a href='https://www.blackmagicdesign.com/products/davinciresolve/photo'>DaVinci Resolve – Photo</a></td></tr>
 <tr><td><a href='https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html'>What is jj and why should I care?</a></td></tr>
+<tr><td><a href='https://www.blackmagicdesign.com/products/davinciresolve/photo'>DaVinci Resolve – Photo</a></td></tr>
+<tr><td><a href='https://nim-lang.org/blog/2026/04/07/nimconf-2026.html'>NimConf 2026: Dates Announced, Registrations Open</a></td></tr>
 <tr><td><a href='https://developers.google.com/search/blog/2026/04/back-button-hijacking'>A new spam policy for “back button hijacking”</a></td></tr>
-<tr><td><a href='https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/'>Someone bought 30 WordPress plugins and planted a backdoor in all of them</a></td></tr>
+<tr><td><a href='https://rareese.com/posts/backblaze/'>Backblaze has stopped backing up your data</a></td></tr>
 </table>
 <!-- END:news -->
 
