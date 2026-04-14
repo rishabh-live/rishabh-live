@@ -25,7 +25,7 @@
 <tr><td><a href='https://developers.google.com/search/blog/2026/04/back-button-hijacking'>A new spam policy for &quot;back button hijacking&quot;</a></td></tr>
 <tr><td><a href='https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/'>Someone bought 30 WordPress plugins and planted a backdoor in all of them</a></td></tr>
 <tr><td><a href='https://github.github.com/gh-stack/'>GitHub Stacked PRs</a></td></tr>
-<tr><td><a href='https://kirancodes.me/posts/log-who-watches-the-watchers.html'>Lean proved this program correct; then I found a bug</a></td></tr>
+<tr><td><a href='https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/'>Sometimes powerful people just do dumb shit</a></td></tr>
 </table>
 <!-- END:news -->
 
