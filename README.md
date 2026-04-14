@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/'>Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them</a></td></tr>
 <tr><td><a href='https://github.github.com/gh-stack/'>GitHub Stacked PRs</a></td></tr>
-<tr><td><a href='https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet'>The tech jobs bust is real. Don&#x27;t blame AI (yet)</a></td></tr>
+<tr><td><a href='https://kirancodes.me/posts/log-who-watches-the-watchers.html'>Lean proved this program correct; then I found a bug</a></td></tr>
+<tr><td><a href='https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically'>The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers</a></td></tr>
 <tr><td><a href='https://github.com/sterlingcrispin/nothing-ever-happens'>Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</a></td></tr>
-<tr><td><a href='https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/'>How to make Firefox builds 17% faster</a></td></tr>
 </table>
 <!-- END:news -->
 
