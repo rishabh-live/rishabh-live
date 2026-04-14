@@ -24,8 +24,8 @@
 <tr><td><a href='https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html'>I wrote to Flock&#x27;s privacy contact to opt out of their domestic spying program</a></td></tr>
 <tr><td><a href='https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/'>YouTube now world&#x27;s largest media company, topping Disney</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/'>Rare concert recordings are landing on the Internet Archive</a></td></tr>
-<tr><td><a href='https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731'>Spain to expand internet blocks to tennis, golf, movies broadcasting times</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
+<tr><td><a href='https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731'>Spain to expand internet blocks to tennis, golf, movies broadcasting times</a></td></tr>
 </table>
 <!-- END:news -->
 
