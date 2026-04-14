@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/'>Someone bought 30 WordPress plugins and planted a backdoor in all of them</a></td></tr>
-<tr><td><a href='https://kirancodes.me/posts/log-who-watches-the-watchers.html'>Lean proved this program correct; then I found a bug</a></td></tr>
 <tr><td><a href='https://github.github.com/gh-stack/'>GitHub Stacked PRs</a></td></tr>
+<tr><td><a href='https://kirancodes.me/posts/log-who-watches-the-watchers.html'>Lean proved this program correct; then I found a bug</a></td></tr>
+<tr><td><a href='https://www.blackmagicdesign.com/products/davinciresolve/photo'>DaVinci Resolve releases Photo Editor</a></td></tr>
 <tr><td><a href='https://github.com/fabienmillet/WiiFin'>WiiFin – Jellyfin Client for Nintendo Wii</a></td></tr>
-<tr><td><a href='https://github.com/sterlingcrispin/nothing-ever-happens'>Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets</a></td></tr>
 </table>
 <!-- END:news -->
 
