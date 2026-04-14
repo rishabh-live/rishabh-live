@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work'>The Future of Everything Is Lies, I Guess: Work</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/'>Rare concert recordings are landing on the Internet Archive</a></td></tr>
-<tr><td><a href='https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/'>Google, Microsoft, Meta All Tracking You Even When You Opt Out</a></td></tr>
+<tr><td><a href='https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731'>Spain to expand internet blocks to tennis, golf, movies broadcasting times</a></td></tr>
+<tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
+<tr><td><a href='https://kb.databasedesignbook.com/posts/5nf/'>5NF and Database Design</a></td></tr>
 <tr><td><a href='https://www.blackmagicdesign.com/products/davinciresolve/photo'>DaVinci Resolve – Photo</a></td></tr>
-<tr><td><a href='https://developers.google.com/search/blog/2026/04/back-button-hijacking'>A new spam policy for “back button hijacking”</a></td></tr>
 </table>
 <!-- END:news -->
 
