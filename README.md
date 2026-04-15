@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://prog21.dadgum.com/30.html'>Want to Write a Compiler? Just Read These Two Papers (2008)</a></td></tr>
-<tr><td><a href='https://super-memory.com/articles/sleep.htm'>Good Sleep, Good Learning (2012)</a></td></tr>
 <tr><td><a href='https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/'>God Sleeps in the Minerals</a></td></tr>
-<tr><td><a href='https://en.wikipedia.org/wiki/Costasiella_kuroshimae'>Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis</a></td></tr>
+<tr><td><a href='https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs'>The Future of Everything Is Lies, I Guess: New Jobs</a></td></tr>
+<tr><td><a href='https://tracksuccession.com/explore'>Show HN: Every CEO and CFO change at US public companies, live from SEC</a></td></tr>
+<tr><td><a href='https://prog21.dadgum.com/30.html'>Want to Write a Compiler? Just Read These Two Papers (2008)</a></td></tr>
 <tr><td><a href='https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/'>MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints</a></td></tr>
 </table>
 <!-- END:news -->
