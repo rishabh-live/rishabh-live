@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/'>AI-Assisted Cognition Endangers Human Development</a></td></tr>
-<tr><td><a href='https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats'>Open Source Isn&#x27;t Dead. Cal.com Just Learned the Wrong Lesson</a></td></tr>
-<tr><td><a href='https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data'>Google Broke Its Promise to Me. Now ICE Has My Data</a></td></tr>
-<tr><td><a href='https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/'>God Sleeps in the Minerals</a></td></tr>
-<tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds'>Live Nation Illegally Monopolized Ticketing Market, Jury Finds</a></td></tr>
+<tr><td><a href='https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data'>Google broke its promise to me – now ICE has my data</a></td></tr>
+<tr><td><a href='https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/'>God sleeps in the minerals</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds'>Live Nation illegally monopolized ticketing market, jury finds</a></td></tr>
+<tr><td><a href='https://cal.com/blog/cal-com-goes-closed-source-why'>Cal.com is going closed source</a></td></tr>
+<tr><td><a href='http://tinycorelinux.net/5.x/armv6/releases/README'>PiCore - Raspberry Pi Port of Tiny Core Linux</a></td></tr>
 </table>
 <!-- END:news -->
 
