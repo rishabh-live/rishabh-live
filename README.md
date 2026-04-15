@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/steipete/wacli'>Peter Steinberger – WhatsApp CLI: sync, search, send</a></td></tr>
 <tr><td><a href='https://iczelia.net/posts/e16-20-year-old-bug/'>Fixing a 20-year-old bug in Enlightenment E16</a></td></tr>
 <tr><td><a href='https://vjay15.github.io/blog/apikeys/'>My adventure in designing API keys</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/'>Rare concert recordings are landing on the Internet Archive</a></td></tr>
+<tr><td><a href='https://github.com/steipete/wacli'>Wacli – WhatsApp CLI: sync, search, send</a></td></tr>
+<tr><td><a href='https://steveblank.com/2024/04/16/founders-need-to-be-ruthless-when-chasing-deals/'>Founders Need to Be Ruthless When Chasing Deals</a></td></tr>
 </table>
 <!-- END:news -->
 
