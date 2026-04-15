@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://prog21.dadgum.com/30.html'>Want to Write a Compiler? Just Read These Two Papers (2008)</a></td></tr>
 <tr><td><a href='https://super-memory.com/articles/sleep.htm'>Good Sleep, Good Learning (2012)</a></td></tr>
+<tr><td><a href='https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/'>God Sleeps in the Minerals</a></td></tr>
 <tr><td><a href='https://en.wikipedia.org/wiki/Costasiella_kuroshimae'>Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis</a></td></tr>
-<tr><td><a href='https://iczelia.net/posts/e16-20-year-old-bug/'>Fixing a 20-year-old bug in Enlightenment E16</a></td></tr>
-<tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
+<tr><td><a href='https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/'>MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints</a></td></tr>
 </table>
 <!-- END:news -->
 
