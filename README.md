@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats'>Open Source Isn&#x27;t Dead. Cal.com Just Learned the Wrong Lesson</a></td></tr>
 <tr><td><a href='https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data'>Google Broke Its Promise to Me. Now ICE Has My Data</a></td></tr>
 <tr><td><a href='https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/'>God Sleeps in the Minerals</a></td></tr>
-<tr><td><a href='https://prog21.dadgum.com/30.html'>Want to Write a Compiler? Just Read These Two Papers (2008)</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds'>Live Nation Illegally Monopolized Ticketing Market, Jury Finds</a></td></tr>
 </table>
 <!-- END:news -->
 
