@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/steipete/wacli'>Peter Steinberger – WhatsApp CLI: sync, search, send</a></td></tr>
 <tr><td><a href='https://iczelia.net/posts/e16-20-year-old-bug/'>Fixing a 20-year-old bug in Enlightenment E16</a></td></tr>
-<tr><td><a href='https://calpaterson.com/deps.html'>Dependency cooldowns turn you into a free-rider</a></td></tr>
-<tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
 <tr><td><a href='https://vjay15.github.io/blog/apikeys/'>My adventure in designing API keys</a></td></tr>
+<tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/'>Rare concert recordings are landing on the Internet Archive</a></td></tr>
 </table>
 <!-- END:news -->
 
