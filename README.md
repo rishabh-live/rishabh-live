@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://prog21.dadgum.com/30.html'>Want to Write a Compiler? Just Read These Two Papers (2008)</a></td></tr>
 <tr><td><a href='https://iczelia.net/posts/e16-20-year-old-bug/'>Fixing a 20-year-old bug in Enlightenment E16</a></td></tr>
-<tr><td><a href='https://vjay15.github.io/blog/apikeys/'>My adventure in designing API keys</a></td></tr>
+<tr><td><a href='https://super-memory.com/articles/sleep.htm'>Good Sleep, Good Learning (2012)</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
 <tr><td><a href='https://github.com/steipete/wacli'>Wacli – WhatsApp CLI: sync, search, send</a></td></tr>
-<tr><td><a href='https://steveblank.com/2024/04/16/founders-need-to-be-ruthless-when-chasing-deals/'>Founders Need to Be Ruthless When Chasing Deals</a></td></tr>
 </table>
 <!-- END:news -->
 
