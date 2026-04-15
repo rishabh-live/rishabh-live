@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://prog21.dadgum.com/30.html'>Want to Write a Compiler? Just Read These Two Papers (2008)</a></td></tr>
-<tr><td><a href='https://iczelia.net/posts/e16-20-year-old-bug/'>Fixing a 20-year-old bug in Enlightenment E16</a></td></tr>
 <tr><td><a href='https://super-memory.com/articles/sleep.htm'>Good Sleep, Good Learning (2012)</a></td></tr>
-<tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
-<tr><td><a href='https://github.com/steipete/wacli'>Wacli – WhatsApp CLI: sync, search, send</a></td></tr>
+<tr><td><a href='https://iczelia.net/posts/e16-20-year-old-bug/'>Fixing a 20-year-old bug in Enlightenment E16</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Costasiella_kuroshimae'>Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis</a></td></tr>
+<tr><td><a href='https://support.claude.com/en/articles/14328960-identity-verification-on-claude'>Claude may require identity verification in some cases</a></td></tr>
 </table>
 <!-- END:news -->
 
