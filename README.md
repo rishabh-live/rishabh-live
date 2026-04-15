@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://stopflock.com'>Stop Flock</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/'>Rare concert recordings are landing on the Internet Archive</a></td></tr>
-<tr><td><a href='https://ascii.textfiles.com/archives/1717'>Fuck the cloud (2009)</a></td></tr>
+<tr><td><a href='https://calpaterson.com/deps.html'>Dependency cooldowns turn you into a free-rider</a></td></tr>
+<tr><td><a href='https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/'>A communist Apple II and fourteen years of not knowing what you&#x27;re testing</a></td></tr>
 <tr><td><a href='https://taoofmac.com/space/reviews/2026/04/11/1900'>The Orange Pi 6 Plus</a></td></tr>
 </table>
 <!-- END:news -->
