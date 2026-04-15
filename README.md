@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/gastownhall/gastown/issues/3649'>Does Gas Town &#x27;steal&#x27; usage from users&#x27; LLM credits to improve itself?</a></td></tr>
+<tr><td><a href='https://www.mcdonalds.co.jp/en/menu/burger/'>The buns in McDonald&#x27;s Japan&#x27;s burger photos are all slightly askew</a></td></tr>
 <tr><td><a href='https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html'>Cybersecurity looks like proof of work now</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47783940'>Ask HN: Who is using OpenClaw?</a></td></tr>
 <tr><td><a href='https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data'>Google broke its promise to me – now ICE has my data</a></td></tr>
-<tr><td><a href='http://tinycorelinux.net/5.x/armv6/releases/README'>PiCore - Raspberry Pi Port of Tiny Core Linux</a></td></tr>
 </table>
 <!-- END:news -->
 
