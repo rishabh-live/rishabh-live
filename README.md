@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://lewiscampbell.tech/blog/260414.html'>Saying Goodbye to Agile</a></td></tr>
+<tr><td><a href='https://iczelia.net/posts/e16-20-year-old-bug/'>Fixing a 20-year-old bug in Enlightenment E16</a></td></tr>
 <tr><td><a href='https://code.claude.com/docs/en/routines'>Claude Code Routines</a></td></tr>
 <tr><td><a href='https://calpaterson.com/deps.html'>Dependency cooldowns turn you into a free-rider</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/'>Rare concert recordings are landing on the Internet Archive</a></td></tr>
 <tr><td><a href='https://www.stylewarning.com/posts/not-all-elementary/'>Not all elementary functions can be expressed with exp-minus-log</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/'>Rare concert recordings are landing on the Internet Archive</a></td></tr>
 </table>
 <!-- END:news -->
 
