@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197'>IPv6 traffic crosses the 50% mark</a></td></tr>
 <tr><td><a href='https://darkbloom.dev'>Darkbloom – Private inference on idle Macs</a></td></tr>
 <tr><td><a href='https://daedal.io/@thomzane/116410863009847575'>FSF trying to contact Google about spammer sending 10k+ mails from Gmail account</a></td></tr>
+<tr><td><a href='https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html'>Cybersecurity looks like proof of work now</a></td></tr>
 <tr><td><a href='https://github.com/Nightmare-Eclipse/RedSun'>RedSun: System user access on Win 11&#x2F;10 and Server with the April 2026 Update</a></td></tr>
-<tr><td><a href='https://jsomers.net/blog/the-paper-computer'>The paper computer</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
