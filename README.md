@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://jsomers.net/blog/the-paper-computer'>The paper computer</a></td></tr>
 <tr><td><a href='https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html'>Cybersecurity looks like proof of work now</a></td></tr>
 <tr><td><a href='https://theleo.zone/posts/pager/'>I made a terminal pager</a></td></tr>
-<tr><td><a href='https://www.keycard.studio/'>Keycard – inject API keys into subprocesses, never touch shell env</a></td></tr>
-<tr><td><a href='https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data'>Google broke its promise to me – now ICE has my data</a></td></tr>
-<tr><td><a href='https://cal.com/blog/cal-com-goes-closed-source-why'>Cal.com is going closed source</a></td></tr>
+<tr><td><a href='https://chatgpt.com/apps/spreadsheets/'>ChatGPT for Excel</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/iran-internet-blackout-satellite-tv'>Stealth signals are bypassing Iran’s internet blackout</a></td></tr>
 </table>
 <!-- END:news -->
 
