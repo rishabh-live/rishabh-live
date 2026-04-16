@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://darkbloom.dev'>Darkbloom – Private inference on idle Macs</a></td></tr>
+<tr><td><a href='https://sleepingrobots.com/dreams/stop-using-ollama/'>Stop Using Ollama</a></td></tr>
+<tr><td><a href='https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197'>IPv6 traffic crosses the 50% mark</a></td></tr>
 <tr><td><a href='https://daedal.io/@thomzane/116410863009847575'>FSF trying to contact Google about spammer sending 10k+ mails from Gmail account</a></td></tr>
-<tr><td><a href='https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/'>Sal Khan&#x27;s AI revolution hasn&#x27;t happened yet</a></td></tr>
 <tr><td><a href='https://github.com/Nightmare-Eclipse/RedSun'>RedSun: System user access on Win 11&#x2F;10 and Server with the April 2026 Update</a></td></tr>
-<tr><td><a href='https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45'>Moving a large-scale metrics pipeline from StatsD to OpenTelemetry &#x2F; Prometheus</a></td></tr>
 </table>
 <!-- END:news -->
 
