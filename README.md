@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html'>Cybersecurity looks like proof of work now</a></td></tr>
-<tr><td><a href='https://chatgpt.com/apps/spreadsheets/'>ChatGPT for Excel</a></td></tr>
 <tr><td><a href='https://theleo.zone/posts/pager/'>I made a terminal pager</a></td></tr>
-<tr><td><a href='https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data'>Google broke its promise to me – now ICE has my data</a></td></tr>
+<tr><td><a href='https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes'>YouTube now lets you turn off Shorts</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/technology-39576394'>Ohio prison inmates &#x27;built computers and hid them in ceiling (2017)</a></td></tr>
+<tr><td><a href='https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data'>Google broke its promise to me – now ICE has my data</a></td></tr>
 </table>
 <!-- END:news -->
 
