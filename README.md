@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.ietf.org/archive/id/draft-thain-ipv8-00.html'>IPv8 Proposal</a></td></tr>
+<tr><td><a href='https://darkbloom.dev'>Darkbloom – Private inference on idle Macs</a></td></tr>
+<tr><td><a href='https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/'>Why Sal Khan&#x27;s AI revolution hasn&#x27;t happened yet, according to Sal Khan</a></td></tr>
+<tr><td><a href='https://daedal.io/@thomzane/116410863009847575'>FSF trying to contact Google about spammer sending 10k+ mails from Gmail account</a></td></tr>
 <tr><td><a href='https://jsomers.net/blog/the-paper-computer'>The paper computer</a></td></tr>
-<tr><td><a href='https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html'>Cybersecurity looks like proof of work now</a></td></tr>
-<tr><td><a href='https://theleo.zone/posts/pager/'>I made a terminal pager</a></td></tr>
-<tr><td><a href='https://chatgpt.com/apps/spreadsheets/'>ChatGPT for Excel</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/iran-internet-blackout-satellite-tv'>Stealth signals are bypassing Iran’s internet blackout</a></td></tr>
 </table>
 <!-- END:news -->
 
