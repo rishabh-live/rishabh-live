@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/email-for-agents/'>Cloudflare Email Service</a></td></tr>
-<tr><td><a href='https://www.thunderbolt.io/'>Mozilla Thunderbolt</a></td></tr>
-<tr><td><a href='https://andonlabs.com/blog/andon-market-launch'>We gave an AI a 3 year retail lease and asked it to make a profit</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.6-35b-a3b'>Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All</a></td></tr>
+<tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for Almost Everything</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.6-35b-a3b'>Qwen3.6-35B-A3B: Agentic coding power, now open to all</a></td></tr>
+<tr><td><a href='https://www.zatanna.ai/kampala'>Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/ai-platform/'>Cloudflare&#x27;s AI Platform: an inference layer designed for agents</a></td></tr>
 </table>
 <!-- END:news -->
 
