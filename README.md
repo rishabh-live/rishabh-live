@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
+<tr><td><a href='https://www.fluentu.com/blog/german/german-dog-commands/'>German Dog Commands</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=XaDa9bBucEI'>PCI Express over Fiber [video]</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=y2_BqkKTbD8'>TigerBeetle: A Trillion Transactions [video]</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/ai-platform/'>Cloudflare&#x27;s AI Platform: an inference layer designed for agents</a></td></tr>
 </table>
 <!-- END:news -->
 
