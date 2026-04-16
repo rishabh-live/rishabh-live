@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
 <tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
-<tr><td><a href='https://ropensci.org/blog/2026/04/02/tree-sitter-overview/'>A Better R Programming Experience Thanks to Tree-sitter</a></td></tr>
 <tr><td><a href='https://github.com/gainsec/autoprober'>Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine</a></td></tr>
+<tr><td><a href='https://ropensci.org/blog/2026/04/02/tree-sitter-overview/'>A Better R Programming Experience Thanks to Tree-sitter</a></td></tr>
 <tr><td><a href='https://clojure.org/about/documentary'>Official Clojure Documentary page with Video, Shownotes, and Links</a></td></tr>
 </table>
 <!-- END:news -->
