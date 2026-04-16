@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262'>€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs</a></td></tr>
 <tr><td><a href='https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197'>IPv6 traffic crosses the 50% mark</a></td></tr>
-<tr><td><a href='https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf'>Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]</a></td></tr>
-<tr><td><a href='https://blog.calif.io/p/codex-hacked-a-samsung-tv'>Codex Hacked a Samsung TV</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/'>Apple accelerates eco progress with highest-ever recycled materials</a></td></tr>
 <tr><td><a href='https://darkbloom.dev'>Darkbloom – Private inference on idle Macs</a></td></tr>
+<tr><td><a href='https://antirez.com/news/163'>AI cybersecurity is not proof of work</a></td></tr>
 </table>
 <!-- END:news -->
 
