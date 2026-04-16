@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197'>IPv6 traffic crosses the 50% mark</a></td></tr>
 <tr><td><a href='https://blog.calif.io/p/codex-hacked-a-samsung-tv'>Codex Hacked a Samsung TV</a></td></tr>
-<tr><td><a href='https://darkbloom.dev'>Darkbloom – Private inference on idle Macs</a></td></tr>
 <tr><td><a href='https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf'>Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]</a></td></tr>
+<tr><td><a href='https://darkbloom.dev'>Darkbloom – Private inference on idle Macs</a></td></tr>
 <tr><td><a href='https://daedal.io/@thomzane/116410863009847575'>FSF trying to contact Google about spammer sending 10k+ mails from Gmail account</a></td></tr>
 </table>
 <!-- END:news -->
