@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.6-35b-a3b'>Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All</a></td></tr>
-<tr><td><a href='https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262'>€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs</a></td></tr>
-<tr><td><a href='https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here'>The Future of Everything Is Lies, I Guess: Where Do We Go from Here?</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/email-for-agents/'>Cloudflare Email Service: now in public beta. Ready for your agents</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
+<tr><td><a href='https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/'>Laravel raised money and now injects ads directly into your agent</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/email-for-agents/'>Cloudflare Email Service</a></td></tr>
+<tr><td><a href='https://www.thunderbolt.io/'>Mozilla Thunderbolt</a></td></tr>
 <tr><td><a href='https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197'>IPv6 traffic crosses the 50% mark</a></td></tr>
 </table>
 <!-- END:news -->
