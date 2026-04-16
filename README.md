@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
+<tr><td><a href='https://ropensci.org/blog/2026/04/02/tree-sitter-overview/'>A Better R Programming Experience Thanks to Tree-sitter</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=XaDa9bBucEI'>PCI Express over Fiber [video]</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=y2_BqkKTbD8'>TigerBeetle: A Trillion Transactions [video]</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.6-35b-a3b'>Qwen3.6-35B-A3B: Agentic coding power, now open to all</a></td></tr>
 </table>
 <!-- END:news -->
 
