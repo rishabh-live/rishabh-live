@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-design-anthropic-labs'>Claude Design</a></td></tr>
 <tr><td><a href='https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you'>Claude Opus 4.7 costs 20–30% more per session</a></td></tr>
-<tr><td><a href='https://www.thehistoryblog.com/archives/75848'>Middle schooler finds coin from Troy in Berlin</a></td></tr>
 <tr><td><a href='https://hex.ooo/library/last_question.html'>Isaac Asimov: The Last Question (1956)</a></td></tr>
+<tr><td><a href='https://www.thehistoryblog.com/archives/75848'>Middle schooler finds coin from Troy in Berlin</a></td></tr>
 <tr><td><a href='https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/'>NIST gives up enriching most CVEs</a></td></tr>
 </table>
 <!-- END:news -->
