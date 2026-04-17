@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://hex.ooo/library/last_question.html'>Isaac Asimov: The Last Question</a></td></tr>
-<tr><td><a href='https://isitagentready.com'>Is Your Site Agent-Ready? (By Cloudflare)</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
-<tr><td><a href='https://www.iqiipi.com/the-quiet-colossus.html'>Ada, Its Design, and the Language That Built the Languages</a></td></tr>
-<tr><td><a href='https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models'>We Reproduced Anthropic&#x27;s Mythos Findings with Public Models</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-design-anthropic-labs'>Claude Design</a></td></tr>
+<tr><td><a href='https://hex.ooo/library/last_question.html'>Isaac Asimov: The Last Question (1956)</a></td></tr>
+<tr><td><a href='https://www.thehistoryblog.com/archives/75848'>Middle schooler finds coin from Troy in Berlin</a></td></tr>
+<tr><td><a href='https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/'>Healthchecks.io Now Uses Self-Hosted Object Storage</a></td></tr>
+<tr><td><a href='https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation'>It Is Time to Ban the Sale of Precise Geolocation</a></td></tr>
 </table>
 <!-- END:news -->
 
