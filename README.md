@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-design-anthropic-labs'>Claude Design</a></td></tr>
+<tr><td><a href='https://www.corsix.org/content/simplified-model-of-fil-c'>A simplified model of Fil-C</a></td></tr>
+<tr><td><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon'>All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder (2018)</a></td></tr>
 <tr><td><a href='https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you'>Measuring Claude 4.7&#x27;s tokenizer costs</a></td></tr>
 <tr><td><a href='https://miguelconner.substack.com/p/im-coding-by-hand'>I&#x27;m spending 3 months coding the old way</a></td></tr>
-<tr><td><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon'>All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder (2018)</a></td></tr>
-<tr><td><a href='https://www.corsix.org/content/simplified-model-of-fil-c'>A simplified model of Fil-C</a></td></tr>
 </table>
 <!-- END:news -->
 
