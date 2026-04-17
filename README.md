@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.iqiipi.com/the-quiet-colossus.html'>Ada, Its Design, and the Language That Built the Languages</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
-<tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
 <tr><td><a href='https://www.nongnu.org/fbi-improved/'>FIM – Linux framebuffer image viewer</a></td></tr>
+<tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
 <tr><td><a href='https://cadquery.github.io/'>CadQuery is an open-source Python library for building 3D CAD models</a></td></tr>
 </table>
 <!-- END:news -->
