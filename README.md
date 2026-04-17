@@ -25,7 +25,7 @@
 <tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
 <tr><td><a href='https://cadquery.github.io/'>CadQuery is an open-source Python library for building 3D CAD models</a></td></tr>
 <tr><td><a href='https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html'>A Python Interpreter Written in Python</a></td></tr>
-<tr><td><a href='https://github.com/gainsec/autoprober'>Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine</a></td></tr>
+<tr><td><a href='https://lucasgerads.com/blog/lecroy-mcp-spice-demo/'>Show HN: SPICE simulation → oscilloscope → verification with Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
