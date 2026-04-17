@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.anthropic.com/news/claude-design-anthropic-labs'>Claude Design</a></td></tr>
 <tr><td><a href='https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you'>Claude Opus 4.7 costs 20–30% more per session</a></td></tr>
 <tr><td><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon'>All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder</a></td></tr>
-<tr><td><a href='https://hex.ooo/library/last_question.html'>Isaac Asimov: The Last Question (1956)</a></td></tr>
 <tr><td><a href='https://github.com/smol-machines/smolvm'>Show HN: Smol machines – subsecond coldstart, portable virtual machines</a></td></tr>
+<tr><td><a href='https://hex.ooo/library/last_question.html'>Isaac Asimov: The Last Question (1956)</a></td></tr>
 </table>
 <!-- END:news -->
 
