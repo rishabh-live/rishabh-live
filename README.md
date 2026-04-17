@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
 <tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
-<tr><td><a href='https://cadquery.github.io/'>CadQuery is an open-source Python library for building 3D CAD models</a></td></tr>
+<tr><td><a href='https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful'>How to make buffet breakfasts less wasteful</a></td></tr>
+<tr><td><a href='https://www.nongnu.org/fbi-improved/'>FIM – Linux framebuffer image viewer</a></td></tr>
 <tr><td><a href='https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html'>A Python Interpreter Written in Python</a></td></tr>
-<tr><td><a href='https://lucasgerads.com/blog/lecroy-mcp-spice-demo/'>Show HN: SPICE simulation → oscilloscope → verification with Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
