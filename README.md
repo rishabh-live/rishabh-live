@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://hex.ooo/library/last_question.html'>Isaac Asimov: The Last Question</a></td></tr>
 <tr><td><a href='https://www.iqiipi.com/the-quiet-colossus.html'>Ada, Its Design, and the Language That Built the Languages</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
 <tr><td><a href='https://www.nongnu.org/fbi-improved/'>FIM – Linux framebuffer image viewer</a></td></tr>
 <tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
-<tr><td><a href='https://rawquery.dev/blog/average-is-all-you-need'>Average Is All You Need</a></td></tr>
 </table>
 <!-- END:news -->
 
