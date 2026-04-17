@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
 <tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
-<tr><td><a href='https://github.com/gainsec/autoprober'>Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine</a></td></tr>
 <tr><td><a href='https://cadquery.github.io/'>CadQuery is an open-source Python library for building 3D CAD models</a></td></tr>
-<tr><td><a href='https://ropensci.org/blog/2026/04/02/tree-sitter-overview/'>A Better R Programming Experience Thanks to Tree-sitter</a></td></tr>
+<tr><td><a href='https://github.com/gainsec/autoprober'>Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine</a></td></tr>
+<tr><td><a href='https://lucasgerads.com/blog/lecroy-mcp-spice-demo/'>Show HN: Spice simulation → oscilloscope → verification with Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
