@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.iqiipi.com/the-quiet-colossus.html'>Ada, Its Design, and the Language That Built the Languages</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-7'>Claude Opus 4.7</a></td></tr>
 <tr><td><a href='https://openai.com/index/codex-for-almost-everything/'>Codex for almost everything</a></td></tr>
-<tr><td><a href='https://www.economist.com/science-and-technology/2026/04/14/how-to-make-buffet-breakfasts-less-wasteful'>How to make buffet breakfasts less wasteful</a></td></tr>
 <tr><td><a href='https://www.nongnu.org/fbi-improved/'>FIM – Linux framebuffer image viewer</a></td></tr>
 <tr><td><a href='https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html'>A Python Interpreter Written in Python</a></td></tr>
 </table>
