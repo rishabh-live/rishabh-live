@@ -25,7 +25,7 @@
 <tr><td><a href='https://amiga.lychesis.net/'>Amiga Graphics</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-design-anthropic-labs'>Claude Design</a></td></tr>
 <tr><td><a href='https://victorpoughon.github.io/interval-calculator/'>Show HN: I made a calculator that works over disjoint sets of intervals</a></td></tr>
-<tr><td><a href='https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you'>Measuring Claude 4.7&#x27;s tokenizer costs</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Michael_O._Rabin'>Michael Rabin Has Died</a></td></tr>
 </table>
 <!-- END:news -->
 
