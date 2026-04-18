@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/becarpenter/misc/blob/main/why6why.md'>Why is IPv6 so complicated?</a></td></tr>
+<tr><td><a href='https://abuseofnotation.github.io/category-theory-illustrated/04_order/'>Category Theory Illustrated – Orders</a></td></tr>
 <tr><td><a href='https://victorpoughon.github.io/interval-calculator/'>Show HN: I made a calculator that works over disjoint sets of intervals</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-design-anthropic-labs'>Claude Design</a></td></tr>
-<tr><td><a href='https://abuseofnotation.github.io/category-theory-illustrated/04_order/'>Category Theory Illustrated – Orders</a></td></tr>
-<tr><td><a href='https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html'>Towards trust in Emacs</a></td></tr>
+<tr><td><a href='https://amiga.lychesis.net/'>Amiga Graphics</a></td></tr>
+<tr><td><a href='https://sandboxspirit.com/blog/simple-geometry-of-roads/'>The simple geometry behind any road</a></td></tr>
 </table>
 <!-- END:news -->
 
