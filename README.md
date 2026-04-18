@@ -25,7 +25,7 @@
 <tr><td><a href='https://kdenlive.org/news/2026/state-2026/'>State of Kdenlive</a></td></tr>
 <tr><td><a href='https://worksinprogress.co/issue/why-japan-has-such-good-railways/'>Why Japan has such good railways</a></td></tr>
 <tr><td><a href='https://en.wikipedia.org/wiki/Michael_O._Rabin'>Michael Rabin has died</a></td></tr>
-<tr><td><a href='https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html'>It&#x27;s OK to compare floating-points for equality</a></td></tr>
+<tr><td><a href='https://amiga.lychesis.net/'>Amiga Graphics Archive</a></td></tr>
 </table>
 <!-- END:news -->
 
