@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://kdenlive.org/news/2026/state-2026/'>State of Kdenlive</a></td></tr>
 <tr><td><a href='https://worksinprogress.co/issue/why-japan-has-such-good-railways/'>Why Japan has such good railways</a></td></tr>
-<tr><td><a href='https://en.wikipedia.org/wiki/Michael_O._Rabin'>Michael Rabin Has Died</a></td></tr>
+<tr><td><a href='https://isayeter.com/posts/digitalocean-to-hetzner-migration/'>Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Michael_O._Rabin'>Michael Rabin has died</a></td></tr>
 <tr><td><a href='https://abuseofnotation.github.io/category-theory-illustrated/04_order/'>Category Theory Illustrated – Orders</a></td></tr>
-<tr><td><a href='https://amiga.lychesis.net/'>Amiga Graphics</a></td></tr>
 </table>
 <!-- END:news -->
 
