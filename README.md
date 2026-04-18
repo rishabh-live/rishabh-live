@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html'>The electromechanical angle computer inside the B-52 bomber&#x27;s star tracker</a></td></tr>
 <tr><td><a href='https://isayeter.com/posts/digitalocean-to-hetzner-migration/'>Migrating from DigitalOcean to Hetzner</a></td></tr>
-<tr><td><a href='https://tokens.billchambers.me/leaderboard'>Opus 4.7 to 4.6 Inflation is ~45%</a></td></tr>
 <tr><td><a href='https://kdenlive.org/news/2026/state-2026/'>State of Kdenlive</a></td></tr>
-<tr><td><a href='https://www.fuzix.org/'>Fuzix OS</a></td></tr>
+<tr><td><a href='https://tokens.billchambers.me/leaderboard'>Opus 4.7 to 4.6 Inflation is ~45%</a></td></tr>
+<tr><td><a href='https://github.com/drasimwagan/mdv'>Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data</a></td></tr>
 </table>
 <!-- END:news -->
 
