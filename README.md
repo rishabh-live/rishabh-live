@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/becarpenter/misc/blob/main/why6why.md'>Why is IPv6 so complicated?</a></td></tr>
 <tr><td><a href='https://victorpoughon.github.io/interval-calculator/'>Show HN: I made a calculator that works over disjoint sets of intervals</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-design-anthropic-labs'>Claude Design</a></td></tr>
+<tr><td><a href='https://abuseofnotation.github.io/category-theory-illustrated/04_order/'>Category Theory Illustrated – Orders</a></td></tr>
 <tr><td><a href='https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html'>Towards trust in Emacs</a></td></tr>
-<tr><td><a href='https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you'>Measuring Claude 4.7&#x27;s tokenizer costs</a></td></tr>
-<tr><td><a href='https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon'>All 12 moonwalkers had &quot;lunar hay fever&quot; from dust smelling like gunpowder (2018)</a></td></tr>
 </table>
 <!-- END:news -->
 
