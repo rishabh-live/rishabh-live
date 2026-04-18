@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://isayeter.com/posts/digitalocean-to-hetzner-migration/'>Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime</a></td></tr>
+<tr><td><a href='https://isayeter.com/posts/digitalocean-to-hetzner-migration/'>Migrating from DigitalOcean to Hetzner</a></td></tr>
 <tr><td><a href='https://kdenlive.org/news/2026/state-2026/'>State of Kdenlive</a></td></tr>
-<tr><td><a href='https://www.sumida-aquarium.com/special/sokanzu/en/2026/'>Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups</a></td></tr>
-<tr><td><a href='https://worksinprogress.co/issue/why-japan-has-such-good-railways/'>Why Japan has such good railways</a></td></tr>
 <tr><td><a href='https://www.fuzix.org/'>Fuzix OS</a></td></tr>
+<tr><td><a href='https://www.sumida-aquarium.com/special/sokanzu/en/2026/'>Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Michael_O._Rabin'>Michael Rabin has died</a></td></tr>
 </table>
 <!-- END:news -->
 
