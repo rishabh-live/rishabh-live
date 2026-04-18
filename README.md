@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html'>The electromechanical angle computer inside the B-52 bomber&#x27;s star tracker</a></td></tr>
 <tr><td><a href='https://samhenri.gold/blog/20260418-claude-design/'>Thoughts and feelings around Claude Design</a></td></tr>
-<tr><td><a href='https://isayeter.com/posts/digitalocean-to-hetzner-migration/'>Migrating from DigitalOcean to Hetzner</a></td></tr>
+<tr><td><a href='https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html'>The electromechanical angle computer inside the B-52 bomber&#x27;s star tracker</a></td></tr>
 <tr><td><a href='https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/'>College instructor turns to typewriters to curb AI-written work</a></td></tr>
+<tr><td><a href='https://isayeter.com/posts/digitalocean-to-hetzner-migration/'>Migrating from DigitalOcean to Hetzner</a></td></tr>
 <tr><td><a href='https://kdenlive.org/news/2026/state-2026/'>State of Kdenlive</a></td></tr>
 </table>
 <!-- END:news -->
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
