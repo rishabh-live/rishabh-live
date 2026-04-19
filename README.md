@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/'>Vercel Says Internal Systems Hit in Breach</a></td></tr>
+<tr><td><a href='https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/'>Vercel says internal systems hit in breach</a></td></tr>
 <tr><td><a href='https://archive.org/details/byte-magazine-1975-09'>Archive of Byte magazine, starting with issue #1 in 1975</a></td></tr>
 <tr><td><a href='https://www.vincentgregoire.com/faceoff/'>Show HN: Faceoff – A terminal UI for following NHL games</a></td></tr>
+<tr><td><a href='https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/'>The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips</a></td></tr>
 <tr><td><a href='https://twitter.com/weezerOSINT/status/2045849358462222720'>Notion leaks email addresses of all editors of any public page</a></td></tr>
-<tr><td><a href='https://nanopass.org/'>Nanopass Framework: Clean Compiler Creation Language</a></td></tr>
 </table>
 <!-- END:news -->
 
