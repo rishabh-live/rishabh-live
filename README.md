@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/'>The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips</a></td></tr>
+<tr><td><a href='https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/'>The Bromine Chokepoint</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/'>Vercel April 2026 security incident</a></td></tr>
+<tr><td><a href='https://bannedbyanthropic.com/'>Banned by Anthropic</a></td></tr>
 <tr><td><a href='https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532'>Swiss authorities want to reduce dependency on Microsoft</a></td></tr>
 <tr><td><a href='https://www.vincentgregoire.com/faceoff/'>Show HN: Faceoff – A terminal UI for following NHL games</a></td></tr>
-<tr><td><a href='https://github.com/navid-m/chip8emu'>I wrote a CHIP-8 emulator in my own programming language</a></td></tr>
 </table>
 <!-- END:news -->
 
