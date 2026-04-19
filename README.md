@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339'>Game Devs Explain the Tricks Involved with Letting You Pause a Game</a></td></tr>
+<tr><td><a href='https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf'>SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]</a></td></tr>
 <tr><td><a href='https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits'>NIST scientists create &#x27;any wavelength&#x27; lasers</a></td></tr>
 <tr><td><a href='https://antithesis.com/blog/2026/skiptrees/'>What are skiplists good for?</a></td></tr>
 <tr><td><a href='https://tokens.billchambers.me/leaderboard'>Anonymous request-token comparisons from Opus 4.6 and Opus 4.7</a></td></tr>
-<tr><td><a href='https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/'>College instructor turns to typewriters to curb AI-written work</a></td></tr>
 </table>
 <!-- END:news -->
 
