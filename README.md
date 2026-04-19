@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://archive.org/details/byte-magazine-1975-09'>Archive of Byte magazine, starting with issue #1 in 1975</a></td></tr>
 <tr><td><a href='https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/'>Vercel Says Internal Systems Hit in Breach</a></td></tr>
-<tr><td><a href='https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene'>Notes from the SF Peptide Scene</a></td></tr>
+<tr><td><a href='https://archive.org/details/byte-magazine-1975-09'>Archive of Byte magazine, starting with issue #1 in 1975</a></td></tr>
 <tr><td><a href='https://nanopass.org/'>Nanopass Framework: Clean Compiler Creation Language</a></td></tr>
+<tr><td><a href='https://twitter.com/weezerOSINT/status/2045849358462222720'>Notion leaks email addresses of all editors of any public page</a></td></tr>
 <tr><td><a href='https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf'>SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)</a></td></tr>
 </table>
 <!-- END:news -->
