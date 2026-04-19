@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/'>Vercel says internal systems hit in breach</a></td></tr>
-<tr><td><a href='https://archive.org/details/byte-magazine-1975-09'>Archive of BYTE magazine, starting with issue #1 in 1975</a></td></tr>
+<tr><td><a href='https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/'>Vercel April 2026 security incident</a></td></tr>
 <tr><td><a href='https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/'>The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips</a></td></tr>
 <tr><td><a href='https://www.vincentgregoire.com/faceoff/'>Show HN: Faceoff – A terminal UI for following NHL games</a></td></tr>
 <tr><td><a href='https://github.com/navid-m/chip8emu'>I wrote a CHIP-8 emulator in my own programming language</a></td></tr>
+<tr><td><a href='https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/'>A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)</a></td></tr>
 </table>
 <!-- END:news -->
 
