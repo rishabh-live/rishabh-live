@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-max-preview'>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</a></td></tr>
-<tr><td><a href='https://theonion.com/at-long-last-infowars-is-ours/'>At long last, InfoWars is ours</a></td></tr>
 <tr><td><a href='https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/'>ggsql: A Grammar of Graphics for SQL</a></td></tr>
-<tr><td><a href='https://www.princeton.edu/~pkrugman/interstellar.pdf'>The Theory of Interstellar Trade [pdf] (1978)</a></td></tr>
 <tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s Fake Star Economy</a></td></tr>
+<tr><td><a href='https://www.kimi.com/blog/kimi-k2-6'>Kimi K2.6: Advancing Open-Source Coding</a></td></tr>
+<tr><td><a href='https://vivianvoss.net/blog/why-we-accepted-surveillance'>We accepted surveillance as default</a></td></tr>
 </table>
 <!-- END:news -->
 
