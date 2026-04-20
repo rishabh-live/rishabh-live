@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html'>Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)</a></td></tr>
-<tr><td><a href='https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/'>M 7.4 earthquake – 100 km ENE of Miyako, Japan</a></td></tr>
 <tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s Fake Star Economy</a></td></tr>
-<tr><td><a href='https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/'>Figma&#x27;s woes compound with Claude Design</a></td></tr>
-<tr><td><a href='https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977'>Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery</a></td></tr>
+<tr><td><a href='https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/'>ggsql: A Grammar of Graphics for SQL</a></td></tr>
+<tr><td><a href='https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/'>M 7.4 earthquake – 100 km ENE of Miyako, Japan</a></td></tr>
+<tr><td><a href='https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon'>NSA is using Anthropic&#x27;s Mythos despite blacklist</a></td></tr>
+<tr><td><a href='https://mastodon.social/@jdm_/116429380667467307'>10 years ago, someone wrote a test for servo that included an expiry in 2026</a></td></tr>
 </table>
 <!-- END:news -->
 
