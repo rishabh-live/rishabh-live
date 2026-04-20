@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/'>Tim Cook to become Apple Executive Chairman</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/'>Tim Cook Stepping Down as Apple CEO, John Ternus Taking Over</a></td></tr>
-<tr><td><a href='https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/'>AI Resistance Is Growing</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/'>Tim Cook to become Apple Executive Chairman. John Ternus to become CEO</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-max-preview'>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</a></td></tr>
 <tr><td><a href='https://www.kimi.com/blog/kimi-vendor-verifier'>Kimi vendor verifier – verify accuracy of inference providers</a></td></tr>
+<tr><td><a href='https://github.com/Luce-Org/lucebox-hub'>We got 207 tok&#x2F;s with Qwen3.5-27B on an RTX 3090</a></td></tr>
+<tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s fake star economy</a></td></tr>
 </table>
 <!-- END:news -->
 
