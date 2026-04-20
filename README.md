@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/shivampkumar/trellis-mac'>Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed</a></td></tr>
-<tr><td><a href='https://www.legalnomads.com/fish-sauce/'>A Brief History of Fish Sauce</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/'>Vercel April 2026 security incident</a></td></tr>
-<tr><td><a href='https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/'>The Bromine Chokepoint</a></td></tr>
+<tr><td><a href='https://www.legalnomads.com/fish-sauce/'>A Brief History of Fish Sauce</a></td></tr>
 <tr><td><a href='https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/'>Stop trying to engineer your way out of listening to people</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Apr/20/claude-token-counts/'>Claude Token Counter, now with model comparisons</a></td></tr>
+<tr><td><a href='https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/'>The Bromine Chokepoint</a></td></tr>
 </table>
 <!-- END:news -->
 
