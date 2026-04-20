@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tryterra.co/research/sauna-effect-on-heart-rate'>Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-max-preview'>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</a></td></tr>
-<tr><td><a href='https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/'>ggsql: A Grammar of Graphics for SQL</a></td></tr>
-<tr><td><a href='https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/'>All phones sold in the EU to have replaceable batteries from 2027</a></td></tr>
 <tr><td><a href='https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8'>Atlassian Enables Default Data Collection to Train AI</a></td></tr>
+<tr><td><a href='https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/'>All phones sold in the EU to have replaceable batteries from 2027</a></td></tr>
+<tr><td><a href='https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/'>ggsql: A Grammar of Graphics for SQL</a></td></tr>
+<tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s Fake Star Economy</a></td></tr>
 </table>
 <!-- END:news -->
 
