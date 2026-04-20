@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/'>OpenClaw isn&#x27;t fooling me. I remember MS-DOS</a></td></tr>
 <tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s Fake Star Economy</a></td></tr>
+<tr><td><a href='https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/'>M 7.4 earthquake – 100 km ENE of Miyako, Japan</a></td></tr>
 <tr><td><a href='https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977'>Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery</a></td></tr>
 <tr><td><a href='https://sdf.org/?ssh'>SDF Public Access Unix System</a></td></tr>
-<tr><td><a href='https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/'>Vercel April 2026 security incident</a></td></tr>
+<tr><td><a href='https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/'>NSA is using Anthropic&#x27;s Mythos despite blacklist</a></td></tr>
 </table>
 <!-- END:news -->
 
