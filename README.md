@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-max-preview'>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</a></td></tr>
-<tr><td><a href='https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8'>Atlassian Enables Default Data Collection to Train AI</a></td></tr>
-<tr><td><a href='https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/'>All phones sold in the EU to have replaceable batteries from 2027</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/'>Deezer says 44% of songs uploaded to its platform daily are AI-generated</a></td></tr>
 <tr><td><a href='https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/'>ggsql: A Grammar of Graphics for SQL</a></td></tr>
 <tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s Fake Star Economy</a></td></tr>
+<tr><td><a href='https://vivianvoss.net/blog/why-we-accepted-surveillance'>We accepted surveillance as default</a></td></tr>
 </table>
 <!-- END:news -->
 
