@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-max-preview'>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</a></td></tr>
+<tr><td><a href='https://www.kimi.com/blog/kimi-vendor-verifier'>Kimi vendor verifier – verify accuracy of inference providers</a></td></tr>
 <tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s Fake Star Economy</a></td></tr>
+<tr><td><a href='https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/'>NASA had to train Apollo 11&#x27;s astronauts to not use profanity</a></td></tr>
 <tr><td><a href='https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/'>ggsql: A Grammar of Graphics for SQL</a></td></tr>
-<tr><td><a href='https://sr.ht/~jprotopopov/kefir/'>Kefir C17&#x2F;C23 Compiler</a></td></tr>
-<tr><td><a href='https://vivianvoss.net/blog/why-we-accepted-surveillance'>We accepted surveillance as default</a></td></tr>
 </table>
 <!-- END:news -->
 
