@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/shivampkumar/trellis-mac'>Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/'>Vercel April 2026 security incident</a></td></tr>
 <tr><td><a href='https://www.legalnomads.com/fish-sauce/'>A Brief History of Fish Sauce</a></td></tr>
 <tr><td><a href='https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/'>The Bromine Chokepoint</a></td></tr>
-<tr><td><a href='https://github.com/outcomeops/context-engineering'>Show HN: How context engineering works, a runnable reference</a></td></tr>
-<tr><td><a href='https://aliens.gov/'>Aliens.gov will be running as a WordPress multisite</a></td></tr>
+<tr><td><a href='https://mxmap.ch/'>2,100 Swiss municipalities showing which provider handles their official email</a></td></tr>
 </table>
 <!-- END:news -->
 
