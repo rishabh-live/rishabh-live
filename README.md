@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://sdf.org/?ssh'>SDF Public Access Unix System</a></td></tr>
 <tr><td><a href='https://www.vulture.com/article/ben-lerner-transcription-interview.html'>Ben Lerner&#x27;s Big Feelings</a></td></tr>
-<tr><td><a href='https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/'>Vercel April 2026 security incident</a></td></tr>
 <tr><td><a href='https://stripe.dev/blog/payment-api-design'>Stripe&#x27;s Payment APIs: the first 10 years (2020)</a></td></tr>
+<tr><td><a href='https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/'>Vercel April 2026 security incident</a></td></tr>
 <tr><td><a href='https://www.legalnomads.com/fish-sauce/'>A Brief History of Fish Sauce</a></td></tr>
-<tr><td><a href='https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/'>Stop trying to engineer your way out of listening to people</a></td></tr>
 </table>
 <!-- END:news -->
 
