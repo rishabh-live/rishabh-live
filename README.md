@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s Fake Star Economy</a></td></tr>
 <tr><td><a href='https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/'>OpenClaw isn&#x27;t fooling me. I remember MS-DOS</a></td></tr>
 <tr><td><a href='https://sdf.org/?ssh'>SDF Public Access Unix System</a></td></tr>
-<tr><td><a href='https://www.vulture.com/article/ben-lerner-transcription-interview.html'>Ben Lerner&#x27;s Big Feelings</a></td></tr>
 <tr><td><a href='https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977'>Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery</a></td></tr>
 <tr><td><a href='https://stripe.dev/blog/payment-api-design'>Stripe&#x27;s Payment APIs: the first 10 years (2020)</a></td></tr>
 </table>
