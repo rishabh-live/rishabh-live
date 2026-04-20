@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/'>Tim Cook to become Apple Executive Chairman</a></td></tr>
+<tr><td><a href='https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/'>F-35 is a masterpiece built for the wrong war</a></td></tr>
+<tr><td><a href='https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/'>AI Resistance Is Growing</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-max-preview'>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</a></td></tr>
-<tr><td><a href='https://www.kimi.com/blog/kimi-vendor-verifier'>Kimi vendor verifier – verify accuracy of inference providers</a></td></tr>
-<tr><td><a href='https://awesomeagents.ai/news/github-fake-stars-investigation/'>GitHub&#x27;s Fake Star Economy</a></td></tr>
 <tr><td><a href='https://www.columbian.com/news/2019/may/31/bad-words-led-some-to-swear-off-apollo-program/'>NASA had to train Apollo 11&#x27;s astronauts to not use profanity</a></td></tr>
-<tr><td><a href='https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/'>ggsql: A Grammar of Graphics for SQL</a></td></tr>
 </table>
 <!-- END:news -->
 
