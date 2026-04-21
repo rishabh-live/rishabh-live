@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
+<tr><td><a href='https://vidstudio.app/video-editor'>Show HN: VidStudio, a browser based video editor that doesn&#x27;t upload your files</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/'>John Ternus to become Apple CEO</a></td></tr>
 <tr><td><a href='https://codemix.com/graph'>A type-safe, realtime collaborative Graph Database in a CRDT</a></td></tr>
-<tr><td><a href='https://vidstudio.app/video-editor'>Show HN: VidStudio, a browser based video editor that doesn&#x27;t upload your files</a></td></tr>
-<tr><td><a href='https://docs.openclaw.ai/providers/anthropic'>Anthropic says OpenClaw-style Claude CLI usage is allowed again</a></td></tr>
+<tr><td><a href='https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/'>The abandoned war: Why no one is stopping the genocide in Sudan</a></td></tr>
 </table>
 <!-- END:news -->
 
