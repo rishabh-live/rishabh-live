@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/introducing-chatgpt-images-2-0/'>ChatGPT Images 2.0</a></td></tr>
 <tr><td><a href='https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html'>The Vercel breach: OAuth attack exposes risk in platform environment variables</a></td></tr>
-<tr><td><a href='https://britannica11.org/'>Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica</a></td></tr>
-<tr><td><a href='https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/'>Stephen&#x27;s Sausage Roll remains one of the most influential puzzle games</a></td></tr>
 <tr><td><a href='https://www.brex.com/crabtrap'>CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production</a></td></tr>
+<tr><td><a href='https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/'>Stephen&#x27;s Sausage Roll remains one of the most influential puzzle games</a></td></tr>
+<tr><td><a href='https://britannica11.org/'>Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica</a></td></tr>
 </table>
 <!-- END:news -->
 
