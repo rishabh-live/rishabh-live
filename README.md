@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html'>The Vercel breach: OAuth attack exposes risk in platform environment variables</a></td></tr>
 <tr><td><a href='https://britannica11.org/'>Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica</a></td></tr>
+<tr><td><a href='https://github.com/calcom/cal.diy'>Cal.diy: open-source community edition of cal.com</a></td></tr>
+<tr><td><a href='https://frame.work/laptop13pro'>Framework Laptop 13 Pro</a></td></tr>
 <tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
-<tr><td><a href='https://cheesemap.netlify.app/'>A Periodic Map of Cheese</a></td></tr>
-<tr><td><a href='https://github.com/ENTERPILOT/GOModel/'>Show HN: GoModel – an open-source AI gateway in Go</a></td></tr>
 </table>
 <!-- END:news -->
 
