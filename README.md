@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html'>The Vercel breach: OAuth attack exposes risk in platform environment variables</a></td></tr>
 <tr><td><a href='https://britannica11.org/'>Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica</a></td></tr>
 <tr><td><a href='https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/'>Stephen&#x27;s Sausage Roll remains one of the most influential puzzle games</a></td></tr>
-<tr><td><a href='https://frame.work/laptop13pro'>Framework Laptop 13 Pro</a></td></tr>
+<tr><td><a href='https://www.brex.com/crabtrap'>CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production</a></td></tr>
 </table>
 <!-- END:news -->
 
