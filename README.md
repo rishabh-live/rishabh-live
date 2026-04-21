@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
-<tr><td><a href='https://www.fusionenergybase.com/fusion-power-plant-simulator'>Fusion Power Plant Simulator</a></td></tr>
+<tr><td><a href='https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html'>The Vercel breach: OAuth attack exposes risk in platform environment variables</a></td></tr>
 <tr><td><a href='https://github.com/ENTERPILOT/GOModel/'>Show HN: GoModel – an open-source AI gateway in Go</a></td></tr>
-<tr><td><a href='https://vidstudio.app/video-editor'>Show HN: VidStudio, a browser based video editor that doesn&#x27;t upload your files</a></td></tr>
-<tr><td><a href='https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer'>Running a Minecraft Server and More on a 1960s Univac Computer</a></td></tr>
+<tr><td><a href='https://www.fusionenergybase.com/fusion-power-plant-simulator'>Fusion Power Plant Simulator</a></td></tr>
+<tr><td><a href='https://cheesemap.netlify.app/'>A Periodic Map of Cheese</a></td></tr>
 </table>
 <!-- END:news -->
 
