@@ -25,7 +25,7 @@
 <tr><td><a href='https://britannica11.org/'>Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica</a></td></tr>
 <tr><td><a href='https://github.com/calcom/cal.diy'>Cal.diy: open-source community edition of cal.com</a></td></tr>
 <tr><td><a href='https://frame.work/laptop13pro'>Framework Laptop 13 Pro</a></td></tr>
-<tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
+<tr><td><a href='https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/'>10 years: Stephen&#x27;s Sausage Roll still one of the most influential puzzle games</a></td></tr>
 </table>
 <!-- END:news -->
 
