@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
 <tr><td><a href='https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html'>The Vercel breach: OAuth attack exposes risk in platform environment variables</a></td></tr>
-<tr><td><a href='https://github.com/ENTERPILOT/GOModel/'>Show HN: GoModel – an open-source AI gateway in Go</a></td></tr>
-<tr><td><a href='https://www.fusionenergybase.com/fusion-power-plant-simulator'>Fusion Power Plant Simulator</a></td></tr>
+<tr><td><a href='https://britannica11.org/'>Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica</a></td></tr>
+<tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
 <tr><td><a href='https://cheesemap.netlify.app/'>A Periodic Map of Cheese</a></td></tr>
+<tr><td><a href='https://github.com/ENTERPILOT/GOModel/'>Show HN: GoModel – an open-source AI gateway in Go</a></td></tr>
 </table>
 <!-- END:news -->
 
