@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/'>John Ternus to become Apple CEO</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2604.15356'>KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit</a></td></tr>
-<tr><td><a href='https://zef-lang.dev/implementation'>How to Make a Fast Dynamic Language Interpreter</a></td></tr>
+<tr><td><a href='https://zef-lang.dev/implementation'>How to make a fast dynamic language interpreter</a></td></tr>
 <tr><td><a href='https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit'>Jujutsu megamerges for fun and profit</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-max-preview'>Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving</a></td></tr>
+<tr><td><a href='https://www.kimi.com/blog/kimi-vendor-verifier'>Kimi vendor verifier – verify accuracy of inference providers</a></td></tr>
 </table>
 <!-- END:news -->
 
