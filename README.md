@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/'>John Ternus to become Apple CEO</a></td></tr>
-<tr><td><a href='https://zef-lang.dev/implementation'>How to make a fast dynamic language interpreter</a></td></tr>
-<tr><td><a href='https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform'>A Roblox cheat and one AI tool brought down Vercel&#x27;s platform</a></td></tr>
 <tr><td><a href='https://docs.openclaw.ai/providers/anthropic'>Anthropic says OpenClaw-style Claude CLI usage is allowed again</a></td></tr>
-<tr><td><a href='https://mediator.ai/'>Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness</a></td></tr>
+<tr><td><a href='https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform'>A Roblox cheat and one AI tool brought down Vercel&#x27;s platform</a></td></tr>
+<tr><td><a href='https://zef-lang.dev/implementation'>How to make a fast dynamic language interpreter</a></td></tr>
+<tr><td><a href='https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles'>The Beauty of Bonsai Styles</a></td></tr>
 </table>
 <!-- END:news -->
 
