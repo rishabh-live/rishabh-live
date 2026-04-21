@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/'>John Ternus to become Apple CEO</a></td></tr>
+<tr><td><a href='https://codemix.com/graph'>A type-safe, realtime collaborative Graph Database in a CRDT</a></td></tr>
 <tr><td><a href='https://docs.openclaw.ai/providers/anthropic'>Anthropic says OpenClaw-style Claude CLI usage is allowed again</a></td></tr>
-<tr><td><a href='https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice'>Louis Zocchi, inventor of the d100, has died</a></td></tr>
 <tr><td><a href='http://mnt.stanleylieber.com/reform/'>MNT Reform is an open hardware laptop, designed and assembled in Germany</a></td></tr>
-<tr><td><a href='https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles'>The Beauty of Bonsai Styles</a></td></tr>
+<tr><td><a href='https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice'>Louis Zocchi, inventor of the d100, has died</a></td></tr>
 </table>
 <!-- END:news -->
 
