@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker'>Original GrapheneOS responses to WIRED fact checker</a></td></tr>
 <tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
-<tr><td><a href='https://e360.yale.edu/digest/great-white-sharks-climate'>As Oceans Warm, Great White Sharks Are Overheating</a></td></tr>
-<tr><td><a href='https://stratechery.com/2026/tim-cooks-impeccable-timing/'>Tim Cook&#x27;s Impeccable Timing</a></td></tr>
 <tr><td><a href='https://www.fusionenergybase.com/fusion-power-plant-simulator'>Fusion Power Plant Simulator</a></td></tr>
+<tr><td><a href='https://github.com/ENTERPILOT/GOModel/'>Show HN: GoModel – an open-source AI gateway in Go</a></td></tr>
+<tr><td><a href='https://vidstudio.app/video-editor'>Show HN: VidStudio, a browser based video editor that doesn&#x27;t upload your files</a></td></tr>
+<tr><td><a href='https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer'>Running a Minecraft Server and More on a 1960s Univac Computer</a></td></tr>
 </table>
 <!-- END:news -->
 
