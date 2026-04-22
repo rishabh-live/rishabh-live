@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/'>Alberta startup sells no-tech tractors for half price</a></td></tr>
-<tr><td><a href='https://nrehiew.github.io/blog/minimal_editing/'>Coding Models Are Doing Too Much</a></td></tr>
+<tr><td><a href='https://nrehiew.github.io/blog/minimal_editing/'>Over-editing refers to a model modifying code beyond what is necessary</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-27b'>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</a></td></tr>
-<tr><td><a href='https://social.hails.org/@hailey/116446826733136456'>Windows 9x Subsystem for Linux</a></td></tr>
 <tr><td><a href='https://maurycyz.com/projects/mcufont/'>5x5 Pixel font for tiny screens</a></td></tr>
+<tr><td><a href='https://social.hails.org/@hailey/116446826733136456'>Windows 9x Subsystem for Linux</a></td></tr>
 </table>
 <!-- END:news -->
 
