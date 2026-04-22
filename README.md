@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.youtube.com/watch?v=h6GWikWlAQA'>Making RAM at Home [video]</a></td></tr>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247'>XOR&#x27;ing a register with itself is the idiom for zeroing it out. Why not sub?</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-chatgpt-images-2-0/'>ChatGPT Images 2.0</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics'>Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma</a></td></tr>
 <tr><td><a href='https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet'>Acetaminophen vs. ibuprofen</a></td></tr>
-<tr><td><a href='https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/'>Diverse organic molecules on Mars revealed by the first SAM TMAH experiment</a></td></tr>
+<tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
 </table>
 <!-- END:news -->
 
