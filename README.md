@@ -25,7 +25,7 @@
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.6-27b'>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</a></td></tr>
 <tr><td><a href='https://social.hails.org/@hailey/116446826733136456'>Windows 9x Subsystem for Linux</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/'>Our eighth generation TPUs: two chips for the agentic era</a></td></tr>
-<tr><td><a href='https://tech.marksblogg.com/american-solar-farms-v2.html'>3.4M Solar Panels</a></td></tr>
+<tr><td><a href='https://maurycyz.com/projects/mcufont/'>5x5 Pixel font for tiny screens</a></td></tr>
 </table>
 <!-- END:news -->
 
