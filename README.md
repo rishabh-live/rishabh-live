@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/'>Alberta startup sells no-tech tractors for half price</a></td></tr>
 <tr><td><a href='https://nrehiew.github.io/blog/minimal_editing/'>Over-editing refers to a model modifying code beyond what is necessary</a></td></tr>
-<tr><td><a href='https://www.nationsreportcard.gov/highlights/ltt/2023/'>Scores decline again for 13-year-old students in reading and mathematics</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.6-27b'>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</a></td></tr>
 <tr><td><a href='https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/'>We found a stable Firefox identifier linking all your private Tor identities</a></td></tr>
+<tr><td><a href='https://maurycyz.com/projects/mcufont/'>5x5 Pixel font for tiny screens</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.6-27b'>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</a></td></tr>
 </table>
 <!-- END:news -->
 
