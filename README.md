@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/introducing-chatgpt-images-2-0/'>ChatGPT Images 2.0</a></td></tr>
+<tr><td><a href='https://jasoneckert.github.io/myblog/server-2025-arm64/'>Windows Server 2025 Runs Better on ARM</a></td></tr>
 <tr><td><a href='https://twitter.com/spacex/status/2046713419978453374'>SpaceX says it has agreement to acquire Cursor for $60B</a></td></tr>
 <tr><td><a href='https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html'>The Vercel breach: OAuth attack exposes risk in platform environment variables</a></td></tr>
-<tr><td><a href='https://www.brex.com/crabtrap'>CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production</a></td></tr>
-<tr><td><a href='https://jasoneckert.github.io/myblog/server-2025-arm64/'>Windows Server 2025 Runs Better on ARM</a></td></tr>
+<tr><td><a href='https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply'>San Diego rents declined more than 19 of 20 top US markets after surge in supply</a></td></tr>
 </table>
 <!-- END:news -->
 
