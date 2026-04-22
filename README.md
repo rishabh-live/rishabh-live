@@ -24,8 +24,8 @@
 <tr><td><a href='https://social.hails.org/@hailey/116446826733136456'>Windows 9x Subsystem for Linux</a></td></tr>
 <tr><td><a href='https://cli.github.com/telemetry'>GitHub CLI now collects pseudoanonymous telemetry</a></td></tr>
 <tr><td><a href='https://tech.marksblogg.com/american-solar-farms-v2.html'>3.4M Solar Panels</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/'>Our eighth generation TPUs: two chips for the agentic era</a></td></tr>
 <tr><td><a href='https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive'>The eighth-generation TPU: An architecture deep dive</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/'>Our eighth generation TPUs: two chips for the agentic era</a></td></tr>
 </table>
 <!-- END:news -->
 
