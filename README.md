@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.youtube.com/watch?v=h6GWikWlAQA'>Making RAM at Home [video]</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-chatgpt-images-2-0/'>ChatGPT Images 2.0</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics'>Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma</a></td></tr>
-<tr><td><a href='https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet'>Acetaminophen vs. ibuprofen</a></td></tr>
-<tr><td><a href='https://lawsofsoftwareengineering.com'>Laws of Software Engineering</a></td></tr>
+<tr><td><a href='https://fitzgen.com/2024/02/06/safe-gc.html'>Garbage Collection Without Unsafe Code</a></td></tr>
+<tr><td><a href='https://zknill.io/posts/all-your-agents-are-going-async/'>All your agents are going async</a></td></tr>
 </table>
 <!-- END:news -->
 
