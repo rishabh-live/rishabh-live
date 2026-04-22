@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openai.com/index/introducing-chatgpt-images-2-0/'>ChatGPT Images 2.0</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=h6GWikWlAQA'>Making RAM at Home [video]</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-chatgpt-images-2-0/'>ChatGPT Images 2.0</a></td></tr>
+<tr><td><a href='https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet'>Acetaminophen vs. ibuprofen</a></td></tr>
 <tr><td><a href='https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/'>Diverse organic molecules on Mars revealed by the first SAM TMAH experiment</a></td></tr>
 <tr><td><a href='https://twitter.com/spacex/status/2046713419978453374'>SpaceX says it has agreement to acquire Cursor for $60B</a></td></tr>
-<tr><td><a href='https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet'>Acetaminophen vs. ibuprofen</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
