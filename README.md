@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://social.hails.org/@hailey/116446826733136456'>Windows 9x Subsystem for Linux</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=h6GWikWlAQA'>Making RAM at Home [video]</a></td></tr>
+<tr><td><a href='https://tech.marksblogg.com/american-solar-farms-v2.html'>3.4M Solar Panels</a></td></tr>
+<tr><td><a href='https://cli.github.com/telemetry'>GitHub CLI now collects pseudoanonymous telemetry</a></td></tr>
 <tr><td><a href='https://perthirtysix.com/how-the-heck-does-gps-work'>How the Heck Does GPS Work?</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-chatgpt-images-2-0/'>ChatGPT Images 2.0</a></td></tr>
-<tr><td><a href='https://zknill.io/posts/all-your-agents-are-going-async/'>All your agents are going async</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=h6GWikWlAQA'>Making RAM at Home [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
