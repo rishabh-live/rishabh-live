@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://crawshaw.io/blog/building-a-cloud'>I am building a cloud</a></td></tr>
 <tr><td><a href='https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/'>Alberta startup sells no-tech tractors for half price</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/'>Apple fixes bug that cops used to extract deleted chat messages from iPhones</a></td></tr>
 <tr><td><a href='https://simonomi.dev/blog/color-code-your-bytes/'>Your hex editor should color-code bytes</a></td></tr>
-<tr><td><a href='https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/'>We found a stable Firefox identifier linking all your private Tor identities</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/'>Apple fixes bug that cops used to extract deleted chat messages from iPhones</a></td></tr>
+<tr><td><a href='https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/'>Fundamental Theorem of Calculus</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
