@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/'>France confirms data breach at government agency that manages citizens&#x27; IDs</a></td></tr>
 <tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign</a></td></tr>
-<tr><td><a href='https://github.com/russellromney/honker'>Show HN: Honker – Postgres NOTIFY&#x2F;LISTEN Semantics for SQLite</a></td></tr>
+<tr><td><a href='https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so'>If America&#x27;s So Rich, How&#x27;d It Get So Sad?</a></td></tr>
 <tr><td><a href='https://crawshaw.io/blog/building-a-cloud'>I am building a cloud</a></td></tr>
-<tr><td><a href='https://simonomi.dev/blog/color-code-your-bytes/'>Your hex editor should color-code bytes</a></td></tr>
-<tr><td><a href='https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/'>Alberta startup sells no-tech tractors for half price</a></td></tr>
+<tr><td><a href='https://github.com/russellromney/honker'>Show HN: Honker – Postgres NOTIFY&#x2F;LISTEN Semantics for SQLite</a></td></tr>
 </table>
 <!-- END:news -->
 
