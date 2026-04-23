@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/introducing-gpt-5-5/'>GPT-5.5</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/engineering/april-23-postmortem'>An update on recent Claude Code quality reports</a></td></tr>
 <tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-gpt-5-5/'>Introducing GPT-5.5</a></td></tr>
-<tr><td><a href='https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/'>&#x27;Hairdryer used to trick weather sensor&#x27; to win $34,000 Polymarket bet</a></td></tr>
-<tr><td><a href='https://www.githubstatus.com/incidents/myrbk7jvvs6p'>Incident with Multple GitHub Services</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/'>Meta to cut 10% of jobs, or 8k employees</a></td></tr>
+<tr><td><a href='https://blog.meshcore.io/2026/04/23/the-split'>MeshCore development team splits over trademark dispute and AI-generated code</a></td></tr>
 </table>
 <!-- END:news -->
 
