@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/'>France confirms data breach at government agency that manages citizens&#x27; IDs</a></td></tr>
 <tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign</a></td></tr>
-<tr><td><a href='https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so'>If America&#x27;s So Rich, How&#x27;d It Get So Sad?</a></td></tr>
-<tr><td><a href='https://crawshaw.io/blog/building-a-cloud'>I am building a cloud</a></td></tr>
-<tr><td><a href='https://github.com/russellromney/honker'>Show HN: Honker – Postgres NOTIFY&#x2F;LISTEN Semantics for SQLite</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com/incidents/myrbk7jvvs6p'>Incident with Multple GitHub Services</a></td></tr>
+<tr><td><a href='https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/'>&#x27;Hairdryer used to trick weather sensor&#x27; to win $34,000 Polymarket bet</a></td></tr>
+<tr><td><a href='https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682'>A DIY Watch You Can Actually Wear</a></td></tr>
 </table>
 <!-- END:news -->
 
