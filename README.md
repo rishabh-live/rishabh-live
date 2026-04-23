@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://crawshaw.io/blog/building-a-cloud'>I am building a cloud</a></td></tr>
-<tr><td><a href='https://github.com/russellromney/honker'>Show HN: Honker – Postgres NOTIFY&#x2F;LISTEN Semantics for SQLite</a></td></tr>
-<tr><td><a href='https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/'>Alberta startup sells no-tech tractors for half price</a></td></tr>
-<tr><td><a href='https://simonomi.dev/blog/color-code-your-bytes/'>Your hex editor should color-code bytes</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/'>Surveillance vendors caught abusing access to telcos to track people&#x27;s locations</a></td></tr>
+<tr><td><a href='https://github.com/russellromney/honker'>Show HN: Honker – Postgres NOTIFY&#x2F;LISTEN Semantics for SQLite</a></td></tr>
+<tr><td><a href='https://crawshaw.io/blog/building-a-cloud'>I am building a cloud</a></td></tr>
+<tr><td><a href='https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/'>Sneaky spam in conversational replies to blog posts</a></td></tr>
+<tr><td><a href='https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/'>Alberta startup sells no-tech tractors for half price</a></td></tr>
 </table>
 <!-- END:news -->
 
