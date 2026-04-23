@@ -25,7 +25,7 @@
 <tr><td><a href='https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/'>Alberta startup sells no-tech tractors for half price</a></td></tr>
 <tr><td><a href='https://simonomi.dev/blog/color-code-your-bytes/'>Your hex editor should color-code bytes</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/'>Apple fixes bug that cops used to extract deleted chat messages from iPhones</a></td></tr>
-<tr><td><a href='https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/'>Fundamental Theorem of Calculus</a></td></tr>
+<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html'>Do you want the US to &quot;win&quot; AI?</a></td></tr>
 </table>
 <!-- END:news -->
 
