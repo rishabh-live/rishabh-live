@@ -24,8 +24,8 @@
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-5/'>GPT-5.5</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c9d4zgnqpqeo'>Girl, 10, finds rare Mexican axolotl under Welsh bridge</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/engineering/april-23-postmortem'>An update on recent Claude Code quality reports</a></td></tr>
+<tr><td><a href='https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a'>Anthropic&#x27;s Claude Desktop App Installs Undisclosed Native Messaging Bridge</a></td></tr>
 <tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/'>Meta to cut 10% of jobs, or 8k employees</a></td></tr>
 </table>
 <!-- END:news -->
 
