@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/'>France confirms data breach at government agency that manages citizens&#x27; IDs</a></td></tr>
-<tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign</a></td></tr>
-<tr><td><a href='https://www.githubstatus.com/incidents/myrbk7jvvs6p'>Incident with Multple GitHub Services</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/engineering/april-23-postmortem'>An update on recent Claude Code quality reports</a></td></tr>
+<tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-gpt-5-5/'>Introducing GPT-5.5</a></td></tr>
 <tr><td><a href='https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/'>&#x27;Hairdryer used to trick weather sensor&#x27; to win $34,000 Polymarket bet</a></td></tr>
-<tr><td><a href='https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682'>A DIY Watch You Can Actually Wear</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com/incidents/myrbk7jvvs6p'>Incident with Multple GitHub Services</a></td></tr>
 </table>
 <!-- END:news -->
 
