@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/'>Alberta startup sells no-tech tractors for half price</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/'>Apple fixes bug that cops used to extract deleted chat messages from iPhones</a></td></tr>
+<tr><td><a href='https://perthirtysix.com/how-the-heck-does-shazam-work'>How the Heck does Shazam work?</a></td></tr>
 <tr><td><a href='https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/'>We found a stable Firefox identifier linking all your private Tor identities</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.6-27b'>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</a></td></tr>
-<tr><td><a href='https://maurycyz.com/projects/mcufont/'>5x5 Pixel font for tiny screens</a></td></tr>
+<tr><td><a href='https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/'>Borrow-checking without type-checking</a></td></tr>
 </table>
 <!-- END:news -->
 
