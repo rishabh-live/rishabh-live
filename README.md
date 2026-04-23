@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-5/'>GPT-5.5</a></td></tr>
 <tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign</a></td></tr>
-<tr><td><a href='https://joshblais.com/blog/using-the-internet-like-its-1999/'>Using the internet like it&#x27;s 1999</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/engineering/april-23-postmortem'>An update on recent Claude Code quality reports</a></td></tr>
 <tr><td><a href='https://blog.meshcore.io/2026/04/23/the-split'>MeshCore development team splits over trademark dispute and AI-generated code</a></td></tr>
+<tr><td><a href='https://github.com/refactoringhq/tolaria'>Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases</a></td></tr>
 </table>
 <!-- END:news -->
 
