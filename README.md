@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bmj.com/content/393/bmj.s781'>UK Biobank leak: Health details of 500 000 people are offered for sale</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c4gx1n0dl9no'>S. Korea police arrest man over AI image of runaway wolf that misled authorities</a></td></tr>
-<tr><td><a href='https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/'>The operating cost of adult and gambling startups</a></td></tr>
+<tr><td><a href='https://kevinlynagh.com/newsletter/2026_04_overthinking/'>Sabotaging projects by overthinking, scope creep, and structural diffing</a></td></tr>
 <tr><td><a href='https://github.com/matz/spinel'>Spinel: Ruby AOT Native Compiler</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/'>DeepSeek v4</a></td></tr>
+<tr><td><a href='https://jeroen.github.io/notes/webassembly-tar/'>Mounting tar archives as a filesystem in WebAssembly</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade'>US special forces soldier arrested after allegedly winning $400k on Maduro raid</a></td></tr>
 </table>
 <!-- END:news -->
 
