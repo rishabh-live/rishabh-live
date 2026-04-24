@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://api-docs.deepseek.com/'>DeepSeek v4</a></td></tr>
 <tr><td><a href='https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/'>Why I Write (1946)</a></td></tr>
-<tr><td><a href='https://xark.es/b/mythos-firefox-150'>A quick look at Mythos run on Firefox: too much hype?</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-5/'>GPT-5.5</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/engineering/april-23-postmortem'>An update on recent Claude Code quality reports</a></td></tr>
+<tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign</a></td></tr>
 </table>
 <!-- END:news -->
 
