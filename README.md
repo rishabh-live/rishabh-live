@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://kevinlynagh.com/newsletter/2026_04_overthinking/'>Sabotaging projects by overthinking, scope creep, and structural diffing</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2604.20817'>Different Language Models Learn Similar Number Representations</a></td></tr>
-<tr><td><a href='https://github.com/matz/spinel'>Spinel: Ruby AOT Native Compiler</a></td></tr>
+<tr><td><a href='https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/'>Refuse to let your doctor record you</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s'>Norway Set to Become Latest Country to Ban Social Media for Under 16s</a></td></tr>
-<tr><td><a href='https://api-docs.deepseek.com/'>DeepSeek v4</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2604.20817'>Different Language Models Learn Similar Number Representations</a></td></tr>
+<tr><td><a href='https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/'>Why I&#x27;m Done Making Desktop Applications</a></td></tr>
 </table>
 <!-- END:news -->
 
