@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/'>Google to invest up to $40B in Anthropic in cash and compute</a></td></tr>
-<tr><td><a href='https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/'>SFO Quiet Airport (2025)</a></td></tr>
-<tr><td><a href='https://kevinlynagh.com/newsletter/2026_04_overthinking/'>Sabotaging projects by overthinking, scope creep, and structural diffing</a></td></tr>
-<tr><td><a href='https://github.com/libsdl-org/SDL/pull/15377'>SDL Now Supports DOS</a></td></tr>
 <tr><td><a href='https://hhh.hn/rodecaster-duo-fw/'>My audio interface has SSH enabled by default</a></td></tr>
+<tr><td><a href='https://kevinlynagh.com/newsletter/2026_04_overthinking/'>Sabotaging projects by overthinking, scope creep, and structural diffing</a></td></tr>
+<tr><td><a href='https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/'>The Classic American Diner</a></td></tr>
+<tr><td><a href='https://nickyreinert.de/en/2026/2026-04-24-claude-critics/'>I Cancelled Claude: Token Issues, Declining Quality, and Poor Support</a></td></tr>
 </table>
 <!-- END:news -->
 
