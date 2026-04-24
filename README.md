@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/'>Why I Write (1946)</a></td></tr>
+<tr><td><a href='https://api-docs.deepseek.com/'>DeepSeek v4</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-5-5/'>GPT-5.5</a></td></tr>
 <tr><td><a href='https://socket.dev/blog/bitwarden-cli-compromised'>Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign</a></td></tr>
-<tr><td><a href='https://github.com/refactoringhq/tolaria'>Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases</a></td></tr>
-<tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency'>Meta tells staff it will cut 10% of jobs</a></td></tr>
+<tr><td><a href='https://xark.es/b/mythos-firefox-150'>A quick look at Mythos run on Firefox: too much hype?</a></td></tr>
 </table>
 <!-- END:news -->
 
