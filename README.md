@@ -21,7 +21,7 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://developers.openai.com/api/docs/changelog'>OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/'>Google to invest up to $40B in Anthropic in cash and compute</a></td></tr>
 <tr><td><a href='https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/'>SFO Quiet Airport (2025)</a></td></tr>
 <tr><td><a href='https://kevinlynagh.com/newsletter/2026_04_overthinking/'>Sabotaging projects by overthinking, scope creep, and structural diffing</a></td></tr>
 <tr><td><a href='https://github.com/libsdl-org/SDL/pull/15377'>SDL Now Supports DOS</a></td></tr>
