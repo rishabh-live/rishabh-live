@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.bmj.com/content/393/bmj.s781'>UK Biobank leak: Health details of 500 000 people are offered for sale</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c4gx1n0dl9no'>S. Korea police arrest man over AI image of runaway wolf that misled authorities</a></td></tr>
+<tr><td><a href='https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/'>The operating cost of adult and gambling startups</a></td></tr>
 <tr><td><a href='https://github.com/matz/spinel'>Spinel: Ruby AOT Native Compiler</a></td></tr>
-<tr><td><a href='https://nate.leaflet.pub/3mk4xkaxobc2p'>How to be anti-social – a guide to incoherent and isolating social experiences</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/'>DeepSeek v4</a></td></tr>
 </table>
 <!-- END:news -->
