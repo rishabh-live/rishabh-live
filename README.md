@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://kevinlynagh.com/newsletter/2026_04_overthinking/'>Sabotaging projects by overthinking, scope creep, and structural diffing</a></td></tr>
-<tr><td><a href='https://nickyreinert.de/en/2026/2026-04-24-claude-critics/'>I Cancelled Claude: Token Issues, Declining Quality, and Poor Support</a></td></tr>
 <tr><td><a href='https://github.com/libsdl-org/SDL/pull/15377'>SDL Now Supports DOS</a></td></tr>
+<tr><td><a href='https://nickyreinert.de/en/2026/2026-04-24-claude-critics/'>I Cancelled Claude: Token Issues, Declining Quality, and Poor Support</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/'>DeepSeek v4</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s'>Norway Set to Become Latest Country to Ban Social Media for Under 16s</a></td></tr>
 </table>
