@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.bbc.com/news/articles/c4gx1n0dl9no'>S. Korea police arrest man over AI image of runaway wolf that misled authorities</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/'>DeepSeek v4</a></td></tr>
-<tr><td><a href='https://www.cambra.dev/blog/announcement/'>Composition Shouldn&#x27;t be this Hard</a></td></tr>
 <tr><td><a href='https://github.com/matz/spinel'>Spinel: Ruby AOT Native Compiler</a></td></tr>
 <tr><td><a href='https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/'>Why I Write (1946)</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/engineering/april-23-postmortem'>An update on recent Claude Code quality reports</a></td></tr>
+<tr><td><a href='https://www.cambra.dev/blog/announcement/'>Composition Shouldn&#x27;t be this Hard</a></td></tr>
 </table>
 <!-- END:news -->
 
