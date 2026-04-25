@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/'>New 10 GbE USB adapters are cooler, smaller, cheaper</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic'>Google plans to invest up to $40B in Anthropic</a></td></tr>
+<tr><td><a href='https://victortaelin.github.io/lambench/'>Lambda Calculus Benchmark for AI</a></td></tr>
 <tr><td><a href='https://vplesko.com/posts/how_to_implement_an_fps_counter.html'>How to Implement an FPS Counter</a></td></tr>
 <tr><td><a href='https://clad.you/blog/posts/questionnaire-mlp/'>A 3D Body from Eight Questions – No Photo, No GPU</a></td></tr>
-<tr><td><a href='https://github.com/nex-crm/wuphf'>Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)</a></td></tr>
 </table>
 <!-- END:news -->
 
