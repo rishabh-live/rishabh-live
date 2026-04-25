@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/niri-wm/niri/releases/tag/v26.04'>Niri 26.04 was just released (scrollable-tiling Wayland compositor)</a></td></tr>
 <tr><td><a href='https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/'>1-Bit Hokusai&#x27;s &quot;The Great Wave&quot; (2023)</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/'>New 10 GbE USB adapters are cooler, smaller, cheaper</a></td></tr>
-<tr><td><a href='https://github.com/niri-wm/niri/releases/tag/v26.04'>Niri 26.04 was just released (scrollable-tiling Wayland compositor)</a></td></tr>
-<tr><td><a href='https://openai.com/index/gpt-5-5-bio-bug-bounty/'>GPT 5.5 biosafety bounty</a></td></tr>
+<tr><td><a href='https://fffff.at/free-universal-construction-kit/'>The Free Universal Construction Kit</a></td></tr>
 <tr><td><a href='https://github.com/MartinGalway/C64_music'>Martin Galway&#x27;s music source files from 1980&#x27;s Commodore 64 games</a></td></tr>
 </table>
 <!-- END:news -->
