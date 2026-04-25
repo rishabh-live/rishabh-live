@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic'>Google plans to invest up to $40B in Anthropic</a></td></tr>
 <tr><td><a href='https://en.wikipedia.org/wiki/Paraloid_B-72'>Paraloid B-72</a></td></tr>
+<tr><td><a href='https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas'>Humpback whales are forming super-groups</a></td></tr>
 <tr><td><a href='https://hhh.hn/rodecaster-duo-fw/'>My audio interface has SSH enabled by default</a></td></tr>
 <tr><td><a href='https://www.thehistoryblog.com/archives/75877'>Iliad fragment found in Roman-era mummy</a></td></tr>
-<tr><td><a href='https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas'>Humpback whales are forming super-groups</a></td></tr>
 </table>
 <!-- END:news -->
 
