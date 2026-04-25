@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic'>Google plans to invest up to $40B in Anthropic</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/'>New 10 GbE USB adapters are cooler, smaller, cheaper</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic'>Google plans to invest up to $40B in Anthropic</a></td></tr>
 <tr><td><a href='https://clad.you/blog/posts/questionnaire-mlp/'>A 3D Body from Eight Questions – No Photo, No GPU</a></td></tr>
 <tr><td><a href='https://en.wikipedia.org/wiki/Paraloid_B-72'>Paraloid B-72</a></td></tr>
 <tr><td><a href='https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas'>Humpback whales are forming super-groups</a></td></tr>
