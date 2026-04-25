@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/'>1-Bit Hokusai&#x27;s &quot;The Great Wave&quot; (2023)</a></td></tr>
-<tr><td><a href='https://datatracker.ietf.org/doc/draft-subbiah-ipv7/'>IPv7: Identity-Centric Network Protocol – IETF Draft and Rust Implementation</a></td></tr>
 <tr><td><a href='https://fffff.at/free-universal-construction-kit/'>The Free Universal Construction Kit</a></td></tr>
 <tr><td><a href='https://dl.ndl.go.jp/pid/1899550/1/11/'>Hokusai and Tesselations</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/'>New 10 GbE USB adapters are cooler, smaller, cheaper</a></td></tr>
+<tr><td><a href='https://github.com/MartinGalway/C64_music'>Martin Galway&#x27;s music source files from 1980&#x27;s Commodore 64 games</a></td></tr>
 </table>
 <!-- END:news -->
 
