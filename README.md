@@ -25,7 +25,7 @@
 <tr><td><a href='https://hhh.hn/rodecaster-duo-fw/'>My audio interface has SSH enabled by default</a></td></tr>
 <tr><td><a href='https://www.thehistoryblog.com/archives/75877'>Iliad fragment found in Roman-era mummy</a></td></tr>
 <tr><td><a href='https://www.flowmusic.app/'>Google Flow Music</a></td></tr>
-<tr><td><a href='https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/'>The Classic American Diner</a></td></tr>
+<tr><td><a href='https://kevinlynagh.com/newsletter/2026_04_overthinking/'>Sabotaging projects by overthinking, scope creep, and structural diffing</a></td></tr>
 </table>
 <!-- END:news -->
 
