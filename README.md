@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/'>1-Bit Hokusai&#x27;s &quot;The Great Wave&quot;</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/'>New 10 GbE USB adapters are cooler, smaller, cheaper</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic'>Google plans to invest up to $40B in Anthropic</a></td></tr>
-<tr><td><a href='https://victortaelin.github.io/lambench/'>Lambda Calculus Benchmark for AI</a></td></tr>
-<tr><td><a href='https://vplesko.com/posts/how_to_implement_an_fps_counter.html'>How to Implement an FPS Counter</a></td></tr>
-<tr><td><a href='https://clad.you/blog/posts/questionnaire-mlp/'>A 3D Body from Eight Questions – No Photo, No GPU</a></td></tr>
+<tr><td><a href='https://github.com/MartinGalway/C64_music'>Martin Galway&#x27;s music source files from 1980&#x27;s Commodore 64 games</a></td></tr>
+<tr><td><a href='https://github.com/nakagami/grdpwasm'>A web-based RDP client built with Go WebAssembly and grdp</a></td></tr>
 </table>
 <!-- END:news -->
 
