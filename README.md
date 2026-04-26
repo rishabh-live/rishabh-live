@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/'>Why has there been so little progress on Alzheimer&#x27;s disease?</a></td></tr>
 <tr><td><a href='https://fabiensanglard.net/usbcheat/index.html'>USB Cheat Sheet (2022)</a></td></tr>
-<tr><td><a href='https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/'>Why Has There Been So Little Progress on Alzheimer&#x27;s Disease?</a></td></tr>
 <tr><td><a href='https://fffff.at/free-universal-construction-kit/'>The Free Universal Construction Kit</a></td></tr>
-<tr><td><a href='https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/'>1-Bit Hokusai&#x27;s &quot;The Great Wave&quot; (2023)</a></td></tr>
-<tr><td><a href='https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software'>Agents Aren&#x27;t Coworkers, Embed Them in Your Software</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-openai-privacy-filter/'>OpenAI Privacy Filter</a></td></tr>
+<tr><td><a href='https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/'>Flickr: The first and last great photo platform</a></td></tr>
 </table>
 <!-- END:news -->
 
