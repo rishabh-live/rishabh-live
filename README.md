@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/'>GoDaddy Gave a Domain to a Stranger Without Any Documentation</a></td></tr>
+<tr><td><a href='https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/'>A.I. is creating engineers who can&#x27;t think without it</a></td></tr>
 <tr><td><a href='https://dillo-browser.org/release/3.3.0/'>Dillo Browser Release 3.3.0</a></td></tr>
 <tr><td><a href='https://asahilinux.org/2026/04/progress-report-7-0/'>Asahi Linux Progress Linux 7.0</a></td></tr>
-<tr><td><a href='https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial'>Clay PCB Tutorial</a></td></tr>
 <tr><td><a href='https://twitter.com/lifeof_jer/status/2048103471019434248'>An AI agent deleted our production database. The agent&#x27;s confession is below</a></td></tr>
 </table>
 <!-- END:news -->
