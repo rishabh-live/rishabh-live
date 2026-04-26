@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/'>Amateur armed with ChatGPT solves an Erdős problem</a></td></tr>
 <tr><td><a href='https://statecharts.dev/'>Statecharts: hierarchical state machines</a></td></tr>
-<tr><td><a href='https://www.edenai.co'>Eden AI – European Alternative to OpenRouter</a></td></tr>
-<tr><td><a href='https://techtrenches.dev/p/the-west-forgot-how-to-make-things'>The West forgot how to make things, now it’s forgetting how to code</a></td></tr>
+<tr><td><a href='https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/'>Amateur armed with ChatGPT solves an Erdős problem</a></td></tr>
 <tr><td><a href='https://www.npmjs.com/package/ooko'>I spent 6 years building my Kanban as I hated how managers run the boards</a></td></tr>
+<tr><td><a href='https://techtrenches.dev/p/the-west-forgot-how-to-make-things'>The West forgot how to make things, now it’s forgetting how to code</a></td></tr>
+<tr><td><a href='https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/'>Why has there been so little progress on Alzheimer&#x27;s disease?</a></td></tr>
 </table>
 <!-- END:news -->
 
