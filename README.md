@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/'>Fast16: High-precision software sabotage 5 years before Stuxnet</a></td></tr>
 <tr><td><a href='https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo'>Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/'>Butterflies are in decline across North America, a look at the Western Monarch</a></td></tr>
-<tr><td><a href='https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency'>Magic: The Gathering took me from N2 to Japanese fluency</a></td></tr>
+<tr><td><a href='https://github.com/sachitrafa/YourMemory'>Show HN: AI memory with biological decay (52% recall)</a></td></tr>
 </table>
 <!-- END:news -->
 
