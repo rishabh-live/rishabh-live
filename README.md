@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/'>Amateur armed with ChatGPT solves an Erdős problem</a></td></tr>
 <tr><td><a href='https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/'>Why has there been so little progress on Alzheimer&#x27;s disease?</a></td></tr>
 <tr><td><a href='https://fabiensanglard.net/usbcheat/index.html'>USB Cheat Sheet (2022)</a></td></tr>
-<tr><td><a href='https://fffff.at/free-universal-construction-kit/'>The Free Universal Construction Kit</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-openai-privacy-filter/'>OpenAI Privacy Filter</a></td></tr>
 <tr><td><a href='https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/'>Flickr: The first and last great photo platform</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-openai-privacy-filter/'>OpenAI Privacy Filter</a></td></tr>
 </table>
 <!-- END:news -->
 
