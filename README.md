@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo'>Sawe smashes two-hour mark to &#x27;move goalposts for marathon running&#x27;</a></td></tr>
+<tr><td><a href='https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d'>I bought Friendster for $30k – Here&#x27;s what I&#x27;m doing with it</a></td></tr>
+<tr><td><a href='https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/'>Fast16: High-precision software sabotage 5 years before Stuxnet</a></td></tr>
+<tr><td><a href='https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo'>Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/'>Butterflies are in decline across North America, a look at the Western Monarch</a></td></tr>
-<tr><td><a href='https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/'>Fast16: Cyberweapon that predates Stuxnet by five years</a></td></tr>
-<tr><td><a href='https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/'>1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon</a></td></tr>
-<tr><td><a href='https://www.barwypowstania.pl/'>The 1944 Warsaw Uprising, in Color</a></td></tr>
+<tr><td><a href='https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency'>Magic: The Gathering took me from N2 to Japanese fluency</a></td></tr>
 </table>
 <!-- END:news -->
 
