@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://techtrenches.dev/p/the-west-forgot-how-to-make-things'>The West Forgot How to Make Things. Now It&#x27;s Forgetting How to Code</a></td></tr>
 <tr><td><a href='https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/'>Amateur armed with ChatGPT solves an Erdős problem</a></td></tr>
 <tr><td><a href='https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/'>Why has there been so little progress on Alzheimer&#x27;s disease?</a></td></tr>
-<tr><td><a href='https://techtrenches.dev/p/the-west-forgot-how-to-make-things'>The West Forgot How to Make Things. Now It&#x27;s Forgetting How to Code</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47906253'>Tell HN: An app is silently installing itself on my iPhone every day</a></td></tr>
 <tr><td><a href='https://fabiensanglard.net/usbcheat/index.html'>USB Cheat Sheet (2022)</a></td></tr>
 </table>
