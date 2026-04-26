@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/'>Fast16: High-precision software sabotage 5 years before Stuxnet</a></td></tr>
 <tr><td><a href='https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo'>Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/'>Butterflies are in decline across North America, a look at the Western Monarch</a></td></tr>
-<tr><td><a href='https://github.com/sachitrafa/YourMemory'>Show HN: AI memory with biological decay (52% recall)</a></td></tr>
+<tr><td><a href='https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca'>Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3</a></td></tr>
 </table>
 <!-- END:news -->
 
