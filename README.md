@@ -25,7 +25,7 @@
 <tr><td><a href='https://dillo-browser.org/release/3.3.0/'>Dillo Browser Release 3.3.0</a></td></tr>
 <tr><td><a href='https://asahilinux.org/2026/04/progress-report-7-0/'>Asahi Linux Progress Linux 7.0</a></td></tr>
 <tr><td><a href='https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial'>Clay PCB Tutorial</a></td></tr>
-<tr><td><a href='https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/'>Why SWE-bench Verified no longer measures frontier coding capabilities</a></td></tr>
+<tr><td><a href='https://twitter.com/lifeof_jer/status/2048103471019434248'>An AI agent deleted our production database. The agent&#x27;s confession is below</a></td></tr>
 </table>
 <!-- END:news -->
 
