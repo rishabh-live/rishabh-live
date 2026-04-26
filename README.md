@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://asahilinux.org/2026/04/progress-report-7-0/'>Asahi Linux Progress Linux 7.0</a></td></tr>
-<tr><td><a href='https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/'>Why SWE-bench Verified no longer measures frontier coding capabilities</a></td></tr>
+<tr><td><a href='https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/'>GoDaddy Gave a Domain to a Stranger Without Any Documentation</a></td></tr>
 <tr><td><a href='https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial'>Clay PCB Tutorial</a></td></tr>
-<tr><td><a href='https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/'>Dear friend, you have built a Kubernetes (2024)</a></td></tr>
-<tr><td><a href='https://eblong.com/infocom/visi/zork1/'>The Visible Zorker: Zork 1</a></td></tr>
+<tr><td><a href='https://dillo-browser.org/release/3.3.0/'>Dillo Browser Release 3.3.0</a></td></tr>
+<tr><td><a href='https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/'>Why SWE-bench Verified no longer measures frontier coding capabilities</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
