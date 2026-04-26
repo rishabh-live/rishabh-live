@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://asahilinux.org/2026/04/progress-report-7-0/'>Asahi Linux Progress Linux 7.0</a></td></tr>
+<tr><td><a href='https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial'>Clay PCB Tutorial</a></td></tr>
 <tr><td><a href='https://statecharts.dev/'>Statecharts: hierarchical state machines</a></td></tr>
+<tr><td><a href='https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/'>Why SWE-bench Verified no longer measures frontier coding capabilities</a></td></tr>
 <tr><td><a href='https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/'>Amateur armed with ChatGPT solves an Erdős problem</a></td></tr>
-<tr><td><a href='https://blog.cynthia.re/post/nintendo-switch-ethernet-switch'>The Nintendo Switch Switch (2019)</a></td></tr>
-<tr><td><a href='https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/'>Show HN: Turning a Gaussian Splat into a videogame</a></td></tr>
 </table>
 <!-- END:news -->
 
