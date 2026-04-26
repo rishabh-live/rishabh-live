@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial'>Clay PCB Tutorial</a></td></tr>
-<tr><td><a href='https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/'>SWE-bench Verified no longer measures frontier coding capabilities</a></td></tr>
-<tr><td><a href='https://eblong.com/infocom/visi/zork1/'>The Visible Zorker: Zork 1</a></td></tr>
+<tr><td><a href='https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/'>Fast16: Cyberweapon that predates Stuxnet by five years</a></td></tr>
 <tr><td><a href='https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency'>Magic: The Gathering took me from N2 to Japanese fluency</a></td></tr>
-<tr><td><a href='https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/'>GoDaddy gave a domain to a stranger without any documentation</a></td></tr>
+<tr><td><a href='https://www.barwypowstania.pl/'>The 1944 Warsaw Uprising, in Color</a></td></tr>
+<tr><td><a href='https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/'>SWE-bench Verified no longer measures frontier coding capabilities</a></td></tr>
+<tr><td><a href='https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial'>Clay PCB Tutorial</a></td></tr>
 </table>
 <!-- END:news -->
 
