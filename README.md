@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://fabiensanglard.net/usbcheat/index.html'>USB Cheat Sheet</a></td></tr>
+<tr><td><a href='https://fabiensanglard.net/usbcheat/index.html'>USB Cheat Sheet (2022)</a></td></tr>
+<tr><td><a href='https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/'>Why Has There Been So Little Progress on Alzheimer&#x27;s Disease?</a></td></tr>
 <tr><td><a href='https://fffff.at/free-universal-construction-kit/'>The Free Universal Construction Kit</a></td></tr>
 <tr><td><a href='https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/'>1-Bit Hokusai&#x27;s &quot;The Great Wave&quot; (2023)</a></td></tr>
-<tr><td><a href='https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/'>Using coding assistance tools to revive projects you never were going to finish</a></td></tr>
-<tr><td><a href='https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes'>The Joy of Folding Bikes</a></td></tr>
+<tr><td><a href='https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software'>Agents Aren&#x27;t Coworkers, Embed Them in Your Software</a></td></tr>
 </table>
 <!-- END:news -->
 
