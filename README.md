@@ -24,8 +24,8 @@
 <tr><td><a href='https://flipdisc.io'>Flipdiscs</a></td></tr>
 <tr><td><a href='https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d'>I bought Friendster for $30k – Here&#x27;s what I&#x27;m doing with it</a></td></tr>
 <tr><td><a href='https://arkaung.github.io/interactive-turboquant/'>TurboQuant: A first-principles walkthrough</a></td></tr>
-<tr><td><a href='https://interblah.net/self-updating-screenshots'>Self-updating screenshots</a></td></tr>
 <tr><td><a href='https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/'>AI should elevate your thinking, not replace it</a></td></tr>
+<tr><td><a href='https://interblah.net/self-updating-screenshots'>Self-updating screenshots</a></td></tr>
 </table>
 <!-- END:news -->
 
