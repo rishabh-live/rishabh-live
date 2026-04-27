@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/pgbackrest/pgbackrest'>Pgbackrest is no longer being maintained</a></td></tr>
 <tr><td><a href='https://github.com/dirac-run/dirac'>Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview</a></td></tr>
+<tr><td><a href='https://www.alexselimov.com/posts/men_who_stare_at_walls/'>Men Who Stare at Walls</a></td></tr>
 <tr><td><a href='https://github.com/WeebLabs/DSPi'>Fully Featured Audio DSP Firmware for the Raspberry Pi Pico</a></td></tr>
 <tr><td><a href='https://flipdisc.io'>Flipdiscs</a></td></tr>
-<tr><td><a href='https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d'>I bought Friendster for $30k – Here&#x27;s what I&#x27;m doing with it</a></td></tr>
 </table>
 <!-- END:news -->
 
