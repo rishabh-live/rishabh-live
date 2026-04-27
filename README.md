@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d'>I bought Friendster for $30k – Here&#x27;s what I&#x27;m doing with it</a></td></tr>
+<tr><td><a href='https://interblah.net/self-updating-screenshots'>Self-updating screenshots</a></td></tr>
+<tr><td><a href='https://jordanlord.co.uk/blog/3-constraints/'>Three constraints before I build anything</a></td></tr>
 <tr><td><a href='https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/'>Fast16: High-precision software sabotage 5 years before Stuxnet</a></td></tr>
-<tr><td><a href='https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo'>Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race</a></td></tr>
-<tr><td><a href='https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca'>Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3</a></td></tr>
-<tr><td><a href='https://dystroy.org/blog/box-to-save-memory/'>Box to Save Memory in Rust</a></td></tr>
+<tr><td><a href='https://dystroy.org/blog/box-to-save-memory/'>Box to save memory in Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
