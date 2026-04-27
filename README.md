@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://flipdisc.io'>Flipdiscs</a></td></tr>
 <tr><td><a href='https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d'>I bought Friendster for $30k – Here&#x27;s what I&#x27;m doing with it</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html'>Bob Odenkirk would like to remind you that life is a meaningless farce</a></td></tr>
-<tr><td><a href='https://robbowen.digital/wrote-about/abandoned-side-projects/'>It&#x27;s OK to abandon your side-project (2024)</a></td></tr>
+<tr><td><a href='https://github.com/WeebLabs/DSPi'>Fully Featured Audio DSP Firmware for the Raspberry Pi Pico</a></td></tr>
+<tr><td><a href='https://github.com/pgbackrest/pgbackrest'>Pgbackrest is no longer being maintained</a></td></tr>
 <tr><td><a href='https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/'>AI should elevate your thinking, not replace it</a></td></tr>
 </table>
 <!-- END:news -->
