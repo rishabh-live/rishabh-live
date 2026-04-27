@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
 <tr><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td></tr>
+<tr><td><a href='https://vivianvoss.net/blog/integrated-by-design-launch'>New Integrated by Design FreeBSD Book</a></td></tr>
 <tr><td><a href='https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/'>Three men are facing charges in Toronto SMS Blaster arrests</a></td></tr>
 <tr><td><a href='https://github.com/Hanqaqa/Easyduino'>Easyduino: Open Source PCB Devboards for KiCad</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar'>Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar</a></td></tr>
 </table>
 <!-- END:news -->
 
