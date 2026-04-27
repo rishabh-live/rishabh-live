@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d'>I bought Friendster for $30k – Here&#x27;s what I&#x27;m doing with it</a></td></tr>
-<tr><td><a href='https://notepad-plus-plus-mac.org/'>Notepad++ for Mac</a></td></tr>
 <tr><td><a href='https://interblah.net/self-updating-screenshots'>Self-updating screenshots</a></td></tr>
-<tr><td><a href='https://jordanlord.co.uk/blog/3-constraints/'>Three constraints before I build anything</a></td></tr>
-<tr><td><a href='https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/'>Fast16: High-precision software sabotage 5 years before Stuxnet</a></td></tr>
+<tr><td><a href='https://arkaung.github.io/interactive-turboquant/'>TurboQuant: A First-Principles Walkthrough</a></td></tr>
+<tr><td><a href='https://developer.chrome.com/docs/ai/prompt-api'>The Prompt API</a></td></tr>
+<tr><td><a href='https://github.com/evanklem/evanflow'>EvanFlow – A TDD driven feedback loop for Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
