@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://status.npmjs.org'>NPM Website Is Down</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
-<tr><td><a href='https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/'>Three men are facing 44 charges in Toronto SMS Blaster arrests</a></td></tr>
 <tr><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td></tr>
+<tr><td><a href='https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/'>Three men are facing 44 charges in Toronto SMS Blaster arrests</a></td></tr>
 <tr><td><a href='https://github.com/Hanqaqa/Easyduino'>Easyduino: Open Source PCB Devboards for KiCad</a></td></tr>
 </table>
 <!-- END:news -->
