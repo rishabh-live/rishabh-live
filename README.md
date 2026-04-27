@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
 <tr><td><a href='https://github.com/Hanqaqa/Easyduino'>Easyduino: Open Source PCB Devboards for KiCad</a></td></tr>
-<tr><td><a href='https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html'>“Why not just use Lean?”</a></td></tr>
-<tr><td><a href='https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/'>Networking changes coming in macOS 27</a></td></tr>
-<tr><td><a href='https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html'>China blocks Meta&#x27;s acquisition of AI startup Manus</a></td></tr>
+<tr><td><a href='https://github.com/duane1024/l123'>L123: A Lotus 1-2-3–style terminal spreadsheet with modern Excel compatibility</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/science/2026/apr/15/hidden-treasures-spanish-archaeologists-discover-trove-of-ancient-shipwrecks-in-bay-of-gibraltar'>Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar</a></td></tr>
+<tr><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td></tr>
 </table>
 <!-- END:news -->
 
