@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
 <tr><td><a href='https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html'>&quot;Why not just use Lean?&quot;</a></td></tr>
-<tr><td><a href='https://muffin.ink/blog/scratch-svg-sanitization/'>The Woes of Sanitizing SVGs</a></td></tr>
+<tr><td><a href='https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/'>Networking changes coming in macOS 27</a></td></tr>
+<tr><td><a href='https://muffin.ink/blog/scratch-svg-sanitization/'>The woes of sanitizing SVGs</a></td></tr>
 <tr><td><a href='https://app.oravys.com/blog/mercor-breach-2026'>4TB of voice samples just stolen from 40k AI contractors at Mercor</a></td></tr>
-<tr><td><a href='https://github.com/dirac-run/dirac'>Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview</a></td></tr>
 </table>
 <!-- END:news -->
 
