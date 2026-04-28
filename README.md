@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td></tr>
+<tr><td><a href='https://github.com/pgcentralfoundation/pgrx'>Pgrx: Build Postgres Extensions with Rust</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
 <tr><td><a href='https://fabiensanglard.net/curse/'>Mo RAM, Mo Problems (2025)</a></td></tr>
 <tr><td><a href='https://technology.robbyant.com/lingbot-map'>LingBot-Map: Streaming 3D reconstruction with geometric context transformer</a></td></tr>
-<tr><td><a href='https://gitperf.com/'>Ted Nyman – High Performance Git</a></td></tr>
 </table>
 <!-- END:news -->
 
