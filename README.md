@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://waymo.com/blog/shorts/waymo-in-portland/'>Waymo in Portland</a></td></tr>
+<tr><td><a href='https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/'>OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs</a></td></tr>
+<tr><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td></tr>
 <tr><td><a href='https://github.com/localsend/localsend'>Localsend: An open-source cross-platform alternative to AirDrop</a></td></tr>
-<tr><td><a href='https://github.com/microsoft/VibeVoice'>Microsoft VibeVoice: Open-Source Frontier Voice AI</a></td></tr>
-<tr><td><a href='https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers'>AISLE Discovers 38 CVEs in OpenEMR Healthcare Software</a></td></tr>
+<tr><td><a href='https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/'>A playable DOOM MCP app</a></td></tr>
 <tr><td><a href='https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854'>GitHub RCE Vulnerability: CVE-2026-3854 Breakdown</a></td></tr>
 </table>
 <!-- END:news -->
