@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td></tr>
+<tr><td><a href='https://github.com/localsend/localsend'>Localsend: An open-source cross-platform alternative to AirDrop</a></td></tr>
+<tr><td><a href='https://github.com/microsoft/VibeVoice'>Microsoft VibeVoice: Open-Source Frontier Voice AI</a></td></tr>
 <tr><td><a href='https://worksinprogress.co/issue/the-worlds-most-complex-machine/'>The World&#x27;s Most Complex Machine</a></td></tr>
+<tr><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
-<tr><td><a href='https://legallayer.substack.com/p/who-owns-the-claude-code-wrote'>Who owns the code Claude Code wrote?</a></td></tr>
-<tr><td><a href='https://ismy.blue/'>Is my blue your blue? (2024)</a></td></tr>
 </table>
 <!-- END:news -->
 
