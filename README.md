@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td></tr>
 <tr><td><a href='https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/'>OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs</a></td></tr>
-<tr><td><a href='https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/'>A playable DOOM MCP app</a></td></tr>
+<tr><td><a href='https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/'>I won a championship that doesn&#x27;t exist</a></td></tr>
 <tr><td><a href='https://github.com/warpdotdev/warp'>Warp is now Open-Source</a></td></tr>
-<tr><td><a href='https://dyne.org/cjit/'>CJIT: C, Just in Time</a></td></tr>
+<tr><td><a href='https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/'>A playable DOOM MCP app</a></td></tr>
 </table>
 <!-- END:news -->
 
