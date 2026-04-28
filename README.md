@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://gtfobins.org/'>GTFOBins</a></td></tr>
 <tr><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td></tr>
+<tr><td><a href='https://worksinprogress.co/issue/the-worlds-most-complex-machine/'>The World&#x27;s Most Complex Machine</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
-<tr><td><a href='https://apod.nasa.gov/apod/ap260427.html'>Can You Find the Comet?</a></td></tr>
 <tr><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td></tr>
 </table>
 <!-- END:news -->
