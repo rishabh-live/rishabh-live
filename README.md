@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers'>AISLE Discovers 38 CVEs in OpenEMR Healthcare Software</a></td></tr>
+<tr><td><a href='https://waymo.com/blog/shorts/waymo-in-portland/'>Waymo in Portland</a></td></tr>
 <tr><td><a href='https://github.com/localsend/localsend'>Localsend: An open-source cross-platform alternative to AirDrop</a></td></tr>
-<tr><td><a href='https://github.com/BookStackApp/BookStack/issues/4551'>BookStack Moves from GitHub to Codeberg</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/VibeVoice'>Microsoft VibeVoice: Open-Source Frontier Voice AI</a></td></tr>
-<tr><td><a href='https://keepandroidopen.org/en/'>Your phone is about to stop being yours</a></td></tr>
+<tr><td><a href='https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers'>AISLE Discovers 38 CVEs in OpenEMR Healthcare Software</a></td></tr>
+<tr><td><a href='https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854'>GitHub RCE Vulnerability: CVE-2026-3854 Breakdown</a></td></tr>
 </table>
 <!-- END:news -->
 
