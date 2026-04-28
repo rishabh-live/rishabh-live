@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/localsend/localsend'>Localsend: An open-source cross-platform alternative to AirDrop</a></td></tr>
-<tr><td><a href='https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/'>Anthropic Joins the Blender Development Fund as Corporate Patron</a></td></tr>
+<tr><td><a href='https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers'>AI uncovers 38 vulnerabilities in largest open source medical record software</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/VibeVoice'>Microsoft VibeVoice: Open-Source Frontier Voice AI</a></td></tr>
-<tr><td><a href='https://www.lumara-space.app/'>Show HN: Live Sun and Moon Dashboard with NASA Footage</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html'>Deep under Antarctic ice, a long-predicted cosmic whisper breaks through</a></td></tr>
+<tr><td><a href='https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal'>Google and Pentagon reportedly agree on deal for &#x27;any lawful&#x27; use of AI</a></td></tr>
+<tr><td><a href='https://keepandroidopen.org/en/'>Your phone is about to stop being yours</a></td></tr>
 </table>
 <!-- END:news -->
 
