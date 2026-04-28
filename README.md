@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
-<tr><td><a href='https://ismy.blue/'>Is my blue your blue?</a></td></tr>
+<tr><td><a href='http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml'>To My Students</a></td></tr>
 <tr><td><a href='https://vivianvoss.net/blog/integrated-by-design-launch'>New Integrated by Design FreeBSD Book</a></td></tr>
-<tr><td><a href='https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/'>Three men are facing charges in Toronto SMS Blaster arrests</a></td></tr>
-<tr><td><a href='https://github.com/Hanqaqa/Easyduino'>Easyduino: Open Source PCB Devboards for KiCad</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai'>Microsoft and OpenAI end their exclusive and revenue-sharing deal</a></td></tr>
+<tr><td><a href='https://talkie-lm.com/introducing-talkie'>Talkie: a 13B vintage language model from 1930</a></td></tr>
+<tr><td><a href='https://www.mooreds.com/wordpress/archives/3734'>Meetings Are Forcing Functions</a></td></tr>
 </table>
 <!-- END:news -->
 
