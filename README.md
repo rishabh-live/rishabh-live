@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td></tr>
-<tr><td><a href='https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them'>Why AI companies want you to be afraid of them</a></td></tr>
-<tr><td><a href='https://blog.tangled.org/federation/'>Tangled – We need a federation of forges</a></td></tr>
-<tr><td><a href='https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/'>Soft launch of open-source code platform for government</a></td></tr>
-<tr><td><a href='https://read.thecoder.cafe/p/linux-broke-postgresql'>Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained</a></td></tr>
+<tr><td><a href='https://blog.tangled.org/federation/'>We need a federation of forges</a></td></tr>
+<tr><td><a href='https://deepmind.google/research/publications/231971/'>The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness</a></td></tr>
+<tr><td><a href='https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies'>FastCGI: 30 years old and still the better protocol for reverse proxies</a></td></tr>
+<tr><td><a href='https://x.com/GlennMeder/status/2049088498163216560'>Online age verification is the hill to die on</a></td></tr>
 </table>
 <!-- END:news -->
 
