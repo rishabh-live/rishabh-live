@@ -24,8 +24,8 @@
 <tr><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td></tr>
 <tr><td><a href='https://corrode.dev/blog/bugs-rust-wont-catch/'>Bugs Rust won&#x27;t catch</a></td></tr>
 <tr><td><a href='https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle'>HardenedBSD Is Now Officially on Radicle</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47945522'>Tell HN: An update from the new Tindie team</a></td></tr>
 <tr><td><a href='https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/'>How ChatGPT serves ads</a></td></tr>
-<tr><td><a href='https://github.com/rocky-data/rocky'>Show HN: Rocky – Rust SQL engine with branches, replay, column lineage</a></td></tr>
 </table>
 <!-- END:news -->
 
