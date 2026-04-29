@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td></tr>
+<tr><td><a href='https://corrode.dev/blog/bugs-rust-wont-catch/'>Bugs Rust won&#x27;t catch</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/4/28/before-github/'>Before GitHub</a></td></tr>
 <tr><td><a href='https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/'>How ChatGPT serves ads</a></td></tr>
-<tr><td><a href='https://www.mendral.com/blog/frontier-model-lower-costs'>We decreased our LLM costs with Opus</a></td></tr>
 <tr><td><a href='https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md'>Show HN: Auto-Architecture: Karpathy&#x27;s Loop, pointed at a CPU</a></td></tr>
 </table>
 <!-- END:news -->
