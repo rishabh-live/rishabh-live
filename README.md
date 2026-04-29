@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td></tr>
-<tr><td><a href='https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/'>ChatGPT serves ads. Here&#x27;s the full attribution loop</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/49363'>Claude system prompt bug wastes user money and bricks managed agents</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/4/28/before-github/'>Before GitHub</a></td></tr>
+<tr><td><a href='https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/'>How ChatGPT serves ads</a></td></tr>
 <tr><td><a href='https://www.mendral.com/blog/frontier-model-lower-costs'>We decreased our LLM costs with Opus</a></td></tr>
+<tr><td><a href='https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md'>Show HN: Auto-Architecture: Karpathy&#x27;s Loop, pointed at a CPU</a></td></tr>
 </table>
 <!-- END:news -->
 
