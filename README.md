@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td></tr>
 <tr><td><a href='https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/'>ChatGPT serves ads. Here&#x27;s the full attribution loop</a></td></tr>
-<tr><td><a href='https://lucumr.pocoo.org/2026/4/28/before-github/'>Before GitHub</a></td></tr>
 <tr><td><a href='https://github.com/anthropics/claude-code/issues/49363'>Claude system prompt bug wastes user money and bricks managed agents</a></td></tr>
-<tr><td><a href='https://dustri.org/b/carrot-disclosure-forgejo.html'>Carrot Disclosure: Forgejo</a></td></tr>
+<tr><td><a href='https://lucumr.pocoo.org/2026/4/28/before-github/'>Before GitHub</a></td></tr>
+<tr><td><a href='https://www.mendral.com/blog/frontier-model-lower-costs'>We decreased our LLM costs with Opus</a></td></tr>
 </table>
 <!-- END:news -->
 
