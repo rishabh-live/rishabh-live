@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td></tr>
-<tr><td><a href='https://blog.tangled.org/federation/'>We need a federation of forges</a></td></tr>
-<tr><td><a href='https://deepmind.google/research/publications/231971/'>The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness</a></td></tr>
+<tr><td><a href='https://copy.fail/'>Copy Fail – CVE-2026-31431</a></td></tr>
 <tr><td><a href='https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies'>FastCGI: 30 years old and still the better protocol for reverse proxies</a></td></tr>
-<tr><td><a href='https://x.com/GlennMeder/status/2049088498163216560'>Online age verification is the hill to die on</a></td></tr>
+<tr><td><a href='https://blog.tangled.org/federation/'>We need a federation of forges</a></td></tr>
+<tr><td><a href='https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials'>Ramp&#x27;s Sheets AI Exfiltrates Financials</a></td></tr>
 </table>
 <!-- END:news -->
 
