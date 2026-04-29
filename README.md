@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/53262'>HERMES.md: Anthropic bug causes $200 extra charge, refuses refund</a></td></tr>
 <tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td></tr>
 <tr><td><a href='https://copy.fail/'>Copy Fail – CVE-2026-31431</a></td></tr>
 <tr><td><a href='https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies'>FastCGI: 30 years old and still the better protocol for reverse proxies</a></td></tr>
 <tr><td><a href='https://blog.tangled.org/federation/'>We need a federation of forges</a></td></tr>
-<tr><td><a href='https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials'>Ramp&#x27;s Sheets AI Exfiltrates Financials</a></td></tr>
 </table>
 <!-- END:news -->
 
