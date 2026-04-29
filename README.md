@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed is 1.0</a></td></tr>
 <tr><td><a href='https://blog.tangled.org/federation/'>Tangled – We need a federation of forges</a></td></tr>
 <tr><td><a href='https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/'>Soft launch of open-source code platform for government</a></td></tr>
 <tr><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td></tr>
-<tr><td><a href='https://blog.jeffschomay.com/letting-ai-play-my-game'>Letting AI play my game – building an agentic test harness to help play-testing</a></td></tr>
-<tr><td><a href='https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/'>HashiCorp co-founder says GitHub &#x27;no longer a place for serious work&#x27;</a></td></tr>
+<tr><td><a href='https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari'>Improving ICU handovers by learning from Scuderia Ferrari F1 team</a></td></tr>
 </table>
 <!-- END:news -->
 
