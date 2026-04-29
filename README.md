@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td></tr>
 <tr><td><a href='https://copy.fail/'>Copy Fail – CVE-2026-31431</a></td></tr>
+<tr><td><a href='https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/'>Germany has become the largest ammunition producer in the world</a></td></tr>
 <tr><td><a href='https://github.com/anthropics/claude-code/issues/53262'>HERMES.md in commit messages causes requests to route to extra usage billing</a></td></tr>
 <tr><td><a href='https://opentrafficmap.org/'>OpenTrafficMap</a></td></tr>
-<tr><td><a href='https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/'>Germany has become the largest ammunition producer in the world</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
