@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/'>He asked AI to count carbs 27000 times. It couldn&#x27;t give the same answer twice</a></td></tr>
 <tr><td><a href='https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/'>Soft launch of open-source code platform for government</a></td></tr>
 <tr><td><a href='https://mitchellh.com/writing/ghostty-leaving-github'>Ghostty is leaving GitHub</a></td></tr>
-<tr><td><a href='https://rip.so'>Show HN: Rip.so – a graveyard for dead internet things</a></td></tr>
 <tr><td><a href='https://corrode.dev/blog/bugs-rust-wont-catch/'>Bugs Rust won&#x27;t catch</a></td></tr>
-<tr><td><a href='https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle'>HardenedBSD Is Now Officially on Radicle</a></td></tr>
+<tr><td><a href='https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/'>HashiCorp co-founder says GitHub &#x27;no longer a place for serious work&#x27;</a></td></tr>
 </table>
 <!-- END:news -->
 
