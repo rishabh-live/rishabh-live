@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/where-the-goblins-came-from/'>Where the Goblins Came From</a></td></tr>
 <tr><td><a href='https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79'>Craig Venter has died</a></td></tr>
 <tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td></tr>
-<tr><td><a href='https://copy.fail/'>Copy Fail – CVE-2026-31431</a></td></tr>
-<tr><td><a href='https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/'>Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight</a></td></tr>
-<tr><td><a href='https://neal.fun/cursor-camp/'>Cursor Camp</a></td></tr>
+<tr><td><a href='https://copy.fail/'>Copy Fail</a></td></tr>
+<tr><td><a href='https://burrito.bio/essays/biology-is-a-burrito'>Biology is a Burrito: A text- and visual-based journey through a living cell</a></td></tr>
 </table>
 <!-- END:news -->
 
