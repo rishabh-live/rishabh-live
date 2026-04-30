@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/'>Belgium stops decommissioning nuclear power plants</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c5y7yvgy0w6o'>Meta in row after workers who saw smart glasses users having sex lose jobs</a></td></tr>
+<tr><td><a href='https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/'>Spain&#x27;s parliament will act against massive IP blockages by LaLiga</a></td></tr>
 <tr><td><a href='https://www.construction-physics.com/p/how-an-oil-refinery-works'>How an Oil Refinery Works</a></td></tr>
-<tr><td><a href='https://bidprowl.com'>I aggregated 28 US Government auction sites into one search</a></td></tr>
-<tr><td><a href='https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/'>You can beat the binary search</a></td></tr>
+<tr><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>The Whistleblower Who Uncovered the NSA&#x27;s &#x27;Big Brother Machine&#x27;</a></td></tr>
+<tr><td><a href='https://twitter.com/theo/status/2049645973350363168'>Claude Code refuses requests or charges extra if your commits mention &quot;OpenClaw&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
