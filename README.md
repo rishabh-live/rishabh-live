@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79'>Craig Venter has died</a></td></tr>
 <tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td></tr>
 <tr><td><a href='https://copy.fail/'>Copy Fail – CVE-2026-31431</a></td></tr>
-<tr><td><a href='https://nitter.space/MushtaqBilalPhD/status/2049057344013881523#m'>&#x3E; Be Alexandra Elbakyan</a></td></tr>
-<tr><td><a href='https://opentrafficmap.org/'>OpenTrafficMap</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/53262'>HERMES.md in commit messages causes requests to route to extra usage billing</a></td></tr>
+<tr><td><a href='https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/'>Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight</a></td></tr>
+<tr><td><a href='https://neal.fun/cursor-camp/'>Cursor Camp</a></td></tr>
 </table>
 <!-- END:news -->
 
