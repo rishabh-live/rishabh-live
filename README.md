@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.bbc.com/news/articles/c5y7yvgy0w6o'>Meta in row after workers who saw smart glasses users having sex lose jobs</a></td></tr>
 <tr><td><a href='https://www.construction-physics.com/p/how-an-oil-refinery-works'>How an Oil Refinery Works</a></td></tr>
 <tr><td><a href='https://bidprowl.com'>I aggregated 28 US Government auction sites into one search</a></td></tr>
-<tr><td><a href='https://markready.io/blog/fcc-accredited-test-labs-complete-guide'>The FCC is about to ban 21% of its test labs today. I mapped them all</a></td></tr>
+<tr><td><a href='https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/'>You can beat the binary search</a></td></tr>
 </table>
 <!-- END:news -->
 
