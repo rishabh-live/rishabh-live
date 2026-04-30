@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>The Whistleblower Who Uncovered the NSA&#x27;s &#x27;Big Brother Machine&#x27;</a></td></tr>
+<tr><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>How Mark Klein told the EFF about Room 641A [book excerpt]</a></td></tr>
 <tr><td><a href='https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/'>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</a></td></tr>
 <tr><td><a href='https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/'>Belgium stops decommissioning nuclear power plants</a></td></tr>
+<tr><td><a href='https://www.openwall.com/lists/oss-security/2026/04/30/10'>CopyFail Was Not Disclosed to Distros</a></td></tr>
 <tr><td><a href='https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/'>I built a Game Boy emulator in F#</a></td></tr>
-<tr><td><a href='https://twitter.com/theo/status/2049645973350363168'>Claude Code refuses requests or charges extra if your commits mention &quot;OpenClaw&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
