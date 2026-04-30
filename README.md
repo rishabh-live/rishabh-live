@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openai.com/index/where-the-goblins-came-from/'>Where the Goblins Came From</a></td></tr>
+<tr><td><a href='https://openai.com/index/where-the-goblins-came-from/'>Where the goblins came from</a></td></tr>
 <tr><td><a href='https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79'>Craig Venter has died</a></td></tr>
+<tr><td><a href='https://github.com/cauchy221/Alignment-Whack-a-Mole-Code'>Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs</a></td></tr>
 <tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td></tr>
-<tr><td><a href='https://copy.fail/'>Copy Fail</a></td></tr>
-<tr><td><a href='https://burrito.bio/essays/biology-is-a-burrito'>Biology is a Burrito: A text- and visual-based journey through a living cell</a></td></tr>
+<tr><td><a href='https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html'>Functional Programmers need to take a look at Zig</a></td></tr>
 </table>
 <!-- END:news -->
 
