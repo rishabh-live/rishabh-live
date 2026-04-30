@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/'>Belgium stops decommissioning nuclear power plants</a></td></tr>
-<tr><td><a href='https://firethering.com/granite-4-1-ibm-open-source-model-family/'>Granite 4.1: IBM&#x27;s 8B Model Matching 32B MoE</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c5y7yvgy0w6o'>Meta in row after workers who saw smart glasses users having sex lose jobs</a></td></tr>
 <tr><td><a href='https://bidprowl.com'>I aggregated 28 US Government auction sites into one search</a></td></tr>
+<tr><td><a href='https://firethering.com/granite-4-1-ibm-open-source-model-family/'>Granite 4.1: IBM&#x27;s 8B Model Matching 32B MoE</a></td></tr>
 <tr><td><a href='https://github.com/mozilla/standards-positions/issues/1213'>Mozilla&#x27;s Opposition to Chrome&#x27;s Prompt API</a></td></tr>
-<tr><td><a href='https://openai.com/index/where-the-goblins-came-from/'>Where the goblins came from</a></td></tr>
 </table>
 <!-- END:news -->
 
