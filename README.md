@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://firethering.com/granite-4-1-ibm-open-source-model-family/'>Granite 4.1: IBM&#x27;s 8B Model Matching 32B MoE</a></td></tr>
 <tr><td><a href='https://openai.com/index/where-the-goblins-came-from/'>Where the goblins came from</a></td></tr>
 <tr><td><a href='https://www.noctua.at/en/3d-cad-models'>Noctua releases official 3D CAD models for its cooling fans</a></td></tr>
 <tr><td><a href='https://zed.dev/blog/zed-1-0'>Zed 1.0</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Apr/30/zig-anti-ai/'>The Zig project&#x27;s rationale for their anti-AI contribution policy</a></td></tr>
-<tr><td><a href='https://github.com/mozilla/standards-positions/issues/1213'>Mozilla&#x27;s Opposition to Chrome&#x27;s Prompt API</a></td></tr>
 </table>
 <!-- END:news -->
 
