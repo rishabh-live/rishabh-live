@@ -25,7 +25,7 @@
 <tr><td><a href='https://news.ycombinator.com/item?id=47975571'>Ask HN: Who is hiring? (May 2026)</a></td></tr>
 <tr><td><a href='https://github.com/whohas/whohas'>whohas – Command-line utility for cross-distro, cross-repository package search</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47975570'>Ask HN: Who wants to be hired? (May 2026)</a></td></tr>
-<tr><td><a href='https://www.online-tribute.com/SallyMcKee'>Sally McKee, who coined the term &quot;the memory wall&quot;, has died</a></td></tr>
+<tr><td><a href='https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/'>Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests</a></td></tr>
 </table>
 <!-- END:news -->
 
