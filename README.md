@@ -24,8 +24,8 @@
 <tr><td><a href='https://websmith.studio/blog/your-website-is-not-for-you/'>Your Website Is Not for You</a></td></tr>
 <tr><td><a href='https://www.pagetable.com/?p=1854'>Running Adobe&#x27;s 1991 PostScript Interpreter in the Browser</a></td></tr>
 <tr><td><a href='https://xcancel.com/aaronp613/status/2049986504617820551'>Apple accidentally left Claude.md files Apple Support app</a></td></tr>
-<tr><td><a href='https://sitemogging.com'>Show HN: Site Mogging</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47972888'>Show HN: Perfect Bluetooth MIDI for Windows</a></td></tr>
+<tr><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>How Mark Klein told the EFF about Room 641A [book excerpt]</a></td></tr>
+<tr><td><a href='https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/'>New copy of earliest poem in English, written 1,3k years ago, discovered in Rome</a></td></tr>
 </table>
 <!-- END:news -->
 
