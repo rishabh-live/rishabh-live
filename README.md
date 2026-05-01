@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/darrylmorley/whatcable'>Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/'>After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47972888'>Show HN: Perfect Bluetooth MIDI for Windows</a></td></tr>
+<tr><td><a href='https://btxx.org/posts/beginners-guide-sourcehut/'>A beginner&#x27;s guide to Sourcehut (2025)</a></td></tr>
+<tr><td><a href='https://skysedge.com/telecom/RUSP/index.html'>The Rotary Un-Smartphone</a></td></tr>
 <tr><td><a href='https://en.wikipedia.org/wiki/Auto_polo'>Auto Polo</a></td></tr>
-<tr><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>How Mark Klein told the EFF about Room 641A [book excerpt]</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47972888'>Show HN: Perfect Bluetooth MIDI for Windows</a></td></tr>
 </table>
 <!-- END:news -->
 
