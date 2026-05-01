@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.ghost.charity/'>GhostBox – disposable little machines from the Global Free Tier.</a></td></tr>
 <tr><td><a href='https://websmith.studio/blog/your-website-is-not-for-you/'>Your Website Is Not for You</a></td></tr>
+<tr><td><a href='https://github.com/whohas/whohas'>whohas – Command-line utility for cross-distro, cross-repository package search</a></td></tr>
 <tr><td><a href='https://www.pagetable.com/?p=1854'>Running Adobe&#x27;s 1991 PostScript Interpreter in the Browser</a></td></tr>
-<tr><td><a href='https://xcancel.com/aaronp613/status/2049986504617820551'>Apple accidentally left Claude.md files Apple Support app</a></td></tr>
-<tr><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>How Mark Klein told the EFF about Room 641A [book excerpt]</a></td></tr>
-<tr><td><a href='https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/'>New copy of earliest poem in English, written 1,3k years ago, discovered in Rome</a></td></tr>
+<tr><td><a href='https://www.online-tribute.com/SallyMcKee'>Sally McKee, who coined the term &quot;the Memory Wall&quot;, has died</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
