@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/darrylmorley/whatcable'>Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables</a></td></tr>
 <tr><td><a href='https://en.wikipedia.org/wiki/Auto_polo'>Auto Polo</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=47972888'>Show HN: Perfect Bluetooth MIDI for Windows</a></td></tr>
 <tr><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>How Mark Klein told the EFF about Room 641A [book excerpt]</a></td></tr>
 <tr><td><a href='https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/'>New copy of earliest poem in English, written 1,3k years ago, discovered in Rome</a></td></tr>
-<tr><td><a href='https://www.openwall.com/lists/oss-security/2026/04/30/10'>For Linux kernel vulnerabilities, there is no heads-up to distributions</a></td></tr>
-<tr><td><a href='https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/'>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</a></td></tr>
 </table>
 <!-- END:news -->
 
