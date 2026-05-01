@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/'>Uber Torches 2026 AI Budget on Claude Code in Four Months</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47975571'>Ask HN: Who is hiring? (May 2026)</a></td></tr>
-<tr><td><a href='https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/'>Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests</a></td></tr>
 <tr><td><a href='https://github.com/whohas/whohas'>whohas – Command-line utility for cross-distro, cross-repository package search</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=nHwxV0Sd9V8'>Flock cameras keep telling police a man who doesn&#x27;t have a warrant has a warrant</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47975570'>Ask HN: Who wants to be hired? (May 2026)</a></td></tr>
 </table>
 <!-- END:news -->
