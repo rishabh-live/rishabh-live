@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/darrylmorley/whatcable'>Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables</a></td></tr>
-<tr><td><a href='https://btxx.org/posts/beginners-guide-sourcehut/'>A beginner&#x27;s guide to Sourcehut (2025)</a></td></tr>
-<tr><td><a href='https://skysedge.com/telecom/RUSP/index.html'>The Rotary Un-Smartphone</a></td></tr>
-<tr><td><a href='https://en.wikipedia.org/wiki/Auto_polo'>Auto Polo</a></td></tr>
+<tr><td><a href='https://websmith.studio/blog/your-website-is-not-for-you/'>Your Website Is Not for You</a></td></tr>
+<tr><td><a href='https://www.pagetable.com/?p=1854'>Running Adobe&#x27;s 1991 PostScript Interpreter in the Browser</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47972888'>Show HN: Perfect Bluetooth MIDI for Windows</a></td></tr>
+<tr><td><a href='https://github.com/darrylmorley/whatcable'>Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables</a></td></tr>
+<tr><td><a href='https://sitemogging.com'>Show HN: Site Mogging</a></td></tr>
 </table>
 <!-- END:news -->
 
