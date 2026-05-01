@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/'>Uber Torches 2026 AI Budget on Claude Code in Four Months</a></td></tr>
+<tr><td><a href='https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/'>AI uses less water than the public thinks</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c5yerr4m1yno'>Spotify adds &#x27;Verified&#x27; badges to distinguish human artists from AI</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47975571'>Ask HN: Who is hiring? (May 2026)</a></td></tr>
+<tr><td><a href='https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we'>New research suggests people can communicate and practice skills while dreaming</a></td></tr>
 <tr><td><a href='https://github.com/whohas/whohas'>whohas – Command-line utility for cross-distro, cross-repository package search</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=nHwxV0Sd9V8'>Flock cameras keep telling police a man who doesn&#x27;t have a warrant has a warrant</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=47975570'>Ask HN: Who wants to be hired? (May 2026)</a></td></tr>
 </table>
 <!-- END:news -->
 
