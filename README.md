@@ -24,7 +24,7 @@
 <tr><td><a href='https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we'>New research suggests people can communicate and practice skills while dreaming</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47975571'>Ask HN: Who is hiring? (May 2026)</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c5yerr4m1yno'>Spotify adds &#x27;Verified&#x27; badges to distinguish human artists from AI</a></td></tr>
-<tr><td><a href='https://github.com/whohas/whohas'>whohas – Command-line utility for cross-distro, cross-repository package search</a></td></tr>
+<tr><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td></tr>
 <tr><td><a href='https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/'>City Learns Flock Accessed Cameras in Children&#x27;s Gymnastics Room as a Sales Demo</a></td></tr>
 </table>
 <!-- END:news -->
