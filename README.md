@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td></tr>
-<tr><td><a href='https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html'>Credit cards are vulnerable to brute force attacks</a></td></tr>
 <tr><td><a href='https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we'>New research suggests people can communicate and practice skills while dreaming</a></td></tr>
-<tr><td><a href='https://www.worksinprogress.news/p/how-disposable-diapers-conquered'>The Smelly Baby Problem</a></td></tr>
+<tr><td><a href='https://www.worksinprogress.news/p/how-disposable-diapers-conquered'>The smelly baby problem</a></td></tr>
+<tr><td><a href='https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/'>Eka’s robotic claw feels like we&#x27;re approaching a ChatGPT moment</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=47975571'>Ask HN: Who is hiring? (May 2026)</a></td></tr>
 </table>
 <!-- END:news -->
