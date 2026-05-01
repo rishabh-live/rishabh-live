@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/'>How Mark Klein told the EFF about Room 641A [book excerpt]</a></td></tr>
-<tr><td><a href='https://github.com/kernalix7/winpodx'>Show HN: Winpodx – run Windows apps on Linux as native windows</a></td></tr>
-<tr><td><a href='https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously'>Opus 4.7 knows the real Kelsey</a></td></tr>
 <tr><td><a href='https://www.openwall.com/lists/oss-security/2026/04/30/10'>For Linux kernel vulnerabilities, there is no heads-up to distributions</a></td></tr>
-<tr><td><a href='https://openwarp.zerx.dev'>OpenWarp</a></td></tr>
+<tr><td><a href='https://gregraiz.com/blog/local-vibe/'>I Got Sick of Remembering Port Numbers</a></td></tr>
+<tr><td><a href='https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously'>Opus 4.7 knows the real Kelsey</a></td></tr>
+<tr><td><a href='https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/'>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</a></td></tr>
 </table>
 <!-- END:news -->
 
