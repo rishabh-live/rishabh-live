@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://nethack.org/v500/release.html'>NetHack 5.0.0</a></td></tr>
-<tr><td><a href='https://code.videolan.org/videolan/dav2d'>Videolan Dav2d</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/'>Uber wants to turn its drivers into a sensor grid for self-driving companies</a></td></tr>
+<tr><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td></tr>
 <tr><td><a href='https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade'>Inventions for battery reuse and recycling increase more than 7-fold in last 10y</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/clypjx3rg2go'>California to begin ticketing driverless cars that violate traffic laws</a></td></tr>
+<tr><td><a href='https://nethack.org/v500/release.html'>NetHack 5.0.0</a></td></tr>
+<tr><td><a href='https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/'>Unsigned Sizes: A Five Year Mistake</a></td></tr>
+<tr><td><a href='https://flueframework.com/'>Flue is a TypeScript framework for building the next generation of agents</a></td></tr>
 </table>
 <!-- END:news -->
 
