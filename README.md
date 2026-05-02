@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td></tr>
 <tr><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td></tr>
-<tr><td><a href='https://www.ask.com/'>Ask.com has closed</a></td></tr>
+<tr><td><a href='https://iesna.eu/?wasm=skyglow_demo'>Show HN: Browser-based light pollution simulator using real photometric data</a></td></tr>
+<tr><td><a href='https://miren.dev/blog/gopher-meets-crab'>A Gopher Meets a Crab</a></td></tr>
 <tr><td><a href='https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003'>Artemis II Photo Timeline</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we'>New research suggests people can communicate and practice skills while dreaming</a></td></tr>
 </table>
 <!-- END:news -->
 
