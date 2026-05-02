@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td></tr>
 <tr><td><a href='https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we'>New research suggests people can communicate and practice skills while dreaming</a></td></tr>
-<tr><td><a href='https://www.worksinprogress.news/p/how-disposable-diapers-conquered'>The smelly baby problem</a></td></tr>
-<tr><td><a href='https://evilgeniuslabs.ca/blog/vb6-modern-dotnet-question'>What did you love about VB6?</a></td></tr>
 <tr><td><a href='https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003'>Artemis II Photo Timeline</a></td></tr>
+<tr><td><a href='https://www.worksinprogress.news/p/how-disposable-diapers-conquered'>The smelly baby problem</a></td></tr>
+<tr><td><a href='https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf'>A Report on Burnout in Open Source Software Communities (2025) [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
