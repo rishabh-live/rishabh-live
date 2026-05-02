@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.ask.com/'>Ask.com has closed</a></td></tr>
-<tr><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td></tr>
+<tr><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td></tr>
 <tr><td><a href='https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/'>Job Postings for Software Engineers Are Rapidly Rising</a></td></tr>
+<tr><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td></tr>
+<tr><td><a href='https://www.ask.com/'>Ask.com has closed</a></td></tr>
 <tr><td><a href='https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003'>Artemis II Photo Timeline</a></td></tr>
-<tr><td><a href='https://www.liquid.ai/blog/lfm2-24b-a2b'>LFM2-24B-A2B: Scaling Up the LFM2 Architecture</a></td></tr>
 </table>
 <!-- END:news -->
 
