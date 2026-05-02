@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/microsoft/vscode/pull/310226'>VS Code inserting &#x27;Co-Authored-by Copilot&#x27; into commits regardless of usage</a></td></tr>
 <tr><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td></tr>
+<tr><td><a href='https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/'>Six Years Perfecting Maps on WatchOS</a></td></tr>
+<tr><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird - April 2026</a></td></tr>
 <tr><td><a href='https://donottrack.sh/'>Do_not_track</a></td></tr>
-<tr><td><a href='https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade'>Inventions for battery reuse and recycling increase seven-fold in last decade</a></td></tr>
-<tr><td><a href='https://nethack.org/v500/release.html'>NetHack 5.0.0</a></td></tr>
 </table>
 <!-- END:news -->
 
