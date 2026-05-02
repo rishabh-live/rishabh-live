@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2509.00462'>LLMs consistently pick resumes they generate over ones by humans or other models</a></td></tr>
+<tr><td><a href='https://nethack.org/v500/release.html'>NetHack 5.0.0</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/'>Uber wants to turn its drivers into a sensor grid for self-driving companies</a></td></tr>
+<tr><td><a href='https://code.videolan.org/videolan/dav2d'>Videolan Dav2d</a></td></tr>
 <tr><td><a href='https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade'>Inventions for battery reuse and recycling increase more than 7-fold in last 10y</a></td></tr>
-<tr><td><a href='https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/'>How fast is a macOS VM, and how small could it be?</a></td></tr>
 <tr><td><a href='https://github.com/EnterpriseDB/barman'>Barman – Backup and Recovery Manager for PostgreSQL</a></td></tr>
-<tr><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td></tr>
 </table>
 <!-- END:news -->
 
