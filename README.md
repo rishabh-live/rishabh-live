@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/'>Six Years Perfecting Maps on WatchOS</a></td></tr>
 <tr><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td></tr>
 <tr><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird - April 2026</a></td></tr>
-<tr><td><a href='https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox'>The agent harness belongs outside the sandbox</a></td></tr>
+<tr><td><a href='https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago'>Neanderthals ran &#x27;fat factories&#x27; 125,000 years ago</a></td></tr>
 </table>
 <!-- END:news -->
 
