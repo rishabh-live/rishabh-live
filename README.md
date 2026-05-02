@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/microsoft/vscode/pull/310226'>VS Code inserting &#x27;Co-Authored-by Copilot&#x27; into commits regardless of usage</a></td></tr>
 <tr><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td></tr>
-<tr><td><a href='https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade'>Inventions for battery reuse and recycling increase seven-fold in last decade</a></td></tr>
 <tr><td><a href='https://donottrack.sh/'>Do_not_track</a></td></tr>
+<tr><td><a href='https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade'>Inventions for battery reuse and recycling increase seven-fold in last decade</a></td></tr>
 <tr><td><a href='https://nethack.org/v500/release.html'>NetHack 5.0.0</a></td></tr>
-<tr><td><a href='https://flueframework.com/'>Flue is a TypeScript framework for building the next generation of agents</a></td></tr>
 </table>
 <!-- END:news -->
 
