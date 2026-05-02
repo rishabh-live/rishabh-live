@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.ask.com/'>Ask.com has closed</a></td></tr>
 <tr><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td></tr>
+<tr><td><a href='https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/'>Job Postings for Software Engineers Are Rapidly Rising</a></td></tr>
 <tr><td><a href='https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003'>Artemis II Photo Timeline</a></td></tr>
-<tr><td><a href='https://www.ask.com/'>Ask Jeeves Shut Down</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we'>New research suggests people can communicate and practice skills while dreaming</a></td></tr>
-<tr><td><a href='https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi'>To Restore an Island Paradise, Add Fungi</a></td></tr>
+<tr><td><a href='https://www.liquid.ai/blog/lfm2-24b-a2b'>LFM2-24B-A2B: Scaling Up the LFM2 Architecture</a></td></tr>
 </table>
 <!-- END:news -->
 
