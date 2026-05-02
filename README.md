@@ -24,8 +24,8 @@
 <tr><td><a href='https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/'>How fast is a macOS VM, and how small could it be?</a></td></tr>
 <tr><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td></tr>
 <tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213'>Why are there both TMP and TEMP environment variables? (2015)</a></td></tr>
+<tr><td><a href='https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics'>The Century-Long Pause in Fundamental Physics</a></td></tr>
 <tr><td><a href='https://github.com/bruin-data/dac'>Show HN: DAC – open-source dashboard as code tool for agents and humans</a></td></tr>
-<tr><td><a href='https://github.com/dotcl/dotcl'>Dotcl: Common Lisp Implementation on .NET</a></td></tr>
 </table>
 <!-- END:news -->
 
