@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td></tr>
+<tr><td><a href='https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/'>How fast is a macOS VM, and how small could it be?</a></td></tr>
+<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213'>Why are there both TMP and TEMP environment variables? (2015)</a></td></tr>
+<tr><td><a href='https://mljar.com/'>Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks</a></td></tr>
 <tr><td><a href='https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo'>Ti-84 Evo</a></td></tr>
-<tr><td><a href='https://iesna.eu/?wasm=skyglow_demo'>Show HN: Browser-based light pollution simulator using real photometric data</a></td></tr>
-<tr><td><a href='https://miren.dev/blog/gopher-meets-crab'>A Gopher Meets a Crab</a></td></tr>
-<tr><td><a href='https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003'>Artemis II Photo Timeline</a></td></tr>
 </table>
 <!-- END:news -->
 
