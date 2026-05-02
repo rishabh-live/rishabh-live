@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arxiv.org/abs/2509.00462'>LLMs consistently pick resumes they generate over ones by humans or other models</a></td></tr>
+<tr><td><a href='https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade'>Inventions for battery reuse and recycling increase more than 7-fold in last 10y</a></td></tr>
 <tr><td><a href='https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/'>How fast is a macOS VM, and how small could it be?</a></td></tr>
 <tr><td><a href='https://github.com/EnterpriseDB/barman'>Barman – Backup and Recovery Manager for PostgreSQL</a></td></tr>
 <tr><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td></tr>
-<tr><td><a href='https://github.com/facebook/pyrefly/issues/3292'>Meta&#x27;s Pyrefly sabotages competing Python extensions without telling you</a></td></tr>
 </table>
 <!-- END:news -->
 
