@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions'>Why does it take so long to release black fan versions?</a></td></tr>
 <tr><td><a href='https://github.com/nexu-io/open-design'>Open Design: Use Your Coding Agent as a Design Engine</a></td></tr>
 <tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213'>Why are there both TMP and TEMP environment variables? (2015)</a></td></tr>
-<tr><td><a href='https://github.com/bruin-data/dac'>Show HN: DAC – open-source dashboard as code tool for agents and humans</a></td></tr>
+<tr><td><a href='https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum'>Becoming a father shrinks your cerebrum</a></td></tr>
 </table>
 <!-- END:news -->
 
