@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2604.25679'>Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case</a></td></tr>
 <tr><td><a href='https://github.com/bring-shrubbery/ml-sharp-web'>Show HN: Apple&#x27;s Sharp Running in the Browser via ONNX Runtime Web</a></td></tr>
-<tr><td><a href='https://blog.haskell.org/a-couple-million-lines-of-haskell/'>A couple million lines of Haskell: Production engineering at Mercury</a></td></tr>
 <tr><td><a href='https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html'>Group averages obscure how an individual&#x27;s brain controls behavior: study</a></td></tr>
+<tr><td><a href='https://blog.haskell.org/a-couple-million-lines-of-haskell/'>A couple million lines of Haskell: Production engineering at Mercury</a></td></tr>
 <tr><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird – April 2026</a></td></tr>
-<tr><td><a href='https://github.com/systalyze/utilyze'>Utilyze measures how efficiently your GPU is doing useful work</a></td></tr>
 </table>
 <!-- END:news -->
 
