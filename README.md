@@ -24,8 +24,8 @@
 <tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
 <tr><td><a href='https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/'>Why TUIs Are Back</a></td></tr>
 <tr><td><a href='https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html'>Southwest Headquarters Tour</a></td></tr>
-<tr><td><a href='https://isene.org/2026/05/Audience-of-One.html'>A desktop made for one</a></td></tr>
-<tr><td><a href='https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/'>Mercedes-Benz commits to bringing back physical buttons</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/'>Statue of a man blinded by a flag put up by Banksy in central London</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses'>OpenAI&#x27;s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors</a></td></tr>
 </table>
 <!-- END:news -->
 
