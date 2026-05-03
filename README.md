@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://chromium-drift.pages.dev/'>What Chromium versions are major browsers are on?</a></td></tr>
 <tr><td><a href='https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html'>Southwest Headquarters Tour</a></td></tr>
+<tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
 <tr><td><a href='https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/'>Mercedes-Benz commits to bringing back physical buttons</a></td></tr>
-<tr><td><a href='https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html'>Porsche will contest Laguna Seca in historic colors of the Apple Computer livery</a></td></tr>
-<tr><td><a href='https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/'>What Is Z-Angle Memory and Why Is Intel Developing It?</a></td></tr>
+<tr><td><a href='https://isene.org/2026/05/Audience-of-One.html'>A desktop made for one</a></td></tr>
+<tr><td><a href='https://chromium-drift.pages.dev/'>How far behind is each major Chromium browser?</a></td></tr>
 </table>
 <!-- END:news -->
 
