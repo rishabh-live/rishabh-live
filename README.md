@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arxiv.org/abs/2604.25679'>Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case</a></td></tr>
-<tr><td><a href='https://github.com/bring-shrubbery/ml-sharp-web'>Show HN: Apple&#x27;s Sharp Running in the Browser via ONNX Runtime Web</a></td></tr>
 <tr><td><a href='https://simpleobservability.com/docs/alert-driven-monitoring'>Alert-Driven Monitoring</a></td></tr>
+<tr><td><a href='https://github.com/bring-shrubbery/ml-sharp-web'>Show HN: Apple&#x27;s Sharp Running in the Browser via ONNX Runtime Web</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/software/vpn/utah-becomes-first-us-state-to-target-vpn-use-with-age-verification-law'>Utah to hold websites liable for users who mask their location with VPNs</a></td></tr>
 <tr><td><a href='https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html'>Group averages obscure how an individual&#x27;s brain controls behavior: study</a></td></tr>
 </table>
