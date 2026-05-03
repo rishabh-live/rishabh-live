@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html'>For thirty years I programmed with Phish on, every day</a></td></tr>
+<tr><td><a href='https://chromium-drift.pages.dev/'>What Chromium versions are major browsers are on?</a></td></tr>
 <tr><td><a href='https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/'>Mercedes-Benz commits to bringing back physical buttons</a></td></tr>
-<tr><td><a href='https://simpleobservability.com/docs/alert-driven-monitoring'>Alert-Driven Monitoring</a></td></tr>
 <tr><td><a href='https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html'>Porsche will contest Laguna Seca in historic colors of the Apple Computer livery</a></td></tr>
-<tr><td><a href='https://hoeijmakers.net/thirty-years-of-caching-sorted-in-an-afternoon/'>I rebuilt my blog&#x27;s cache. Bots are the audience now</a></td></tr>
+<tr><td><a href='https://simpleobservability.com/docs/alert-driven-monitoring'>Alert-Driven Monitoring</a></td></tr>
+<tr><td><a href='https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html'>For thirty years I programmed with Phish on, every day</a></td></tr>
 </table>
 <!-- END:news -->
 
