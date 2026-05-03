@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/bring-shrubbery/ml-sharp-web'>Show HN: Apple&#x27;s Sharp Running in the Browser via ONNX Runtime Web</a></td></tr>
 <tr><td><a href='https://blog.haskell.org/a-couple-million-lines-of-haskell/'>A couple million lines of Haskell: Production engineering at Mercury</a></td></tr>
 <tr><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird – April 2026</a></td></tr>
 <tr><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td></tr>
 <tr><td><a href='https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/'>Six Years Perfecting Maps on WatchOS</a></td></tr>
-<tr><td><a href='https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/'>Unverified Evaluations in Dusk&#x27;s PLONK</a></td></tr>
 </table>
 <!-- END:news -->
 
