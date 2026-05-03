@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://chromium-drift.pages.dev/'>What Chromium versions are major browsers are on?</a></td></tr>
-<tr><td><a href='https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/'>Mercedes-Benz commits to bringing back physical buttons</a></td></tr>
 <tr><td><a href='https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html'>Southwest Headquarters Tour</a></td></tr>
+<tr><td><a href='https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/'>Mercedes-Benz commits to bringing back physical buttons</a></td></tr>
 <tr><td><a href='https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html'>Porsche will contest Laguna Seca in historic colors of the Apple Computer livery</a></td></tr>
-<tr><td><a href='https://simpleobservability.com/docs/alert-driven-monitoring'>Alert-Driven Monitoring</a></td></tr>
+<tr><td><a href='https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/'>What Is Z-Angle Memory and Why Is Intel Developing It?</a></td></tr>
 </table>
 <!-- END:news -->
 
