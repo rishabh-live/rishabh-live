@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html'>Southwest Headquarters Tour</a></td></tr>
 <tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
-<tr><td><a href='https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/'>Mercedes-Benz commits to bringing back physical buttons</a></td></tr>
+<tr><td><a href='https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/'>Why TUIs Are Back</a></td></tr>
+<tr><td><a href='https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html'>Southwest Headquarters Tour</a></td></tr>
 <tr><td><a href='https://isene.org/2026/05/Audience-of-One.html'>A desktop made for one</a></td></tr>
-<tr><td><a href='https://chromium-drift.pages.dev/'>How far behind is each major Chromium browser?</a></td></tr>
+<tr><td><a href='https://death-of-scrum.net/'>The Death of Scrum – Built for a slower world, performed by those who left</a></td></tr>
 </table>
 <!-- END:news -->
 
