@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/microsoft/vscode/pull/310226'>VS Code inserting &#x27;Co-Authored-by Copilot&#x27; into commits regardless of usage</a></td></tr>
 <tr><td><a href='https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/'>Six Years Perfecting Maps on WatchOS</a></td></tr>
 <tr><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird - April 2026</a></td></tr>
+<tr><td><a href='https://blog.haskell.org/a-couple-million-lines-of-haskell/'>A Couple Million Lines of Haskell: Production Engineering at Mercury</a></td></tr>
 <tr><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td></tr>
-<tr><td><a href='https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago'>Neanderthals ran &#x27;fat factories&#x27; 125,000 years ago</a></td></tr>
 </table>
 <!-- END:news -->
 
