@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2604.25679'>Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case</a></td></tr>
-<tr><td><a href='https://simpleobservability.com/docs/alert-driven-monitoring'>Alert-Driven Monitoring</a></td></tr>
 <tr><td><a href='https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/'>Mercedes-Benz commits to bringing back physical buttons</a></td></tr>
+<tr><td><a href='https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/'>Security Through Obscurity Is Not Bad</a></td></tr>
+<tr><td><a href='https://simpleobservability.com/docs/alert-driven-monitoring'>Alert-Driven Monitoring</a></td></tr>
+<tr><td><a href='https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html'>For thirty years I programmed with Phish on, every day</a></td></tr>
 <tr><td><a href='https://theconsensus.dev/p/2026/05/02/automating-hermitage.html'>Automating Hermitage to see how transactions differ in MySQL and MariaDB</a></td></tr>
-<tr><td><a href='https://github.com/bring-shrubbery/ml-sharp-web'>Show HN: Apple&#x27;s Sharp Running in the Browser via ONNX Runtime Web</a></td></tr>
 </table>
 <!-- END:news -->
 
