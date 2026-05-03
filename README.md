@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://acai.sh/blog/specsmaxxing'>Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML</a></td></tr>
-<tr><td><a href='https://blog.haskell.org/a-couple-million-lines-of-haskell/'>A Couple Million Lines of Haskell: Production Engineering at Mercury</a></td></tr>
-<tr><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird - April 2026</a></td></tr>
+<tr><td><a href='https://blog.haskell.org/a-couple-million-lines-of-haskell/'>A couple million lines of Haskell: Production engineering at Mercury</a></td></tr>
+<tr><td><a href='https://ladybird.org/newsletter/2026-04-30/'>This Month in Ladybird – April 2026</a></td></tr>
 <tr><td><a href='https://code.videolan.org/videolan/dav2d'>Dav2d</a></td></tr>
-<tr><td><a href='https://research.ibm.com/blog/granite-4-1-ai-foundation-models'>The IBM Granite 4.1 family of models</a></td></tr>
+<tr><td><a href='https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/'>Unverified Evaluations in Dusk&#x27;s PLONK</a></td></tr>
+<tr><td><a href='https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/'>Six Years Perfecting Maps on WatchOS</a></td></tr>
 </table>
 <!-- END:news -->
 
