@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
-<tr><td><a href='https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/'>Why TUIs Are Back</a></td></tr>
 <tr><td><a href='https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html'>Southwest Headquarters Tour</a></td></tr>
 <tr><td><a href='https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses'>OpenAI&#x27;s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors</a></td></tr>
+<tr><td><a href='https://www.bbc.co.uk/news/articles/cn4pvyw82exo'>How did Banksy erect a statue in Central London?</a></td></tr>
 <tr><td><a href='https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html'>US–Indian space mission maps extreme subsidence in Mexico City</a></td></tr>
 </table>
 <!-- END:news -->
