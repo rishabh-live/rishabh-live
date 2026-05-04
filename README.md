@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility'>The text mode lie: why modern TUIs are a nightmare for accessibility</a></td></tr>
 <tr><td><a href='https://larsfaye.com/articles/agentic-coding-is-a-trap'>Agentic Coding Is a Trap</a></td></tr>
-<tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
 <tr><td><a href='https://letsbuyspiritair.com/'>Let&#x27;s Buy Spirit Air</a></td></tr>
+<tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
 <tr><td><a href='https://github.com/aattaran/deepclaude'>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper</a></td></tr>
+<tr><td><a href='https://jdgr.net/the-hidden-costs-of-great-abstractions'>The &#x27;Hidden&#x27; Costs of Great Abstractions</a></td></tr>
 </table>
 <!-- END:news -->
 
