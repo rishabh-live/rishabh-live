@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/delivering-low-latency-voice-ai-at-scale/'>How OpenAI delivers low-latency voice AI at scale</a></td></tr>
 <tr><td><a href='https://wwj.dev/posts/i-am-worried-about-bun/'>I am worried about Bun</a></td></tr>
-<tr><td><a href='https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story'>Formatting a 25M-line codebase overnight</a></td></tr>
 <tr><td><a href='https://thienantran.com/talking-to-35-strangers-at-the-gym/'>Talking to strangers at the gym</a></td></tr>
 <tr><td><a href='https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup'>Securing a DoD contractor: Finding a multi-tenant authorization vulnerability</a></td></tr>
+<tr><td><a href='https://www.bbc.co.uk/news/articles/cn0p8yled1do'>GameStop makes $55.5B takeover offer for eBay</a></td></tr>
 </table>
 <!-- END:news -->
 
