@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.dayswithoutgithubincident.com/'>Days Without GitHub Incidents</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/'>US healthcare marketplaces shared citizenship and race data with ad tech giants</a></td></tr>
 <tr><td><a href='https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/'>Removable batteries in smartphones will be mandatory in the EU starting in 2027</a></td></tr>
-<tr><td><a href='https://www.nber.org/papers/w35117'>Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks</a></td></tr>
-<tr><td><a href='https://antirez.com/news/164'>Redis array: short story of a long development process</a></td></tr>
+<tr><td><a href='https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup'>U.S. military data left exposed at an a16z startup for 150 days</a></td></tr>
 <tr><td><a href='https://wwj.dev/posts/i-am-worried-about-bun/'>I am worried about Bun</a></td></tr>
-<tr><td><a href='https://www.githubstatus.com/incidents/72q3n8yxthcy'>GitHub Is Down</a></td></tr>
 </table>
 <!-- END:news -->
 
