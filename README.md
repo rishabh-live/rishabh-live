@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.firgelli.com/pages/humanoid-robot-actuators'>Humanoid Robot Actuators</a></td></tr>
-<tr><td><a href='https://samcollins.blog/underdrawings/'>Using &quot;underdrawings&quot; for accurate text and numbers</a></td></tr>
+<tr><td><a href='https://samcollins.blog/underdrawings/'>Using “underdrawings” for accurate text and numbers</a></td></tr>
 <tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
 <tr><td><a href='https://github.com/aattaran/deepclaude'>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro</a></td></tr>
-<tr><td><a href='https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/'>Discovering hard disk physical geometry through microbenchmarking (2019)</a></td></tr>
+<tr><td><a href='https://www3.nhk.or.jp/nhkworld/en/shows/texico/'>Texico: Learn the principles of programming without even touching a computer</a></td></tr>
 </table>
 <!-- END:news -->
 
