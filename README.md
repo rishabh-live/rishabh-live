@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.dayswithoutgithubincident.com/'>Days Without GitHub Incidents</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/'>US healthcare marketplaces shared citizenship and race data with ad tech giants</a></td></tr>
-<tr><td><a href='https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/'>Removable batteries in smartphones will be mandatory in the EU starting in 2027</a></td></tr>
-<tr><td><a href='https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup'>U.S. military data left exposed at an a16z startup for 150 days</a></td></tr>
+<tr><td><a href='https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup'>Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability</a></td></tr>
+<tr><td><a href='https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to'>Stop big tech from making users behave in ways they don&#x27;t want to</a></td></tr>
 <tr><td><a href='https://wwj.dev/posts/i-am-worried-about-bun/'>I am worried about Bun</a></td></tr>
+<tr><td><a href='https://thienantran.com/talking-to-35-strangers-at-the-gym/'>Talking to strangers at the gym</a></td></tr>
 </table>
 <!-- END:news -->
 
