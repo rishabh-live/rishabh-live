@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.bbc.co.uk/news/articles/cn0p8yled1do'>GameStop makes $55.5B takeover offer for eBay</a></td></tr>
+<tr><td><a href='https://www.siliconimist.com/p/asmls-best-selling-product'>ASML&#x27;s Best Selling Product Isn&#x27;t What You Think It Is</a></td></tr>
 <tr><td><a href='https://notepad-plus-plus.org/news/npp-trademark-infringement/'>Trademark violation: Fake Notepad++ for Mac</a></td></tr>
-<tr><td><a href='https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md'>Ruflo: Multi-agent AI orchestration for Claude Code</a></td></tr>
-<tr><td><a href='https://samcollins.blog/underdrawings/'>Using “underdrawings” for accurate text and numbers</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=SVTPv4sI_Jc'>Debunking the CIA&#x27;s “magic” heartbeat sensor [video]</a></td></tr>
+<tr><td><a href='https://samcollins.blog/underdrawings/'>Using “underdrawings” for accurate text and numbers</a></td></tr>
 </table>
 <!-- END:news -->
 
