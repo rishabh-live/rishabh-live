@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.firgelli.com/pages/humanoid-robot-actuators'>Humanoid Robot Actuators: The Complete Engineering Guide</a></td></tr>
-<tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
 <tr><td><a href='https://samcollins.blog/underdrawings/'>Using &quot;underdrawings&quot; for accurate text and numbers</a></td></tr>
+<tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
 <tr><td><a href='https://github.com/aattaran/deepclaude'>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper</a></td></tr>
-<tr><td><a href='https://jdgr.net/the-hidden-costs-of-great-abstractions'>The &#x27;Hidden&#x27; Costs of Great Abstractions</a></td></tr>
+<tr><td><a href='https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/'>Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)</a></td></tr>
 </table>
 <!-- END:news -->
 
