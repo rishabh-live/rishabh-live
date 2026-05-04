@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.bbc.co.uk/news/articles/cn0p8yled1do'>GameStop makes $55.5B takeover offer for eBay</a></td></tr>
+<tr><td><a href='https://notepad-plus-plus.org/news/npp-trademark-infringement/'>Trademark violation: Fake Notepad++ for Mac</a></td></tr>
+<tr><td><a href='https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md'>Ruflo: Multi-agent AI orchestration for Claude Code</a></td></tr>
 <tr><td><a href='https://samcollins.blog/underdrawings/'>Using “underdrawings” for accurate text and numbers</a></td></tr>
-<tr><td><a href='https://partyon.xyz/@nullagent/116499715071759135'>BYOMesh – New LoRa mesh radio offers 100x the bandwidth</a></td></tr>
-<tr><td><a href='https://github.com/aattaran/deepclaude'>DeepClaude – Claude Code agent loop with DeepSeek V4 Pro</a></td></tr>
-<tr><td><a href='https://www3.nhk.or.jp/nhkworld/en/shows/texico/'>Texico: Learn the principles of programming without even touching a computer</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=SVTPv4sI_Jc'>Debunking the CIA&#x27;s “magic” heartbeat sensor [video]</a></td></tr>
 </table>
 <!-- END:news -->
