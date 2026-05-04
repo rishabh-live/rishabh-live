@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/'>Removable batteries in smartphones will be mandatory in the EU starting in 2027</a></td></tr>
-<tr><td><a href='https://thienantran.com/talking-to-35-strangers-at-the-gym/'>Talking to 35 Strangers at the Gym</a></td></tr>
 <tr><td><a href='https://antirez.com/news/164'>Redis array: short story of a long development process</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com/incidents/72q3n8yxthcy'>GitHub Is Down</a></td></tr>
+<tr><td><a href='https://thienantran.com/talking-to-35-strangers-at-the-gym/'>Talking to 35 Strangers at the Gym</a></td></tr>
 <tr><td><a href='https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0'>PyInfra 3.8.0 Is Out</a></td></tr>
-<tr><td><a href='https://www.bbc.co.uk/news/articles/cn0p8yled1do'>GameStop makes $55.5B takeover offer for eBay</a></td></tr>
 </table>
 <!-- END:news -->
 
