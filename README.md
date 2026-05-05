@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://susam.net/inverse-laws-of-robotics.html'>Three Inverse Laws of AI</a></td></tr>
-<tr><td><a href='https://www.githubstatus.com/incidents/1j40g94rn22j'>Yet Another GitHub Incident</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/'>Accelerating Gemma 4: faster inference with multi-token prediction drafters</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=6JhK8iCQuqI'>EEVblog: The 555 Timer is 55 years old</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/finance-agents'>Agents for financial services and insurance</a></td></tr>
-<tr><td><a href='https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state'>Async Rust never left the MVP state</a></td></tr>
+<tr><td><a href='https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/'>UK: Two millionth electric car registered as market rebounds strongly</a></td></tr>
+<tr><td><a href='https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/'>Computer Use Is 45x More Expensive Than Structured APIs</a></td></tr>
 </table>
 <!-- END:news -->
 
