@@ -25,7 +25,7 @@
 <tr><td><a href='https://susam.net/inverse-laws-of-robotics.html'>Three Inverse Laws of AI</a></td></tr>
 <tr><td><a href='https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/'>Computer Use is 45x more expensive than structured APIs</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=6JhK8iCQuqI'>EEVblog: The 555 Timer is 55 years old [video]</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2604.26752'>GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents</a></td></tr>
+<tr><td><a href='https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/'>Google Chrome silently installs a 4 GB AI model on your device without consent</a></td></tr>
 </table>
 <!-- END:news -->
 
