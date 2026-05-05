@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state'>Async Rust never left the MVP state</a></td></tr>
-<tr><td><a href='https://github.com/angelos-p/llm-from-scratch'>Train Your Own LLM from Scratch</a></td></tr>
 <tr><td><a href='https://sethmlarson.dev/hand-drawn-qr-codes'>Hand Drawn QR Codes</a></td></tr>
-<tr><td><a href='https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/'>Google Chrome silently installs a 4 GB AI model on your device without consent</a></td></tr>
 <tr><td><a href='https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5'>Bun is being ported from Zig to Rust</a></td></tr>
+<tr><td><a href='https://openai.com/index/delivering-low-latency-voice-ai-at-scale/'>How OpenAI delivers low-latency voice AI at scale</a></td></tr>
+<tr><td><a href='https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/'>CVE-2026-31431: Copy Fail vs. rootless containers</a></td></tr>
 </table>
 <!-- END:news -->
 
