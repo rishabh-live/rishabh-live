@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5'>Bun is being ported from Zig to Rust</a></td></tr>
+<tr><td><a href='https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/'>What I&#x27;m Hearing About Cognitive Debt (So Far)</a></td></tr>
 <tr><td><a href='https://openai.com/index/delivering-low-latency-voice-ai-at-scale/'>How OpenAI delivers low-latency voice AI at scale</a></td></tr>
 <tr><td><a href='https://thienantran.com/talking-to-35-strangers-at-the-gym/'>Talking to strangers at the gym</a></td></tr>
 <tr><td><a href='https://addyosmani.com/blog/agent-skills/'>Agent Skills</a></td></tr>
-<tr><td><a href='https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup'>Securing a DoD contractor: Finding a multi-tenant authorization vulnerability</a></td></tr>
 </table>
 <!-- END:news -->
 
