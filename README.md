@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/'>iOS 27 is adding a &#x27;Create a Pass&#x27; button to Apple Wallet</a></td></tr>
+<tr><td><a href='https://tooldirectory.ai/ai-graveyard'>AI Product Graveyard</a></td></tr>
 <tr><td><a href='https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state'>Async Rust never left the MVP state</a></td></tr>
 <tr><td><a href='https://distr.sh/blog/running-docker-in-production/'>Should I Run Plain Docker Compose in Production in 2026?</a></td></tr>
 <tr><td><a href='https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5'>Bun is being ported from Zig to Rust</a></td></tr>
-<tr><td><a href='https://walzr.com/empty-screenings'>Empty Screenings – Finds AMC movie screenings with few or no tickets sold</a></td></tr>
-<tr><td><a href='https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/'>When everyone has AI and the company still learns nothing</a></td></tr>
 </table>
 <!-- END:news -->
 
