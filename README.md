@@ -24,8 +24,8 @@
 <tr><td><a href='https://openai.com/index/delivering-low-latency-voice-ai-at-scale/'>How OpenAI delivers low-latency voice AI at scale</a></td></tr>
 <tr><td><a href='https://wwj.dev/posts/i-am-worried-about-bun/'>I am worried about Bun</a></td></tr>
 <tr><td><a href='https://thienantran.com/talking-to-35-strangers-at-the-gym/'>Talking to strangers at the gym</a></td></tr>
-<tr><td><a href='https://www.pulitzer.org/prize-winners-by-year/2026'>Pulitzer Prize Winners 2026</a></td></tr>
-<tr><td><a href='http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html'>Testing macOS on the Apple Network Server 2.0 ROMs</a></td></tr>
+<tr><td><a href='https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup'>Securing a DoD contractor: Finding a multi-tenant authorization vulnerability</a></td></tr>
+<tr><td><a href='https://addyosmani.com/blog/agent-skills/'>Agent Skills</a></td></tr>
 </table>
 <!-- END:news -->
 
