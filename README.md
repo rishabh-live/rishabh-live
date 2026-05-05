@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/'>The best is over: The fun has been optimized out of the Internet</a></td></tr>
-<tr><td><a href='https://idiallo.com/blog/ai-didnt-delete-your-database-you-did'>AI didn&#x27;t delete your database, you did</a></td></tr>
-<tr><td><a href='https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/'>iOS 27 is adding a &#x27;Create a Pass&#x27; button to Apple Wallet</a></td></tr>
+<tr><td><a href='https://susam.net/inverse-laws-of-robotics.html'>Three Inverse Laws of AI</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com/incidents/1j40g94rn22j'>Yet Another GitHub Incident</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=6JhK8iCQuqI'>EEVblog: The 555 Timer is 55 years old</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/finance-agents'>Agents for financial services and insurance</a></td></tr>
 <tr><td><a href='https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state'>Async Rust never left the MVP state</a></td></tr>
-<tr><td><a href='https://distr.sh/blog/running-docker-in-production/'>Should I Run Plain Docker Compose in Production in 2026?</a></td></tr>
 </table>
 <!-- END:news -->
 
