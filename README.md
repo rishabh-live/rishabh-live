@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298'>IBM didn&#x27;t want Microsoft to use the Tab key to move between dialog fields</a></td></tr>
-<tr><td><a href='https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/'>Clarification on the Notepad++ Trademark Issue</a></td></tr>
-<tr><td><a href='https://susam.net/inverse-laws-of-robotics.html'>Three Inverse Laws of AI</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/'>Accelerating Gemma 4: faster inference with multi-token prediction drafters</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=6JhK8iCQuqI'>EEVblog: The 555 Timer is 55 years old</a></td></tr>
+<tr><td><a href='https://susam.net/inverse-laws-of-robotics.html'>Three Inverse Laws of AI</a></td></tr>
+<tr><td><a href='https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/'>Computer Use is 45x more expensive than structured APIs</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=6JhK8iCQuqI'>EEVblog: The 555 Timer is 55 years old [video]</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2604.26752'>GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents</a></td></tr>
 </table>
 <!-- END:news -->
 
