@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/angelos-p/llm-from-scratch'>Train Your Own LLM from Scratch</a></td></tr>
-<tr><td><a href='https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5'>Bun is being ported from Zig to Rust</a></td></tr>
-<tr><td><a href='https://walzr.com/empty-screenings'>About 10% of AMC movie showings sell zero tickets. This site finds them</a></td></tr>
-<tr><td><a href='https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/'>CVE-2026-31431: Copy Fail vs. rootless containers</a></td></tr>
+<tr><td><a href='https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state'>Async Rust never left the MVP state</a></td></tr>
 <tr><td><a href='https://sethmlarson.dev/hand-drawn-qr-codes'>Hand Drawn QR Codes</a></td></tr>
+<tr><td><a href='https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5'>Bun is being ported from Zig to Rust</a></td></tr>
+<tr><td><a href='https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html'>Lessons for Agentic Coding: What should we do when code is cheap?</a></td></tr>
 </table>
 <!-- END:news -->
 
