@@ -24,8 +24,8 @@
 <tr><td><a href='https://dnssec-analyzer.verisignlabs.com/nic.de'>.de TLD offline due to DNSSEC?</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/'>Accelerating Gemma 4: faster inference with multi-token prediction drafters</a></td></tr>
 <tr><td><a href='https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/'>Computer Use is 45x more expensive than structured APIs</a></td></tr>
-<tr><td><a href='https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026'>Write some software, give it away for free</a></td></tr>
 <tr><td><a href='https://susam.net/inverse-laws-of-robotics.html'>Three Inverse Laws of AI</a></td></tr>
+<tr><td><a href='https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026'>Write some software, give it away for free</a></td></tr>
 </table>
 <!-- END:news -->
 
