@@ -24,8 +24,8 @@
 <tr><td><a href='https://blog.cloudflare.com/agents-stripe-projects/'>Agents can now create Cloudflare accounts, buy domains, and deploy</a></td></tr>
 <tr><td><a href='https://us.starlabs.systems/pages/starfighter'>StarFighter 16-Inch</a></td></tr>
 <tr><td><a href='https://www.aaedmusa.com/projects/cara2'>CARA 2.0 – “I Built a Better Robot Dog”</a></td></tr>
+<tr><td><a href='https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors'>Batteries Not Included, or Required, for These Smart Home Sensors</a></td></tr>
 <tr><td><a href='https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38'>DNSSEC disruption affecting .de domains – Resolved</a></td></tr>
-<tr><td><a href='https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63'>Telus Uses AI to Alter Call-Agent Accents</a></td></tr>
 </table>
 <!-- END:news -->
 
