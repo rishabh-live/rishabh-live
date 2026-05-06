@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.cloudflare.com/agents-stripe-projects/'>Agents can now create Cloudflare accounts, buy domains, and deploy</a></td></tr>
 <tr><td><a href='https://us.starlabs.systems/pages/starfighter'>StarFighter 16-Inch</a></td></tr>
 <tr><td><a href='https://dnssec-analyzer.verisignlabs.com/nic.de'>.de TLD offline due to DNSSEC?</a></td></tr>
 <tr><td><a href='https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63'>Telus Uses AI to Alter Call-Agent Accents</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/'>Accelerating Gemma 4: faster inference with multi-token prediction drafters</a></td></tr>
-<tr><td><a href='https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026'>Write some software, give it away for free</a></td></tr>
 </table>
 <!-- END:news -->
 
