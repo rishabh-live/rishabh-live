@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.cloudflare.com/agents-stripe-projects/'>Agents can now create Cloudflare accounts, buy domains, and deploy</a></td></tr>
 <tr><td><a href='https://us.starlabs.systems/pages/starfighter'>StarFighter 16-Inch</a></td></tr>
-<tr><td><a href='https://dnssec-analyzer.verisignlabs.com/nic.de'>.de TLD offline due to DNSSEC?</a></td></tr>
-<tr><td><a href='https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now'>Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/'>Accelerating Gemma 4: faster inference with multi-token prediction drafters</a></td></tr>
+<tr><td><a href='https://www.aaedmusa.com/projects/cara2'>CARA 2.0 – “I Built a Better Robot Dog”</a></td></tr>
+<tr><td><a href='https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38'>DNSSEC disruption affecting .de domains – Resolved</a></td></tr>
+<tr><td><a href='https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63'>Telus Uses AI to Alter Call-Agent Accents</a></td></tr>
 </table>
 <!-- END:news -->
 
