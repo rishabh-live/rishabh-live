@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
-<tr><td><a href='https://tilde.run/'>Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem</a></td></tr>
-<tr><td><a href='https://www.thetypicalset.com/blog/thoughts-on-coding-agents'>The bottleneck was never the code</a></td></tr>
 <tr><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing Productive in the Workplace</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/agents-stripe-projects/'>Agents can now create Cloudflare accounts, buy domains, and deploy</a></td></tr>
+<tr><td><a href='https://www.thetypicalset.com/blog/thoughts-on-coding-agents'>The bottleneck was never the code</a></td></tr>
+<tr><td><a href='https://tilde.run/'>Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem</a></td></tr>
+<tr><td><a href='http://halupedia.com/'>Show HN: Hallucinopedia</a></td></tr>
 </table>
 <!-- END:news -->
 
