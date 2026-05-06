@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://red-squares.cian.lol/'>Show HN: Red Squares – GitHub outages as contributions</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/'>Vibe coding and agentic engineering are getting closer than I&#x27;d like</a></td></tr>
+<tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
 <tr><td><a href='https://www.thetypicalset.com/blog/thoughts-on-coding-agents'>The bottleneck was never the code</a></td></tr>
-<tr><td><a href='https://catstret.ch/202605/srss-hipster202510/'>Setting up a Sun Ray server on OpenIndiana Hipster 2025.10</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/agents-stripe-projects/'>Agents can now create Cloudflare accounts, buy domains, and deploy</a></td></tr>
-<tr><td><a href='https://us.starlabs.systems/pages/starfighter'>StarFighter 16-Inch</a></td></tr>
 </table>
 <!-- END:news -->
 
