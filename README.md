@@ -24,8 +24,8 @@
 <tr><td><a href='https://red-squares.cian.lol/'>Show HN: Red Squares – GitHub outages as contributions</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/agents-stripe-projects/'>Agents can now create Cloudflare accounts, buy domains, and deploy</a></td></tr>
 <tr><td><a href='https://us.starlabs.systems/pages/starfighter'>StarFighter 16-Inch</a></td></tr>
+<tr><td><a href='https://www.thetypicalset.com/blog/thoughts-on-coding-agents'>The bottleneck was never the code</a></td></tr>
 <tr><td><a href='https://www.aaedmusa.com/projects/cara2'>CARA 2.0 – “I Built a Better Robot Dog”</a></td></tr>
-<tr><td><a href='https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors'>Batteries Not Included, or Required, for These Smart Home Sensors</a></td></tr>
 </table>
 <!-- END:news -->
 
