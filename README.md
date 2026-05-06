@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
 <tr><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing productive in the workplace</a></td></tr>
-<tr><td><a href='https://blog.val.town/better-auth'>From Supabase to Clerk to Better Auth</a></td></tr>
 <tr><td><a href='https://www.cnn.com/2026/05/06/us/ted-turner-death'>Ted Turner has died</a></td></tr>
-<tr><td><a href='https://elonlit.com/scrivings/a-theory-of-deep-learning/'>A Theory of Deep Learning</a></td></tr>
+<tr><td><a href='https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/'>Google Cloud fraud defense, the next evolution of reCAPTCHA</a></td></tr>
+<tr><td><a href='https://blog.val.town/better-auth'>From Supabase to Clerk to Better Auth</a></td></tr>
 </table>
 <!-- END:news -->
 
