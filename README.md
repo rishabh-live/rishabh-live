@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
 <tr><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing Productive in the Workplace</a></td></tr>
+<tr><td><a href='https://blog.val.town/better-auth'>From Supabase to Clerk to Better Auth</a></td></tr>
 <tr><td><a href='https://www.thetypicalset.com/blog/thoughts-on-coding-agents'>The bottleneck was never the code</a></td></tr>
-<tr><td><a href='https://tilde.run/'>Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem</a></td></tr>
-<tr><td><a href='http://halupedia.com/'>Show HN: Hallucinopedia</a></td></tr>
+<tr><td><a href='https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/'>BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets</a></td></tr>
 </table>
 <!-- END:news -->
 
