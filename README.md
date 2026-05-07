@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
 <tr><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing productive in the workplace</a></td></tr>
-<tr><td><a href='https://aniket.foo/posts/20260505-netboot/'>Diskless Linux boot using ZFS, iSCSI and PXE</a></td></tr>
 <tr><td><a href='https://permacomputing.net/principles/'>Permacomputing Principles</a></td></tr>
+<tr><td><a href='https://aniket.foo/posts/20260505-netboot/'>Diskless Linux boot using ZFS, iSCSI and PXE</a></td></tr>
 <tr><td><a href='https://sqlite.org/locrsf.html'>SQLite Is a Library of Congress Recommended Storage Format</a></td></tr>
 </table>
 <!-- END:news -->
