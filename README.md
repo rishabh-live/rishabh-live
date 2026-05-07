@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.not-ship.com/burning-man-moop/'>The map that keeps Burning Man honest</a></td></tr>
 <tr><td><a href='https://deepmind.google/blog/alphaevolve-impact/'>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</a></td></tr>
 <tr><td><a href='https://www.nature.com/articles/d41586-026-00796-2'>Child marriages plunged when girls stayed in school in Nigeria</a></td></tr>
-<tr><td><a href='https://ratex.lites.dev/'>RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust</a></td></tr>
 <tr><td><a href='https://predr.ag/blog/the-self-cancelling-subscription/'>The Self-Cancelling Subscription</a></td></tr>
+<tr><td><a href='https://ratex.lites.dev/'>RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
