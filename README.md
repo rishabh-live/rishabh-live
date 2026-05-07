@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
-<tr><td><a href='https://unsloth.ai/blog/nvidia-collab'>How Unsloth and Nvidia made LLM training 25% faster on consumer GPUs</a></td></tr>
 <tr><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing productive in the workplace</a></td></tr>
 <tr><td><a href='https://permacomputing.net/principles/'>Permacomputing Principles</a></td></tr>
 <tr><td><a href='https://sqlite.org/locrsf.html'>SQLite Is a Library of Congress Recommended Storage Format</a></td></tr>
+<tr><td><a href='https://CringeOut.com'>Show HN: Social Network for Corporate Cringe</a></td></tr>
 </table>
 <!-- END:news -->
 
