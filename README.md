@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
-<tr><td><a href='https://www.vatican.va/latin/latin_index.html'>The Vatican&#x27;s Website in Latin</a></td></tr>
 <tr><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing productive in the workplace</a></td></tr>
-<tr><td><a href='https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/'>The Old Guard: Confronting America&#x27;s Gerontocratic Crisis</a></td></tr>
+<tr><td><a href='https://permacomputing.net/principles/'>Permacomputing Principles</a></td></tr>
+<tr><td><a href='https://www.vatican.va/latin/latin_index.html'>The Vatican&#x27;s Website in Latin</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/'>Vibe coding and agentic engineering are getting closer than I&#x27;d like</a></td></tr>
 </table>
 <!-- END:news -->
