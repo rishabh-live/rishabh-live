@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas (Instructure) LMS Down in Ongoing Ransomware Attack</a></td></tr>
 <tr><td><a href='https://www.not-ship.com/burning-man-moop/'>The Burning Man MOOP Map</a></td></tr>
 <tr><td><a href='https://bsuh.bearblog.dev/agents-need-control-flow/'>Agents need control flow, not more prompts</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/research/natural-language-autoencoders'>Natural Language Autoencoders: Turning Claude&#x27;s Thoughts into Text</a></td></tr>
+<tr><td><a href='https://xeiaso.net/blog/2026/abstain-from-install/'>Maybe you shouldn&#x27;t install new software for a bit</a></td></tr>
 </table>
 <!-- END:news -->
 
