@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.not-ship.com/burning-man-moop/'>The map that keeps Burning Man honest</a></td></tr>
+<tr><td><a href='https://deepmind.google/blog/alphaevolve-impact/'>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</a></td></tr>
+<tr><td><a href='https://www.nature.com/articles/d41586-026-00796-2'>Child marriages plunged when girls stayed in school in Nigeria</a></td></tr>
 <tr><td><a href='https://ratex.lites.dev/'>RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust</a></td></tr>
-<tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
-<tr><td><a href='https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426'>Indian matchbox labels as a visual archive</a></td></tr>
-<tr><td><a href='https://www.ticalc.org/programming/columns/83plus-bas/cherny/'>Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)</a></td></tr>
+<tr><td><a href='https://predr.ag/blog/the-self-cancelling-subscription/'>The Self-Cancelling Subscription</a></td></tr>
 </table>
 <!-- END:news -->
 
