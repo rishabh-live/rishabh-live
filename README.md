@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.not-ship.com/burning-man-moop/'>The map that keeps Burning Man honest</a></td></tr>
-<tr><td><a href='https://deepmind.google/blog/alphaevolve-impact/'>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</a></td></tr>
 <tr><td><a href='https://bsuh.bearblog.dev/agents-need-control-flow/'>Agents need control flow, not more prompts</a></td></tr>
-<tr><td><a href='https://www.nature.com/articles/d41586-026-00796-2'>Child marriages plunged when girls stayed in school in Nigeria</a></td></tr>
+<tr><td><a href='https://deepmind.google/blog/alphaevolve-impact/'>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</a></td></tr>
 <tr><td><a href='https://github.com/antirez/ds4'>DeepSeek 4 Flash local inference engine for Metal</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/research/natural-language-autoencoders'>Natural Language Autoencoders: Turning Claude&#x27;s Thoughts into Text</a></td></tr>
 </table>
 <!-- END:news -->
 
