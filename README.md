@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license'>Valve releases Steam Controller CAD files under Creative Commons license</a></td></tr>
-<tr><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing productive in the workplace</a></td></tr>
+<tr><td><a href='https://ahk.cardor.dev'>Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)</a></td></tr>
+<tr><td><a href='https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426'>Indian matchbox labels as a visual archive</a></td></tr>
 <tr><td><a href='https://www.ticalc.org/programming/columns/83plus-bas/cherny/'>Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)</a></td></tr>
-<tr><td><a href='https://sqlite.org/locrsf.html'>SQLite Is a Library of Congress Recommended Storage Format</a></td></tr>
-<tr><td><a href='https://permacomputing.net/principles/'>Permacomputing Principles</a></td></tr>
+<tr><td><a href='https://nooneshappy.com/article/appearing-productive-in-the-workplace/'>Appearing productive in the workplace</a></td></tr>
 </table>
 <!-- END:news -->
 
