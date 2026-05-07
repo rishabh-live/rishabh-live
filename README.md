@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.openwall.com/lists/oss-security/2026/05/07/8'>Dirtyfrag: Universal Linux LPE</a></td></tr>
+<tr><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas (Instructure) LMS Down in Ongoing Ransomware Attack</a></td></tr>
 <tr><td><a href='https://www.not-ship.com/burning-man-moop/'>The Burning Man MOOP Map</a></td></tr>
 <tr><td><a href='https://bsuh.bearblog.dev/agents-need-control-flow/'>Agents need control flow, not more prompts</a></td></tr>
-<tr><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas (Instructure) LMS Down in Ongoing Ransomware Attack</a></td></tr>
-<tr><td><a href='https://deepmind.google/blog/alphaevolve-impact/'>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/research/natural-language-autoencoders'>Natural Language Autoencoders: Turning Claude&#x27;s Thoughts into Text</a></td></tr>
 </table>
 <!-- END:news -->
 
