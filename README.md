@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas (Instructure) LMS Down in Ongoing Ransomware Attack</a></td></tr>
-<tr><td><a href='https://www.openwall.com/lists/oss-security/2026/05/07/8'>Dirtyfrag: Universal Linux LPE</a></td></tr>
+<tr><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas is down as ShinyHunters threatens to leak schools’ data</a></td></tr>
 <tr><td><a href='https://xeiaso.net/blog/2026/abstain-from-install/'>Maybe you shouldn&#x27;t install new software for a bit</a></td></tr>
-<tr><td><a href='https://www.not-ship.com/burning-man-moop/'>The Burning Man MOOP Map</a></td></tr>
-<tr><td><a href='https://bsuh.bearblog.dev/agents-need-control-flow/'>Agents need control flow, not more prompts</a></td></tr>
+<tr><td><a href='https://www.openwall.com/lists/oss-security/2026/05/07/8'>Dirtyfrag: Universal Linux LPE</a></td></tr>
+<tr><td><a href='https://storica.club/blog/pinocchio-in-italian/'>Pinocchio is weirder than you remembered</a></td></tr>
+<tr><td><a href='https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/'>Cloudflare to cut about 20% workforce</a></td></tr>
 </table>
 <!-- END:news -->
 
