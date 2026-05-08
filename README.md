@@ -25,7 +25,7 @@
 <tr><td><a href='https://xeiaso.net/blog/2026/abstain-from-install/'>Maybe you shouldn&#x27;t install new software for a bit</a></td></tr>
 <tr><td><a href='https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/'>Cloudflare to cut about 20% workforce</a></td></tr>
 <tr><td><a href='https://www.openwall.com/lists/oss-security/2026/05/07/8'>Dirtyfrag: Universal Linux LPE</a></td></tr>
-<tr><td><a href='https://storica.club/blog/pinocchio-in-italian/'>Pinocchio is weirder than you remembered</a></td></tr>
+<tr><td><a href='https://mojolang.org/'>Mojo 1.0 Beta</a></td></tr>
 </table>
 <!-- END:news -->
 
