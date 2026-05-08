@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://btxx.org/posts/memory/'>Serving a Website on a Raspberry Pi Zero Running in RAM</a></td></tr>
 <tr><td><a href='https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/'>Google Cloud Fraud Defence is just WEI repackaged</a></td></tr>
+<tr><td><a href='https://btxx.org/posts/memory/'>Serving a Website on a Raspberry Pi Zero Running in RAM</a></td></tr>
+<tr><td><a href='https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games'>Cartoon Network Flash Games</a></td></tr>
 <tr><td><a href='https://meshtastic.org/docs/introduction/'>An Introduction to Meshtastic</a></td></tr>
 <tr><td><a href='https://jsgroth.dev/blog/posts/pc-engine-cpu/'>PC Engine CPU</a></td></tr>
-<tr><td><a href='https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa'>Poland is now among the 20 largest economies</a></td></tr>
 </table>
 <!-- END:news -->
 
