@@ -25,7 +25,7 @@
 <tr><td><a href='https://meshtastic.org/docs/introduction/'>An Introduction to Meshtastic</a></td></tr>
 <tr><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas is down as ShinyHunters threatens to leak schools’ data</a></td></tr>
 <tr><td><a href='https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/'>Cloudflare to cut about 20% workforce</a></td></tr>
-<tr><td><a href='https://xeiaso.net/blog/2026/abstain-from-install/'>Maybe you shouldn&#x27;t install new software for a bit</a></td></tr>
+<tr><td><a href='https://geojson.org/'>GeoJSON</a></td></tr>
 </table>
 <!-- END:news -->
 
