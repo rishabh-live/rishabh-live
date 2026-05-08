@@ -24,8 +24,8 @@
 <tr><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td></tr>
 <tr><td><a href='https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures'>AI is breaking two vulnerability cultures</a></td></tr>
 <tr><td><a href='https://ze3tar.github.io/post-zcrx.html'>You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)</a></td></tr>
-<tr><td><a href='https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/'>Non-determinism is an issue with patching CVEs</a></td></tr>
 <tr><td><a href='https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games'>Cartoon Network Flash Games</a></td></tr>
+<tr><td><a href='https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/'>Non-determinism is an issue with patching CVEs</a></td></tr>
 </table>
 <!-- END:news -->
 
