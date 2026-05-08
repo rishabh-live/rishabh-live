@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap'>What we lost the last time code got cheap</a></td></tr>
 <tr><td><a href='https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/'>Google Cloud Fraud Defence is just WEI repackaged</a></td></tr>
 <tr><td><a href='https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures'>AI Is Breaking Two Vulnerability Cultures</a></td></tr>
 <tr><td><a href='https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games'>Cartoon Network Flash Games</a></td></tr>
 <tr><td><a href='https://btxx.org/posts/memory/'>Serving a website on a Raspberry Pi Zero running in RAM</a></td></tr>
-<tr><td><a href='https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap'>What We Lost the Last Time Code Got Cheap</a></td></tr>
 </table>
 <!-- END:news -->
 
