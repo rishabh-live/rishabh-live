@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa'>Poland is now among the 20 largest economies. How it happened</a></td></tr>
 <tr><td><a href='https://meshtastic.org/docs/introduction/'>An Introduction to Meshtastic</a></td></tr>
-<tr><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas is down as ShinyHunters threatens to leak schools’ data</a></td></tr>
-<tr><td><a href='https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/'>Cloudflare to cut about 20% workforce</a></td></tr>
-<tr><td><a href='https://geojson.org/'>GeoJSON</a></td></tr>
+<tr><td><a href='https://jsgroth.dev/blog/posts/pc-engine-cpu/'>PC Engine CPU</a></td></tr>
+<tr><td><a href='https://garrido.io/notes/podman-rootless-containers-copy-fail/'>Podman rootless containers and the Copy Fail exploit</a></td></tr>
+<tr><td><a href='https://sinceyouarrived.world/taken'>A web page that shows you everything the browser told it without asking</a></td></tr>
 </table>
 <!-- END:news -->
 
