@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.theverge.com/tech/926458/canvas-shinyhunters-breach'>Canvas is down as ShinyHunters threatens to leak schools’ data</a></td></tr>
-<tr><td><a href='https://xeiaso.net/blog/2026/abstain-from-install/'>Maybe you shouldn&#x27;t install new software for a bit</a></td></tr>
 <tr><td><a href='https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/'>Cloudflare to cut about 20% workforce</a></td></tr>
+<tr><td><a href='https://xeiaso.net/blog/2026/abstain-from-install/'>Maybe you shouldn&#x27;t install new software for a bit</a></td></tr>
 <tr><td><a href='https://www.openwall.com/lists/oss-security/2026/05/07/8'>Dirtyfrag: Universal Linux LPE</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48037336'>Rumors of my death are slightly exaggerated</a></td></tr>
+<tr><td><a href='https://clojurescript.org/news/2026-05-07-release'>ClojureScript Gets Async&#x2F;Await</a></td></tr>
 </table>
 <!-- END:news -->
 
