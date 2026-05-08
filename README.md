@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/'>Google Cloud Fraud Defence is just WEI repackaged</a></td></tr>
+<tr><td><a href='https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures'>AI Is Breaking Two Vulnerability Cultures</a></td></tr>
 <tr><td><a href='https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games'>Cartoon Network Flash Games</a></td></tr>
-<tr><td><a href='https://btxx.org/posts/memory/'>Serving a Website on a Raspberry Pi Zero Running in RAM</a></td></tr>
-<tr><td><a href='https://meshtastic.org/docs/introduction/'>An Introduction to Meshtastic</a></td></tr>
-<tr><td><a href='https://sinceyouarrived.world/taken'>A web page that shows you everything the browser told it without asking</a></td></tr>
+<tr><td><a href='https://btxx.org/posts/memory/'>Serving a website on a Raspberry Pi Zero running in RAM</a></td></tr>
+<tr><td><a href='https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap'>What We Lost the Last Time Code Got Cheap</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
