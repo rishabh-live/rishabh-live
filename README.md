@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/'>Google Cloud Fraud Defence is just WEI repackaged</a></td></tr>
-<tr><td><a href='https://btxx.org/posts/memory/'>Serving a Website on a Raspberry Pi Zero Running in RAM</a></td></tr>
 <tr><td><a href='https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games'>Cartoon Network Flash Games</a></td></tr>
+<tr><td><a href='https://btxx.org/posts/memory/'>Serving a Website on a Raspberry Pi Zero Running in RAM</a></td></tr>
 <tr><td><a href='https://meshtastic.org/docs/introduction/'>An Introduction to Meshtastic</a></td></tr>
-<tr><td><a href='https://jsgroth.dev/blog/posts/pc-engine-cpu/'>PC Engine CPU</a></td></tr>
+<tr><td><a href='https://sinceyouarrived.world/taken'>A web page that shows you everything the browser told it without asking</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
