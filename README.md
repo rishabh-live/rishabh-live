@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://xunroll.com/thread/2053047748191232310'>Bun ported to Rust in 6 days</a></td></tr>
 <tr><td><a href='https://internetarchive.ch/'>Internet Archive Switzerland</a></td></tr>
 <tr><td><a href='https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/'>CPanel&#x27;s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers</a></td></tr>
 <tr><td><a href='https://susam.net/no-query-strings.html'>I Will Not Add Query Strings to Your URLs</a></td></tr>
 <tr><td><a href='https://github.com/navid-m/flightsim'>Show HN: I wrote a flight simulator in my own programming language</a></td></tr>
-<tr><td><a href='https://zed.dev/theme-builder'>Zed Editor Theme-Builder</a></td></tr>
 </table>
 <!-- END:news -->
 
