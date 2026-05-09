@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://internetarchive.ch/'>Internet Archive Switzerland</a></td></tr>
 <tr><td><a href='https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/'>CPanel&#x27;s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers</a></td></tr>
-<tr><td><a href='https://stonetools.ghost.io/pipedream-archimedes/'>PipeDream on the Acorn Archimedes</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2604.15597'>LLMs Corrupt Your Documents When You Delegate</a></td></tr>
-<tr><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td></tr>
+<tr><td><a href='https://susam.net/no-query-strings.html'>I Will Not Add Query Strings to Your URLs</a></td></tr>
+<tr><td><a href='https://github.com/navid-m/flightsim'>Show HN: I wrote a flight simulator in my own programming language</a></td></tr>
+<tr><td><a href='https://zed.dev/theme-builder'>Zed Editor Theme-Builder</a></td></tr>
 </table>
 <!-- END:news -->
 
