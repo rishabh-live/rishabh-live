@@ -24,7 +24,7 @@
 <tr><td><a href='https://twitter.com/jarredsumner/status/2053047748191232310'>Bun&#x27;s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</a></td></tr>
 <tr><td><a href='https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/'>Internet Archive Switzerland</a></td></tr>
 <tr><td><a href='https://chrismorgan.info/no-query-strings'>I’ve banned query strings</a></td></tr>
-<tr><td><a href='https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html'>Making your own programming language is easier than you think (but also harder)</a></td></tr>
+<tr><td><a href='https://github.com/nooga/let-go'>Show HN: I made a Clojure-like language in Go, boots in 7ms</a></td></tr>
 <tr><td><a href='https://zed.dev/theme-builder'>Zed Editor Theme-Builder</a></td></tr>
 </table>
 <!-- END:news -->
