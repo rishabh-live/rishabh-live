@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/'>A recent experience with ChatGPT 5.5 Pro</a></td></tr>
-<tr><td><a href='https://twitter.com/trq212/status/2052809885763747935'>Using Claude Code: The unreasonable effectiveness of HTML</a></td></tr>
 <tr><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td></tr>
-<tr><td><a href='https://moq.dev/blog/webrtc-is-the-problem/'>OpenAI&#x27;s WebRTC problem</a></td></tr>
-<tr><td><a href='https://martinfowler.com/bliki/MythicalManMonth.html'>Mythical Man Month</a></td></tr>
+<tr><td><a href='https://twitter.com/trq212/status/2052809885763747935'>Using Claude Code: The unreasonable effectiveness of HTML</a></td></tr>
+<tr><td><a href='https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md'>All my clients wanted a carousel, now it&#x27;s an AI chatbot</a></td></tr>
+<tr><td><a href='https://moq.dev/blog/webrtc-is-the-problem/'>OpenAI’s WebRTC problem</a></td></tr>
 </table>
 <!-- END:news -->
 
