@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://twitter.com/jarredsumner/status/2053047748191232310'>Bun&#x27;s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</a></td></tr>
 <tr><td><a href='https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/'>Internet Archive Switzerland</a></td></tr>
-<tr><td><a href='https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/'>CPanel&#x27;s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers</a></td></tr>
-<tr><td><a href='https://chrismorgan.info/no-query-strings'>I’ve banned query strings</a></td></tr>
 <tr><td><a href='https://zed.dev/theme-builder'>Zed Editor Theme-Builder</a></td></tr>
+<tr><td><a href='https://chrismorgan.info/no-query-strings'>I’ve banned query strings</a></td></tr>
+<tr><td><a href='https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/'>CPanel&#x27;s Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers</a></td></tr>
 </table>
 <!-- END:news -->
 
