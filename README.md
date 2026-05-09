@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td></tr>
-<tr><td><a href='https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html'>AWS data center outage hits trading on Fanduel, Coinbase</a></td></tr>
-<tr><td><a href='https://ze3tar.github.io/post-zcrx.html'>You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)</a></td></tr>
+<tr><td><a href='https://moq.dev/blog/webrtc-is-the-problem/'>OpenAI&#x27;s WebRTC problem</a></td></tr>
 <tr><td><a href='https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures'>AI is breaking two vulnerability cultures</a></td></tr>
-<tr><td><a href='https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games'>Cartoon Network Flash Games</a></td></tr>
+<tr><td><a href='https://ze3tar.github.io/post-zcrx.html'>You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)</a></td></tr>
+<tr><td><a href='https://www.wiisfi.com/'>Wi is Fi: Understanding Wi-Fi 4&#x2F;5&#x2F;6&#x2F;6E&#x2F;7&#x2F;8 (802.11 n&#x2F;AC&#x2F;ax&#x2F;be&#x2F;bn)</a></td></tr>
 </table>
 <!-- END:news -->
 
