@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://internetarchive.ch/'>Internet Archive Switzerland</a></td></tr>
-<tr><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td></tr>
-<tr><td><a href='https://twitter.com/trq212/status/2052809885763747935'>Using Claude Code: The unreasonable effectiveness of HTML</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2604.15597'>LLMs Corrupt Your Documents When You Delegate</a></td></tr>
 <tr><td><a href='https://stonetools.ghost.io/pipedream-archimedes/'>PipeDream on the Acorn Archimedes</a></td></tr>
+<tr><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2604.15597'>LLMs Corrupt Your Documents When You Delegate</a></td></tr>
+<tr><td><a href='https://twitter.com/trq212/status/2052809885763747935'>Using Claude Code: The unreasonable effectiveness of HTML</a></td></tr>
 </table>
 <!-- END:news -->
 
