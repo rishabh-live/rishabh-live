@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://internetarchive.ch/'>Internet Archive Switzerland</a></td></tr>
 <tr><td><a href='https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/'>A recent experience with ChatGPT 5.5 Pro</a></td></tr>
 <tr><td><a href='https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users'>Google broke reCAPTCHA for de-googled Android users</a></td></tr>
 <tr><td><a href='https://twitter.com/trq212/status/2052809885763747935'>Using Claude Code: The unreasonable effectiveness of HTML</a></td></tr>
-<tr><td><a href='https://moq.dev/blog/webrtc-is-the-problem/'>OpenAI’s WebRTC problem</a></td></tr>
-<tr><td><a href='https://flow.byu.edu/posts/julia-c++'>Making Julia as Fast as C++ (2019)</a></td></tr>
+<tr><td><a href='https://dillo-browser.org/lab/web-fork/'>Forking the Web</a></td></tr>
 </table>
 <!-- END:news -->
 
