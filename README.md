@@ -25,7 +25,7 @@
 <tr><td><a href='https://unix.foo/posts/local-ai-needs-to-be-norm/'>Local AI needs to be the norm</a></td></tr>
 <tr><td><a href='https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html'>Incident Report: CVE-2024-YIKES</a></td></tr>
 <tr><td><a href='https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep'>Why modern parents feel more sleep deprived than our ancestors did</a></td></tr>
-<tr><td><a href='https://tracesofhumanity.org/hello-world/'>Traces Of Humanity</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48085993'>Ask HN: What are you working on? (May 2026)</a></td></tr>
 </table>
 <!-- END:news -->
 
