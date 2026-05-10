@@ -24,8 +24,8 @@
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td></tr>
 <tr><td><a href='https://unix.foo/posts/local-ai-needs-to-be-norm/'>Local AI needs to be the norm</a></td></tr>
 <tr><td><a href='https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html'>Incident Report: CVE-2024-YIKES</a></td></tr>
-<tr><td><a href='https://tracesofhumanity.org/hello-world/'>Traces Of Humanity</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48085993'>Ask HN: What are you working on? (May 2026)</a></td></tr>
+<tr><td><a href='https://tracesofhumanity.org/hello-world/'>Traces Of Humanity</a></td></tr>
 </table>
 <!-- END:news -->
 
