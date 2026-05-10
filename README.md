@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td></tr>
-<tr><td><a href='https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html'>Incident CVE-2024-Yikes</a></td></tr>
+<tr><td><a href='https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html'>Incident Report: CVE-2024-YIKES</a></td></tr>
 <tr><td><a href='https://tracesofhumanity.org/hello-world/'>Tracesofhumanity.org by Joanna Rutkowska</a></td></tr>
-<tr><td><a href='https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a'>Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem</a></td></tr>
-<tr><td><a href='http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html'>I returned to AWS, and was reminded why I left</a></td></tr>
+<tr><td><a href='https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a'>Walking slower? Your ears, not your knees, might be the problem</a></td></tr>
+<tr><td><a href='http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html'>I returned to AWS and was reminded why I left</a></td></tr>
 </table>
 <!-- END:news -->
 
