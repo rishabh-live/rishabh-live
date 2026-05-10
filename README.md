@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://e360.yale.edu/features/amoc-climate-change'>Scientists warn Atlantic current at risk of shutting down</a></td></tr>
-<tr><td><a href='https://brennan.io/2026/05/09/pinball-and-escrow/'>Space Cadet Pinball on Linux</a></td></tr>
 <tr><td><a href='http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html'>I returned to AWS, and was reminded why I left</a></td></tr>
+<tr><td><a href='https://brennan.io/2026/05/09/pinball-and-escrow/'>Space Cadet Pinball on Linux</a></td></tr>
 <tr><td><a href='https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do'>What&#x27;s a Mathematician to Do?</a></td></tr>
-<tr><td><a href='https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer'>Louis Rossmann tells 3D printer maker Bambu Lab to &#x27;Go (Bleep) yourself&#x27;</a></td></tr>
+<tr><td><a href='https://twitter.com/jarredsumner/status/2053047748191232310'>Bun&#x27;s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</a></td></tr>
+<tr><td><a href='https://somethingorotherwhatever.com/shunting-yard-animation/'>Shunting-Yard Animation</a></td></tr>
 </table>
 <!-- END:news -->
 
