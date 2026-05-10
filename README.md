@@ -24,8 +24,8 @@
 <tr><td><a href='https://twitter.com/jarredsumner/status/2053047748191232310'>Bun&#x27;s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</a></td></tr>
 <tr><td><a href='https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/'>Internet Archive Switzerland</a></td></tr>
 <tr><td><a href='https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/'>The Serial TTL connector we deserve</a></td></tr>
-<tr><td><a href='https://github.com/ThatXliner/rust-but-lisp'>Rust but Lisp</a></td></tr>
 <tr><td><a href='https://chrismorgan.info/no-query-strings'>I’ve banned query strings</a></td></tr>
+<tr><td><a href='https://github.com/ThatXliner/rust-but-lisp'>Rust but Lisp</a></td></tr>
 </table>
 <!-- END:news -->
 
