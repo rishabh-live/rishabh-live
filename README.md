@@ -25,7 +25,7 @@
 <tr><td><a href='https://blog.dochia.dev/blog/idempotency/'>Idempotency Is Easy Until the Second Request Is Different</a></td></tr>
 <tr><td><a href='https://twitter.com/jarredsumner/status/2053047748191232310'>Bun&#x27;s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</a></td></tr>
 <tr><td><a href='https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html'>The One Dollar Counterfeiter</a></td></tr>
-<tr><td><a href='https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/'>Casio S100X Japanese Lacquer Edition (JP Page Only)</a></td></tr>
+<tr><td><a href='https://github.com/imtomt/ymawky'>Show HN: Building a web server in assembly to give my life (a lack of) meaning</a></td></tr>
 </table>
 <!-- END:news -->
 
