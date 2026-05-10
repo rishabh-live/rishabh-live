@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://news.ycombinator.com/item?id=48085384'>Remind HN: Today is Mother&#x27;s Day, call your moms</a></td></tr>
-<tr><td><a href='http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html'>I returned to AWS, and was reminded why I left</a></td></tr>
+<tr><td><a href='https://tracesofhumanity.org/hello-world/'>Tracesofhumanity.org by Joanna Rutkowska</a></td></tr>
 <tr><td><a href='https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a'>Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem</a></td></tr>
-<tr><td><a href='https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do'>What&#x27;s a Mathematician to Do?</a></td></tr>
-<tr><td><a href='https://github.com/Imbad0202/academic-research-skills'>Academic Research Skills for Claude Code</a></td></tr>
+<tr><td><a href='http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html'>I returned to AWS, and was reminded why I left</a></td></tr>
+<tr><td><a href='https://somethingorotherwhatever.com/shunting-yard-animation/'>Shunting-Yard Animation</a></td></tr>
 </table>
 <!-- END:news -->
 
