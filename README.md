@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://ratty-term.org/'>Ratty – A terminal emulator with inline 3D graphics</a></td></tr>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td></tr>
+<tr><td><a href='https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/'>Driver accused of DUI tracks missing laptop to Illinois State trooper&#x27;s house</a></td></tr>
+<tr><td><a href='https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html'>Training an LLM in Swift, Part 1: Taking matrix mult from Gflop&#x2F;s to Tflop&#x2F;s</a></td></tr>
 <tr><td><a href='https://unix.foo/posts/local-ai-needs-to-be-norm/'>Local AI needs to be the norm</a></td></tr>
-<tr><td><a href='https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/'>I&#x27;m going back to writing code by hand</a></td></tr>
-<tr><td><a href='https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/'>Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria</a></td></tr>
 </table>
 <!-- END:news -->
 
