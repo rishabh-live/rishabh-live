@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://nvlabs.github.io/cuda-oxide/index.html'>CUDA-oxide: Nvidia&#x27;s official Rust to CUDA compiler</a></td></tr>
-<tr><td><a href='https://ratty-term.org/'>Ratty – A terminal emulator with inline 3D graphics</a></td></tr>
 <tr><td><a href='https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html'>Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)</a></td></tr>
+<tr><td><a href='https://ratty-term.org/'>Ratty – A terminal emulator with inline 3D graphics</a></td></tr>
 <tr><td><a href='https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html'>Training an LLM in Swift, Part 1: Taking matrix mult from Gflop&#x2F;s to Tflop&#x2F;s</a></td></tr>
-<tr><td><a href='https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms'>AMÁLIA and the future of European Portuguese LLMs</a></td></tr>
+<tr><td><a href='https://andreaturchet.github.io/website/index.html'>Show HN: TikTok but for Scientific Papers</a></td></tr>
 </table>
 <!-- END:news -->
 
