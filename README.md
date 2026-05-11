@@ -25,7 +25,7 @@
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td></tr>
 <tr><td><a href='https://unix.foo/posts/local-ai-needs-to-be-norm/'>Local AI needs to be the norm</a></td></tr>
 <tr><td><a href='https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/'>I&#x27;m going back to writing code by hand</a></td></tr>
-<tr><td><a href='https://www.openculture.com/2024/10/the-greatest-shot-in-television.html'>The greatest shot in television: James Burke had one chance to nail this scene (2024)</a></td></tr>
+<tr><td><a href='https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/'>Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria</a></td></tr>
 </table>
 <!-- END:news -->
 
