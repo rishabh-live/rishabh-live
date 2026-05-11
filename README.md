@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ratty-term.org/'>Ratty – A terminal emulator with inline 3D graphics</a></td></tr>
-<tr><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td></tr>
-<tr><td><a href='https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/'>Driver accused of DUI tracks missing laptop to Illinois State trooper&#x27;s house</a></td></tr>
 <tr><td><a href='https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html'>Training an LLM in Swift, Part 1: Taking matrix mult from Gflop&#x2F;s to Tflop&#x2F;s</a></td></tr>
+<tr><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td></tr>
+<tr><td><a href='https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082'>Gmail registration now requires scanning a QR code and sending a text message</a></td></tr>
 <tr><td><a href='https://unix.foo/posts/local-ai-needs-to-be-norm/'>Local AI needs to be the norm</a></td></tr>
 </table>
 <!-- END:news -->
