@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/TanStack/router/issues/7383'>TanStack NPM Packages Compromised</a></td></tr>
 <tr><td><a href='https://github.com/mamba-studio/TypedMemory'>Library for fast mapping of Java records to native memory</a></td></tr>
-<tr><td><a href='https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html'>Nullsoft, 1997-2004 (2004)</a></td></tr>
+<tr><td><a href='https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html'>Google says criminal hackers used AI to find a major software flaw</a></td></tr>
 <tr><td><a href='https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage'>UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)</a></td></tr>
-<tr><td><a href='https://ratty-term.org/'>Ratty – A terminal emulator with inline 3D graphics</a></td></tr>
-<tr><td><a href='https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082'>Gmail registration now requires scanning a QR code and sending a text message</a></td></tr>
+<tr><td><a href='https://about.gitlab.com/blog/gitlab-act-2/'>GitLab Announces Workforce Reduction and End of Their CREDIT Values</a></td></tr>
 </table>
 <!-- END:news -->
 
