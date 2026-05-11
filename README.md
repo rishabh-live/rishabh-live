@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://github.com/TanStack/router/issues/7383'>TanStack NPM Packages Compromised</a></td></tr>
 <tr><td><a href='https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage'>UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html'>Google says criminal hackers used AI to find a major software flaw</a></td></tr>
 <tr><td><a href='https://github.com/mamba-studio/TypedMemory'>Library for fast mapping of Java records to native memory</a></td></tr>
+<tr><td><a href='https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html'>Google says criminal hackers used AI to find a major software flaw</a></td></tr>
 <tr><td><a href='https://about.gitlab.com/blog/gitlab-act-2/'>GitLab Announces Workforce Reduction and End of Their CREDIT Values</a></td></tr>
 </table>
 <!-- END:news -->
