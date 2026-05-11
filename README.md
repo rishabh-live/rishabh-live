@@ -24,8 +24,8 @@
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/116550899908879585'>Hardware Attestation as Monopoly Enabler</a></td></tr>
 <tr><td><a href='https://unix.foo/posts/local-ai-needs-to-be-norm/'>Local AI needs to be the norm</a></td></tr>
 <tr><td><a href='https://jola.dev/posts/running-local-models-on-m4'>Running local models on an M4 with 24GB memory</a></td></tr>
+<tr><td><a href='https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/'>I&#x27;m going back to writing code by hand</a></td></tr>
 <tr><td><a href='https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html'>Incident Report: CVE-2024-YIKES</a></td></tr>
-<tr><td><a href='https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/'>Obsidian plugin was abused to deploy a remote access trojan</a></td></tr>
 </table>
 <!-- END:news -->
 
