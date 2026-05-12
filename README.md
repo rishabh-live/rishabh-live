@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/'>Bambu Lab is abusing the open source social contract</a></td></tr>
-<tr><td><a href='https://www.epicfurious.com/'>Operation: Epic Furious</a></td></tr>
 <tr><td><a href='https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/'>Rendering the Sky, Sunsets, and Planets</a></td></tr>
+<tr><td><a href='https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/'>Bambu Lab is abusing the open source social contract</a></td></tr>
 <tr><td><a href='https://matklad.github.io/2026/05/12/software-architecture.html'>Learning Software Architecture</a></td></tr>
 <tr><td><a href='https://obsidian.md/blog/future-of-plugins/'>The Future of Obsidian Plugins</a></td></tr>
+<tr><td><a href='https://voker.ai'>Launch HN: Voker (YC S24) – Analytics for AI Agents</a></td></tr>
 </table>
 <!-- END:news -->
 
