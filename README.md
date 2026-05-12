@@ -24,8 +24,8 @@
 <tr><td><a href='https://tanstack.com/blog/npm-supply-chain-compromise-postmortem'>Postmortem: TanStack NPM supply-chain compromise</a></td></tr>
 <tr><td><a href='https://github.com/davmlaw/they_live_adblocker'>They Live (1988) inspired Adblocker</a></td></tr>
 <tr><td><a href='https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055'>If AI writes your code, why use Python?</a></td></tr>
-<tr><td><a href='https://claude.com/blog/claude-platform-on-aws'>Claude Platform on AWS</a></td></tr>
 <tr><td><a href='https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage'>UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)</a></td></tr>
+<tr><td><a href='https://claude.com/blog/claude-platform-on-aws'>Claude Platform on AWS</a></td></tr>
 </table>
 <!-- END:news -->
 
