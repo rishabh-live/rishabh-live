@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://googlebook.google/'>Googlebook</a></td></tr>
-<tr><td><a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html'>CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq</a></td></tr>
 <tr><td><a href='https://typesetinthefuture.com/2016/02/18/futuristic/'>How to make your text look futuristic (2016)</a></td></tr>
+<tr><td><a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html'>CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq</a></td></tr>
 <tr><td><a href='https://github.com/cactus-compute/needle'>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</a></td></tr>
 <tr><td><a href='https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise'>Why senior developers fail to communicate their expertise</a></td></tr>
 </table>
