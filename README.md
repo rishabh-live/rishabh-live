@@ -25,7 +25,7 @@
 <tr><td><a href='http://www.typewritten.org/Media/'>Screenshots of Old Desktop OSes</a></td></tr>
 <tr><td><a href='https://tanstack.com/blog/npm-supply-chain-compromise-postmortem'>Postmortem: TanStack NPM supply-chain compromise</a></td></tr>
 <tr><td><a href='https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html'>EU to crack down on TikTok, Instagram&#x27;s &#x27;addictive design&#x27; targeting kids</a></td></tr>
-<tr><td><a href='https://github.com/davmlaw/they_live_adblocker'>They Live (1988) inspired Adblocker</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48104663'>A HN post with negative points – how?</a></td></tr>
 </table>
 <!-- END:news -->
 
