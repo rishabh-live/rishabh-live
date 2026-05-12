@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers'>Instructure pays ransom to Canvas hackers</a></td></tr>
 <tr><td><a href='https://googlebook.google/'>Googlebook</a></td></tr>
-<tr><td><a href='https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/'>Rendering the Sky, Sunsets, and Planets</a></td></tr>
-<tr><td><a href='https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/'>Bambu Lab is abusing the open source social contract</a></td></tr>
+<tr><td><a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html'>CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq</a></td></tr>
 <tr><td><a href='https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise'>Why senior developers fail to communicate their expertise</a></td></tr>
+<tr><td><a href='https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/'>Rendering the Sky, Sunsets, and Planets</a></td></tr>
+<tr><td><a href='https://obsidian.md/blog/future-of-plugins/'>The Future of Obsidian Plugins</a></td></tr>
 </table>
 <!-- END:news -->
 
