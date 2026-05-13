@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://googlebook.google/'>Googlebook</a></td></tr>
 <tr><td><a href='https://github.com/FULU-Foundation/OrcaSlicer-bambulab'>Restore full BambuNetwork support for Bambu Lab printers</a></td></tr>
-<tr><td><a href='https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem'>Kraftwerk&#x27;s radical 1976 track</a></td></tr>
+<tr><td><a href='https://www.savethearchive.com/newsleaders/'>Tell NYT, Atlantic, USA Today to Keep Wayback Machine</a></td></tr>
 <tr><td><a href='https://typesetinthefuture.com/2016/02/18/futuristic/'>How to make your text look futuristic (2016)</a></td></tr>
-<tr><td><a href='https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html'>CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq</a></td></tr>
+<tr><td><a href='https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem'>Kraftwerk&#x27;s radical 1976 track</a></td></tr>
 </table>
 <!-- END:news -->
 
