@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/'>I Moved My Digital Stack to Europe</a></td></tr>
 <tr><td><a href='https://jorijn.com/en/blog/leaving-github-for-forgejo/'>Why I&#x27;m leaving GitHub for Forgejo</a></td></tr>
+<tr><td><a href='https://avkcode.github.io/blog/us-winning-ai-race.html'>The US Is Winning the AI Race</a></td></tr>
 <tr><td><a href='https://dmitry.gr/?r=05.Projects&amp;proj=37.%20Pixter'>Preserving Fisher-Price Pixter</a></td></tr>
-<tr><td><a href='https://www.sciencedaily.com/releases/2026/05/260510030950.htm'>New stainless steel can survive conditions for hydrogen production in seawater</a></td></tr>
-<tr><td><a href='https://github.com/FULU-Foundation/OrcaSlicer-bambulab'>Restore full BambuNetwork support for Bambu Lab printers</a></td></tr>
+<tr><td><a href='https://magnusross.github.io/posts/protein-lead-optimisation-1/'>An idiot&#x27;s guide to lead optimisation for proteins</a></td></tr>
 </table>
 <!-- END:news -->
 
