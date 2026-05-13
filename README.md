@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://googlebook.google/'>Googlebook</a></td></tr>
 <tr><td><a href='https://github.com/FULU-Foundation/OrcaSlicer-bambulab'>Restore full BambuNetwork support for Bambu Lab printers</a></td></tr>
-<tr><td><a href='https://www.savethearchive.com/newsleaders/'>Tell NYT, Atlantic, USA Today to Keep Wayback Machine</a></td></tr>
-<tr><td><a href='https://typesetinthefuture.com/2016/02/18/futuristic/'>How to make your text look futuristic (2016)</a></td></tr>
+<tr><td><a href='https://googlebook.google/'>Googlebook</a></td></tr>
+<tr><td><a href='https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/'>My graduation cap runs Rust</a></td></tr>
 <tr><td><a href='https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem'>Kraftwerk&#x27;s radical 1976 track</a></td></tr>
+<tr><td><a href='https://typesetinthefuture.com/2016/02/18/futuristic/'>How to make your text look futuristic (2016)</a></td></tr>
 </table>
 <!-- END:news -->
 
