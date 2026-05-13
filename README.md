@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.haiku-os.org'>Haiku</a></td></tr>
 <tr><td><a href='https://fredchan.org/blog/locality-domains-guide/'>Setting up a free *.city.state.us locality domain</a></td></tr>
 <tr><td><a href='https://ossresistance.com/'>Open Source Resistance: keep OSS alive on company time</a></td></tr>
-<tr><td><a href='https://www.haiku-os.org'>Haiku</a></td></tr>
+<tr><td><a href='https://laurent.le-brun.eu/blog/a-history-of-ides-at-google'>A History of IDEs at Google</a></td></tr>
 <tr><td><a href='https://grantmestrength.github.io/S100/'>S-100 Virtual Workbench</a></td></tr>
-<tr><td><a href='https://github.com/nooga/xsofy'>Xs of Y – roguelike that names itself every run. Written in 4kLoC</a></td></tr>
 </table>
 <!-- END:news -->
 
