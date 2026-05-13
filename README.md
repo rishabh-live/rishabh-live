@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arxiv.org/abs/2605.08419'>Deterministic Fully-Static Whole-Binary Translation Without Heuristics</a></td></tr>
-<tr><td><a href='https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/'>European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly</a></td></tr>
 <tr><td><a href='https://github.com/FULU-Foundation/OrcaSlicer-bambulab'>Restore full BambuNetwork support for Bambu Lab printers</a></td></tr>
 <tr><td><a href='https://lpar.ATH0.com/posts/2026/05/the-vi-family/'>The vi family</a></td></tr>
 <tr><td><a href='https://googlebook.google/'>Googlebook</a></td></tr>
+<tr><td><a href='https://github.com/cactus-compute/needle'>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</a></td></tr>
 </table>
 <!-- END:news -->
 
