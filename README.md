@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/'>Linux gaming is faster because Windows APIs are becoming Linux kernel features</a></td></tr>
-<tr><td><a href='https://www.intercom.com/blog/today-intercom-becomes-fin/'>Today Intercom becomes Fin</a></td></tr>
 <tr><td><a href='https://fredchan.org/blog/locality-domains-guide/'>Setting up a free *.city.state.us locality domain (2025)</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48128003'>Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing</a></td></tr>
 <tr><td><a href='https://laurent.le-brun.eu/blog/a-history-of-ides-at-google'>A History of IDEs at Google</a></td></tr>
+<tr><td><a href='https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent'>Princeton mandates proctoring for in-person exams, upending 133 year precedent</a></td></tr>
+<tr><td><a href='https://ardoedo.it/kempelen/'>Chess puzzle I found in my dad&#x27;s old book</a></td></tr>
 </table>
 <!-- END:news -->
 
