@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/FULU-Foundation/OrcaSlicer-bambulab'>Restore full BambuNetwork support for Bambu Lab printers</a></td></tr>
 <tr><td><a href='https://lpar.ATH0.com/posts/2026/05/the-vi-family/'>The vi family</a></td></tr>
 <tr><td><a href='https://googlebook.google/'>Googlebook</a></td></tr>
-<tr><td><a href='https://github.com/cactus-compute/needle'>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</a></td></tr>
+<tr><td><a href='https://www.sciencedaily.com/releases/2026/05/260510030950.htm'>New stainless steel can survive conditions for hydrogen production in seawater</a></td></tr>
 </table>
 <!-- END:news -->
 
