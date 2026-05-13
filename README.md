@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/FULU-Foundation/OrcaSlicer-bambulab'>Restore full BambuNetwork support for Bambu Lab printers</a></td></tr>
+<tr><td><a href='https://www.spacex.com/updates#starship-v3'>Starship V3</a></td></tr>
 <tr><td><a href='https://googlebook.google/'>Googlebook</a></td></tr>
 <tr><td><a href='https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/'>My graduation cap runs Rust</a></td></tr>
-<tr><td><a href='https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem'>Kraftwerk&#x27;s radical 1976 track</a></td></tr>
-<tr><td><a href='https://typesetinthefuture.com/2016/02/18/futuristic/'>How to make your text look futuristic (2016)</a></td></tr>
+<tr><td><a href='https://github.com/cactus-compute/needle'>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</a></td></tr>
 </table>
 <!-- END:news -->
 
