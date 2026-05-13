@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/'>I Moved My Digital Stack to Europe</a></td></tr>
-<tr><td><a href='https://jorijn.com/en/blog/leaving-github-for-forgejo/'>Why I&#x27;m leaving GitHub for Forgejo</a></td></tr>
 <tr><td><a href='https://fredchan.org/blog/locality-domains-guide/'>Setting up a free *.city.state.us locality domain</a></td></tr>
-<tr><td><a href='https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014'>Reverting the incremental GC in Python 3.14 and 3.15</a></td></tr>
-<tr><td><a href='https://magnusross.github.io/posts/protein-lead-optimisation-1/'>An idiot&#x27;s guide to lead optimisation for proteins</a></td></tr>
+<tr><td><a href='https://ossresistance.com/'>Open Source Resistance: keep OSS alive on company time</a></td></tr>
+<tr><td><a href='https://www.haiku-os.org'>Haiku</a></td></tr>
+<tr><td><a href='https://grantmestrength.github.io/S100/'>S-100 Virtual Workbench</a></td></tr>
+<tr><td><a href='https://github.com/nooga/xsofy'>Xs of Y – roguelike that names itself every run. Written in 4kLoC</a></td></tr>
 </table>
 <!-- END:news -->
 
