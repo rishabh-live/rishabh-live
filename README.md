@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/'>RTX 5090 and M4 MacBook Air: Can It Game?</a></td></tr>
 <tr><td><a href='https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada'>Computer Hobby Movement in Canada</a></td></tr>
 <tr><td><a href='https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline'>MIT: 20% drop in incoming graduate students</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup'>Claude AI recovers an 11 yrs old BTC wallet holding 400k USD</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/gates-foundation-partnership'>Anthropic forms $200M partnership with the Gates Foundation</a></td></tr>
-<tr><td><a href='https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html'>Show HN: Running the second public ODoH relay</a></td></tr>
+<tr><td><a href='https://lithub.com/is-it-even-real-on-the-conflation-of-money-and-things/'>On The Conflation of Money and Things</a></td></tr>
 </table>
 <!-- END:news -->
 
