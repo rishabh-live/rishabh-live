@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://jpain.io/god-damn-ai-is-making-me-dumb/'>God Damn AI is making me dumb</a></td></tr>
+<tr><td><a href='https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/'>Removing the modem and GPS from my 2024 RAV4 hybrid</a></td></tr>
 <tr><td><a href='https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/'>RTX 5090 and M4 MacBook Air: Can It Game?</a></td></tr>
-<tr><td><a href='https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/'>Removing the Modem and GPS from My 2024 RAV4 Hybrid</a></td></tr>
 <tr><td><a href='https://github.com/DepthFirstDisclosures/Nginx-Rift'>New Nginx Exploit</a></td></tr>
 <tr><td><a href='https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada'>Computer Hobby Movement in Canada</a></td></tr>
-<tr><td><a href='https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline'>MIT: 20% drop in incoming graduate students</a></td></tr>
 </table>
 <!-- END:news -->
 
