@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.bbc.com/news/articles/c2l2j1lxdk5o'>&#x27;Millions&#x27; of pounds saved by replacing Palantir tech in refugee system</a></td></tr>
 <tr><td><a href='https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/'>Removing the modem and GPS from my 2024 RAV4 hybrid</a></td></tr>
 <tr><td><a href='https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/'>Amazonbot is finally respecting robots.txt</a></td></tr>
-<tr><td><a href='https://blog.calif.io/p/first-public-kernel-memory-corruption'>First public macOS kernel memory corruption exploit on Apple M5</a></td></tr>
 <tr><td><a href='https://antirez.com/news/165'>A few words on DS4</a></td></tr>
-<tr><td><a href='https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/'>RTX 5090 and M4 MacBook Air: Can It Game?</a></td></tr>
+<tr><td><a href='https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html'>More than half of U.S. faces worst drought in decades</a></td></tr>
 </table>
 <!-- END:news -->
 
