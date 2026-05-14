@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jpain.io/god-damn-ai-is-making-me-dumb/'>God Damn AI is making me dumb</a></td></tr>
 <tr><td><a href='https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/'>Removing the modem and GPS from my 2024 RAV4 hybrid</a></td></tr>
 <tr><td><a href='https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/'>RTX 5090 and M4 MacBook Air: Can It Game?</a></td></tr>
 <tr><td><a href='https://github.com/DepthFirstDisclosures/Nginx-Rift'>New Nginx Exploit</a></td></tr>
-<tr><td><a href='https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada'>Computer Hobby Movement in Canada</a></td></tr>
+<tr><td><a href='https://blog.calif.io/p/first-public-kernel-memory-corruption'>First public macOS kernel memory corruption exploit on Apple M5</a></td></tr>
+<tr><td><a href='https://www.thenewcritic.com/p/the-great-zombification'>The AI Zombification of Universities</a></td></tr>
 </table>
 <!-- END:news -->
 
