@@ -24,8 +24,8 @@
 <tr><td><a href='https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/'>Removing the modem and GPS from my 2024 RAV4 hybrid</a></td></tr>
 <tr><td><a href='https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/'>Amazonbot is finally respecting robots.txt</a></td></tr>
 <tr><td><a href='https://blog.calif.io/p/first-public-kernel-memory-corruption'>First public macOS kernel memory corruption exploit on Apple M5</a></td></tr>
+<tr><td><a href='https://antirez.com/news/165'>A few words on DS4</a></td></tr>
 <tr><td><a href='https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/'>RTX 5090 and M4 MacBook Air: Can It Game?</a></td></tr>
-<tr><td><a href='https://github.com/DepthFirstDisclosures/Nginx-Rift'>New Nginx Exploit</a></td></tr>
 </table>
 <!-- END:news -->
 
