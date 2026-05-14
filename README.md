@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada'>Computer Hobby Movement in Canada</a></td></tr>
 <tr><td><a href='https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline'>MIT: 20% drop in incoming graduate students</a></td></tr>
-<tr><td><a href='https://www.uscannenbergmedia.com/2026/05/11/al-jazeera-documentary-highlights-uscs-sale-of-dead-bodies-to-us-navy-israeli-military/'>Al Jazeera documentary highlights USC&#x27;s sale of dead bodies to US Navy, Israel</a></td></tr>
+<tr><td><a href='https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup'>Claude AI recovers an 11 yrs old BTC wallet holding 400k USD</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/gates-foundation-partnership'>Anthropic forms $200M partnership with the Gates Foundation</a></td></tr>
 <tr><td><a href='https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html'>Show HN: Running the second public ODoH relay</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-for-small-business'>Claude for Small Business</a></td></tr>
 </table>
 <!-- END:news -->
 
