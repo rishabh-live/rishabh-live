@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='http://www.scorch2000.com/web/'>Scorched Earth 2000 is back</a></td></tr>
+<tr><td><a href='http://www.scorch2000.com/web/'>Scorched Earth 2000 – Web</a></td></tr>
 <tr><td><a href='https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/'>Linux gaming is faster because Windows APIs are becoming Linux kernel features</a></td></tr>
+<tr><td><a href='https://blogs.cisco.com/news/our-path-forward'>Cisco Workforce Reductions</a></td></tr>
 <tr><td><a href='https://fredchan.org/blog/locality-domains-guide/'>Setting up a free *.city.state.us locality domain (2025)</a></td></tr>
 <tr><td><a href='https://laurent.le-brun.eu/blog/a-history-of-ides-at-google'>A History of IDEs at Google</a></td></tr>
-<tr><td><a href='https://ardoedo.it/kempelen/'>Chess puzzle I found in my dad&#x27;s old book</a></td></tr>
 </table>
 <!-- END:news -->
 
