@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada'>Computer Hobby Movement in Canada</a></td></tr>
+<tr><td><a href='https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline'>MIT: 20% drop in incoming graduate students</a></td></tr>
+<tr><td><a href='https://www.uscannenbergmedia.com/2026/05/11/al-jazeera-documentary-highlights-uscs-sale-of-dead-bodies-to-us-navy-israeli-military/'>Al Jazeera documentary highlights USC&#x27;s sale of dead bodies to US Navy, Israel</a></td></tr>
 <tr><td><a href='https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html'>Show HN: Running the second public ODoH relay</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-for-small-business'>Claude for Small Business</a></td></tr>
-<tr><td><a href='https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought'>USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought</a></td></tr>
-<tr><td><a href='https://www.laphamsquarterly.org/roundtable/tree-house'>The Tree House: A voyage to the source of a backyard dream</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
