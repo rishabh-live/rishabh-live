@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.anthropic.com/news/claude-for-small-business'>Claude for Small Business</a></td></tr>
 <tr><td><a href='https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html'>Show HN: Running the second public ODoH relay</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-for-small-business'>Claude for Small Business</a></td></tr>
+<tr><td><a href='https://www.laphamsquarterly.org/roundtable/tree-house'>The Tree House: A voyage to the source of a backyard dream</a></td></tr>
+<tr><td><a href='https://www.2uo.de/myths-about-urandom/'>Myths about &#x2F;dev&#x2F;urandom (2014)</a></td></tr>
 <tr><td><a href='http://www.scorch2000.com/web/'>Scorched Earth 2000 – Web</a></td></tr>
-<tr><td><a href='https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/'>Linux gaming is faster because Windows APIs are becoming Linux kernel features</a></td></tr>
-<tr><td><a href='https://classic7.lol/'>Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7</a></td></tr>
 </table>
 <!-- END:news -->
 
