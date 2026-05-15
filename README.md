@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://explorer.samismith.com/'>Explore Wikipedia Like a Windows XP Desktop</a></td></tr>
+<tr><td><a href='https://github.com/Andyyyy64/whichllm'>Show HN: Find the best local LLM for your hardware, ranked by benchmarks</a></td></tr>
 <tr><td><a href='https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/'>Removing the modem and GPS from my 2024 RAV4 hybrid</a></td></tr>
+<tr><td><a href='https://relax.ai/docs'>UK sovereign LLM inference</a></td></tr>
 <tr><td><a href='https://github.com/GlycemicGPT/GlycemicGPT'>Show HN: GlycemicGPT – Open-source AI-powered diabetes management</a></td></tr>
-<tr><td><a href='https://hghalebi.github.io/category_theory_transformer_rs/'>Building ML framework with Rust and Category Theory</a></td></tr>
-<tr><td><a href='https://dylan.gr/1775146616'>Solar-based sleep patterns compared to modern norms</a></td></tr>
-<tr><td><a href='https://antirez.com/news/165'>A few words on DS4</a></td></tr>
 </table>
 <!-- END:news -->
 
