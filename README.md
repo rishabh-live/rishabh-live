@@ -24,8 +24,8 @@
 <tr><td><a href='https://gazagnaire.org/blog/2026-05-14-borealis.html'>O(x)Caml in Space</a></td></tr>
 <tr><td><a href='https://github.com/Andyyyy64/whichllm'>Show HN: Find the best local LLM for your hardware, ranked by benchmarks</a></td></tr>
 <tr><td><a href='https://explorer.samismith.com/'>Explore Wikipedia Like a Windows XP Desktop</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/steve-jobs-next-computer'>Steve Jobs Next Computer: His Forgotten Exile Years</a></td></tr>
 <tr><td><a href='https://www.metabase.com/blog/strip-mining-era-of-open-source-security'>Welcome to the Strip Mining Era of OSS Security</a></td></tr>
+<tr><td><a href='https://radicle.dev/'>Radicle: Sovereign {code forge} built on Git</a></td></tr>
 </table>
 <!-- END:news -->
 
