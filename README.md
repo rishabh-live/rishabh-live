@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td></tr>
-<tr><td><a href='https://github.com/ThroatyMumbo/WinCE64'>WinCE64 – Windows CE 2.11 for N64</a></td></tr>
 <tr><td><a href='https://twitter.com/mitchellh/status/2055380239711457578'>I believe there are entire companies right now under AI psychosis</a></td></tr>
 <tr><td><a href='https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/'>The Zulip Foundation</a></td></tr>
+<tr><td><a href='https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/'>Naturally Occurring Quasicrystals</a></td></tr>
 <tr><td><a href='https://www.vldb.org/pvldb/vol19/p1469-lee.pdf'>How to Write to SSDs [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
