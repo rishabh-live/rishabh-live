@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/'>Removing the modem and GPS from my 2024 RAV4 hybrid</a></td></tr>
-<tr><td><a href='https://writing.antonleicht.me/p/cut-off'>Access to frontier AI will soon be limited by economic and security constraints</a></td></tr>
-<tr><td><a href='https://www.tristandc.com/government/news-2026-05-11-airdrop.php'>Details of the Daring Airdrop at Tristan Da Cunha</a></td></tr>
-<tr><td><a href='https://antirez.com/news/165'>A few words on DS4</a></td></tr>
+<tr><td><a href='https://github.com/GlycemicGPT/GlycemicGPT'>Show HN: GlycemicGPT – Open-source AI-powered diabetes management</a></td></tr>
+<tr><td><a href='https://hghalebi.github.io/category_theory_transformer_rs/'>Building ML framework with Rust and Category Theory</a></td></tr>
 <tr><td><a href='https://dylan.gr/1775146616'>Solar-based sleep patterns compared to modern norms</a></td></tr>
+<tr><td><a href='https://antirez.com/news/165'>A few words on DS4</a></td></tr>
 </table>
 <!-- END:news -->
 
