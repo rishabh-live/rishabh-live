@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/'>Mullvad exit IPs are surprisingly identifying</a></td></tr>
+<tr><td><a href='https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start'>How Claude Code works in large codebases</a></td></tr>
 <tr><td><a href='https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/'>Removing the modem and GPS from my 2024 RAV4 hybrid</a></td></tr>
 <tr><td><a href='https://antirez.com/news/165'>A few words on DS4</a></td></tr>
-<tr><td><a href='https://blog.calif.io/p/first-public-kernel-memory-corruption'>First public macOS kernel memory corruption exploit on Apple M5</a></td></tr>
-<tr><td><a href='https://openai.com/index/work-with-codex-from-anywhere/'>Codex is now in the ChatGPT mobile app</a></td></tr>
+<tr><td><a href='https://www.tristandc.com/government/news-2026-05-11-airdrop.php'>Details of the Daring Airdrop at Tristan Da Cunha</a></td></tr>
 </table>
 <!-- END:news -->
 
