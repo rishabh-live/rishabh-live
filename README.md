@@ -24,8 +24,8 @@
 <tr><td><a href='https://turso.tech/blog/the-wonders-of-ai'>The Wonders of AI: We Are Retiring Our Bug Bounty Program</a></td></tr>
 <tr><td><a href='https://projectzero.google/2026/05/pixel-10-exploit.html'>A 0-click exploit chain for the Pixel 10</a></td></tr>
 <tr><td><a href='https://gazagnaire.org/blog/2026-05-14-borealis.html'>O(x)Caml in Space</a></td></tr>
-<tr><td><a href='https://www.worseonpurpose.com/p/your-power-tools-got-worse-on-purpose'>Power Tools Got Worse on Purpose. Who Owns DeWalt, Craftsman, and Milwaukee?</a></td></tr>
-<tr><td><a href='https://www.revswap.ai/'>Trade Dollars with other startups. Book it as revenue</a></td></tr>
+<tr><td><a href='https://ascii.textfiles.com/'>ASCII by Jason Scott</a></td></tr>
+<tr><td><a href='https://explorer.samismith.com/'>Explore Wikipedia Like a Windows XP Desktop</a></td></tr>
 </table>
 <!-- END:news -->
 
