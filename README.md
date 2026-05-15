@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td></tr>
+<tr><td><a href='https://github.com/oven-sh/bun/issues/30719'>Bun Rust rewrite: &quot;codebase fails basic miri checks, allows for UB in safe rust&quot;</a></td></tr>
 <tr><td><a href='https://projectzero.google/2026/05/pixel-10-exploit.html'>A 0-click exploit chain for the Pixel 10</a></td></tr>
-<tr><td><a href='https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor'>We don&#x27;t know why Malawi is poor</a></td></tr>
-<tr><td><a href='https://smorgasb.org/zenith-tech/'>I built Zenith: a live local-first fixed viewport planetarium</a></td></tr>
-<tr><td><a href='https://gazagnaire.org/blog/2026-05-14-borealis.html'>O(x)Caml in Space</a></td></tr>
+<tr><td><a href='https://github.com/gdevic/FPGA-Calculator'>I designed a nibble-oriented CPU in Verilog to build a scientific calculator</a></td></tr>
+<tr><td><a href='https://github.com/neilsonnn/image-blaster'>Image-blaster: Creates 3D environments, SFX, and meshes from a single image</a></td></tr>
 </table>
 <!-- END:news -->
 
