@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td></tr>
 <tr><td><a href='https://github.com/ThroatyMumbo/WinCE64'>WinCE64 – Windows CE 2.11 for N64</a></td></tr>
+<tr><td><a href='https://twitter.com/mitchellh/status/2055380239711457578'>Mitchellh – I strongly believe there are entire companies now under AI psychosis</a></td></tr>
+<tr><td><a href='https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/'>The Zulip Foundation</a></td></tr>
 <tr><td><a href='https://projectzero.google/2026/05/pixel-10-exploit.html'>A 0-click exploit chain for the Pixel 10</a></td></tr>
-<tr><td><a href='https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction'>Microscale Thermite Reaction</a></td></tr>
-<tr><td><a href='https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/'>U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app</a></td></tr>
 </table>
 <!-- END:news -->
 
