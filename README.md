@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574'>Kioxia and Dell cram 10 PB into slim 2RU server</a></td></tr>
-<tr><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td></tr>
 <tr><td><a href='https://codeberg.org/hails/wsl9x'>Windows 9x Subsystem for Linux</a></td></tr>
+<tr><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td></tr>
+<tr><td><a href='https://third-bit.com/2026/05/15/technofascism/'>Technofascism</a></td></tr>
 <tr><td><a href='https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html'>Accelerando (2005)</a></td></tr>
-<tr><td><a href='https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2'>An australian teen team is making radio astronomy affordable for rural schools</a></td></tr>
 </table>
 <!-- END:news -->
 
