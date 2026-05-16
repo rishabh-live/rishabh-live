@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://kevinpatel.xyz/posts/no-way-to-prevent-this/'>&#x27;No Way to Prevent This,&#x27; Says Only Package Manager Where This Regularly Happens</a></td></tr>
-<tr><td><a href='https://www.erlang.org/news/188'>Erlang&#x2F;OTP 29.0</a></td></tr>
 <tr><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td></tr>
 <tr><td><a href='https://twitter.com/mitchellh/status/2055380239711457578'>I believe there are entire companies right now under AI psychosis</a></td></tr>
-<tr><td><a href='https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/'>The Zulip Foundation</a></td></tr>
+<tr><td><a href='https://phoboslab.org/log/2026/05/n64-additive-blending'>Additive Blending on the Nintendo 64</a></td></tr>
+<tr><td><a href='https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/'>Naturally Occurring Quasicrystals</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/'>The bird eye was pushed to an evolutionary extreme</a></td></tr>
 </table>
 <!-- END:news -->
 
