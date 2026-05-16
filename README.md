@@ -25,7 +25,7 @@
 <tr><td><a href='https://codeberg.org/hails/wsl9x'>Windows 9x Subsystem for Linux</a></td></tr>
 <tr><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td></tr>
 <tr><td><a href='https://www.science.org/doi/10.1126/science.aea3321'>A molecule with half-Möbius topology</a></td></tr>
-<tr><td><a href='https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html'>Accelerando (2005)</a></td></tr>
+<tr><td><a href='https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page'>MCP Hello Page</a></td></tr>
 </table>
 <!-- END:news -->
 
