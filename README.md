@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2605.12357'>Δ-Mem: Efficient Online Memory for Large Language Models</a></td></tr>
+<tr><td><a href='https://futhark-lang.org/examples.html'>Futhark by Example</a></td></tr>
 <tr><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td></tr>
 <tr><td><a href='https://kabir.au/blog/the-ctf-scene-is-dead'>Frontier AI has broken the open CTF format</a></td></tr>
-<tr><td><a href='https://analytics.fixelsmith.com/posts/sql-fraud-patterns/'>SQL patterns I use to catch transaction fraud</a></td></tr>
-<tr><td><a href='https://ploopy.co/shop/bean-pointing-stick/'>Ploopy Bean: a trackpoint for every computer</a></td></tr>
 <tr><td><a href='https://twitter.com/mitchellh/status/2055380239711457578'>I believe there are entire companies right now under AI psychosis</a></td></tr>
 </table>
 <!-- END:news -->
