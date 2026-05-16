@@ -24,8 +24,8 @@
 <tr><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td></tr>
 <tr><td><a href='https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2'>How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools</a></td></tr>
 <tr><td><a href='https://github.com/AccelerateHS/accelerate'>Accelerate</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2605.12357'>Δ-Mem: Efficient Online Memory for Large Language Models</a></td></tr>
 <tr><td><a href='https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/'>Moving away from Tailwind, and learning to structure my CSS</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2605.12357'>Δ-Mem: Efficient Online Memory for Large Language Models</a></td></tr>
 </table>
 <!-- END:news -->
 
