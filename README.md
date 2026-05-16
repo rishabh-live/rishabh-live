@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://arxiv.org/abs/2605.12357'>Δ-Mem: Efficient Online Memory for Large Language Models</a></td></tr>
 <tr><td><a href='https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html'>Accelerando (2005)</a></td></tr>
+<tr><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td></tr>
 <tr><td><a href='https://futhark-lang.org/examples.html'>Futhark by Example</a></td></tr>
-<tr><td><a href='https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/'>Fecal transplants for autism deliver success in clinical trials</a></td></tr>
 <tr><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td></tr>
 </table>
 <!-- END:news -->
