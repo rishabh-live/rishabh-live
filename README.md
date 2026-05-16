@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2605.12357'>Δ-Mem: Efficient Online Memory for Large Language Models</a></td></tr>
 <tr><td><a href='https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html'>Accelerando (2005)</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2605.12357'>Δ-Mem: Efficient Online Memory for Large Language Models</a></td></tr>
 <tr><td><a href='https://github.com/AccelerateHS/accelerate'>Accelerate</a></td></tr>
-<tr><td><a href='https://dariusforoux.com/i-spent-my-whole-career-building-passive-income-heres-what-i-got-wrong/'>I spent my whole career building passive income. Here&#x27;s what I got wrong</a></td></tr>
+<tr><td><a href='https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/'>My Favorite Bugs: Invalid Surrogate Pairs</a></td></tr>
 </table>
 <!-- END:news -->
 
