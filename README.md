@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.gutenberg.org/'>Project Gutenberg – keeps getting better</a></td></tr>
-<tr><td><a href='https://twitter.com/mitchellh/status/2055380239711457578'>I believe there are entire companies right now under AI psychosis</a></td></tr>
 <tr><td><a href='https://ploopy.co/shop/bean-pointing-stick/'>Ploopy Bean: a trackpoint for every computer</a></td></tr>
-<tr><td><a href='https://phoboslab.org/log/2026/05/n64-additive-blending'>Additive Blending on the Nintendo 64</a></td></tr>
-<tr><td><a href='https://dynomight.net/p2p-meth/'>The main thing about P2P meth is that there&#x27;s so much of it (2021)</a></td></tr>
+<tr><td><a href='https://twitter.com/mitchellh/status/2055380239711457578'>I believe there are entire companies right now under AI psychosis</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/'>The bird eye was pushed to an evolutionary extreme</a></td></tr>
+<tr><td><a href='https://analytics.fixelsmith.com/posts/sql-fraud-patterns/'>SQL patterns I use to catch transaction fraud</a></td></tr>
 </table>
 <!-- END:news -->
 
