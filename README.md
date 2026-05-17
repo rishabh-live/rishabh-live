@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/'>I don&#x27;t think AI will make your processes go faster</a></td></tr>
-<tr><td><a href='https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/'>Native all the way, until you need text</a></td></tr>
-<tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
-<tr><td><a href='https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html'>Security researcher says Microsoft built a Bitlocker backdoor, releases exploit</a></td></tr>
 <tr><td><a href='https://www.thestateofbrand.com/news/ai-subscription-time-bomb'>Every AI Subscription Is a Ticking Time Bomb for Enterprise</a></td></tr>
+<tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
+<tr><td><a href='https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/'>Native all the way, until you need text</a></td></tr>
+<tr><td><a href='https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html'>Security researcher says Microsoft built a Bitlocker backdoor, releases exploit</a></td></tr>
 </table>
 <!-- END:news -->
 
