@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://crates.io/crates/zerostack/1.0.0'>Zerostack – A Unix-inspired coding agent written in pure Rust</a></td></tr>
-<tr><td><a href='https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/'>Playing Atari ST Music on the Amiga with Zero CPU</a></td></tr>
 <tr><td><a href='https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/'>Mozilla to UK regulators: VPNs are essential privacy and security tools</a></td></tr>
 <tr><td><a href='https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project'>Colossus: The Forbin Project</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock'>A nicer voltmeter clock</a></td></tr>
 <tr><td><a href='https://maurycyz.com/projects/mcusite/'>Hosting a website on an 8-bit microcontroller</a></td></tr>
 </table>
 <!-- END:news -->
