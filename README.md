@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/'>Americans Are Smashing Flock Cameras</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/science/medical-dispatch/how-a-new-israeli-policy-cuts-off-humanitarian-aid-in-gaza'>How a New Israeli Policy Cuts Off Humanitarian Aid in Gaza</a></td></tr>
-<tr><td><a href='https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html'>The occasional ECONNRESET</a></td></tr>
 <tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
+<tr><td><a href='https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/'>I don&#x27;t think AI will make your processes go faster</a></td></tr>
+<tr><td><a href='https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html'>The occasional ECONNRESET</a></td></tr>
 <tr><td><a href='https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/'>Mercurial, 20 years and counting: how are we still alive and kicking? [video]</a></td></tr>
+<tr><td><a href='https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html'>Security researcher says Microsoft built a Bitlocker backdoor, releases exploit</a></td></tr>
 </table>
 <!-- END:news -->
 
