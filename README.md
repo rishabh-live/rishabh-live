@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/'>Mercurial, 20 years and counting: how are we still alive and kicking? [video]</a></td></tr>
 <tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
-<tr><td><a href='https://opencivics-labs.github.io/dontsurveil.me/c22.html'>Dontsurveil.me</a></td></tr>
-<tr><td><a href='https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/'>I don&#x27;t think AI will make your processes go faster</a></td></tr>
 <tr><td><a href='https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html'>The occasional ECONNRESET</a></td></tr>
+<tr><td><a href='https://www.airships.net/hindenburg-smoking-room/'>Hindenburg’s Smoking Room</a></td></tr>
+<tr><td><a href='https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/'>Native all the way, until you need text</a></td></tr>
 </table>
 <!-- END:news -->
 
