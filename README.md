@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/'>Native all the way, until you need text</a></td></tr>
 <tr><td><a href='https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/'>I don&#x27;t think AI will make your processes go faster</a></td></tr>
+<tr><td><a href='https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/'>Native all the way, until you need text</a></td></tr>
 <tr><td><a href='https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html'>Apple Silicon costs more than OpenRouter</a></td></tr>
-<tr><td><a href='https://crates.io/crates/zerostack/1.0.0'>Zerostack – A Unix-inspired coding agent written in pure Rust</a></td></tr>
+<tr><td><a href='https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html'>Security researcher says Microsoft built a Bitlocker backdoor, releases exploit</a></td></tr>
 <tr><td><a href='https://unplannedobsolescence.com/blog/prolog-basics-pokemon/'>Prolog Basics Explained with Pokémon</a></td></tr>
 </table>
 <!-- END:news -->
