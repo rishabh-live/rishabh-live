@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://crates.io/crates/zerostack/1.0.0'>Zerostack – A Unix-inspired coding agent written in pure Rust</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock'>A nicer voltmeter clock</a></td></tr>
 <tr><td><a href='https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page'>MCP Hello Page</a></td></tr>
-<tr><td><a href='https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574'>Kioxia and Dell cram 10 PB into slim 2RU server</a></td></tr>
-<tr><td><a href='https://codeberg.org/hails/wsl9x'>Windows 9x Subsystem for Linux</a></td></tr>
-<tr><td><a href='https://github.com/ztc00/algora-scout/blob/main/POST.md'>I tried to make Claude make me money on open-source bounties</a></td></tr>
+<tr><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td></tr>
+<tr><td><a href='https://www.science.org/doi/10.1126/science.aea3321'>A molecule with half-Möbius topology</a></td></tr>
 </table>
 <!-- END:news -->
 
