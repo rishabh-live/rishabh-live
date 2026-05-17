@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://spectrum.ieee.org/payphone-voip'>VoIP brings back old-fashioned pay phones to rural Vermont (2025)</a></td></tr>
+<tr><td><a href='https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base'>Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely</a></td></tr>
 <tr><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td></tr>
+<tr><td><a href='https://www.jdhodges.com/blog/thinkpad-history/'>ThinkPad: From IBM&#x27;s Bento Box to Lenovo&#x27;s AI Workstations</a></td></tr>
 <tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
-<tr><td><a href='https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/'>Mercurial, 20 years and counting: how are we still alive and kicking? [video]</a></td></tr>
-<tr><td><a href='https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later'>Magical Realism: “Northern Exposure” 25 Years Later (2015)</a></td></tr>
 </table>
 <!-- END:news -->
 
