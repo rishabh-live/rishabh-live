@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://crates.io/crates/zerostack/1.0.0'>Zerostack – A Unix-inspired coding agent written in pure Rust</a></td></tr>
-<tr><td><a href='https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock'>A nicer voltmeter clock</a></td></tr>
 <tr><td><a href='https://maurycyz.com/projects/mcusite/'>Hosting a website on an 8-bit microcontroller</a></td></tr>
-<tr><td><a href='https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page'>MCP Hello Page</a></td></tr>
-<tr><td><a href='https://nvlabs.github.io/Sana/WM/'>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock'>A nicer voltmeter clock</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/'>Unknowable Math Can Help Hide Secrets</a></td></tr>
+<tr><td><a href='https://openai.com/index/malta-chatgpt-plus-partnership/'>OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens</a></td></tr>
 </table>
 <!-- END:news -->
 
