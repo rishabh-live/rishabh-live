@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://spectrum.ieee.org/payphone-voip'>VoIP brings back old-fashioned pay phones to rural Vermont</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/payphone-voip'>VoIP brings back old-fashioned pay phones to rural Vermont (2025)</a></td></tr>
+<tr><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td></tr>
 <tr><td><a href='https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/'>Mercurial, 20 years and counting: how are we still alive and kicking? [video]</a></td></tr>
-<tr><td><a href='https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964'>Multi-Species Canopy Latrines in Costa Rican Cloud Forests</a></td></tr>
 <tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
-<tr><td><a href='https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later'>Magical Realism: “Northern Exposure” 25 Years Later (2015)</a></td></tr>
+<tr><td><a href='https://onlinelibrary.wiley.com/doi/10.1002/ece3.72964'>Multi-Species Canopy Latrines in Costa Rican Cloud Forests</a></td></tr>
 </table>
 <!-- END:news -->
 
