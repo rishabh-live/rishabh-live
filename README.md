@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
 <tr><td><a href='https://askanastronaut.issinrealtime.org/'>Ask an Astronaut: 333 hours of Q&#x26;A footage with astronauts</a></td></tr>
 <tr><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td></tr>
-<tr><td><a href='https://hellmood.111mb.de//wake_up_16b_writeup.html'>WriteUp: 16 Bytes of x86 that turn Matrix rain into sound</a></td></tr>
+<tr><td><a href='https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/'>It is time to give up the dualism introduced by the debate on consciousness</a></td></tr>
 </table>
 <!-- END:news -->
 
