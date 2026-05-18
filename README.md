@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td></tr>
 <tr><td><a href='https://gencad.github.io/'>GenCAD</a></td></tr>
-<tr><td><a href='https://www.jdhodges.com/blog/thinkpad-history/'>ThinkPad: From IBM&#x27;s Bento Box to Lenovo&#x27;s AI Workstations</a></td></tr>
-<tr><td><a href='https://xca-attacks.github.io/fabricked/'>Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP</a></td></tr>
-<tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
+<tr><td><a href='https://github.com/open-energy-transition/grid2poster'>Design posters showcasing your country&#x27;s electrical grid</a></td></tr>
+<tr><td><a href='https://www.jdhodges.com/blog/thinkpad-history/'>The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations</a></td></tr>
+<tr><td><a href='https://jank-lang.org/blog/2026-05-08-optimization/'>Jank now has its own custom IR</a></td></tr>
+<tr><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td></tr>
 </table>
 <!-- END:news -->
 
