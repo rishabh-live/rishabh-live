@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/'>Where Are the Vibecoded Photoshops?</a></td></tr>
+<tr><td><a href='https://github.com/stephenlthorn/auto-identity-remove'>I automated opt-outs for 500 data broker sites (open source)</a></td></tr>
 <tr><td><a href='http://www.csl.sri.com/users/neumann/psos.pdf'>The foundations of a provably secure operating system (PSOS) (1979) [pdf]</a></td></tr>
 <tr><td><a href='https://gencad.github.io/'>GenCAD</a></td></tr>
-<tr><td><a href='https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518'>Multiple commencement speakers booed for AI comments during graduation speeches</a></td></tr>
-<tr><td><a href='https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/'>Crystals found inside wreckage from the first nuclear bomb test</a></td></tr>
+<tr><td><a href='https://dogma25.dk/'>Dogme 25 – Vow of Chastity</a></td></tr>
+<tr><td><a href='https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/'>It is time to give up the dualism introduced by the debate on consciousness</a></td></tr>
 </table>
 <!-- END:news -->
 
