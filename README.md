@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/stephenlthorn/auto-identity-remove'>I automated opt-outs for 500 data broker sites (open source)</a></td></tr>
-<tr><td><a href='http://www.csl.sri.com/users/neumann/psos.pdf'>The foundations of a provably secure operating system (PSOS) (1979) [pdf]</a></td></tr>
-<tr><td><a href='https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf'>Benedict Evans: AI eats the world (Spring 26) [pdf]</a></td></tr>
-<tr><td><a href='https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633'>Linux security mailing list &#x27;almost unmanageable&#x27;</a></td></tr>
+<tr><td><a href='https://github.com/zakirullin/files.md'>Show HN: Files.md – Open-source alternative to Obsidian</a></td></tr>
+<tr><td><a href='https://github.com/2b2tplace/1m_release'>1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries</a></td></tr>
+<tr><td><a href='https://blog.jgc.org/2026/05/the-aperiodic-table.html'>The Aperiodic Table</a></td></tr>
+<tr><td><a href='https://www.bbc.co.uk/news/articles/cvg0yy3gp71o'>&#x27;We mould trees to grow into the shape of chairs&#x27;</a></td></tr>
 <tr><td><a href='https://storica.club/blog/alice-is-math-jokes/'>Math Jokes in Alice in Wonderland</a></td></tr>
 </table>
 <!-- END:news -->
