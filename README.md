@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gencad.github.io/'>GenCAD</a></td></tr>
-<tr><td><a href='https://github.com/open-energy-transition/grid2poster'>Design posters showcasing your country&#x27;s electrical grid</a></td></tr>
-<tr><td><a href='https://www.jdhodges.com/blog/thinkpad-history/'>The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations</a></td></tr>
-<tr><td><a href='https://jank-lang.org/blog/2026-05-08-optimization/'>Jank now has its own custom IR</a></td></tr>
+<tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
 <tr><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td></tr>
+<tr><td><a href='https://askanastronaut.issinrealtime.org/'>Ask an Astronaut: 333 hours of Q&#x26;A footage with astronauts</a></td></tr>
+<tr><td><a href='https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base'>Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely</a></td></tr>
 </table>
 <!-- END:news -->
 
