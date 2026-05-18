@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/stephenlthorn/auto-identity-remove'>I automated opt-outs for 500 data broker sites (open source)</a></td></tr>
 <tr><td><a href='http://www.csl.sri.com/users/neumann/psos.pdf'>The foundations of a provably secure operating system (PSOS) (1979) [pdf]</a></td></tr>
-<tr><td><a href='https://gencad.github.io/'>GenCAD</a></td></tr>
-<tr><td><a href='https://dogma25.dk/'>Dogme 25 – Vow of Chastity</a></td></tr>
-<tr><td><a href='https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/'>It is time to give up the dualism introduced by the debate on consciousness</a></td></tr>
+<tr><td><a href='https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf'>Benedict Evans: AI eats the world (Spring 26) [pdf]</a></td></tr>
+<tr><td><a href='https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633'>Linux security mailing list &#x27;almost unmanageable&#x27;</a></td></tr>
+<tr><td><a href='https://storica.club/blog/alice-is-math-jokes/'>Math Jokes in Alice in Wonderland</a></td></tr>
 </table>
 <!-- END:news -->
 
