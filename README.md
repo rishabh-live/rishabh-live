@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://carette.xyz/posts/who_will_buy_your_services/'>Who will buy your services if you fire us all?</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/anthropic-acquires-stainless'>Anthropic acquires Stainless</a></td></tr>
 <tr><td><a href='https://hyperpolyglot.org/lisp'>Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp</a></td></tr>
 <tr><td><a href='https://archestra.ai/blog/only-responsible-ai'>We stopped AI bot spam in our GitHub repo using Git&#x27;s –author flag</a></td></tr>
 <tr><td><a href='https://andonlabs.com/blog/andon-fm'>We let AIs run radio stations</a></td></tr>
+<tr><td><a href='https://carette.xyz/posts/who_will_buy_your_services/'>Who will buy your services if you fire us all?</a></td></tr>
 </table>
 <!-- END:news -->
 
