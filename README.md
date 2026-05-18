@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://archestra.ai/blog/only-responsible-ai'>We stopped AI bot spam in our GitHub repo using Git&#x27;s –author flag</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/anthropic-acquires-stainless'>Anthropic Acquires Stainless</a></td></tr>
 <tr><td><a href='https://github.com/zakirullin/files.md'>Show HN: Files.md – Open-source alternative to Obsidian</a></td></tr>
 <tr><td><a href='https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden'>The Quiet Renovation at Bitwarden</a></td></tr>
-<tr><td><a href='https://github.com/2b2tplace/1m_release'>1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/cyber-frontier-models/'>Project Glasswing: what Mythos showed us</a></td></tr>
 </table>
 <!-- END:news -->
