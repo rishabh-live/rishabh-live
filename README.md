@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gencad.github.io/'>GenCAD</a></td></tr>
+<tr><td><a href='https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/'>Crystals found inside wreckage from the first nuclear bomb test</a></td></tr>
+<tr><td><a href='https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/'>It is time to give up the dualism introduced by the debate on consciousness</a></td></tr>
 <tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
 <tr><td><a href='https://askanastronaut.issinrealtime.org/'>Ask an Astronaut: 333 hours of Q&#x26;A footage with astronauts</a></td></tr>
-<tr><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td></tr>
-<tr><td><a href='https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/'>It is time to give up the dualism introduced by the debate on consciousness</a></td></tr>
 </table>
 <!-- END:news -->
 
