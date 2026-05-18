@@ -24,8 +24,8 @@
 <tr><td><a href='https://gencad.github.io/'>GenCAD</a></td></tr>
 <tr><td><a href='https://github.com/tech4bot/rk3562deb'>I turned a $80 RK3562 Android tablet into a Debian Linux workstation</a></td></tr>
 <tr><td><a href='https://askanastronaut.issinrealtime.org/'>Ask an Astronaut: 333 hours of Q&#x26;A footage with astronauts</a></td></tr>
-<tr><td><a href='https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/'>There Is No &#x27;Hard Problem of Consciousness&#x27;</a></td></tr>
 <tr><td><a href='https://www.metalevel.at/prolog/horror'>Prolog Coding Horror</a></td></tr>
+<tr><td><a href='https://hellmood.111mb.de//wake_up_16b_writeup.html'>WriteUp: 16 Bytes of x86 that turn Matrix rain into sound</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
