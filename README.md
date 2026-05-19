@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/'>Gemini 3.5 Flash</a></td></tr>
 <tr><td><a href='https://virtualosmuseum.org/'>I’ve built a virtual museum with nearly every operating system you can think of</a></td></tr>
+<tr><td><a href='https://blog.google/products-and-platforms/products/search/search-io-2026/'>Google changes its search box</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/'>Apple unveils new accessibility features</a></td></tr>
 <tr><td><a href='https://twitter.com/karpathy/status/2056753169888334312'>I’ve joined Anthropic</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/'>Google Search as you know it is over</a></td></tr>
-<tr><td><a href='https://superspl.at/scene/84df8849'>Gaussian Splat of a Strawberry</a></td></tr>
 </table>
 <!-- END:news -->
 
