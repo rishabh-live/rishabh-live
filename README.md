@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://simonwillison.net/2026/May/19/5-minute-llms/'>The last six months in LLMs in five minutes</a></td></tr>
-<tr><td><a href='https://jxnl.co/writing/2026/05/10/codex-maxxing/'>Codex-maxxing</a></td></tr>
-<tr><td><a href='https://clickclickclick.click/'>Click (2016)</a></td></tr>
-<tr><td><a href='https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell'>Anyone on the Internet Can Ring Your Doorbell</a></td></tr>
 <tr><td><a href='https://www.kv4p.com/'>Turn your Android phone into a ham radio transceiver</a></td></tr>
+<tr><td><a href='https://clickclickclick.click/'>Click (2016)</a></td></tr>
+<tr><td><a href='https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html'>Peter Neumann has died</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/anthropic-acquires-stainless'>Anthropic acquires Stainless</a></td></tr>
 </table>
 <!-- END:news -->
 
