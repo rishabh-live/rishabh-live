@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://simonwillison.net/2026/May/19/5-minute-llms/'>The last six months in LLMs in five minutes</a></td></tr>
+<tr><td><a href='https://superspl.at/scene/84df8849'>Gaussian Splat of a Strawberry</a></td></tr>
 <tr><td><a href='https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314'>I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert</a></td></tr>
+<tr><td><a href='https://polypad.amplify.com/'>Polypad</a></td></tr>
 <tr><td><a href='https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html'>Peter Neumann has died</a></td></tr>
-<tr><td><a href='https://www.kv4p.com/'>Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone</a></td></tr>
 <tr><td><a href='https://clickclickclick.click/'>Click (2016)</a></td></tr>
 </table>
 <!-- END:news -->
