@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://virtualosmuseum.org/'>I&#x27;ve built a virtual museum with nearly every operating system you can think of</a></td></tr>
+<tr><td><a href='https://virtualosmuseum.org/'>I’ve built a virtual museum with nearly every operating system you can think of</a></td></tr>
+<tr><td><a href='https://io.google/2026/'>Google I&#x2F;O</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/'>Apple unveils new accessibility features</a></td></tr>
 <tr><td><a href='https://twitter.com/karpathy/status/2056753169888334312'>I’ve joined Anthropic</a></td></tr>
-<tr><td><a href='https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html'>Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities</a></td></tr>
 <tr><td><a href='https://superspl.at/scene/84df8849'>Gaussian Splat of a Strawberry</a></td></tr>
 </table>
 <!-- END:news -->
