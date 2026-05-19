@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://clickclickclick.click/'>Click</a></td></tr>
+<tr><td><a href='https://clickclickclick.click/'>Click (2016)</a></td></tr>
+<tr><td><a href='https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html'>Anthropic co-founder to present AI encyclical alongside Pope Leo XIV</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/anthropic-acquires-stainless'>Anthropic acquires Stainless</a></td></tr>
 <tr><td><a href='https://hyperpolyglot.org/lisp'>Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp</a></td></tr>
 <tr><td><a href='https://archestra.ai/blog/only-responsible-ai'>We stopped AI bot spam in our GitHub repo using Git&#x27;s –author flag</a></td></tr>
-<tr><td><a href='https://andonlabs.com/blog/andon-fm'>We let AIs run radio stations</a></td></tr>
 </table>
 <!-- END:news -->
 
