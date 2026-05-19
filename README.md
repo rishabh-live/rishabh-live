@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html'>Peter Salus has died</a></td></tr>
-<tr><td><a href='https://clickclickclick.click/'>Click (2016)</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/May/19/5-minute-llms/'>The last six months in LLMs in five minutes</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/anthropic-acquires-stainless'>Anthropic acquires Stainless</a></td></tr>
-<tr><td><a href='https://nicholas.carlini.com/writing/2025/regex-chess.html'>Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions</a></td></tr>
+<tr><td><a href='https://clickclickclick.click/'>Click (2016)</a></td></tr>
+<tr><td><a href='https://pytorch.landscape2.io'>PyTorch Landscape</a></td></tr>
+<tr><td><a href='https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell'>Anyone on the Internet Can Ring Your Doorbell</a></td></tr>
+<tr><td><a href='https://jxnl.co/writing/2026/05/10/codex-maxxing/'>Codex-Maxxing</a></td></tr>
 </table>
 <!-- END:news -->
 
