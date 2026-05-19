@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html'>Peter Salus has died</a></td></tr>
 <tr><td><a href='https://clickclickclick.click/'>Click (2016)</a></td></tr>
-<tr><td><a href='https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html'>Anthropic co-founder to present AI encyclical alongside Pope Leo XIV</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/May/19/5-minute-llms/'>The last six months in LLMs in five minutes</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/anthropic-acquires-stainless'>Anthropic acquires Stainless</a></td></tr>
-<tr><td><a href='https://hyperpolyglot.org/lisp'>Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp</a></td></tr>
-<tr><td><a href='https://archestra.ai/blog/only-responsible-ai'>We stopped AI bot spam in our GitHub repo using Git&#x27;s –author flag</a></td></tr>
+<tr><td><a href='https://nicholas.carlini.com/writing/2025/regex-chess.html'>Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions</a></td></tr>
 </table>
 <!-- END:news -->
 
