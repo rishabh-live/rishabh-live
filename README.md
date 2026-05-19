@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://superspl.at/scene/84df8849'>Gaussian Splat of a Strawberry</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/'>New accessibility features powered by Apple Intelligence</a></td></tr>
-<tr><td><a href='https://github.com/Diolinux/PhotoGIMP'>Photo GIMP – A Patch for GIMP 3 for Photoshop Users</a></td></tr>
-<tr><td><a href='https://github.com/vostride/id-agent'>Show HN: Id-agent – Token efficient UUID alternative for AI agents</a></td></tr>
+<tr><td><a href='https://superspl.at/scene/84df8849'>Gaussian Splat of a Strawberry</a></td></tr>
+<tr><td><a href='https://www.openbsd.org/79.html'>OpenBSD 7.9 Released</a></td></tr>
 <tr><td><a href='https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314'>I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert</a></td></tr>
+<tr><td><a href='https://github.com/status-im/nim-presto'>Nim-Presto – REST API Framework for Nim Language</a></td></tr>
 </table>
 <!-- END:news -->
 
