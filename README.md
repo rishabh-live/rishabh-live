@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html'>Everything in C is undefined behavior</a></td></tr>
+<tr><td><a href='https://www.alqst.org/ar/posts/1190'>Meta blocks human rights accounts from reaching audiences in Arabia and the UAE</a></td></tr>
 <tr><td><a href='https://mapofmetal.com/'>Map of Metal</a></td></tr>
-<tr><td><a href='https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html'>Learnings from 100K lines of Rust with AI (2025)</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/'>Gemini 3.5 Flash</a></td></tr>
-<tr><td><a href='https://fivethirtyeightindex.com/'>FiveThirtyEight articles on the Internet Archive</a></td></tr>
+<tr><td><a href='https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html'>Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.7'>Qwen3.7-Max: The Agent Frontier</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=KnUFH5GX_fI'>Nobody understands the point of hybrid cars [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
