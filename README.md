@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html'>Everything in C is undefined behavior</a></td></tr>
 <tr><td><a href='https://status.railway.com/?date=20260519'>Railway Blocked by Google Cloud</a></td></tr>
+<tr><td><a href='https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html'>Everything in C is undefined behavior</a></td></tr>
 <tr><td><a href='https://fivethirtyeightindex.com/'>FiveThirtyEight articles on the Internet Archive</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/'>Gemini 3.5 Flash</a></td></tr>
-<tr><td><a href='https://virtualosmuseum.org/'>I’ve built a virtual museum with nearly every operating system you can think of</a></td></tr>
+<tr><td><a href='https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going'>There&#x27;s no earthly way of knowing which direction we are going</a></td></tr>
 </table>
 <!-- END:news -->
 
