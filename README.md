@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage'>Incident Report: May 19, 2026 – GCP Account Suspension</a></td></tr>
-<tr><td><a href='https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/'>SBCL: the ultimate assembly code breadboard (2014)</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.7'>Qwen3.7-Max: The Agent Frontier</a></td></tr>
-<tr><td><a href='https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html'>Saying Goodbye to Asm.js</a></td></tr>
 <tr><td><a href='https://mikeveerman.github.io/tokenspeed/'>How fast is N tokens per second really?</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.7'>Qwen3.7-Max: The Agent Frontier</a></td></tr>
+<tr><td><a href='https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/'>SBCL: the ultimate assembly code breadboard (2014)</a></td></tr>
+<tr><td><a href='https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html'>Saying Goodbye to Asm.js</a></td></tr>
 </table>
 <!-- END:news -->
 
