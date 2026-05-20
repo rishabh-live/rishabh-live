@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/model-disproves-discrete-geometry-conjecture/'>An OpenAI model has disproved a central conjecture in discrete geometry</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/'>GitHub confirms breach of 3,800 repos via malicious VSCode extension</a></td></tr>
-<tr><td><a href='https://mikeveerman.github.io/tokenspeed/'>How fast is N tokens per second really?</a></td></tr>
 <tr><td><a href='https://docs.flipper.net/one/general/tech-specs'>Flipper One Tech Specs</a></td></tr>
-<tr><td><a href='https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html'>Why is Inkwell stuck in review</a></td></tr>
+<tr><td><a href='https://mikeveerman.github.io/tokenspeed/'>How fast is N tokens per second really?</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing'>Not alive, but not dead: disembodied human brains used for drug testing</a></td></tr>
 </table>
 <!-- END:news -->
 
