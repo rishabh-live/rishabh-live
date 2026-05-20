@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.alqst.org/ar/posts/1190'>Meta blocks human rights accounts from reaching audiences in Arabia and the UAE</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.7'>Qwen3.7-Max: The Agent Frontier</a></td></tr>
-<tr><td><a href='https://mapofmetal.com/'>Map of Metal</a></td></tr>
 <tr><td><a href='https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html'>Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment</a></td></tr>
-<tr><td><a href='https://bmjgroup.com/560-610-minutes-of-exercise-a-week-needed-for-substantial-heart-benefits/'>560-610 minutes of exercise a week needed for substantial heart benefits</a></td></tr>
+<tr><td><a href='https://lithub.com/nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel/'>Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.7'>Qwen3.7-Max: The Agent Frontier</a></td></tr>
+<tr><td><a href='https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html'>Saying Goodbye to Asm.js</a></td></tr>
 </table>
 <!-- END:news -->
 
