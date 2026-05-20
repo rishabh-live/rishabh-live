@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://status.railway.com/?date=20260519'>Railway Blocked by Google Cloud</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/'>Gemini 3.5 Flash</a></td></tr>
+<tr><td><a href='https://fivethirtyeightindex.com/'>Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive</a></td></tr>
 <tr><td><a href='https://virtualosmuseum.org/'>I’ve built a virtual museum with nearly every operating system you can think of</a></td></tr>
 <tr><td><a href='https://blog.google/products-and-platforms/products/search/search-io-2026/'>Google changes its search box</a></td></tr>
-<tr><td><a href='https://github.com/wiltodelta/remove-ai-watermarks'>Remove–AI–Watermarks – CLI and library for removing AI watermarks from images</a></td></tr>
 </table>
 <!-- END:news -->
 
