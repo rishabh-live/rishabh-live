@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage'>Incident Report: May 19, 2026 – GCP Account Suspension</a></td></tr>
+<tr><td><a href='https://openai.com/index/model-disproves-discrete-geometry-conjecture/'>An OpenAI model has disproved a central conjecture in discrete geometry</a></td></tr>
+<tr><td><a href='https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/'>GitHub confirms breach of 3,800 repos via malicious VSCode extension</a></td></tr>
 <tr><td><a href='https://mikeveerman.github.io/tokenspeed/'>How fast is N tokens per second really?</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.7'>Qwen3.7-Max: The Agent Frontier</a></td></tr>
-<tr><td><a href='https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/'>SBCL: the ultimate assembly code breadboard (2014)</a></td></tr>
-<tr><td><a href='https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html'>Saying Goodbye to Asm.js</a></td></tr>
+<tr><td><a href='https://docs.flipper.net/one/general/tech-specs'>Flipper One Tech Specs</a></td></tr>
+<tr><td><a href='https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html'>Why is Inkwell stuck in review</a></td></tr>
 </table>
 <!-- END:news -->
 
