@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/model-disproves-discrete-geometry-conjecture/'>An OpenAI model has disproved a central conjecture in discrete geometry</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/'>GitHub confirms breach of 3,800 repos via malicious VSCode extension</a></td></tr>
-<tr><td><a href='https://www.spacex.com/launches/starship-flight-12'>Starship&#x27;s Twelfth Flight Test</a></td></tr>
 <tr><td><a href='https://docs.flipper.net/one/general/tech-specs'>Flipper One Tech Specs</a></td></tr>
-<tr><td><a href='https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/'>Google Declaring War on the Web</a></td></tr>
+<tr><td><a href='https://dos.zone/'>DOS Zone</a></td></tr>
+<tr><td><a href='https://mikeveerman.github.io/tokenspeed/'>How fast is N tokens per second really?</a></td></tr>
 </table>
 <!-- END:news -->
 
