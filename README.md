@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/'>Waymo pauses Atlanta service as its robotaxis keep driving into floods</a></td></tr>
-<tr><td><a href='https://blog.flipper.net/flipper-one-we-need-your-help/'>Flipper One – we need your help</a></td></tr>
+<tr><td><a href='https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/'>Amazon, Facebook, FBI have access to a private intelligence-sharing network</a></td></tr>
 <tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
+<tr><td><a href='https://blog.flipper.net/flipper-one-we-need-your-help/'>Flipper One – we need your help</a></td></tr>
 <tr><td><a href='https://blog.simbastack.com/indexed-a-year-of-video-locally/'>Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir'>London Mayor Blocks Palantir</a></td></tr>
+<tr><td><a href='https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/'>Was my $48K GPU server worth it?</a></td></tr>
 </table>
 <!-- END:news -->
 
