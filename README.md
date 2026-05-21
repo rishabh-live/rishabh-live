@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.flipper.net/flipper-one-we-need-your-help/'>Flipper One – we need your help</a></td></tr>
 <tr><td><a href='https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html'>Python 3.15: features that didn&#x27;t make the headlines</a></td></tr>
+<tr><td><a href='https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c'>Gemini randomly dumped its system prompt</a></td></tr>
+<tr><td><a href='https://blog.google/products/ads-commerce/google-marketing-live-search-ads/'>Google officially announces that ads will be included in AI Mode search results</a></td></tr>
 <tr><td><a href='https://github.com/helvesec/rmux'>Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK</a></td></tr>
-<tr><td><a href='https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home'>A Girl Who Couldn&#x27;t Draw Home</a></td></tr>
-<tr><td><a href='https://openai.com/index/model-disproves-discrete-geometry-conjecture/'>An OpenAI model has disproved a central conjecture in discrete geometry</a></td></tr>
 </table>
 <!-- END:news -->
 
