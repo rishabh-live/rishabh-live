@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/'>Amazon, Facebook, FBI have access to a private intelligence-sharing network</a></td></tr>
 <tr><td><a href='https://www.barebones.com/products/bbedit/bbedit16.html'>BBEdit 16</a></td></tr>
 <tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
-<tr><td><a href='https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/'>More than 340 local news outlets are limiting the Internet Archive&#x27;s access</a></td></tr>
 <tr><td><a href='https://blog.flipper.net/flipper-one-we-need-your-help/'>Flipper One – we need your help</a></td></tr>
+<tr><td><a href='https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/'>Seattle Shield, an intelligence-sharing network operated by the Seattle police</a></td></tr>
+<tr><td><a href='https://freenet.org/'>Show HN: Freenet, a peer-to-peer platform for decentralized apps</a></td></tr>
 </table>
 <!-- END:news -->
 
