@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.flipper.net/flipper-one-we-need-your-help/'>Flipper One – we need your help</a></td></tr>
-<tr><td><a href='https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html'>Python 3.15: features that didn&#x27;t make the headlines</a></td></tr>
-<tr><td><a href='https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c'>Gemini randomly dumped its system prompt</a></td></tr>
+<tr><td><a href='https://www.0xsid.com/blog/antigravity-bait-n-switch'>Google&#x27;s Antigravity Bait and Switch</a></td></tr>
 <tr><td><a href='https://blog.google/products/ads-commerce/google-marketing-live-search-ads/'>Google officially announces that ads will be included in AI Mode search results</a></td></tr>
-<tr><td><a href='https://github.com/helvesec/rmux'>Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK</a></td></tr>
+<tr><td><a href='https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html'>Python 3.15: features that didn&#x27;t make the headlines</a></td></tr>
+<tr><td><a href='https://www.bigfinish.com/news/v/michael-keating-1947-2026'>Michael Keating has died</a></td></tr>
 </table>
 <!-- END:news -->
 
