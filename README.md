@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/model-disproves-discrete-geometry-conjecture/'>An OpenAI model has disproved a central conjecture in discrete geometry</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/'>GitHub confirms breach of 3,800 repos via malicious VSCode extension</a></td></tr>
+<tr><td><a href='https://vivaldi.com/blog/vivaldi-on-desktop-8-0/'>Vivaldi 8.0</a></td></tr>
 <tr><td><a href='https://discourse.haskell.org/t/haskell-foundation-2026-update/14136'>Haskell Foundation 2026 Update</a></td></tr>
 <tr><td><a href='https://github.com/kageroumado/phosphene'>Show HN: I reverse engineered Apple&#x27;s video wallpapers</a></td></tr>
-<tr><td><a href='https://developers.redhat.com/articles/2026/04/28/gcc-16-improved-error-messages-sarif-output'>New features in GCC 16: Improved error messages and SARIF output</a></td></tr>
 </table>
 <!-- END:news -->
 
