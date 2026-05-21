@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/model-disproves-discrete-geometry-conjecture/'>An OpenAI model has disproved a central conjecture in discrete geometry</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/'>GitHub confirms breach of 3,800 repos via malicious VSCode extension</a></td></tr>
+<tr><td><a href='https://github.com/kageroumado/phosphene'>Show HN: I reverse engineered Apple&#x27;s video wallpapers</a></td></tr>
 <tr><td><a href='https://dos.zone/'>DOS Zone</a></td></tr>
-<tr><td><a href='https://github.com/kageroumado/phosphene'>I reverse engineered Apple&#x27;s video wallpapers</a></td></tr>
-<tr><td><a href='https://legiscan.com/CO/bill/SB051/2026'>Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects</a></td></tr>
+<tr><td><a href='https://gwern.net/doc/design/typography/1980-knuth.pdf'>The Letter S, by Donald Knuth (1980) [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
