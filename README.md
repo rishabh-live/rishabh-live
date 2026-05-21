@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/'>Waymo pauses Atlanta service as its robotaxis keep driving into floods</a></td></tr>
 <tr><td><a href='https://blog.flipper.net/flipper-one-we-need-your-help/'>Flipper One – we need your help</a></td></tr>
-<tr><td><a href='https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html'>Python 3.15: features that didn&#x27;t make the headlines</a></td></tr>
-<tr><td><a href='https://www.bigfinish.com/news/v/michael-keating-1947-2026'>Michael Keating has died</a></td></tr>
+<tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
 <tr><td><a href='https://blog.simbastack.com/indexed-a-year-of-video-locally/'>Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)</a></td></tr>
-<tr><td><a href='https://blog.google/products/ads-commerce/google-marketing-live-search-ads/'>We&#x27;re testing new ad formats in Search and expanding our Direct Offers pilot</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir'>London Mayor Blocks Palantir</a></td></tr>
 </table>
 <!-- END:news -->
 
