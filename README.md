@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.anthropic.com/research/glasswing-initial-update'>Project Glasswing: An Initial Update</a></td></tr>
 <tr><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators'>U.S. researchers face new restrictions on publishing with foreign collaborators</a></td></tr>
 <tr><td><a href='https://www.kanbots.dev/'>Open source Kanban desktop app that runs parallel agents on every card</a></td></tr>
 <tr><td><a href='https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full'>A scoping review of bicycling interventions’ impacts on well-being</a></td></tr>
-<tr><td><a href='https://deno.com/blog/v2.8'>Deno 2.8</a></td></tr>
 </table>
 <!-- END:news -->
 
