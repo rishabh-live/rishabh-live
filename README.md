@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://arxiv.org/abs/2605.19269'>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</a></td></tr>
 <tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
-<tr><td><a href='https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space'>The surprising story behind the first British person in space</a></td></tr>
 <tr><td><a href='https://slumber.lucaspickering.me'>Slumber a TUI HTTP Client</a></td></tr>
-<tr><td><a href='https://pythongiant.github.io/KVBoost/'>Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT</a></td></tr>
+<tr><td><a href='https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space'>The surprising story behind the first British person in space</a></td></tr>
+<tr><td><a href='https://www.mathworks.com/company/aboutus/founders/clevemoler.html'>Cleve Moler has died</a></td></tr>
 </table>
 <!-- END:news -->
 
