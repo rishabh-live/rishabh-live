@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://abuseofnotation.github.io/boolean-thinking/'>The case against boolean logic</a></td></tr>
 <tr><td><a href='https://modelrift.com/blog/openscad-llm-benchmark/'>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</a></td></tr>
-<tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
-<tr><td><a href='https://slumber.lucaspickering.me'>Slumber a TUI HTTP Client</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2605.19269'>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</a></td></tr>
+<tr><td><a href='https://annas-archive.gl/blog/llms-txt.html'>If you&#x27;re an LLM, please read this – Anna&#x27;s Blog</a></td></tr>
+<tr><td><a href='https://abuseofnotation.github.io/boolean-thinking/'>The case against boolean logic</a></td></tr>
+<tr><td><a href='http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html'>Chess Invariants</a></td></tr>
+<tr><td><a href='https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5'>Steve Wozniak cheered after telling students they have AI – actual intelligence</a></td></tr>
 </table>
 <!-- END:news -->
 
