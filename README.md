@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
 <tr><td><a href='https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/'>Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD</a></td></tr>
+<tr><td><a href='https://qz.com/samsung-chip-workers-bonus-ai-profits-052126'>Samsung chip workers will get an average $340k bonus as AI profits soar</a></td></tr>
 <tr><td><a href='https://veroniiiica.com/using-kagi-search-with-low-vision/'>Using Kagi Search with Low Vision</a></td></tr>
-<tr><td><a href='https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/'>The Death of the Brick and Mortar Toy Store</a></td></tr>
-<tr><td><a href='https://www.loopwerk.io/articles/2026/uv-ux-mess/'>Uv is fantastic, but its package management UX is a mess</a></td></tr>
+<tr><td><a href='https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/'>Was my $48K GPU server worth it?</a></td></tr>
 </table>
 <!-- END:news -->
 
