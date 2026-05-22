@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://abuseofnotation.github.io/boolean-thinking/'>The case against boolean logic</a></td></tr>
+<tr><td><a href='https://modelrift.com/blog/openscad-llm-benchmark/'>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</a></td></tr>
 <tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2605.19269'>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</a></td></tr>
 <tr><td><a href='https://slumber.lucaspickering.me'>Slumber a TUI HTTP Client</a></td></tr>
-<tr><td><a href='https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space'>The surprising story behind the first British person in space</a></td></tr>
-<tr><td><a href='https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/'>Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2605.19269'>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</a></td></tr>
 </table>
 <!-- END:news -->
 
