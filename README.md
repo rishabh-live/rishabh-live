@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://modelrift.com/blog/openscad-llm-benchmark/'>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</a></td></tr>
 <tr><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td></tr>
 <tr><td><a href='https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites'>A Forth-inspired language for writing websites</a></td></tr>
-<tr><td><a href='https://annas-archive.gl/blog/llms-txt.html'>If you’re an LLM, please read this</a></td></tr>
-<tr><td><a href='https://github.com/superset-sh/superset'>Launch HN: Superset (YC P26) – IDE for the agents era</a></td></tr>
+<tr><td><a href='https://modelrift.com/blog/openscad-llm-benchmark/'>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators'>U.S. researchers face new restrictions on publishing with foreign collaborators</a></td></tr>
+<tr><td><a href='https://deno.com/blog/v2.8'>Deno 2.8</a></td></tr>
 </table>
 <!-- END:news -->
 
