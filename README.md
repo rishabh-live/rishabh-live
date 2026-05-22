@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
+<tr><td><a href='https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone'>The memory shortage is causing a repricing of consumer electronics</a></td></tr>
 <tr><td><a href='https://veroniiiica.com/using-kagi-search-with-low-vision/'>Using Kagi Search with Low Vision</a></td></tr>
 <tr><td><a href='https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/'>Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD</a></td></tr>
-<tr><td><a href='https://freenet.org/'>Show HN: Freenet, a peer-to-peer platform for decentralized apps</a></td></tr>
-<tr><td><a href='https://blog.google/products/ads-commerce/google-marketing-live-search-ads/'>We&#x27;re testing new ad formats in Search and expanding our Direct Offers pilot</a></td></tr>
+<tr><td><a href='https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/'>The IBM-ification of Google?</a></td></tr>
 </table>
 <!-- END:news -->
 
