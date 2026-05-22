@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://annas-archive.gl/blog/llms-txt.html'>If you&#x27;re an LLM, please read this – Anna&#x27;s Blog</a></td></tr>
-<tr><td><a href='https://modelrift.com/blog/openscad-llm-benchmark/'>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</a></td></tr>
+<tr><td><a href='https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/'>The AI Elephant in the Room</a></td></tr>
 <tr><td><a href='https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt'>The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn&#x27;t</a></td></tr>
-<tr><td><a href='http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html'>Chess Invariants</a></td></tr>
-<tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
+<tr><td><a href='https://modelrift.com/blog/openscad-llm-benchmark/'>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</a></td></tr>
+<tr><td><a href='https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better'>Breakthroughs for batteries could soon make them better</a></td></tr>
 </table>
 <!-- END:news -->
 
