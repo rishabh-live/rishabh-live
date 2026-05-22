@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2605.19269'>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</a></td></tr>
 <tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2605.19269'>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</a></td></tr>
 <tr><td><a href='https://slumber.lucaspickering.me'>Slumber a TUI HTTP Client</a></td></tr>
 <tr><td><a href='https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space'>The surprising story behind the first British person in space</a></td></tr>
-<tr><td><a href='https://www.mathworks.com/company/aboutus/founders/clevemoler.html'>Cleve Moler has died</a></td></tr>
+<tr><td><a href='https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/'>Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD</a></td></tr>
 </table>
 <!-- END:news -->
 
