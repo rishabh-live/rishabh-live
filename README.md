@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2605.19269'>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</a></td></tr>
 <tr><td><a href='https://valhovey.github.io/gaia-mary/'>Project Hail Mary – Stellar Navigation Chart</a></td></tr>
-<tr><td><a href='https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/'>Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD</a></td></tr>
-<tr><td><a href='https://qz.com/samsung-chip-workers-bonus-ai-profits-052126'>Samsung chip workers will get an average $340k bonus as AI profits soar</a></td></tr>
-<tr><td><a href='https://veroniiiica.com/using-kagi-search-with-low-vision/'>Using Kagi Search with Low Vision</a></td></tr>
-<tr><td><a href='https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/'>Was my $48K GPU server worth it?</a></td></tr>
+<tr><td><a href='https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space'>The surprising story behind the first British person in space</a></td></tr>
+<tr><td><a href='https://slumber.lucaspickering.me'>Slumber a TUI HTTP Client</a></td></tr>
+<tr><td><a href='https://pythongiant.github.io/KVBoost/'>Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT</a></td></tr>
 </table>
 <!-- END:news -->
 
