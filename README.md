@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators'>U.S. researchers face new restrictions on publishing with foreign collaborators</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/'>You can no longer Google the word &#x27;disregard&#x27;</a></td></tr>
+<tr><td><a href='https://github.com/yt-dlp/yt-dlp/issues/16766'>Yt-dlp – [Announcement] Bun support is now limited and deprecated</a></td></tr>
+<tr><td><a href='https://www.kanbots.dev/'>Open source Kanban desktop app that runs parallel agents on every card</a></td></tr>
 <tr><td><a href='https://modelrift.com/blog/openscad-llm-benchmark/'>Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark</a></td></tr>
-<tr><td><a href='https://deno.com/blog/v2.8'>Deno 2.8</a></td></tr>
 </table>
 <!-- END:news -->
 
