@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda'>Shipping a Laptop to a Refugee Camp in Uganda</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/research/glasswing-initial-update'>Project Glasswing: An Initial Update</a></td></tr>
+<tr><td><a href='https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda'>Shipping a laptop to a refugee camp in Uganda</a></td></tr>
 <tr><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/research/glasswing-initial-update'>Project Glasswing: An Initial Update</a></td></tr>
 <tr><td><a href='https://modrinth.com/mod/waylandcraft'>A Wayland Compositor in Minecraft</a></td></tr>
 <tr><td><a href='https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug'>Sleep research led to a new sleep apnea drug</a></td></tr>
 </table>
