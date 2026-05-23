@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://veronicaexplains.net/my-first-writerdeck/'>It&#x27;s time to talk about my writerdeck</a></td></tr>
 <tr><td><a href='https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/'>dotNET (OK, C#) gets union types</a></td></tr>
-<tr><td><a href='https://io.google/2026/explore/workshop-2'>Software Engineering at the Tipping Point</a></td></tr>
 <tr><td><a href='https://benmyers.dev/blog/on-the-dl/'>On The &#x3C;dl&#x3E; (2021)</a></td></tr>
 <tr><td><a href='https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality'>Texas woman arrested for Facebook post about town water quality</a></td></tr>
+<tr><td><a href='https://ironpeak.be/blog/bypassing-apple-mie/'>Pardon MIE?</a></td></tr>
 </table>
 <!-- END:news -->
 
