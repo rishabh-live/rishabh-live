@@ -23,7 +23,7 @@
 <table>
 <tr><td><a href='https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda'>Shipping a laptop to a refugee camp in Uganda</a></td></tr>
 <tr><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td></tr>
-<tr><td><a href='https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/'>Kindle loyalists scramble as Amazon turns page on old e-readers</a></td></tr>
+<tr><td><a href='https://github.com/amatsuda/rubish'>Rubish: A Unix shell written in pure Ruby</a></td></tr>
 <tr><td><a href='https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html'>The quadratic sandwich</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/research/glasswing-initial-update'>Project Glasswing: An Initial Update</a></td></tr>
 </table>
