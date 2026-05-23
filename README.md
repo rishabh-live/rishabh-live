@@ -25,7 +25,7 @@
 <tr><td><a href='https://susam.net/do-not-roll-your-own.html'>Don&#x27;t Roll Your Own</a></td></tr>
 <tr><td><a href='https://arslan.io/2025/11/18/my-two-part-desk-setup/'>My two-part desk setup (2025)</a></td></tr>
 <tr><td><a href='https://benmyers.dev/blog/on-the-dl/'>On The &#x3C;dl&#x3E; (2021)</a></td></tr>
-<tr><td><a href='https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/'>.NET (OK, C#) finally gets union types</a></td></tr>
+<tr><td><a href='https://sales-and-dungeons.app/'>Sales and Dungeons: Thermal printer TTRPG utility</a></td></tr>
 </table>
 <!-- END:news -->
 
