@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.reenigne.org/blog/80386-microcode-disassembled/'>80386 Microcode Disassembled</a></td></tr>
+<tr><td><a href='https://horace.io/brrr_intro.html'>Making Deep Learning Go Brrrr from First Principles</a></td></tr>
 <tr><td><a href='https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda'>Shipping a laptop to a refugee camp in Uganda</a></td></tr>
 <tr><td><a href='https://github.com/amatsuda/rubish'>Rubish: A Unix shell written in pure Ruby</a></td></tr>
-<tr><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td></tr>
-<tr><td><a href='https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html'>The quadratic sandwich</a></td></tr>
-<tr><td><a href='https://xcancel.com/josefprusa/status/2054602354851254330'>BambuStudio has been violating PrusaSlicer AGPL license since their fork</a></td></tr>
+<tr><td><a href='https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/'>US tech firms share Dutch regulator officials&#x27; names with Senate</a></td></tr>
 </table>
 <!-- END:news -->
 
