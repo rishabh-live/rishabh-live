@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://benmyers.dev/blog/on-the-dl/'>On The &#x3C;dl&#x3E;</a></td></tr>
+<tr><td><a href='https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/'>Oura says it gets government demands for user data</a></td></tr>
 <tr><td><a href='https://www.reenigne.org/blog/80386-microcode-disassembled/'>80386 Microcode Disassembled</a></td></tr>
-<tr><td><a href='https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/'>Oura says it gets government demands for user data. Will it share how many?</a></td></tr>
-<tr><td><a href='https://horace.io/brrr_intro.html'>Making Deep Learning Go Brrrr from First Principles</a></td></tr>
 <tr><td><a href='https://nand2mario.github.io/posts/2026/z386/'>z386: An Open-Source 80386 Built Around Original Microcode</a></td></tr>
+<tr><td><a href='https://horace.io/brrr_intro.html'>Making Deep Learning Go Brrrr from First Principles</a></td></tr>
 </table>
 <!-- END:news -->
 
