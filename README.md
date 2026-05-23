@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://veronicaexplains.net/my-first-writerdeck/'>It&#x27;s time to talk about my writerdeck</a></td></tr>
-<tr><td><a href='https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/'>.NET (OK, C#) gets union types</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c3w2l249j8go'>CA declares state of emergency as fire crews race to contain toxic chemical leak</a></td></tr>
+<tr><td><a href='https://susam.net/do-not-roll-your-own.html'>Don&#x27;t Roll Your Own</a></td></tr>
 <tr><td><a href='https://arslan.io/2025/11/18/my-two-part-desk-setup/'>My two-part desk setup (2025)</a></td></tr>
 <tr><td><a href='https://benmyers.dev/blog/on-the-dl/'>On The &#x3C;dl&#x3E; (2021)</a></td></tr>
+<tr><td><a href='https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/'>.NET (OK, C#) finally gets union types</a></td></tr>
 </table>
 <!-- END:news -->
 
