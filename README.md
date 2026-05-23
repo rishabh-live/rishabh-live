@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://benmyers.dev/blog/on-the-dl/'>On The &#x3C;dl&#x3E; (2021)</a></td></tr>
-<tr><td><a href='https://arslan.io/2025/11/18/my-two-part-desk-setup/'>My two-part desk setup</a></td></tr>
+<tr><td><a href='https://veronicaexplains.net/my-first-writerdeck/'>It&#x27;s time to talk about my writerdeck</a></td></tr>
 <tr><td><a href='https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html'>Reverse engineering circuitry in a Spacelab computer from 1980</a></td></tr>
 <tr><td><a href='https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality'>Texas woman arrested for Facebook post about town water quality</a></td></tr>
-<tr><td><a href='https://victoriaritvo.com/blog/hengefinder/'>Hengefinder: Finding When the Sun Aligns with Your Street</a></td></tr>
+<tr><td><a href='https://arslan.io/2025/11/18/my-two-part-desk-setup/'>My two-part desk setup</a></td></tr>
 </table>
 <!-- END:news -->
 
