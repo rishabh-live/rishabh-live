@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://isaiprofitable.com/'>Is AI Profitable Yet?</a></td></tr>
 <tr><td><a href='https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda'>Shipping a laptop to a refugee camp in Uganda</a></td></tr>
+<tr><td><a href='https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/'>Microsoft reports AI is more expensive than paying human employees</a></td></tr>
 <tr><td><a href='https://davidoks.blog/p/why-japanese-companies-do-so-many'>Why Japanese companies do so many different things</a></td></tr>
+<tr><td><a href='https://spader.zone/sp/'>Sp.h is the standard library that C deserves</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/research/glasswing-initial-update'>Project Glasswing: An Initial Update</a></td></tr>
-<tr><td><a href='https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html'>Neutron scattering explains why gluten-free pasta falls apart (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
