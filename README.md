@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning'>ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies</a></td></tr>
 <tr><td><a href='https://veronicaexplains.net/my-first-writerdeck/'>It&#x27;s time to talk about my writerdeck</a></td></tr>
-<tr><td><a href='https://susam.net/do-not-roll-your-own.html'>Don&#x27;t Roll Your Own</a></td></tr>
+<tr><td><a href='https://khz.ac/software/i3-integration.html'>My I3-Emacs Integration</a></td></tr>
 <tr><td><a href='https://arslan.io/2025/11/18/my-two-part-desk-setup/'>My two-part desk setup (2025)</a></td></tr>
-<tr><td><a href='https://benmyers.dev/blog/on-the-dl/'>On The &#x3C;dl&#x3E; (2021)</a></td></tr>
 <tr><td><a href='https://sales-and-dungeons.app/'>Sales and Dungeons: Thermal printer TTRPG utility</a></td></tr>
 </table>
 <!-- END:news -->
