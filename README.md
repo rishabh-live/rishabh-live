@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning'>ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies</a></td></tr>
-<tr><td><a href='https://veronicaexplains.net/my-first-writerdeck/'>It&#x27;s time to talk about my writerdeck</a></td></tr>
+<tr><td><a href='https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/'>Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></td></tr>
+<tr><td><a href='https://hellmood.111mb.de/wake_up_16b_writeup.html'>Wake up! 16b</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/'>Scammers are abusing an internal Microsoft account to send spam links</a></td></tr>
+<tr><td><a href='https://veronicaexplains.net/my-first-writerdeck/'>Time to talk about my writerdeck</a></td></tr>
 <tr><td><a href='https://khz.ac/software/i3-integration.html'>My I3-Emacs Integration</a></td></tr>
-<tr><td><a href='https://arslan.io/2025/11/18/my-two-part-desk-setup/'>My two-part desk setup (2025)</a></td></tr>
-<tr><td><a href='https://sales-and-dungeons.app/'>Sales and Dungeons: Thermal printer TTRPG utility</a></td></tr>
 </table>
 <!-- END:news -->
 
