@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://corrode.dev/learn/migration-guides/go-to-rust/'>Migrating from Go to Rust</a></td></tr>
 <tr><td><a href='https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices'>CBP Directive 3340-049B: Border Search of Electronic Devices</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
+<tr><td><a href='https://corrode.dev/learn/migration-guides/go-to-rust/'>Migrating from Go to Rust</a></td></tr>
 <tr><td><a href='https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/'>Australia Four-Day Work Week Study Data Shows Boosted Productivity</a></td></tr>
-<tr><td><a href='https://epoch.ai/data-insights/ai-chip-component-cost-shares'>Memory has grown to nearly two-thirds of AI chip component costs</a></td></tr>
+<tr><td><a href='https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/'>Defeating Git Rigour Fatigue with Jujutsu</a></td></tr>
 </table>
 <!-- END:news -->
 
