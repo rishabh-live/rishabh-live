@@ -22,7 +22,7 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mastering.dyalog.com/README.html'>Mastering Dyalog APL</a></td></tr>
-<tr><td><a href='https://fs.blog/knowledge-project-podcast/greg-brockman/'>Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI</a></td></tr>
+<tr><td><a href='https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/'>Microsoft&#x27;s 6502 BASIC is now Open Source (2025)</a></td></tr>
 <tr><td><a href='https://susam.net/childhood-computing.html'>Childhood Computing</a></td></tr>
 <tr><td><a href='https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html'>I spent 50 hours drawing a line graph</a></td></tr>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/'>Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></td></tr>
