@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://epoch.ai/data-insights/ai-chip-component-cost-shares'>Memory has grown to nearly two-thirds of AI chip component costs</a></td></tr>
-<tr><td><a href='https://usborne.com/us/books/computer-and-coding-books'>Usborne 1980s Computer Books</a></td></tr>
-<tr><td><a href='https://ti.to/codeforgood/rubyforgood'>Ruby for Good</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
+<tr><td><a href='https://ti.to/codeforgood/rubyforgood'>Ruby for Good</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2605.06445'>Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</a></td></tr>
+<tr><td><a href='https://mastering.dyalog.com/README.html'>Mastering Dyalog APL</a></td></tr>
 </table>
 <!-- END:news -->
 
