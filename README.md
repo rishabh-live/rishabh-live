@@ -25,7 +25,7 @@
 <tr><td><a href='https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US'>Why is Vivado 2026.1 dropping Linux support for free tier?</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/'>Scammers are abusing an internal Microsoft account to send spam links</a></td></tr>
 <tr><td><a href='https://hellmood.111mb.de/wake_up_16b_writeup.html'>Wake up! 16b</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/'>Alexander Grothendieck Revolutionized 20th-Century Mathematics</a></td></tr>
+<tr><td><a href='https://www.masswerk.at/nowgobang/2026/c64-dead-test-font'>The C64 Dead Test Font</a></td></tr>
 </table>
 <!-- END:news -->
 
