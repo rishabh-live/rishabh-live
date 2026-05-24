@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/'>Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></td></tr>
-<tr><td><a href='https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US'>Why is Vivado 2026.1 dropping Linux support for free tier?</a></td></tr>
 <tr><td><a href='https://fs.blog/knowledge-project-podcast/greg-brockman/'>Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI</a></td></tr>
+<tr><td><a href='https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US'>Why is Vivado 2026.1 dropping Linux support for free tier?</a></td></tr>
 <tr><td><a href='https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html'>I spent 50 hours drawing a line graph</a></td></tr>
-<tr><td><a href='https://github.com/ClickHouse/silk'>Silk: Open-source cooperative fiber scheduler</a></td></tr>
+<tr><td><a href='https://hellmood.111mb.de/wake_up_16b_writeup.html'>Wake up! 16b</a></td></tr>
 </table>
 <!-- END:news -->
 
