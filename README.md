@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/'>Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;</a></td></tr>
+<tr><td><a href='https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US'>Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?</a></td></tr>
+<tr><td><a href='https://www.adventuresinoss.com/aws-four-years/'>Amazon Web Services – Four Years and Out</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/'>Scammers are abusing an internal Microsoft account to send spam links</a></td></tr>
 <tr><td><a href='https://hellmood.111mb.de/wake_up_16b_writeup.html'>Wake up! 16b</a></td></tr>
-<tr><td><a href='https://veronicaexplains.net/my-first-writerdeck/'>Time to talk about my writerdeck</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html'>Green card seekers must leave U.S. to apply, Trump administration says</a></td></tr>
 </table>
 <!-- END:news -->
 
