@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
+<tr><td><a href='https://usborne.com/us/books/computer-and-coding-books'>Usborne 1980s Computer Books</a></td></tr>
 <tr><td><a href='https://mastering.dyalog.com/README.html'>Mastering Dyalog APL</a></td></tr>
-<tr><td><a href='https://susam.net/childhood-computing.html'>Childhood Computing</a></td></tr>
-<tr><td><a href='https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html'>I spent 50 hours drawing a line graph</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2605.06445'>Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</a></td></tr>
+<tr><td><a href='https://susam.net/childhood-computing.html'>Childhood Computing</a></td></tr>
 </table>
 <!-- END:news -->
 
