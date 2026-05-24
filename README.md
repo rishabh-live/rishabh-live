@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/'>Australia Four-Day Work Week Study Data Shows Boosted Productivity</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
 <tr><td><a href='https://epoch.ai/data-insights/ai-chip-component-cost-shares'>Memory has grown to nearly two-thirds of AI chip component costs</a></td></tr>
-<tr><td><a href='https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/'>Australia Four-Day Work Week Study Data Shows Boosted Productivity</a></td></tr>
 <tr><td><a href='https://ti.to/codeforgood/rubyforgood'>Ruby for Good</a></td></tr>
-<tr><td><a href='https://www.hollandtech.net/claude-is-not-your-architect/'>Claude Is Not Your Architect. Stop Letting It Pretend</a></td></tr>
+<tr><td><a href='https://corrode.dev/learn/migration-guides/go-to-rust/'>Migrating from Go to Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
