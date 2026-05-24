@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://epoch.ai/data-insights/ai-chip-component-cost-shares'>Memory has grown to nearly two-thirds of AI chip component costs</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
+<tr><td><a href='https://epoch.ai/data-insights/ai-chip-component-cost-shares'>Memory has grown to nearly two-thirds of AI chip component costs</a></td></tr>
 <tr><td><a href='https://ti.to/codeforgood/rubyforgood'>Ruby for Good</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2605.06445'>Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</a></td></tr>
-<tr><td><a href='https://mastering.dyalog.com/README.html'>Mastering Dyalog APL</a></td></tr>
+<tr><td><a href='https://www.hollandtech.net/claude-is-not-your-architect/'>Claude Is Not Your Architect. Stop Letting It Pretend</a></td></tr>
 </table>
 <!-- END:news -->
 
