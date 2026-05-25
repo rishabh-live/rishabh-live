@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html'>Magnifica Humanitas (Encyclical Letter)</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/'>Search engines alternatives now that Google isn&#x27;t Google anymore</a></td></tr>
+<tr><td><a href='https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100'>GPT Guesses Between 1 and 100</a></td></tr>
+<tr><td><a href='https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/'>IBM Spins Off the First Pure-Play Quantum Chip Foundry</a></td></tr>
 <tr><td><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/'>Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)</a></td></tr>
-<tr><td><a href='https://www.tinyvolt.com/geomatic'>Show HN: Geomatic – a command-driven geometry studio enabled with autodiff</a></td></tr>
-<tr><td><a href='https://audiomass.co/?multitrack=1'>Show HN: Audiomass – a free, open-source multitrack audio editor for the web</a></td></tr>
-<tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
 </table>
 <!-- END:news -->
 
