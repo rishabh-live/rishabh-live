@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://audiomass.co/?multitrack=1'>Show HN: Audiomass – a free, open-source multitrack audio editor for the web</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
-<tr><td><a href='https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/'>Defeating Git Rigour Fatigue with Jujutsu</a></td></tr>
-<tr><td><a href='https://epoch.ai/data-insights/ai-chip-component-cost-shares'>Memory has grown to nearly two-thirds of AI chip component costs</a></td></tr>
 <tr><td><a href='https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/'>A fundamental principle of aeronautical engineering has been overturned</a></td></tr>
+<tr><td><a href='https://epoch.ai/data-insights/ai-chip-component-cost-shares'>Memory has grown to nearly two-thirds of AI chip component costs</a></td></tr>
+<tr><td><a href='https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html'>I spent 50 hours drawing a line graph</a></td></tr>
 </table>
 <!-- END:news -->
 
