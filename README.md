@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://seriot.ch/computation/jira.html'>Jira Is Turing-Complete</a></td></tr>
-<tr><td><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/'>Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)</a></td></tr>
-<tr><td><a href='https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/'>I love my Bluetooth keyboard</a></td></tr>
+<tr><td><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/'>Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)</a></td></tr>
+<tr><td><a href='https://www.tinyvolt.com/geomatic'>Show HN: Geomatic – a command-driven geometry studio enabled with autodiff</a></td></tr>
 <tr><td><a href='https://audiomass.co/?multitrack=1'>Show HN: Audiomass – a free, open-source multitrack audio editor for the web</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
+<tr><td><a href='https://corrode.dev/learn/migration-guides/go-to-rust/'>Migrating from Go to Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
