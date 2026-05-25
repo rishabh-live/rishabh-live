@@ -25,7 +25,7 @@
 <tr><td><a href='https://lemon.rip/w/6-c-extensions-compilers/'>C extensions, portability, and alternative compilers</a></td></tr>
 <tr><td><a href='https://www.trychert.com'>Launch HN: Chert (YC P26) – Twilio for iMessage</a></td></tr>
 <tr><td><a href='https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/'>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</a></td></tr>
-<tr><td><a href='http://androidessence.com/leave-me-behind/'>Leave Me Behind</a></td></tr>
+<tr><td><a href='https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/'>IBM Spins Off the First Pure-Play Quantum Chip Foundry</a></td></tr>
 </table>
 <!-- END:news -->
 
