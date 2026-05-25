@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://audiomass.co/?multitrack=1'>Show HN: Audiomass – a free, open-source multitrack audio editor for the web</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
-<tr><td><a href='https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/'>Australia Four-Day Work Week Study Data Shows Boosted Productivity</a></td></tr>
 <tr><td><a href='https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/'>Defeating Git Rigour Fatigue with Jujutsu</a></td></tr>
-<tr><td><a href='https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/'>LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years</a></td></tr>
+<tr><td><a href='https://epoch.ai/data-insights/ai-chip-component-cost-shares'>Memory has grown to nearly two-thirds of AI chip component costs</a></td></tr>
+<tr><td><a href='https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/'>A fundamental principle of aeronautical engineering has been overturned</a></td></tr>
 </table>
 <!-- END:news -->
 
