@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html'>Magnifica Humanitas</a></td></tr>
+<tr><td><a href='https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout'>Exit IP VPN servers mitigation rollout</a></td></tr>
 <tr><td><a href='https://lemon.rip/w/6-c-extensions-compilers/'>C extensions, portability, and alternative compilers</a></td></tr>
 <tr><td><a href='https://www.trychert.com'>Launch HN: Chert (YC P26) – Twilio for iMessage</a></td></tr>
-<tr><td><a href='https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/'>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</a></td></tr>
-<tr><td><a href='https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/'>IBM Spins Off the First Pure-Play Quantum Chip Foundry</a></td></tr>
+<tr><td><a href='https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law'>California moves to exempt Linux from its age-verification law after backlash</a></td></tr>
 </table>
 <!-- END:news -->
 
