@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout'>Exit IP VPN servers mitigation rollout</a></td></tr>
-<tr><td><a href='https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910'>Norway&#x27;s 2 petabytes of Huawei flash storage and LLM training</a></td></tr>
 <tr><td><a href='https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files'>Microsoft Copilot Cowork Exfiltrates Files</a></td></tr>
+<tr><td><a href='https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910'>Norway&#x27;s 2 petabytes of Huawei flash storage and LLM training</a></td></tr>
+<tr><td><a href='https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout'>Exit IP VPN servers mitigation rollout</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law'>California moves to exempt Linux from its age-verification law after backlash</a></td></tr>
 <tr><td><a href='https://github.com/boratanrikulu/gobee'>Show HN: Write your BPF programs in Go, not C</a></td></tr>
 </table>
