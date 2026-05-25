@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html'>Magnifica Humanitas (Encyclical Letter)</a></td></tr>
 <tr><td><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/'>Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)</a></td></tr>
 <tr><td><a href='https://www.tinyvolt.com/geomatic'>Show HN: Geomatic – a command-driven geometry studio enabled with autodiff</a></td></tr>
 <tr><td><a href='https://audiomass.co/?multitrack=1'>Show HN: Audiomass – a free, open-source multitrack audio editor for the web</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
-<tr><td><a href='https://corrode.dev/learn/migration-guides/go-to-rust/'>Migrating from Go to Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
