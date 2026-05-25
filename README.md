@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html'>The Eternal Sloptember</a></td></tr>
 <tr><td><a href='https://audiomass.co/?multitrack=1'>Show HN: Audiomass – a free, open-source multitrack audio editor for the web</a></td></tr>
 <tr><td><a href='https://esengine.github.io/DeepSeek-Reasonix/'>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</a></td></tr>
 <tr><td><a href='https://corrode.dev/learn/migration-guides/go-to-rust/'>Migrating from Go to Rust</a></td></tr>
-<tr><td><a href='https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/'>A fundamental principle of aeronautical engineering has been overturned</a></td></tr>
-<tr><td><a href='https://ohwr.org/projects/white-rabbit/'>White Rabbit – sub-nanosecond synchronization for large distributed systems</a></td></tr>
+<tr><td><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/'>Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)</a></td></tr>
 </table>
 <!-- END:news -->
 
