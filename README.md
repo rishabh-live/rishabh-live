@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/'>Search engines alternatives now that Google isn&#x27;t Google anymore</a></td></tr>
+<tr><td><a href='https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/'>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</a></td></tr>
 <tr><td><a href='https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html'>Magnifica Humanitas (Encyclical Letter)</a></td></tr>
-<tr><td><a href='http://androidessence.com/leave-me-behind/'>Leave Me Behind</a></td></tr>
+<tr><td><a href='https://lemon.rip/w/6-c-extensions-compilers/'>C extensions, portability, and alternative compilers</a></td></tr>
 <tr><td><a href='https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/'>Pope Leo XIV says AI must serve humanity, not the powerful few</a></td></tr>
-<tr><td><a href='https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/'>IBM Spins Off the First Pure-Play Quantum Chip Foundry</a></td></tr>
 </table>
 <!-- END:news -->
 
