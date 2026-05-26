@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.githubstatus.com/?today'>GitHub Actions down again today</a></td></tr>
-<tr><td><a href='https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/'>AWS Fired the One Employee Who Gave a Damn</a></td></tr>
-<tr><td><a href='https://dynip.dev/'>DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD</a></td></tr>
+<tr><td><a href='https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/'>Outsourcing plus LocalAI will soon become more economical vs. Frontier labs</a></td></tr>
+<tr><td><a href='https://www.minicor.com/'>Launch HN: Minicor (YC P26) – Windows desktop automations at scale</a></td></tr>
+<tr><td><a href='https://retrogamecoders.com/overhead-camera-view/'>C64 Basic: Game Map Overhead &quot;Camera View&quot;</a></td></tr>
 <tr><td><a href='https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/'>Using AI to write better code more slowly</a></td></tr>
-<tr><td><a href='https://vllm.ai/blog/2026-05-26-eagle-3-1'>Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team</a></td></tr>
 </table>
 <!-- END:news -->
 
