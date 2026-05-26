@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.githubstatus.com/?today'>GitHub Actions down again today</a></td></tr>
+<tr><td><a href='https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/'>AWS Fired the One Employee Who Gave a Damn</a></td></tr>
 <tr><td><a href='https://dynip.dev/'>DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD</a></td></tr>
 <tr><td><a href='https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/'>Using AI to write better code more slowly</a></td></tr>
-<tr><td><a href='https://jry.io/writing/use-boring-languages-with-llms/'>Use Boring Languages with LLMs</a></td></tr>
-<tr><td><a href='https://www.apa.org/news/press/releases/2014/04/creativity-walk'>Taking a walk may lead to more creativity than sitting, study finds (2014)</a></td></tr>
-<tr><td><a href='https://earthiongame.com/'>Earthion: A New Mega Drive-Style Shoot-Em-Up</a></td></tr>
+<tr><td><a href='https://vllm.ai/blog/2026-05-26-eagle-3-1'>Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team</a></td></tr>
 </table>
 <!-- END:news -->
 
