@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jsx.lol'>Does Anybody Actually Like React?</a></td></tr>
 <tr><td><a href='https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/'>Using AI to write better code more slowly</a></td></tr>
 <tr><td><a href='https://www.apa.org/news/press/releases/2014/04/creativity-walk'>Taking a walk may lead to more creativity than sitting, study finds (2014)</a></td></tr>
+<tr><td><a href='https://ente.com/blog/how-shamirs-secret-sharing-works/'>How Shamir&#x27;s Secret Sharing Works</a></td></tr>
 <tr><td><a href='https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910'>Norway&#x27;s 2 petabytes of Huawei flash storage and LLM training</a></td></tr>
 <tr><td><a href='https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout'>Exit IP VPN servers mitigation rollout</a></td></tr>
 </table>
