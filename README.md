@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.githubstatus.com/?today'>GitHub Actions down again today</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2605.26099'>Language Models Need Sleep</a></td></tr>
-<tr><td><a href='https://www.minicor.com/'>Launch HN: Minicor (YC P26) – Windows desktop automations at scale</a></td></tr>
-<tr><td><a href='https://thebestworstcase.substack.com/p/dont-subscribe-so-casually'>Don&#x27;t Subscribe So Casually</a></td></tr>
+<tr><td><a href='https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html'>Dropbox CEO Drew Houston to step down</a></td></tr>
+<tr><td><a href='https://dynomight.net/crc-rates/'>Is &quot;colorectal cancer&quot; rising in &quot;young people&quot;?</a></td></tr>
 <tr><td><a href='https://www.owlposting.com/p/the-ballad-of-tigit'>The Ballad of TIGIT</a></td></tr>
+<tr><td><a href='https://www.minicor.com/'>Launch HN: Minicor (YC P26) – Windows desktop automations at scale</a></td></tr>
+<tr><td><a href='https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/'>What color is your function? (2015)</a></td></tr>
 </table>
 <!-- END:news -->
 
