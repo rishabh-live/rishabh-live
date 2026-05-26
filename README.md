@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.githubstatus.com/?today'>GitHub Actions down again today</a></td></tr>
-<tr><td><a href='https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/'>Outsourcing plus LocalAI will soon become more economical vs. Frontier labs</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2605.26099'>Language Models Need Sleep</a></td></tr>
 <tr><td><a href='https://www.minicor.com/'>Launch HN: Minicor (YC P26) – Windows desktop automations at scale</a></td></tr>
-<tr><td><a href='https://retrogamecoders.com/overhead-camera-view/'>C64 Basic: Game Map Overhead &quot;Camera View&quot;</a></td></tr>
-<tr><td><a href='https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/'>Using AI to write better code more slowly</a></td></tr>
+<tr><td><a href='https://thebestworstcase.substack.com/p/dont-subscribe-so-casually'>Don&#x27;t Subscribe So Casually</a></td></tr>
+<tr><td><a href='https://www.owlposting.com/p/the-ballad-of-tigit'>The Ballad of TIGIT</a></td></tr>
 </table>
 <!-- END:news -->
 
