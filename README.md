@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html'>Dropbox CEO Drew Houston to step down</a></td></tr>
-<tr><td><a href='https://dynomight.net/crc-rates/'>Is &quot;colorectal cancer&quot; rising in &quot;young people&quot;?</a></td></tr>
+<tr><td><a href='https://akselmo.dev/posts/stop-advertising-in-your-commits/'>Stop Advertising in Your Commits</a></td></tr>
 <tr><td><a href='https://www.owlposting.com/p/the-ballad-of-tigit'>The Ballad of TIGIT</a></td></tr>
+<tr><td><a href='https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/'>A few interesting modern pixel fonts</a></td></tr>
 <tr><td><a href='https://www.minicor.com/'>Launch HN: Minicor (YC P26) – Windows desktop automations at scale</a></td></tr>
-<tr><td><a href='https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/'>What color is your function? (2015)</a></td></tr>
+<tr><td><a href='https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/'>I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline</a></td></tr>
 </table>
 <!-- END:news -->
 
