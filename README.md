@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://akselmo.dev/posts/stop-advertising-in-your-commits/'>Stop Advertising in Your Commits</a></td></tr>
-<tr><td><a href='https://www.owlposting.com/p/the-ballad-of-tigit'>The Ballad of TIGIT</a></td></tr>
 <tr><td><a href='https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/'>A few interesting modern pixel fonts</a></td></tr>
-<tr><td><a href='https://www.minicor.com/'>Launch HN: Minicor (YC P26) – Windows desktop automations at scale</a></td></tr>
 <tr><td><a href='https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/'>I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline</a></td></tr>
+<tr><td><a href='https://github.com/logannye/rosalind'>Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop</a></td></tr>
+<tr><td><a href='https://www.owlposting.com/p/the-ballad-of-tigit'>The Ballad of TIGIT</a></td></tr>
+<tr><td><a href='https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/'>Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence</a></td></tr>
 </table>
 <!-- END:news -->
 
