@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.science.org/content/blog-post/methyl-methacrylate-tank'>Chemistry behind the Garden Grove chemical tank</a></td></tr>
+<tr><td><a href='https://fortune.com/2026/05/26/uber-coo-ai-spending-tokens-claude-code/'>Uber blows through its AI budget in 1 quarter</a></td></tr>
 <tr><td><a href='https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/'>A few interesting modern pixel fonts</a></td></tr>
 <tr><td><a href='https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/'>I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline</a></td></tr>
-<tr><td><a href='https://github.com/logannye/rosalind'>Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop</a></td></tr>
-<tr><td><a href='https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/'>Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence</a></td></tr>
+<tr><td><a href='https://www.oliverio.dev/blog/the-worst-job-interview-i-had'>The worst job interview I ever had</a></td></tr>
 </table>
 <!-- END:news -->
 
