@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://orchidfiles.com/im-tired-of-ai-generated-answers/'>I&#x27;m Tired of Talking to AI</a></td></tr>
-<tr><td><a href='https://posthog.com/blog/training-ai-models'>PostHog will train AI models with your data (opt-in by default)</a></td></tr>
+<tr><td><a href='https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/'>DuckDuckGo search saw 28% more visits after Google said people love AI mode</a></td></tr>
+<tr><td><a href='https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html'>SimCity 3k in 4k</a></td></tr>
 <tr><td><a href='https://support.last.fm/t/last-fm-is-now-independent/118591'>Last.fm is now independent</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/May/27/product-market-fit/'>I think Anthropic and OpenAI have found product-market fit</a></td></tr>
 <tr><td><a href='https://miniscript.org/MiniMicro/index.html#about'>Mini Micro Fantasy Computer</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/'>Tech CEOs are apparently suffering from AI psychosis</a></td></tr>
 </table>
 <!-- END:news -->
 
