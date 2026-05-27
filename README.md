@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/'>The just-say-no engineer was a ZIRP phenomenon</a></td></tr>
-<tr><td><a href='https://pop.rdi.sh/where-does-next-token-prediction-leave-us/'>Where does next-token prediction leave us?</a></td></tr>
+<tr><td><a href='https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers'>The Structural Barriers to AI Lawyers</a></td></tr>
 <tr><td><a href='https://developers.cloudflare.com/flagship/'>Cloudflare Flagship</a></td></tr>
-<tr><td><a href='https://www.science.org/content/blog-post/methyl-methacrylate-tank'>Chemistry behind the Garden Grove chemical tank</a></td></tr>
-<tr><td><a href='https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/'>The Forgotten Art of the LAN Party (2023)</a></td></tr>
+<tr><td><a href='https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind'>What Gets Kept</a></td></tr>
+<tr><td><a href='https://www.science.org/content/blog-post/methyl-methacrylate-tank'>That Methyl Methacrylate Tank</a></td></tr>
+<tr><td><a href='https://badhost.org/'>BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass</a></td></tr>
 </table>
 <!-- END:news -->
 
