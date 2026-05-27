@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://orchidfiles.com/im-tired-of-ai-generated-answers/'>I&#x27;m Tired of Talking to AI</a></td></tr>
-<tr><td><a href='https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/'>Private Equity Bought America&#x27;s Essential Services</a></td></tr>
 <tr><td><a href='https://miniscript.org/MiniMicro/index.html#about'>Mini Micro Fantasy Computer</a></td></tr>
-<tr><td><a href='https://www.githubstatus.com/incidents/xy1tt3hs572m'>Incident with Pull Requests, Issues, Git Operations and API Requests</a></td></tr>
 <tr><td><a href='https://github.com/WilliamSmithEdward/xlide_vscode'>XLIDE: VBA without excel</a></td></tr>
+<tr><td><a href='https://www.thonking.ai/p/strangely-matrix-multiplications'>Matrix Multiplications on GPUs Run Faster When Given &quot;Predictable&quot; Data</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2605.22391'>All of human cooking compressed into 2 megabytes</a></td></tr>
 </table>
 <!-- END:news -->
 
