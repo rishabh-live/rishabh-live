@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://orchidfiles.com/im-tired-of-ai-generated-answers/'>I&#x27;m Tired of Talking to AI</a></td></tr>
+<tr><td><a href='https://posthog.com/blog/training-ai-models'>PostHog will train AI models with your data (opt-in by default)</a></td></tr>
+<tr><td><a href='https://support.last.fm/t/last-fm-is-now-independent/118591'>Last.fm is now independent</a></td></tr>
 <tr><td><a href='https://miniscript.org/MiniMicro/index.html#about'>Mini Micro Fantasy Computer</a></td></tr>
-<tr><td><a href='https://github.com/WilliamSmithEdward/xlide_vscode'>XLIDE: VBA without excel</a></td></tr>
-<tr><td><a href='https://www.thonking.ai/p/strangely-matrix-multiplications'>Matrix Multiplications on GPUs Run Faster When Given &quot;Predictable&quot; Data</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2605.22391'>All of human cooking compressed into 2 megabytes</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/'>Tech CEOs are apparently suffering from AI psychosis</a></td></tr>
 </table>
 <!-- END:news -->
 
