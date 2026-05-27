@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://orchidfiles.com/im-tired-of-ai-generated-answers/'>I&#x27;m Tired of Talking to AI</a></td></tr>
+<tr><td><a href='https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/'>Private Equity Bought America&#x27;s Essential Services</a></td></tr>
 <tr><td><a href='https://miniscript.org/MiniMicro/index.html#about'>Mini Micro Fantasy Computer</a></td></tr>
-<tr><td><a href='https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/'>The Melancholy of Slaying Monsters</a></td></tr>
-<tr><td><a href='https://padhye.org/raft-minority/'>Raft Consensus with a Minority of Nodes</a></td></tr>
-<tr><td><a href='https://badhost.org/'>BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass</a></td></tr>
-<tr><td><a href='https://developers.cloudflare.com/flagship/'>Cloudflare Flagship</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com/incidents/xy1tt3hs572m'>Incident with Pull Requests, Issues, Git Operations and API Requests</a></td></tr>
+<tr><td><a href='https://github.com/WilliamSmithEdward/xlide_vscode'>XLIDE: VBA without excel</a></td></tr>
 </table>
 <!-- END:news -->
 
