@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/'>The just-say-no engineer was a ZIRP phenomenon</a></td></tr>
+<tr><td><a href='https://pop.rdi.sh/where-does-next-token-prediction-leave-us/'>Where does next-token prediction leave us?</a></td></tr>
 <tr><td><a href='https://developers.cloudflare.com/flagship/'>Cloudflare Flagship</a></td></tr>
 <tr><td><a href='https://www.science.org/content/blog-post/methyl-methacrylate-tank'>Chemistry behind the Garden Grove chemical tank</a></td></tr>
-<tr><td><a href='https://pop.rdi.sh/where-does-next-token-prediction-leave-us/'>Where does next-token prediction leave us?</a></td></tr>
-<tr><td><a href='https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/'>A few interesting modern pixel fonts</a></td></tr>
-<tr><td><a href='https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/'>I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline</a></td></tr>
+<tr><td><a href='https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/'>The Forgotten Art of the LAN Party (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
