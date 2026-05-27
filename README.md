@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/'>Erin Brockovich made a map to track data centers around the country</a></td></tr>
 <tr><td><a href='https://www.science.org/content/blog-post/methyl-methacrylate-tank'>Chemistry behind the Garden Grove chemical tank</a></td></tr>
+<tr><td><a href='https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html'>AI Tools Are Only as Good as Your Judgment – and That&#x27;s the Point</a></td></tr>
 <tr><td><a href='https://developers.cloudflare.com/flagship/'>Cloudflare Flagship</a></td></tr>
-<tr><td><a href='https://brgsk.xyz/agent-memory-anatomy/'>Agent Memory: An Anatomy</a></td></tr>
-<tr><td><a href='https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/'>A few interesting modern pixel fonts</a></td></tr>
-<tr><td><a href='https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/'>I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline</a></td></tr>
+<tr><td><a href='https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/'>Stripe is friendly to &quot;friendly fraud&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
