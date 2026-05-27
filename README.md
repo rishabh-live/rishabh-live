@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://miniscript.org/MiniMicro/index.html#about'>Mini Micro Fantasy Computer</a></td></tr>
 <tr><td><a href='https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/'>The Melancholy of Slaying Monsters</a></td></tr>
-<tr><td><a href='https://developers.cloudflare.com/flagship/'>Cloudflare Flagship</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind'>What Gets Kept</a></td></tr>
+<tr><td><a href='https://padhye.org/raft-minority/'>Raft Consensus with a Minority of Nodes</a></td></tr>
 <tr><td><a href='https://badhost.org/'>BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass</a></td></tr>
-<tr><td><a href='https://www.science.org/content/blog-post/methyl-methacrylate-tank'>That Methyl Methacrylate Tank</a></td></tr>
+<tr><td><a href='https://developers.cloudflare.com/flagship/'>Cloudflare Flagship</a></td></tr>
 </table>
 <!-- END:news -->
 
