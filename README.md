@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/May/27/product-market-fit/'>I think Anthropic and OpenAI have found product-market fit</a></td></tr>
+<tr><td><a href='https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications'>What Apple and Google are doing to push notifications</a></td></tr>
 <tr><td><a href='https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html'>SimCity 3k in 4k (2025)</a></td></tr>
 <tr><td><a href='https://sverre.me/blog/rust-on-kindle/'>Rust (and Slint) on a Jailbroken Kindle</a></td></tr>
-<tr><td><a href='https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/'>DuckDuckGo search saw 28% more visits after Google said people love AI mode</a></td></tr>
 </table>
 <!-- END:news -->
 
