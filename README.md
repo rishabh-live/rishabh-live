@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/May/27/product-market-fit/'>I think Anthropic and OpenAI have found product-market fit</a></td></tr>
+<tr><td><a href='https://radar.cloudflare.com/traffic/ir?dateRange=28d'>Internet traffic in Iran increasing</a></td></tr>
 <tr><td><a href='https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications'>What Apple and Google are doing to push notifications</a></td></tr>
 <tr><td><a href='https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html'>SimCity 3k in 4k (2025)</a></td></tr>
-<tr><td><a href='https://sverre.me/blog/rust-on-kindle/'>Rust (and Slint) on a Jailbroken Kindle</a></td></tr>
 </table>
 <!-- END:news -->
 
