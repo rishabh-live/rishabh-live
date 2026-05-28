@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td></tr>
-<tr><td><a href='https://hallucinate.site'>Hallucinate – Massively Multiplayer Online Rave</a></td></tr>
-<tr><td><a href='https://drobinin.com/posts/am-i-a-bad-friend/'>I analysed 20 years of my chats</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/May/27/product-market-fit/'>I think Anthropic and OpenAI have found product-market fit</a></td></tr>
 <tr><td><a href='https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/'>A Eureka machine that thinks like nature and explores what AI cannot</a></td></tr>
+<tr><td><a href='https://drobinin.com/posts/am-i-a-bad-friend/'>I analysed 20 years of my chats</a></td></tr>
+<tr><td><a href='https://hallucinate.site'>Hallucinate – Massively Multiplayer Online Rave</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/May/27/product-market-fit/'>I think Anthropic and OpenAI have found product-market fit</a></td></tr>
 </table>
 <!-- END:news -->
 
