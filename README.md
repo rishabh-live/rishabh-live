@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-8'>Claude Opus 4.8</a></td></tr>
 <tr><td><a href='https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution'>Just Use Postgres for Durable Workflows</a></td></tr>
-<tr><td><a href='https://kristoff.it/blog/llms-at-zig-days/'>About LLMs at Zig Days</a></td></tr>
-<tr><td><a href='https://llmgame.scalex.dev'>Show HN: Continue? Y&#x2F;N: A 60-second game about AI agent permission fatigue</a></td></tr>
-<tr><td><a href='https://permanent-upper-crow.jasonwu.ink/'>The Permanent Upper Crow</a></td></tr>
+<tr><td><a href='https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection'>Bricks and Minifigs Stole a Man&#x27;s $200k Lego Collection</a></td></tr>
+<tr><td><a href='https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/'>Nitpicking the shell history scene in &#x27;Tron: Legacy&#x27;</a></td></tr>
+<tr><td><a href='https://bitburner-official.github.io/'>Bitburner, programming-based incremental game</a></td></tr>
 </table>
 <!-- END:news -->
 
