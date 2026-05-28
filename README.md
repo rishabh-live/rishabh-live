@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://lenz.io/research/llm-disagreement'>Five frontier LLMs disagree on 67% of 1k real-world fact-check claims</a></td></tr>
 <tr><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td></tr>
-<tr><td><a href='https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/'>AMD pulls a bait-and-switch on Linux users with Vivado licensing changes</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/May/27/product-market-fit/'>I think Anthropic and OpenAI have found product-market fit</a></td></tr>
-<tr><td><a href='https://hallucinate.site'>Hallucinate – Massively Multiplayer Online Rave</a></td></tr>
+<tr><td><a href='https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions'>Citing &#x27;severe&#x27; math deficits, UC faculty demand a return to SAT tests for STEM</a></td></tr>
+<tr><td><a href='https://taoofmac.com/space/blog/2026/05/26/1730'>Indoor Wi-Fi Roaming with OpenWRT</a></td></tr>
+<tr><td><a href='https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o'>EU fines Temu €200M for allowing sale of illegal products</a></td></tr>
 </table>
 <!-- END:news -->
 
