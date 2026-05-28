@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://taoofmac.com/space/blog/2026/05/26/1730'>Indoor Wi-Fi Roaming with OpenWRT</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cz725d5d1x7o'>Valve hikes Steam Deck prices by more than 40%, blaming rising costs</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-opus-4-8'>Claude Opus 4.8</a></td></tr>
 <tr><td><a href='https://llmgame.scalex.dev'>Show HN: Continue? Y&#x2F;N: A 60-second game about AI agent permission fatigue</a></td></tr>
-<tr><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td></tr>
-<tr><td><a href='https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o'>EU fines Temu €200M for allowing sale of illegal products</a></td></tr>
+<tr><td><a href='https://taoofmac.com/space/blog/2026/05/26/1730'>Indoor Wi-Fi Roaming with OpenWRT</a></td></tr>
+<tr><td><a href='https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/'>US&#x27;s big bet on quantum computing may not be legal</a></td></tr>
+<tr><td><a href='https://github.com/Kaelio/ktx'>Show HN: Ktx – Open-source executable context layer for data agents</a></td></tr>
 </table>
 <!-- END:news -->
 
