@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-8'>Claude Opus 4.8</a></td></tr>
+<tr><td><a href='https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution'>Just Use Postgres for Durable Workflows</a></td></tr>
+<tr><td><a href='https://kristoff.it/blog/llms-at-zig-days/'>About LLMs at Zig Days</a></td></tr>
 <tr><td><a href='https://llmgame.scalex.dev'>Show HN: Continue? Y&#x2F;N: A 60-second game about AI agent permission fatigue</a></td></tr>
-<tr><td><a href='https://taoofmac.com/space/blog/2026/05/26/1730'>Indoor Wi-Fi Roaming with OpenWRT</a></td></tr>
-<tr><td><a href='https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/'>US&#x27;s big bet on quantum computing may not be legal</a></td></tr>
-<tr><td><a href='https://github.com/Kaelio/ktx'>Show HN: Ktx – Open-source executable context layer for data agents</a></td></tr>
+<tr><td><a href='https://permanent-upper-crow.jasonwu.ink/'>The Permanent Upper Crow</a></td></tr>
 </table>
 <!-- END:news -->
 
