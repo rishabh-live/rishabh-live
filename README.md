@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://lenz.io/research/llm-disagreement'>Five frontier LLMs disagree on 67% of 1k real-world fact-check claims</a></td></tr>
-<tr><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td></tr>
-<tr><td><a href='https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions'>Citing &#x27;severe&#x27; math deficits, UC faculty demand a return to SAT tests for STEM</a></td></tr>
 <tr><td><a href='https://taoofmac.com/space/blog/2026/05/26/1730'>Indoor Wi-Fi Roaming with OpenWRT</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/cz725d5d1x7o'>Valve hikes Steam Deck prices by more than 40%, blaming rising costs</a></td></tr>
+<tr><td><a href='https://llmgame.scalex.dev'>Show HN: Continue? Y&#x2F;N: A 60-second game about AI agent permission fatigue</a></td></tr>
+<tr><td><a href='https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/'>YouTube to automatically label AI-generated videos</a></td></tr>
 <tr><td><a href='https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o'>EU fines Temu €200M for allowing sale of illegal products</a></td></tr>
 </table>
 <!-- END:news -->
