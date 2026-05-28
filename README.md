@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-8'>Claude Opus 4.8</a></td></tr>
 <tr><td><a href='https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection'>Bricks and Minifigs Stole a Man&#x27;s $200k Lego Collection</a></td></tr>
 <tr><td><a href='https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution'>Just Use Postgres for Durable Workflows</a></td></tr>
-<tr><td><a href='https://justine.lol/animus/'>Social Animus</a></td></tr>
-<tr><td><a href='https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/'>Nitpicking the shell history scene in &#x27;Tron: Legacy&#x27;</a></td></tr>
+<tr><td><a href='https://shvbsle.in/various-llm-smells/'>Various LLM Smells</a></td></tr>
+<tr><td><a href='https://nick.winans.io/blog/nice-nano/'>I Made a Million Dollar Product from My Dorm Room (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
