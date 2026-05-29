@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td></tr>
-<tr><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit in Paris</a></td></tr>
 <tr><td><a href='https://www.owenmcgrann.com/p/the-dead-economy-theory'>The dead economy theory</a></td></tr>
-<tr><td><a href='https://www.inkandswitch.com/tangents/bijou64/'>Bijou64: A variable-length integer encoding</a></td></tr>
-<tr><td><a href='https://rothko.joonas.wtf/'>Rothko for your current weather conditions</a></td></tr>
+<tr><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit in Paris</a></td></tr>
+<tr><td><a href='https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill'>The California State Assembly Has Passed the &#x27;Protect Our Games Act&#x27;</a></td></tr>
+<tr><td><a href='https://pierre.computer/writing/on-rendering-diffs'>On Rendering Diffs</a></td></tr>
 </table>
 <!-- END:news -->
 
