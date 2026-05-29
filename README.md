@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-8'>Claude Opus 4.8</a></td></tr>
 <tr><td><a href='https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection'>Bricks and Minifigs Stole a Man&#x27;s $200k Lego Collection</a></td></tr>
 <tr><td><a href='https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/'>Real-time LLM Inference on Standard GPUs: 3k tokens&#x2F;s per request</a></td></tr>
-<tr><td><a href='https://nick.winans.io/blog/nice-nano/'>I made a million dollar product from my dorm room (2025)</a></td></tr>
-<tr><td><a href='https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967'>Volkswagen blocks Home Assistant by requiring client assertion</a></td></tr>
+<tr><td><a href='https://jamiehurst.co.uk/2026-05-24_ai-sustainable'>Is This Sustainable?</a></td></tr>
+<tr><td><a href='https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/'>Is AI causing a repeat of Front end&#x27;s Lost Decade?</a></td></tr>
 </table>
 <!-- END:news -->
 
