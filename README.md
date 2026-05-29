@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill'>The California State Assembly Has Passed the &#x27;Protect Our Games Act&#x27;</a></td></tr>
 <tr><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td></tr>
 <tr><td><a href='https://www.owenmcgrann.com/p/the-dead-economy-theory'>The dead economy theory</a></td></tr>
 <tr><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit in Paris</a></td></tr>
 <tr><td><a href='https://pierre.computer/writing/on-rendering-diffs'>On Rendering Diffs</a></td></tr>
+<tr><td><a href='https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning'>Shift will clean homes for free to train future robots</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
