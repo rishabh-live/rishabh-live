@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit in Paris</a></td></tr>
-<tr><td><a href='https://www.owenmcgrann.com/p/the-dead-economy-theory'>The Dead Economy Theory</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/'>Robinhood now lets your AI agents trade stocks</a></td></tr>
-<tr><td><a href='https://www.inkandswitch.com/tangents/bijou64/'>Bijou64: A variable-length integer encoding</a></td></tr>
 <tr><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td></tr>
+<tr><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit in Paris</a></td></tr>
+<tr><td><a href='https://www.owenmcgrann.com/p/the-dead-economy-theory'>The dead economy theory</a></td></tr>
+<tr><td><a href='https://www.inkandswitch.com/tangents/bijou64/'>Bijou64: A variable-length integer encoding</a></td></tr>
+<tr><td><a href='https://rothko.joonas.wtf/'>Rothko for your current weather conditions</a></td></tr>
 </table>
 <!-- END:news -->
 
