@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse'>Cars are trying to spy on you, and it&#x27;s only just the beginning</a></td></tr>
-<tr><td><a href='https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/'>The most spectacular rocket explosion since N1 just happened in Florida</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-4-8'>Claude Opus 4.8</a></td></tr>
 <tr><td><a href='https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection'>Bricks and Minifigs Stole a Man&#x27;s $200k Lego Collection</a></td></tr>
+<tr><td><a href='https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/'>Blue Origin’s New Glenn rocket exploded during a static fire test</a></td></tr>
 <tr><td><a href='https://nick.winans.io/blog/nice-nano/'>I made a million dollar product from my dorm room (2025)</a></td></tr>
+<tr><td><a href='https://www.zot.sh'>Zot now supports Claude Opus 4.8</a></td></tr>
 </table>
 <!-- END:news -->
 
