@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.inkandswitch.com/tangents/bijou64/'>Bijou64: A variable-length integer encoding</a></td></tr>
+<tr><td><a href='https://www.owenmcgrann.com/p/the-dead-economy-theory'>The Dead Economy Theory</a></td></tr>
+<tr><td><a href='https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/'>GTA 6 Developers Unionize</a></td></tr>
 <tr><td><a href='https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/'>I Am Retiring from Tech to Live Offline</a></td></tr>
-<tr><td><a href='https://shawnsmucker.substack.com/p/please-use-ai'>Please Use AI</a></td></tr>
-<tr><td><a href='https://unix.foo/posts/it-will-never-be-the-year-of-the-linux-desktop/'>It Will Never Be the Year of the Linux Desktop</a></td></tr>
-<tr><td><a href='https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/'>The UK Government&#x27;s Low Value Purchase System Is a Waste of Time</a></td></tr>
-<tr><td><a href='https://dutchreview.com/culture/tulip-mania-netherlands/'>Tulip mania: when a single flower was worth more than a house (2025)</a></td></tr>
+<tr><td><a href='https://commonedge.org/high-density-living-2000-years-ago-inside-the-roman-apartment-building/'>High Density Living, 2000 Years Ago: Inside the Roman Apartment Building</a></td></tr>
 </table>
 <!-- END:news -->
 
