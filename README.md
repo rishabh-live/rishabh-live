@@ -24,8 +24,8 @@
 <tr><td><a href='https://pandoc-templates.org/'>Pandoc Templates</a></td></tr>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-05-26'>Zig: Build System Reworked</a></td></tr>
 <tr><td><a href='https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/'>Proposed new US funding rules: We can cancel any grant at any time</a></td></tr>
-<tr><td><a href='https://explosion-scratch.github.io/locusts/'>What Happened to the Locusts?</a></td></tr>
-<tr><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td></tr>
+<tr><td><a href='https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism'>Leo&#x27;s first encyclical attacks technological messianism</a></td></tr>
+<tr><td><a href='https://github.com/kristapsdz/openrsync'>Openrsync: An implementation of rsync, by the OpenBSD team</a></td></tr>
 </table>
 <!-- END:news -->
 
