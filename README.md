@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-05-26'>Zig: Build System Reworked</a></td></tr>
+<tr><td><a href='https://pandoc-templates.org/'>Pandoc Templates</a></td></tr>
 <tr><td><a href='https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory'>The Kaiser and a &quot;Mediocre Man&quot; Theory of History</a></td></tr>
 <tr><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td></tr>
 <tr><td><a href='https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/'>Danish pension fund excludes SpaceX citing governance and valuation</a></td></tr>
-<tr><td><a href='https://overreacted.io/algebraic-effects-for-the-rest-of-us/'>Algebraic Effects for the Rest of Us</a></td></tr>
 </table>
 <!-- END:news -->
 
