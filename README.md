@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup'>Anthropic surpasses OpenAI to become most valuable AI startup</a></td></tr>
 <tr><td><a href='https://pandoc-templates.org/'>Pandoc Templates</a></td></tr>
-<tr><td><a href='https://ziglang.org/devlog/2026/#2026-05-26'>Zig: Build System Reworked</a></td></tr>
-<tr><td><a href='https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/'>Proposed new US funding rules: We can cancel any grant at any time</a></td></tr>
-<tr><td><a href='https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism'>Leo&#x27;s first encyclical attacks technological messianism</a></td></tr>
+<tr><td><a href='https://s-macke.github.io/VoxelSpace/'>Voxel Space</a></td></tr>
 <tr><td><a href='https://github.com/kristapsdz/openrsync'>Openrsync: An implementation of rsync, by the OpenBSD team</a></td></tr>
+<tr><td><a href='https://ziglang.org/devlog/2026/#2026-05-26'>Zig: Build System Reworked</a></td></tr>
 </table>
 <!-- END:news -->
 
