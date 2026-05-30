@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup'>Anthropic surpasses OpenAI to become most valuable AI startup</a></td></tr>
 <tr><td><a href='https://s-macke.github.io/VoxelSpace/'>Voxel Space</a></td></tr>
+<tr><td><a href='https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup'>Anthropic surpasses OpenAI to become most valuable AI startup</a></td></tr>
 <tr><td><a href='https://github.com/kristapsdz/openrsync'>Openrsync: An implementation of rsync, by the OpenBSD team</a></td></tr>
 <tr><td><a href='https://pandoc-templates.org/'>Pandoc Templates</a></td></tr>
 <tr><td><a href='https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot'>Navier-Stokes fluid simulation explained with Godot game engine</a></td></tr>
