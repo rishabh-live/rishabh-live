@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openrouter.ai/announcements/series-b'>OpenRouter raises $113M Series B</a></td></tr>
-<tr><td><a href='https://ziglang.org/devlog/2026/#2026-05-30'>Zig ELF Linker Improvements Devlog</a></td></tr>
 <tr><td><a href='https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert'>I found a seashell in the middle of the desert</a></td></tr>
+<tr><td><a href='https://ziglang.org/devlog/2026/#2026-05-30'>Zig ELF Linker Improvements Devlog</a></td></tr>
 <tr><td><a href='https://ajin.im/is/building/omen.ops/'>Show HN: 500 years of Joseon court omens as an observability dashboard</a></td></tr>
-<tr><td><a href='https://s-macke.github.io/VoxelSpace/'>Voxel Space (2017)</a></td></tr>
+<tr><td><a href='https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates'>Hormuz crisis side effect: a sharp rise in container shipping rates</a></td></tr>
 </table>
 <!-- END:news -->
 
