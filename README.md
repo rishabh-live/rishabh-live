@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td></tr>
-<tr><td><a href='https://www.perryts.com/'>Perry Compiles TypeScript directly to executables using SWC and LLVM</a></td></tr>
+<tr><td><a href='https://overreacted.io/algebraic-effects-for-the-rest-of-us/'>Algebraic Effects for the Rest of Us</a></td></tr>
 <tr><td><a href='https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/'>Snowboard Kids 2 is 100% Decompiled</a></td></tr>
-<tr><td><a href='https://github.com/HarleyCoops/Math-To-Manim'>Math-to-Manim</a></td></tr>
-<tr><td><a href='https://www.nippon.com/en/japan-data/h02783/'>Naphtha shortages in Japan</a></td></tr>
+<tr><td><a href='https://www.perryts.com/'>Perry Compiles TypeScript directly to executables using SWC and LLVM</a></td></tr>
+<tr><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit</a></td></tr>
 </table>
 <!-- END:news -->
 
