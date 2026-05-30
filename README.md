@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openrouter.ai/announcements/series-b'>OpenRouter raises $113M Series B</a></td></tr>
-<tr><td><a href='https://s-macke.github.io/VoxelSpace/'>Voxel Space</a></td></tr>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-05-30'>Zig ELF Linker Improvements Devlog</a></td></tr>
+<tr><td><a href='https://s-macke.github.io/VoxelSpace/'>Voxel Space</a></td></tr>
+<tr><td><a href='https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html'>Microcode inside the Intel 8087 floating-point chip: register exchange</a></td></tr>
 <tr><td><a href='https://github.com/kristapsdz/openrsync'>Openrsync: An implementation of rsync, by the OpenBSD team</a></td></tr>
-<tr><td><a href='https://pandoc-templates.org/'>Pandoc Templates</a></td></tr>
 </table>
 <!-- END:news -->
 
