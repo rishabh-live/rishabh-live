@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/'>SQLite is all you need for durable workflows</a></td></tr>
 <tr><td><a href='https://www.owenmcgrann.com/p/the-dead-economy-theory'>The dead economy theory</a></td></tr>
-<tr><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit</a></td></tr>
 <tr><td><a href='https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/'>Snowboard Kids 2 is 100% Decompiled</a></td></tr>
 <tr><td><a href='https://www.quandri.io/engineering-blog/mcp-is-dead'>MCP is dead?</a></td></tr>
+<tr><td><a href='https://koenvangilst.nl/lab/mistral-ai-now-summit'>Notes from the Mistral AI Now Summit</a></td></tr>
 </table>
 <!-- END:news -->
 
