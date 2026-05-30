@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openrouter.ai/announcements/series-b'>OpenRouter raises $113M Series B</a></td></tr>
 <tr><td><a href='https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/'>Domain expertise has always been the real moat</a></td></tr>
 <tr><td><a href='https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert'>I found a seashell in the middle of the desert</a></td></tr>
 <tr><td><a href='https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises'>Accenture to acquire Ookla</a></td></tr>
+<tr><td><a href='https://github.com/wolfSSL/wolfCOSE'>wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack</a></td></tr>
 <tr><td><a href='https://ziglang.org/devlog/2026/#2026-05-30'>Zig ELF Linker Improvements Devlog</a></td></tr>
 </table>
 <!-- END:news -->
