@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/'>Atherton spent $145K to delay train electrification. The rest of us paid $400M</a></td></tr>
 <tr><td><a href='https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration'>ChatGPT for Google Sheets Exfiltrates Workbooks</a></td></tr>
 <tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
+<tr><td><a href='https://mail.cyberneticforests.com/its-not-just-data-its-post-training/'>It&#x27;s Not Just X. It&#x27;s Y</a></td></tr>
 <tr><td><a href='https://prismml.com/news/bonsai-image-4b'>1-Bit Bonsai Image 4B Image Generation for Local Devices</a></td></tr>
-<tr><td><a href='https://www.computerenhance.com/p/the-four-programming-questions-from'>The four programming questions from my 1994 Microsoft internship interview (2023)</a></td></tr>
-<tr><td><a href='https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/'>Creatine raises brain energy levels and slows cognitive decline: study</a></td></tr>
 </table>
 <!-- END:news -->
 
