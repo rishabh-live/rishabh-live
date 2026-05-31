@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://thoughts.hmmz.org/2026-05-31.html'>The solution might be cancelling my AI subscription</a></td></tr>
+<tr><td><a href='https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/'>Creatine raise brain energy levels and slow Alzheimer&#x27;s cognitive decline by 30%</a></td></tr>
+<tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
 <tr><td><a href='https://jbkempf.com/blog/2026/dav2d/'>Dav2d</a></td></tr>
 <tr><td><a href='https://prismml.com/news/bonsai-image-4b'>1-Bit Bonsai Image 4B Image Generation for Local Devices</a></td></tr>
-<tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
-<tr><td><a href='https://justine.lol/rseq/'>Restartable Sequences</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/'>Meta launches Instagram, Facebook, and WhatsApp subscriptions</a></td></tr>
 </table>
 <!-- END:news -->
 
