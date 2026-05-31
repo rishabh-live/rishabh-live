@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://jbkempf.com/blog/2026/dav2d/'>Dav2d</a></td></tr>
+<tr><td><a href='https://www.lucasfcosta.com/blog/backpressure-is-all-you-need'>Backpressure is all you need</a></td></tr>
 <tr><td><a href='https://specification.website/'>The Website Specification</a></td></tr>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html'>London&#x27;s Free Roof Terraces</a></td></tr>
 <tr><td><a href='https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/'>Domain expertise has always been the real moat</a></td></tr>
-<tr><td><a href='https://secret-archive.org/'>Security Envelope Pattern collection – S.E.C.R.E.T</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
