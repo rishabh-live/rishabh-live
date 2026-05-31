@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
 <tr><td><a href='https://jbkempf.com/blog/2026/dav2d/'>Dav2d</a></td></tr>
+<tr><td><a href='https://thoughts.hmmz.org/2026-05-31.html'>The solution might be cancelling my AI subscription</a></td></tr>
 <tr><td><a href='https://specification.website/'>The Website Specification</a></td></tr>
 <tr><td><a href='https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html'>London&#x27;s Free Roof Terraces</a></td></tr>
-<tr><td><a href='https://blog.tymscar.com/posts/v100localllm/'>I Put a Datacenter GPU in My Gaming PC for £200</a></td></tr>
-<tr><td><a href='https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/'>Domain expertise has always been the real moat</a></td></tr>
 </table>
 <!-- END:news -->
 
