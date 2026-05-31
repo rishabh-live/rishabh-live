@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
 <tr><td><a href='https://prismml.com/news/bonsai-image-4b'>1-Bit Bonsai Image 4B Image Generation for Local Devices</a></td></tr>
-<tr><td><a href='https://jbkempf.com/blog/2026/dav2d/'>Dav2d</a></td></tr>
 <tr><td><a href='https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/'>Creatine raises brain energy levels and slows cognitive decline: study</a></td></tr>
-<tr><td><a href='https://twitter.com/i/status/2060746160558543217'>Codex just found a &quot;workaround&quot; of not having sudo on my PC</a></td></tr>
+<tr><td><a href='https://jbkempf.com/blog/2026/dav2d/'>Dav2d</a></td></tr>
+<tr><td><a href='https://www.computerenhance.com/p/the-four-programming-questions-from'>The Four Programming Questions from My 1994 Microsoft Internship Interview (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
