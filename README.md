@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a'>Shift from a Leader-Follower to a Leader-Leader Approach</a></td></tr>
+<tr><td><a href='https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/'>Chuwi Minibook X</a></td></tr>
 <tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
+<tr><td><a href='https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek'>Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek</a></td></tr>
 <tr><td><a href='https://prismml.com/news/bonsai-image-4b'>1-Bit Bonsai Image 4B Image Generation for Local Devices</a></td></tr>
-<tr><td><a href='https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/'>New Beam Spring Keyboards</a></td></tr>
-<tr><td><a href='https://jbkempf.com/blog/2026/dav2d/'>Dav2d</a></td></tr>
+<tr><td><a href='https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration'>ChatGPT for Google Sheets exfiltrates workbooks</a></td></tr>
 </table>
 <!-- END:news -->
 
