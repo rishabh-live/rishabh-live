@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://point.free/blog/gemma-4-on-a-2016-xeon/'>A 10 year old Xeon is all you need</a></td></tr>
-<tr><td><a href='https://kefir.protopopov.lv/posts/announce2.html'>Cessation of public development of Kefir C compiler</a></td></tr>
-<tr><td><a href='https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/'>Chuwi Minibook X</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/crmp9mppvzro'>Nvidia announces new AI chip for personal computers</a></td></tr>
 <tr><td><a href='https://blainsmith.com/articles/httptrace-with-go/'>Tracing HTTP Requests with Go&#x27;s net&#x2F;HTTP&#x2F;httptrace</a></td></tr>
-<tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
+<tr><td><a href='https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096'>When AI Crosses the Line: The Matplotlib Incident</a></td></tr>
+<tr><td><a href='https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers'>Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)</a></td></tr>
 </table>
 <!-- END:news -->
 
