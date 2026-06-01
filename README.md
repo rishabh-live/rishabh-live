@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a'>Shift from a Leader-Follower to a Leader-Leader Approach</a></td></tr>
 <tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
 <tr><td><a href='https://prismml.com/news/bonsai-image-4b'>1-Bit Bonsai Image 4B Image Generation for Local Devices</a></td></tr>
 <tr><td><a href='https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/'>New Beam Spring Keyboards</a></td></tr>
-<tr><td><a href='https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/'>Chuwi Minibook X: the netbook we deserve</a></td></tr>
-<tr><td><a href='https://github.com/tanrikuluozlem/burn'>Reconciling Kubernetes cost estimates with CUR &#x2F; FOCUS billing data</a></td></tr>
+<tr><td><a href='https://jbkempf.com/blog/2026/dav2d/'>Dav2d</a></td></tr>
 </table>
 <!-- END:news -->
 
