@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/'>Chuwi Minibook X</a></td></tr>
 <tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
+<tr><td><a href='https://apnews.com/article/malaysia-social-media-ban-16-bfaa7b01163b61b5d53c4ecfa870d133'>Malaysia enforces ban on social media accounts for children younger than 16</a></td></tr>
 <tr><td><a href='https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek'>Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek</a></td></tr>
-<tr><td><a href='https://prismml.com/news/bonsai-image-4b'>1-Bit Bonsai Image 4B Image Generation for Local Devices</a></td></tr>
-<tr><td><a href='https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration'>ChatGPT for Google Sheets exfiltrates workbooks</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/'>Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas</a></td></tr>
 </table>
 <!-- END:news -->
 
