@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://point.free/blog/gemma-4-on-a-2016-xeon/'>A 10 year old Xeon is all you need</a></td></tr>
+<tr><td><a href='https://kefir.protopopov.lv/posts/announce2.html'>Cessation of public development of Kefir C compiler</a></td></tr>
 <tr><td><a href='https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/'>Chuwi Minibook X</a></td></tr>
+<tr><td><a href='https://blainsmith.com/articles/httptrace-with-go/'>Tracing HTTP Requests with Go&#x27;s net&#x2F;HTTP&#x2F;httptrace</a></td></tr>
 <tr><td><a href='https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting'>Cloudflare Turnstile requiring fingerprintable WebGL</a></td></tr>
-<tr><td><a href='https://apnews.com/article/malaysia-social-media-ban-16-bfaa7b01163b61b5d53c4ecfa870d133'>Malaysia enforces ban on social media accounts for children younger than 16</a></td></tr>
-<tr><td><a href='https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek'>Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/'>Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas</a></td></tr>
 </table>
 <!-- END:news -->
 
