@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/RedHatInsights/javascript-clients/issues/492'>NPM packages from RedHat have been compromised</a></td></tr>
+<tr><td><a href='https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/'>Windows GOG DOS Games on M-Series Macs</a></td></tr>
+<tr><td><a href='https://github.com/NishantJoshi00/flipper-template'>Flipper Zero Zig Template</a></td></tr>
 <tr><td><a href='https://point.free/blog/gemma-4-on-a-2016-xeon/'>A 10 year old Xeon is all you need</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/crmp9mppvzro'>Nvidia announces new AI chip for personal computers</a></td></tr>
-<tr><td><a href='https://blainsmith.com/articles/httptrace-with-go/'>Tracing HTTP Requests with Go&#x27;s net&#x2F;HTTP&#x2F;httptrace</a></td></tr>
-<tr><td><a href='https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096'>When AI Crosses the Line: The Matplotlib Incident</a></td></tr>
-<tr><td><a href='https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers'>Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)</a></td></tr>
+<tr><td><a href='https://lambdacreate.com/posts/sysadmining-like-its-2009'>Sysadmining Like It&#x27;s 2009</a></td></tr>
 </table>
 <!-- END:news -->
 
