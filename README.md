@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/'>DuckDuckGo makes its &#x27;no-AI&#x27; search engine easier to access as its traffic booms</a></td></tr>
-<tr><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram &quot;exploit&quot; is the goofiest I&#x27;ve seen</a></td></tr>
+<tr><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram “exploit” is the goofiest I&#x27;ve seen</a></td></tr>
+<tr><td><a href='https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md'>AI Agent Guidelines for CS336 at Stanford</a></td></tr>
 <tr><td><a href='https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/'>Lifelike biochemistry continued to unfold in sterilized soil</a></td></tr>
 <tr><td><a href='https://cs336.stanford.edu/'>CS336: Language Modeling from Scratch</a></td></tr>
-<tr><td><a href='https://github.com/RedHatInsights/javascript-clients/issues/492'>Malicious npm packages detected across Red Hat Cloud Services</a></td></tr>
+<tr><td><a href='https://idlewords.com/talks/superintelligence.htm'>Superintelligence: The Idea That Eats Smart People (2016)</a></td></tr>
 </table>
 <!-- END:news -->
 
