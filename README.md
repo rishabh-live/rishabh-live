@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram “exploit” is the goofiest I&#x27;ve seen</a></td></tr>
+<tr><td><a href='https://debug.com/'>Debug Project</a></td></tr>
 <tr><td><a href='https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md'>AI Agent Guidelines for CS336 at Stanford</a></td></tr>
-<tr><td><a href='https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215'>Florida sues OpenAI and Sam Altman over AI risks</a></td></tr>
 <tr><td><a href='https://30fps.net/pages/255-vs-256-division/'>Should you normalize RGB values by 255 or 256?</a></td></tr>
 <tr><td><a href='https://cs336.stanford.edu/'>CS336: Language Modeling from Scratch</a></td></tr>
 </table>
