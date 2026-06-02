@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ianthehenry.com/posts/why-janet/'>Why Janet? (2023)</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48370330'>Please don&#x27;t spam people looking for employment. It&#x27;s just cruel</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c152yvwjwkko'>Meta repeatedly snubs EU body over Facebook and Instagram user bans</a></td></tr>
 <tr><td><a href='https://blog.adafruit.com/'>Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai</a></td></tr>
-<tr><td><a href='https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/'>CSS-Native Parallax Effect</a></td></tr>
-<tr><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram “exploit” is the goofiest I&#x27;ve seen</a></td></tr>
-<tr><td><a href='https://blog.tjll.net/you-dont-love-systemd-timers-enough/'>You Don&#x27;t Love Systemd Timers Enough</a></td></tr>
+<tr><td><a href='https://ianthehenry.com/posts/why-janet/'>Why Janet? (2023)</a></td></tr>
+<tr><td><a href='https://www.fidonet.org/inet92_Randy_Bush.txt'>Fidonet: Technology, Use, Tools, and History (1993)</a></td></tr>
 </table>
 <!-- END:news -->
 
