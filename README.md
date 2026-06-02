@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram “exploit” is the goofiest I&#x27;ve seen</a></td></tr>
-<tr><td><a href='https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/'>OpenAI frontier models and Codex are now available on AWS</a></td></tr>
 <tr><td><a href='https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai'>Can the stockmarket swallow Anthropic, SpaceX and OpenAI?</a></td></tr>
+<tr><td><a href='https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/'>macOS Needs Its Grid Back</a></td></tr>
+<tr><td><a href='https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/'>OpenAI frontier models and Codex are now available on AWS</a></td></tr>
 <tr><td><a href='https://debug.com/'>Debug Project</a></td></tr>
-<tr><td><a href='https://yakko.dev/blog/whats-gonna-happen-to-software-developers'>What&#x27;s gonna happen to software engineers?</a></td></tr>
 </table>
 <!-- END:news -->
 
