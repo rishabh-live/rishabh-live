@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://ianthehenry.com/posts/why-janet/'>Why Janet? (2023)</a></td></tr>
+<tr><td><a href='https://blog.adafruit.com/'>Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai</a></td></tr>
+<tr><td><a href='https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/'>CSS-Native Parallax Effect</a></td></tr>
 <tr><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram “exploit” is the goofiest I&#x27;ve seen</a></td></tr>
-<tr><td><a href='https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/'>macOS needs its grid back</a></td></tr>
-<tr><td><a href='https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai'>Can the stockmarket swallow Anthropic, SpaceX and OpenAI?</a></td></tr>
-<tr><td><a href='https://categoricaldata.net/'>CQL: Categorical Databases</a></td></tr>
 <tr><td><a href='https://github.com/krauseler/muxcard'>Muxcard, a dyi credit card size computer</a></td></tr>
 </table>
 <!-- END:news -->
