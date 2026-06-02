@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td></tr>
-<tr><td><a href='https://moddedbear.com/gmail-thinks-im-stupid-so-i-left'>Gmail thinks I&#x27;m stupid, so I left</a></td></tr>
-<tr><td><a href='https://microsoft.ai/news/introducing-mai-thinking-1/'>MAI-Thinking-1</a></td></tr>
 <tr><td><a href='https://www.lumafield.com/scan-of-the-month/byd'>CT scans of BYD car parts</a></td></tr>
+<tr><td><a href='https://moddedbear.com/gmail-thinks-im-stupid-so-i-left'>Gmail thinks I&#x27;m stupid, so I left</a></td></tr>
 <tr><td><a href='https://openrepair.org/open-data/open-standard/'>Open Repair Data Standard – Open Repair Alliance</a></td></tr>
+<tr><td><a href='https://www.acdw.net/clojure/'>My thoughts after using Clojure for about a month</a></td></tr>
 </table>
 <!-- END:news -->
 
