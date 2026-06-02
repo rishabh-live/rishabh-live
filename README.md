@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://news.ycombinator.com/item?id=48370330'>Please don&#x27;t spam people looking for employment. It&#x27;s just cruel</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c152yvwjwkko'>Meta repeatedly snubs EU body over Facebook and Instagram user bans</a></td></tr>
-<tr><td><a href='https://blog.adafruit.com/'>Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai</a></td></tr>
-<tr><td><a href='https://ianthehenry.com/posts/why-janet/'>Why Janet? (2023)</a></td></tr>
+<tr><td><a href='https://github.com/microsoft/coreutils'>Coreutils for Windows</a></td></tr>
+<tr><td><a href='https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/'>A walking tour of surveillance infrastructure in Seattle</a></td></tr>
+<tr><td><a href='https://jasonzweig.com/three-ways-to-get-paid/'>Three Ways to Get Paid</a></td></tr>
 <tr><td><a href='https://www.fidonet.org/inet92_Randy_Bush.txt'>Fidonet: Technology, Use, Tools, and History (1993)</a></td></tr>
+<tr><td><a href='https://blog.adafruit.com/'>Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai</a></td></tr>
 </table>
 <!-- END:news -->
 
