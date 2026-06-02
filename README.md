@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td></tr>
 <tr><td><a href='https://moddedbear.com/gmail-thinks-im-stupid-so-i-left'>Gmail thinks I&#x27;m stupid, so I left</a></td></tr>
-<tr><td><a href='https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html'>Microsoft announces Scout, an autonomous AI agent built on OpenClaw</a></td></tr>
 <tr><td><a href='https://microsoft.ai/news/introducing-mai-thinking-1/'>MAI-Thinking-1</a></td></tr>
-<tr><td><a href='https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/'>A walking tour of surveillance infrastructure in Seattle (2020)</a></td></tr>
+<tr><td><a href='https://www.lumafield.com/scan-of-the-month/byd'>CT scans of BYD car parts</a></td></tr>
+<tr><td><a href='https://openrepair.org/open-data/open-standard/'>Open Repair Data Standard – Open Repair Alliance</a></td></tr>
 </table>
 <!-- END:news -->
 
