@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://microsoft.ai/models/mai-code-1-flash/'>Microsoft&#x27;s MAI-Code-1-Flash Scores 51% SWE-Bench Pro with Just 5B Active Params</a></td></tr>
-<tr><td><a href='https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/'>A walking tour of surveillance infrastructure in Seattle</a></td></tr>
-<tr><td><a href='https://c9x.me/compile/release/qbe-1.3.html'>QBE – Compiler Back end: Version 1.3</a></td></tr>
-<tr><td><a href='https://www.reuters.com/business/media-telecom/morningstar-values-spacex-780-billion-half-its-ipo-target-2026-06-02/'>Morningstar values SpaceX at $780B, half its IPO target</a></td></tr>
-<tr><td><a href='https://github.com/features/preview/github-app'>GitHub Copilot App</a></td></tr>
+<tr><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td></tr>
+<tr><td><a href='https://moddedbear.com/gmail-thinks-im-stupid-so-i-left'>Gmail thinks I&#x27;m stupid, so I left</a></td></tr>
+<tr><td><a href='https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html'>Microsoft announces Scout, an autonomous AI agent built on OpenClaw</a></td></tr>
+<tr><td><a href='https://microsoft.ai/news/introducing-mai-thinking-1/'>MAI-Thinking-1</a></td></tr>
+<tr><td><a href='https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/'>A walking tour of surveillance infrastructure in Seattle (2020)</a></td></tr>
 </table>
 <!-- END:news -->
 
