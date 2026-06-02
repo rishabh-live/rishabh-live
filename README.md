@@ -25,7 +25,7 @@
 <tr><td><a href='https://blog.adafruit.com/'>Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai</a></td></tr>
 <tr><td><a href='https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/'>CSS-Native Parallax Effect</a></td></tr>
 <tr><td><a href='https://www.0xsid.com/blog/meta-account-takeover-fiasco'>The newest Instagram “exploit” is the goofiest I&#x27;ve seen</a></td></tr>
-<tr><td><a href='https://github.com/krauseler/muxcard'>Muxcard, a dyi credit card size computer</a></td></tr>
+<tr><td><a href='https://blog.tjll.net/you-dont-love-systemd-timers-enough/'>You Don&#x27;t Love Systemd Timers Enough</a></td></tr>
 </table>
 <!-- END:news -->
 
