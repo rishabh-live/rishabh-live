@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.nns.ee/2026/06/03/katana-badusb/'>Hacking your PC using your speaker without ever touching it</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c93x0k194yno'>Meta workers can opt out of being tracked at work up to 30 min</a></td></tr>
 <tr><td><a href='https://fzakaria.com/2026/06/01/every-byte-matters'>Every Byte Matters</a></td></tr>
-<tr><td><a href='https://handwritten.danieljanus.pl/2026-06-01-edsger.html'>Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2</a></td></tr>
-<tr><td><a href='https://blog.ammaraskar.com/github-token-stealing/'>1-Click GitHub Token Stealing via a VSCode Bug</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground'>Mathematicians issue warning as AI rapidly gains ground</a></td></tr>
+<tr><td><a href='https://www.copetti.org/writings/consoles/playstation/'>PlayStation Architecture</a></td></tr>
+<tr><td><a href='https://dl.acm.org/doi/pdf/10.1145/1995966.1996008'>Nabokov&#x27;s pale fire: the lost &#x27;father of all hypertext demos&#x27;? (2011)</a></td></tr>
 </table>
 <!-- END:news -->
 
