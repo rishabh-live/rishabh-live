@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.ammaraskar.com/github-token-stealing/'>1-Click GitHub Token Stealing via a VSCode Bug</a></td></tr>
+<tr><td><a href='https://handwritten.danieljanus.pl/2026-06-01-edsger.html'>Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2</a></td></tr>
+<tr><td><a href='https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/'>AI outperforms law professors in Stanford Law study</a></td></tr>
 <tr><td><a href='https://github.com/s-macke/Test-Drive-3-Maps'>Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)</a></td></tr>
 <tr><td><a href='https://github.com/c0dejedi/nbd-vram'>Use your Nvidia GPU&#x27;s VRAM as swap space on Linux</a></td></tr>
-<tr><td><a href='https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/'>The Unreasonable Redundancy of Nature&#x27;s Protein Folds</a></td></tr>
-<tr><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td></tr>
 </table>
 <!-- END:news -->
 
