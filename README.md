@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td></tr>
-<tr><td><a href='https://www.lumafield.com/scan-of-the-month/byd'>CT scans of BYD car parts</a></td></tr>
 <tr><td><a href='https://github.com/c0dejedi/nbd-vram'>Use your Nvidia GPU&#x27;s VRAM as swap space on Linux</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html'>California’s university system went all in on AI, now it&#x27;s tearing itself apart</a></td></tr>
-<tr><td><a href='https://moddedbear.com/gmail-thinks-im-stupid-so-i-left'>Gmail thinks I&#x27;m stupid, so I left</a></td></tr>
+<tr><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td></tr>
+<tr><td><a href='https://www.chronicle.com/article/my-students-cant-read'>My Students Can&#x27;t Read</a></td></tr>
+<tr><td><a href='https://www.lumafield.com/scan-of-the-month/byd'>CT scans of BYD car parts</a></td></tr>
+<tr><td><a href='https://www.axa.com/en/press/press-releases/2026-mind-health-report'>More than 6 out of 10 people turn to AI for psychological support</a></td></tr>
 </table>
 <!-- END:news -->
 
