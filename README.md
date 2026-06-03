@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.nns.ee/2026/06/03/katana-badusb/'>Hacking your PC using your speaker without ever touching it</a></td></tr>
+<tr><td><a href='https://www.blackmagicdesign.com/products/davinciresolve/whatsnew'>DaVinci Resolve 21</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c93x0k194yno'>Meta workers can opt out of being tracked at work up to 30 min</a></td></tr>
+<tr><td><a href='https://letsencrypt.org/2026/06/03/pq-certs'>A Post-Quantum Future for Let&#x27;s Encrypt</a></td></tr>
 <tr><td><a href='https://fzakaria.com/2026/06/01/every-byte-matters'>Every Byte Matters</a></td></tr>
-<tr><td><a href='https://www.copetti.org/writings/consoles/playstation/'>PlayStation Architecture</a></td></tr>
-<tr><td><a href='https://dl.acm.org/doi/pdf/10.1145/1995966.1996008'>Nabokov&#x27;s pale fire: the lost &#x27;father of all hypertext demos&#x27;? (2011)</a></td></tr>
 </table>
 <!-- END:news -->
 
