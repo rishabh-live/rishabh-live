@@ -25,7 +25,7 @@
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/'>Gemma 4 12B: A unified, encoder-free multimodal model</a></td></tr>
 <tr><td><a href='https://burntsushi.net/encephalitis/'>I was recently diagnosed with anti-NMDA receptor encephalitis</a></td></tr>
 <tr><td><a href='https://www.blackmagicdesign.com/products/davinciresolve/whatsnew'>DaVinci Resolve 21</a></td></tr>
-<tr><td><a href='https://github.com/duanebester/gooey'>Gooey: A GPU-accelerated UI framework for Zig</a></td></tr>
+<tr><td><a href='https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/'>Artificial intelligence is not conscious – Ted Chiang</a></td></tr>
 </table>
 <!-- END:news -->
 
