@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/'>Gemma 4 12B: A unified, encoder-free multimodal model</a></td></tr>
+<tr><td><a href='https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/'>Elixir v1.20 released: now a gradually typed language</a></td></tr>
+<tr><td><a href='https://burntsushi.net/encephalitis/'>I was recently diagnosed with anti-NMDA receptor encephalitis</a></td></tr>
 <tr><td><a href='https://www.espressif.com/en/products/socs/esp32-s31'>ESP32-S31</a></td></tr>
 <tr><td><a href='https://www.blackmagicdesign.com/products/davinciresolve/whatsnew'>DaVinci Resolve 21</a></td></tr>
-<tr><td><a href='https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why'>If AI Data Centers Are So Great, Why Are They Being Built in Secret?</a></td></tr>
-<tr><td><a href='https://burntsushi.net/encephalitis/'>I was recently diagnosed with anti-NMDA receptor encephalitis</a></td></tr>
 </table>
 <!-- END:news -->
 
