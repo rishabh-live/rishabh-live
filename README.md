@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://blog.ammaraskar.com/github-token-stealing/'>1-Click GitHub Token Stealing via a VSCode Bug</a></td></tr>
 <tr><td><a href='https://github.com/c0dejedi/nbd-vram'>Use your Nvidia GPU&#x27;s VRAM as swap space on Linux</a></td></tr>
+<tr><td><a href='https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/'>The Unreasonable Redundancy of Nature&#x27;s Protein Folds</a></td></tr>
 <tr><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td></tr>
-<tr><td><a href='https://www.lumafield.com/scan-of-the-month/byd'>CT scans of BYD car parts</a></td></tr>
 <tr><td><a href='https://agenticmotherfucking.website'>Agentic Mfw</a></td></tr>
 </table>
 <!-- END:news -->
