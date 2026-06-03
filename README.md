@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.nns.ee/2026/06/03/katana-badusb/'>Hacking your PC using your speaker without ever touching it</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/'>Gemma 4 12B: A unified, encoder-free multimodal model</a></td></tr>
+<tr><td><a href='https://www.espressif.com/en/products/socs/esp32-s31'>ESP32-S31</a></td></tr>
 <tr><td><a href='https://www.blackmagicdesign.com/products/davinciresolve/whatsnew'>DaVinci Resolve 21</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c93x0k194yno'>Meta workers can opt out of being tracked at work up to 30 min</a></td></tr>
-<tr><td><a href='https://letsencrypt.org/2026/06/03/pq-certs'>A Post-Quantum Future for Let&#x27;s Encrypt</a></td></tr>
-<tr><td><a href='https://fzakaria.com/2026/06/01/every-byte-matters'>Every Byte Matters</a></td></tr>
+<tr><td><a href='https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why'>If AI Data Centers Are So Great, Why Are They Being Built in Secret?</a></td></tr>
+<tr><td><a href='https://burntsushi.net/encephalitis/'>I was recently diagnosed with anti-NMDA receptor encephalitis</a></td></tr>
 </table>
 <!-- END:news -->
 
