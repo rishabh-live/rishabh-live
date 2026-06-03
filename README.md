@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://searchzee.com/blog/search-without-ai-summaries'>I Don&#x27;t Want My Search Engine to Think for Me</a></td></tr>
+<tr><td><a href='https://blog.ammaraskar.com/github-token-stealing/'>1-Click GitHub Token Stealing via a VSCode Bug</a></td></tr>
 <tr><td><a href='https://github.com/c0dejedi/nbd-vram'>Use your Nvidia GPU&#x27;s VRAM as swap space on Linux</a></td></tr>
 <tr><td><a href='https://microsoft.ai/news/introducingmai-code-1-flash/'>MAI-Code-1-Flash</a></td></tr>
 <tr><td><a href='https://www.lumafield.com/scan-of-the-month/byd'>CT scans of BYD car parts</a></td></tr>
-<tr><td><a href='https://www.gateworld.net/news/2026/06/amazon-axed-new-stargate-series/'>Amazon Has Axed Its New Stargate Series</a></td></tr>
+<tr><td><a href='https://agenticmotherfucking.website'>Agentic Mfw</a></td></tr>
 </table>
 <!-- END:news -->
 
