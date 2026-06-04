@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://rozumem.xyz/posts/16'>The desperation of NYTimes</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
-<tr><td><a href='https://github.com/huawei-csl/KVarN'>KVarN: Native vLLM KV-cache quantization back end by Huawei</a></td></tr>
+<tr><td><a href='https://havenweb.org/2026/05/28/retro-tech.html'>Retro-Tech Parenting</a></td></tr>
+<tr><td><a href='https://github.com/huawei-csl/KVarN'>KVarN: Native vLLM backend for KV-cache quantization by Huawei</a></td></tr>
 <tr><td><a href='https://www.fieggen.com/shoelace/secureknot.htm'>Ian&#x27;s Secure Shoelace Knot</a></td></tr>
-<tr><td><a href='https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23'>Now Is the Best Time to Be a Duct Tape Engineer</a></td></tr>
-<tr><td><a href='https://maxleiter.com/blog/weights'>They’re made out of weights</a></td></tr>
 </table>
 <!-- END:news -->
 
