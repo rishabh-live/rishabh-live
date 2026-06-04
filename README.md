@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/anthropics/defending-code-reference-harness'>Anthropic&#x27;s open-source framework for AI-powered vulnerability discovery</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2606.04032'>Do Transformers Need Three Projections? Systematic Study of QKV Variants</a></td></tr>
 <tr><td><a href='https://xeiaso.net/notes/2026/ipv6-zones-go-url/'>IPv6 zones in URLs are a mistake</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/institute/recursive-self-improvement'>When AI Builds Itself: Our progress toward recursive self-improvement</a></td></tr>
-<tr><td><a href='https://github.com/schildep/verified-polygon-intersection'>Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed</a></td></tr>
 </table>
 <!-- END:news -->
 
