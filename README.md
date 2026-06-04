@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
+<tr><td><a href='https://github.com/huawei-csl/KVarN'>KVarN: Native vLLM KV-cache quantization back end by Huawei</a></td></tr>
 <tr><td><a href='https://www.fieggen.com/shoelace/secureknot.htm'>Ian&#x27;s Secure Shoelace Knot</a></td></tr>
-<tr><td><a href='https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/'>In a first, wind and solar generated more power than gas globally in April 2026</a></td></tr>
+<tr><td><a href='https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23'>Now Is the Best Time to Be a Duct Tape Engineer</a></td></tr>
 <tr><td><a href='https://maxleiter.com/blog/weights'>They’re made out of weights</a></td></tr>
-<tr><td><a href='https://momentsingraphics.de/Siggraph2026.html'>Gaussian Point Splatting</a></td></tr>
 </table>
 <!-- END:news -->
 
