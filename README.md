@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://maxleiter.com/blog/weights'>&quot;They&#x27;re made out of weights&quot;</a></td></tr>
-<tr><td><a href='https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html'>Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes</a></td></tr>
 <tr><td><a href='https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/'>Elixir v1.20: Now a gradually typed language</a></td></tr>
+<tr><td><a href='https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html'>Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes</a></td></tr>
 <tr><td><a href='https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/'>I built a vulnerable app and spent $1,500 seeing if LLMs could hack it</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/'>Gemma 4 12B: A unified, encoder-free multimodal model</a></td></tr>
 </table>
