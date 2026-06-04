@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
 <tr><td><a href='https://havenweb.org/2026/05/28/retro-tech.html'>Retro-Tech Parenting</a></td></tr>
-<tr><td><a href='https://kottke.org/26/05/american-wealth-sliced-up'>American Wealth, Sliced Up</a></td></tr>
-<tr><td><a href='https://github.com/huawei-csl/KVarN'>KVarN: Native vLLM backend for KV-cache quantization by Huawei</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/institute/recursive-self-improvement'>When AI Builds Itself: Our progress toward recursive self-improvement</a></td></tr>
 <tr><td><a href='https://www.fieggen.com/shoelace/secureknot.htm'>Ian&#x27;s Secure Shoelace Knot</a></td></tr>
+<tr><td><a href='https://github.com/huawei-csl/KVarN'>KVarN: Native vLLM backend for KV-cache quantization by Huawei</a></td></tr>
 </table>
 <!-- END:news -->
 
