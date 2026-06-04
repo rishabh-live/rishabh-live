@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
-<tr><td><a href='https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/'>UK media fails to disclose defence sector links in nearly 60% of cases</a></td></tr>
-<tr><td><a href='https://momentsingraphics.de/Siggraph2026.html'>Gaussian Point Splatting</a></td></tr>
-<tr><td><a href='https://maxleiter.com/blog/weights'>They’re made out of weights</a></td></tr>
 <tr><td><a href='https://www.fieggen.com/shoelace/secureknot.htm'>Ian&#x27;s Secure Shoelace Knot</a></td></tr>
+<tr><td><a href='https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/'>In a first, wind and solar generated more power than gas globally in April 2026</a></td></tr>
+<tr><td><a href='https://maxleiter.com/blog/weights'>They’re made out of weights</a></td></tr>
+<tr><td><a href='https://momentsingraphics.de/Siggraph2026.html'>Gaussian Point Splatting</a></td></tr>
 </table>
 <!-- END:news -->
 
