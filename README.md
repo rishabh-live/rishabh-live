@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/'>UK media fails to disclose defence sector links in nearly 60% of cases</a></td></tr>
-<tr><td><a href='https://maxleiter.com/blog/weights'>They’re made out of weights</a></td></tr>
 <tr><td><a href='https://momentsingraphics.de/Siggraph2026.html'>Gaussian Point Splatting</a></td></tr>
-<tr><td><a href='https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html'>Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes</a></td></tr>
-<tr><td><a href='https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/'>Elixir v1.20: Now a gradually typed language</a></td></tr>
+<tr><td><a href='https://maxleiter.com/blog/weights'>They’re made out of weights</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
+<tr><td><a href='https://tomotama.com/kiki'>Kiki – a tiny homepage construction kit with a small footprint</a></td></tr>
 </table>
 <!-- END:news -->
 
