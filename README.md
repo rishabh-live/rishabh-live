@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://e360.yale.edu/digest/trump-ooi-amoc'>U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse</a></td></tr>
 <tr><td><a href='https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/'>Elixir v1.20: Now a gradually typed language</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/engineering/how-we-contain-claude'>The ways we contain Claude across products</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/'>Gemma 4 12B: A unified, encoder-free multimodal model</a></td></tr>
 <tr><td><a href='https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/'>I built a vulnerable app and spent $1,500 seeing if LLMs could hack it</a></td></tr>
-<tr><td><a href='https://burntsushi.net/encephalitis/'>I was recently diagnosed with anti-NMDA receptor encephalitis</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/'>Gemma 4 12B: A unified, encoder-free multimodal model</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/engineering/how-we-contain-claude'>The ways we contain Claude across products</a></td></tr>
 </table>
 <!-- END:news -->
 
