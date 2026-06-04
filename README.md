@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://rozumem.xyz/posts/16'>The desperation of NYTimes</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
 <tr><td><a href='https://havenweb.org/2026/05/28/retro-tech.html'>Retro-Tech Parenting</a></td></tr>
+<tr><td><a href='https://kottke.org/26/05/american-wealth-sliced-up'>American Wealth, Sliced Up</a></td></tr>
 <tr><td><a href='https://github.com/huawei-csl/KVarN'>KVarN: Native vLLM backend for KV-cache quantization by Huawei</a></td></tr>
 <tr><td><a href='https://www.fieggen.com/shoelace/secureknot.htm'>Ian&#x27;s Secure Shoelace Knot</a></td></tr>
 </table>
