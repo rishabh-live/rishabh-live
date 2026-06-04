@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/anthropics/defending-code-reference-harness'>Anthropic&#x27;s open-source framework for AI-powered vulnerability discovery</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
-<tr><td><a href='https://havenweb.org/2026/05/28/retro-tech.html'>Retro-Tech Parenting</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/institute/recursive-self-improvement'>When AI Builds Itself: Our progress toward recursive self-improvement</a></td></tr>
-<tr><td><a href='https://www.fieggen.com/shoelace/secureknot.htm'>Ian&#x27;s Secure Shoelace Knot</a></td></tr>
-<tr><td><a href='https://github.com/huawei-csl/KVarN'>KVarN: Native vLLM backend for KV-cache quantization by Huawei</a></td></tr>
+<tr><td><a href='https://castor.web.cern.ch/content/home.html'>Castor: CERN Advanced STORage Manager</a></td></tr>
+<tr><td><a href='https://havenweb.org/2026/05/28/retro-tech.html'>Retro-Tech Parenting</a></td></tr>
 </table>
 <!-- END:news -->
 
