@@ -21,7 +21,7 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://fb.watch/HxPu0fSyeH/'>Meta enables adb on deprecated Portal devices</a></td></tr>
+<tr><td><a href='https://fb.watch/HxPu0fSyeH/'>Meta enables ADB on deprecated Portal devices [video]</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2606.04032'>Do transformers need three projections? Systematic study of QKV variants</a></td></tr>
 <tr><td><a href='https://github.com/anthropics/defending-code-reference-harness'>Anthropic&#x27;s open-source framework for AI-powered vulnerability discovery</a></td></tr>
 <tr><td><a href='https://github.com/alibaba/open-code-review'>Open Code Review – An AI-powered code review CLI tool</a></td></tr>
