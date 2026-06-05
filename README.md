@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ladybird.org/posts/changing-how-we-develop-ladybird/'>Changing How We Develop Ladybird</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2606.03673'>Tracing a powerful GNSS interference source over Europe</a></td></tr>
+<tr><td><a href='https://ladybird.org/posts/changing-how-we-develop-ladybird/'>Changing How We Develop Ladybird</a></td></tr>
 <tr><td><a href='https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/'>Entanglement Builds Space-Time. Now &quot;Magic&quot; Gives It Gravity</a></td></tr>
 <tr><td><a href='https://columnar.tech/blog/introducing-databow//'>databow: a Rust CLI to query any database with an ADBC driver</a></td></tr>
-<tr><td><a href='https://fb.watch/HxPu0fSyeH/'>Meta enables ADB on deprecated Portal devices [video]</a></td></tr>
+<tr><td><a href='https://redis.io/blog/announcing-redis-8-8/'>Redis 8.8: New array data structure, rate limiter, performance improvements</a></td></tr>
 </table>
 <!-- END:news -->
 
