@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501'>US tobacco firms applied tobacco strategies to globalize ultra-processed foods</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts on ISS told to shelter as repairs under way to fix air leaks</a></td></tr>
+<tr><td><a href='https://mouseless.click'>Mouseless – keyboard-driven control of macOS&#x2F;Linux&#x2F;Windows</a></td></tr>
+<tr><td><a href='https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html'>Cooldown Support for Ruby Bundler</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2606.03673'>Tracing a powerful GNSS interference source over Europe</a></td></tr>
 <tr><td><a href='https://redis.io/blog/announcing-redis-8-8/'>Redis 8.8: New array data structure, rate limiter, performance improvements</a></td></tr>
-<tr><td><a href='https://blog.plover.com/2026/03/09/#documentation-wins-2'>Programmers will document for Claude, but not for each other</a></td></tr>
-<tr><td><a href='https://mouseless.click'>Mouseless – keyboard-driven control of macOS&#x2F;Linux&#x2F;Windows</a></td></tr>
 </table>
 <!-- END:news -->
 
