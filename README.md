@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts told to return to ISS after sheltering over air leak repairs</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/pg_durable'>pg_durable: Microsoft open sources in-database durable execution</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/'>Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency</a></td></tr>
+<tr><td><a href='https://twitter.com/eastdakota/status/2062860530360959273'>Three of our worst VC stories</a></td></tr>
 <tr><td><a href='https://www.saturnci.com/my-agent-skill-for-test-driven-development.html'>My Agent Skill for Test-Driven Development</a></td></tr>
-<tr><td><a href='https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/'>New method turns ocean water into drinking water, without waste</a></td></tr>
 </table>
 <!-- END:news -->
 
