@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts on ISS told to shelter as repairs under way to fix air leaks</a></td></tr>
+<tr><td><a href='https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/'>Stop Using Conventional Commits</a></td></tr>
 <tr><td><a href='https://mouseless.click'>Mouseless – keyboard-driven control of macOS&#x2F;Linux&#x2F;Windows</a></td></tr>
+<tr><td><a href='https://github.com/microsoft/pg_durable'>pg_durable: Microsoft open sources in-database durable execution</a></td></tr>
 <tr><td><a href='https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html'>Cooldown Support for Ruby Bundler</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2606.03673'>Tracing a powerful GNSS interference source over Europe</a></td></tr>
-<tr><td><a href='https://redis.io/blog/announcing-redis-8-8/'>Redis 8.8: New array data structure, rate limiter, performance improvements</a></td></tr>
 </table>
 <!-- END:news -->
 
