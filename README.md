@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts on ISS told to shelter as repairs under way to fix air leaks</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts told to return to ISS after sheltering over air leak repairs</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/pg_durable'>pg_durable: Microsoft open sources in-database durable execution</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/'>Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency</a></td></tr>
-<tr><td><a href='https://www.adyen.com/press-and-media/adyen-payments-gov-uk'>Adyen Selected as Payment Services Provider for GOV.UK Pay</a></td></tr>
+<tr><td><a href='https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/'>Cloudflare CEO Is Lying to You About the Bot Traffic Jump</a></td></tr>
 <tr><td><a href='https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/'>Conventional Commits encourages focus on the wrong things</a></td></tr>
 </table>
 <!-- END:news -->
