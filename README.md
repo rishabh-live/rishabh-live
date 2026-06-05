@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2606.04032'>Do transformers need three projections? Systematic study of QKV variants</a></td></tr>
 <tr><td><a href='https://github.com/anthropics/defending-code-reference-harness'>Anthropic&#x27;s open-source framework for AI-powered vulnerability discovery</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2606.04032'>Do Transformers Need Three Projections? Systematic Study of QKV Variants</a></td></tr>
-<tr><td><a href='https://xeiaso.net/notes/2026/ipv6-zones-go-url/'>IPv6 zones in URLs are a mistake</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/voidzero-joins-cloudflare/'>VoidZero Is Joining Cloudflare</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/institute/recursive-self-improvement'>When AI Builds Itself: Our progress toward recursive self-improvement</a></td></tr>
+<tr><td><a href='https://fb.watch/HxPu0fSyeH/'>Meta enables adb on deprecated Portal devices</a></td></tr>
+<tr><td><a href='https://github.com/tarpediem/zenvision-linux'>Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
