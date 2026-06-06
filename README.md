@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://salvagedcircuitry.com/sigma-45mm.html'>The intracies of modern camera lens repair (2024)</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts told to return to ISS after sheltering over air leak repairs</a></td></tr>
-<tr><td><a href='https://classic100.gotski.workers.dev/'>Show HN: ABC Classic 100 Rankings visualised</a></td></tr>
+<tr><td><a href='https://www.0xkato.xyz/how-llms-actually-work/'>How LLMs Work</a></td></tr>
+<tr><td><a href='https://help.openai.com/en/articles/20001061-lockdown-mode'>OpenAI Help: Lockdown Mode</a></td></tr>
 <tr><td><a href='https://github.com/microsoft/pg_durable'>pg_durable: Microsoft open sources in-database durable execution</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/'>Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts told to return to ISS after sheltering over air leak repairs</a></td></tr>
 </table>
 <!-- END:news -->
 
