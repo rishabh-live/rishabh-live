@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/'>Moving beyond fork() + exec()</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2606.05818'>Benchmarks in Leipzig</a></td></tr>
+<tr><td><a href='https://twitter.com/lemire/status/2062880075117113739'>Nvidia is proposing a beast of a CPU system for Windows PCs</a></td></tr>
 <tr><td><a href='https://www.0xkato.xyz/how-llms-actually-work/'>How LLMs work</a></td></tr>
-<tr><td><a href='https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html'>Building Rust Procedural Macros from the Grounds Up</a></td></tr>
-<tr><td><a href='https://engelsbergideas.com/notebook/the-new-bibliomaniacs/'>The new bibliomaniacs</a></td></tr>
-<tr><td><a href='https://pokeemerald.com/'>Pokemon Emerald Ported to WebAssembly (100k FPS)</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/'>Google will pay SpaceX $920M per month for compute</a></td></tr>
 </table>
 <!-- END:news -->
 
