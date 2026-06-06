@@ -25,7 +25,7 @@
 <tr><td><a href='https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/'>Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot</a></td></tr>
 <tr><td><a href='https://su3.io/posts/introducing-zeroserve'>Zeroserve: A zero-config web server you can script with eBPF</a></td></tr>
 <tr><td><a href='https://twitter.com/lemire/status/2062880075117113739'>Nvidia is proposing a beast of a CPU system for Windows PCs</a></td></tr>
-<tr><td><a href='https://magazine.atavist.com/2026/mccann-cocaine-fugitives'>You Can Run</a></td></tr>
+<tr><td><a href='https://www.science.org/doi/10.1126/science.aec7671'>Home alone: Remote work, isolation, and mental health</a></td></tr>
 </table>
 <!-- END:news -->
 
