@@ -25,7 +25,7 @@
 <tr><td><a href='https://salvagedcircuitry.com/sigma-45mm.html'>The intracies of modern camera lens repair (2024)</a></td></tr>
 <tr><td><a href='https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/'>S&#x26;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic</a></td></tr>
 <tr><td><a href='https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/'>Pre-Modern Armies for Worldbuilders, Part I: Why They Fight</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/live/c4g44ew3g1kt'>Astronauts told to return to ISS after sheltering over air leak repairs</a></td></tr>
+<tr><td><a href='https://www.autodidacts.io/social-cache-busting/'>Social Cache Busting</a></td></tr>
 </table>
 <!-- END:news -->
 
