@@ -24,8 +24,8 @@
 <tr><td><a href='https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos'>GrapheneOS user reported to authorities for using GrapheneOS</a></td></tr>
 <tr><td><a href='https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2'>Zig Zen Update</a></td></tr>
 <tr><td><a href='https://www.0xkato.xyz/how-llms-actually-work/'>How LLMs work</a></td></tr>
-<tr><td><a href='https://salvagedcircuitry.com/sigma-45mm.html'>The intracies of modern camera lens repair (2024)</a></td></tr>
-<tr><td><a href='https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/'>S&#x26;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic</a></td></tr>
+<tr><td><a href='https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/'>The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy</a></td></tr>
+<tr><td><a href='https://www.martiehaselton.com/_files/ugd/3ae410_aeb76edab75f457aae0c14c4c68d93c0.pdf'>Do Women&#x27;s Mate Preferences Change Across the Ovulatory Cycle? A Meta-Analysis [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
