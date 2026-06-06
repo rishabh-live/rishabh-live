@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://su3.io/posts/introducing-zeroserve'>Zeroserve: A zero-config web server you can script with eBPF</a></td></tr>
-<tr><td><a href='https://twitter.com/lemire/status/2062880075117113739'>Nvidia is proposing a beast of a CPU system for Windows PCs</a></td></tr>
-<tr><td><a href='https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/'>Moving beyond fork() + exec()</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2606.05818'>Benchmarks in Leipzig</a></td></tr>
 <tr><td><a href='https://magazine.atavist.com/2026/mccann-cocaine-fugitives'>You Can Run</a></td></tr>
+<tr><td><a href='https://twitter.com/lemire/status/2062880075117113739'>Nvidia is proposing a beast of a CPU system for Windows PCs</a></td></tr>
+<tr><td><a href='https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565'>Pentagon raised threat of Israeli spying on U.S. to highest level, sources say</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2606.05818'>Benchmarks in Leipzig</a></td></tr>
 </table>
 <!-- END:news -->
 
