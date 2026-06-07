@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html'>Powering up a module from the IBM 604: an electronic calculator from 1948</a></td></tr>
+<tr><td><a href='https://github.com/yukiyokotani/office-open-xml-viewer'>Silurus&#x2F;ooxml: Pixel-faithful Office documents, rendered in the browser</a></td></tr>
+<tr><td><a href='https://performance.dev/how-is-linear-so-fast-a-technical-breakdown'>How&#x27;s Linear so fast? A technical breakdown</a></td></tr>
+<tr><td><a href='https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/'>You&#x27;ll never guess who made the first wireless telephone</a></td></tr>
 <tr><td><a href='https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/'>Cloning a Sennheiser BA2015 battery pack</a></td></tr>
-<tr><td><a href='https://www.ioccc.org/2025/'>The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners</a></td></tr>
-<tr><td><a href='https://github.com/devenjarvis/lathe'>Show HN: Lathe – Use LLMs to learn a new domain, not skip past it</a></td></tr>
-<tr><td><a href='https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix'>What is the purpose of the lost+found folder in Linux and Unix?</a></td></tr>
 </table>
 <!-- END:news -->
 
