@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight'>An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World</a></td></tr>
-<tr><td><a href='https://ntsc.rs/'>Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></td></tr>
+<tr><td><a href='https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses'>Field of clones: How horse replicas came to dominate polo</a></td></tr>
+<tr><td><a href='https://github.com/ValveSoftware/GameNetworkingSockets/issues/398'>Valve P2P networking broken for more than 2 months</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2601.14470'>Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering</a></td></tr>
 <tr><td><a href='https://openai.com/index/harness-engineering/'>Harness engineering: Leveraging Codex in an agent-first world</a></td></tr>
-<tr><td><a href='https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06'>Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved</a></td></tr>
-<tr><td><a href='https://pdimagearchive.org/'>Public Domain Image Archive</a></td></tr>
+<tr><td><a href='https://ntsc.rs/'>Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></td></tr>
 </table>
 <!-- END:news -->
 
