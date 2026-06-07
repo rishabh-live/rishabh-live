@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://performance.dev/how-is-linear-so-fast-a-technical-breakdown'>How&#x27;s Linear so fast? A technical breakdown</a></td></tr>
 <tr><td><a href='https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony'>Building from zero after addiction, prison, and a felony</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2605.31514'>If LLMs Have Human-Like Attributes, Then So Does Age of Empires II</a></td></tr>
 <tr><td><a href='https://www.absurdlyoptimized.com/recipes/pancakes/'>Show HN: I Derived a Pancake</a></td></tr>
 <tr><td><a href='https://nik.art/making-peace-with-your-unlived-dreams/'>Making peace with your unlived dreams (2023)</a></td></tr>
+<tr><td><a href='https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html'>Powering up a module from the IBM 604: an electronic calculator from 1948</a></td></tr>
 </table>
 <!-- END:news -->
 
