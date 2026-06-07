@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122'>Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years</a></td></tr>
+<tr><td><a href='https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/'>Cloning a Sennheiser BA2015 battery pack</a></td></tr>
 <tr><td><a href='https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/'>LLMs are eroding my software engineering career and I don&#x27;t know what to do</a></td></tr>
 <tr><td><a href='https://www.ioccc.org/2025/'>The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners</a></td></tr>
-<tr><td><a href='https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/'>Cloning a Sennheiser BA2015 battery pack</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/65697'>Anthropic, please ship an official Claude Desktop for Linux</a></td></tr>
+<tr><td><a href='https://github.com/devenjarvis/lathe'>Show HN: Lathe – Use LLMs to learn a new domain, not skip past it</a></td></tr>
 </table>
 <!-- END:news -->
 
