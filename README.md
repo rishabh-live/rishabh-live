@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight'>An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World</a></td></tr>
 <tr><td><a href='https://ntsc.rs/'>Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></td></tr>
 <tr><td><a href='https://openai.com/index/harness-engineering/'>Harness engineering: Leveraging Codex in an agent-first world</a></td></tr>
-<tr><td><a href='https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/'>Moving beyond fork() + exec()</a></td></tr>
-<tr><td><a href='https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/'>Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot</a></td></tr>
+<tr><td><a href='https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06'>Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved</a></td></tr>
 <tr><td><a href='https://pdimagearchive.org/'>Public Domain Image Archive</a></td></tr>
 </table>
 <!-- END:news -->
