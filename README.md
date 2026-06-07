@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.ioccc.org/2025/'>The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners</a></td></tr>
+<tr><td><a href='https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/'>I design with Claude more than Figma now</a></td></tr>
 <tr><td><a href='https://github.com/ValveSoftware/GameNetworkingSockets/issues/398'>Valve P2P networking broken for more than 2 months</a></td></tr>
 <tr><td><a href='https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses'>Field of clones: How horse replicas came to dominate polo</a></td></tr>
-<tr><td><a href='https://openai.com/index/harness-engineering/'>Harness engineering: Leveraging Codex in an agent-first world</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2601.14470'>Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering</a></td></tr>
-<tr><td><a href='https://ntsc.rs/'>Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></td></tr>
 </table>
 <!-- END:news -->
 
