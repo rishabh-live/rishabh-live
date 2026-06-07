@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ntsc.rs/'>Ntsc-rs – open-source video emulation of analog TV and VHS artifacts</a></td></tr>
+<tr><td><a href='https://openai.com/index/harness-engineering/'>Harness engineering: Leveraging Codex in an agent-first world</a></td></tr>
 <tr><td><a href='https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/'>Moving beyond fork() + exec()</a></td></tr>
 <tr><td><a href='https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/'>Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot</a></td></tr>
-<tr><td><a href='https://su3.io/posts/introducing-zeroserve'>Zeroserve: A zero-config web server you can script with eBPF</a></td></tr>
-<tr><td><a href='https://twitter.com/lemire/status/2062880075117113739'>Nvidia is proposing a beast of a CPU system for Windows PCs</a></td></tr>
+<tr><td><a href='https://pdimagearchive.org/'>Public Domain Image Archive</a></td></tr>
 </table>
 <!-- END:news -->
 
