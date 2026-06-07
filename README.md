@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/'>LLMs are eroding my software engineering career and I don&#x27;t know what to do</a></td></tr>
 <tr><td><a href='https://www.ioccc.org/2025/'>The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/65697'>Anthropic, please ship an official Claude Desktop for Linux</a></td></tr>
+<tr><td><a href='https://yon-lang.org/'>Yon – a topos-oriented language with a content-addressed lattice heap</a></td></tr>
 <tr><td><a href='http://www.os2museum.com/wp/win16-memory-management/'>Win16 Memory Management</a></td></tr>
-<tr><td><a href='https://fergusfinn.com/blog/kv-entropy-coder/'>Speculative KV coding: losslessly compressing KV cache by up to ~4×</a></td></tr>
-<tr><td><a href='https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/'>The Secret Life of Circuits with lcamtuf &#x2F; Michał Zalewski (Audio Interview)</a></td></tr>
 </table>
 <!-- END:news -->
 
