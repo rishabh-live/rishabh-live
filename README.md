@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.ioccc.org/2025/'>The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners</a></td></tr>
-<tr><td><a href='https://fergusfinn.com/blog/kv-entropy-coder/'>Speculative KV coding: losslessly compressing KV cache by up to ~4×</a></td></tr>
 <tr><td><a href='http://www.os2museum.com/wp/win16-memory-management/'>Win16 Memory Management</a></td></tr>
+<tr><td><a href='https://fergusfinn.com/blog/kv-entropy-coder/'>Speculative KV coding: losslessly compressing KV cache by up to ~4×</a></td></tr>
+<tr><td><a href='https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/'>Scientists ejected from diabetes conference for distributing journal reprints</a></td></tr>
 <tr><td><a href='https://github.com/ValveSoftware/GameNetworkingSockets/issues/398'>Valve P2P networking broken for more than 2 months</a></td></tr>
-<tr><td><a href='https://kristoff.it/blog/north-star/'>My Software North Star</a></td></tr>
 </table>
 <!-- END:news -->
 
