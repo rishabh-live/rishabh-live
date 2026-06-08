@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/boringcollege/zig-by-example'>Zig by Example</a></td></tr>
-<tr><td><a href='https://intunedhq.com'>Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code</a></td></tr>
+<tr><td><a href='https://vorpus.github.io/performativeUI/'>Show HN: Performative-UI – a react component library of design tropes</a></td></tr>
 <tr><td><a href='https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social'>Anti-social: It&#x27;s fads, not friends, which now dominate social media feeds</a></td></tr>
-<tr><td><a href='https://handson.money/blog/2026-06-06-horse-arse-and-design/'>Spanish traders set the standard forGnuCash database design</a></td></tr>
+<tr><td><a href='https://intunedhq.com'>Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code</a></td></tr>
 <tr><td><a href='https://www.cypherpunkbooks.com'>The Cypherpunk Library</a></td></tr>
 </table>
 <!-- END:news -->
