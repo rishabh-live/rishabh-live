@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lowtechguys.com/musicdecoy/'>Stop the Apple Music app from launching</a></td></tr>
+<tr><td><a href='https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/'>Apple reveals new AI architecture built around Google Gemini models</a></td></tr>
 <tr><td><a href='https://mimo.xiaomi.com/blog/mimo-tilert-1000tps'>MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second</a></td></tr>
 <tr><td><a href='https://vorpus.github.io/performativeUI/'>Show HN: Performative-UI – a react component library of design tropes</a></td></tr>
-<tr><td><a href='https://siraben.github.io/ti84p-re/'>Full Reverse Engineering of the TI-84 Plus Operating System</a></td></tr>
-<tr><td><a href='https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social'>Anti-social: It&#x27;s fads, not friends, which now dominate social media feeds</a></td></tr>
+<tr><td><a href='https://burrito.bio/essays/what-limits-a-cells-size'>Why are cells small?</a></td></tr>
 </table>
 <!-- END:news -->
 
