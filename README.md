@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://teenage.engineering/products/apc-2'>Teenage Engineering: Introducing APC-2</a></td></tr>
+<tr><td><a href='https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision'>DeepSeek V4 Pro beats GPT-5.5 Pro on precision</a></td></tr>
 <tr><td><a href='https://ranpara.net/posts/perceptron-explained-from-scratch/'>The Smallest Brain You Can Build: A Perceptron in Python</a></td></tr>
 <tr><td><a href='https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony'>Building from zero after addiction, prison, and a felony</a></td></tr>
-<tr><td><a href='https://www.absurdlyoptimized.com/recipes/pancakes/'>Show HN: I Derived a Pancake</a></td></tr>
-<tr><td><a href='https://nik.art/making-peace-with-your-unlived-dreams/'>Making peace with your unlived dreams (2023)</a></td></tr>
 <tr><td><a href='https://github.com/melastmohican/rust-rpico2-embassy-examples'>A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W</a></td></tr>
 </table>
 <!-- END:news -->
