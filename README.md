@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://performance.dev/how-is-linear-so-fast-a-technical-breakdown'>How&#x27;s Linear so fast? A technical breakdown</a></td></tr>
+<tr><td><a href='https://ranpara.net/posts/perceptron-explained-from-scratch/'>The Smallest Brain You Can Build: A Perceptron in Python</a></td></tr>
 <tr><td><a href='https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony'>Building from zero after addiction, prison, and a felony</a></td></tr>
 <tr><td><a href='https://www.absurdlyoptimized.com/recipes/pancakes/'>Show HN: I Derived a Pancake</a></td></tr>
 <tr><td><a href='https://nik.art/making-peace-with-your-unlived-dreams/'>Making peace with your unlived dreams (2023)</a></td></tr>
-<tr><td><a href='https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix'>What is the purpose of the lost+found folder in Linux and Unix? (2014)</a></td></tr>
+<tr><td><a href='https://github.com/melastmohican/rust-rpico2-embassy-examples'>A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W</a></td></tr>
 </table>
 <!-- END:news -->
 
