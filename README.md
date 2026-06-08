@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://teenage.engineering/products/apc-2'>APC–2 – A professional record cutter for producing original playback discs</a></td></tr>
+<tr><td><a href='https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/'>1k Data Breaches Later, the Disclosure Lag Is Worse</a></td></tr>
 <tr><td><a href='https://ranpara.net/posts/perceptron-explained-from-scratch/'>The Smallest Brain You Can Build: A Perceptron in Python</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08'>New drug &#x27;functionally cures&#x27; many hepatitis B virus infections</a></td></tr>
+<tr><td><a href='https://igerman.cc/blog/dopamine-fracking/'>Dopamine Fracking</a></td></tr>
 <tr><td><a href='https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony'>Building from zero after addiction, prison, and a felony</a></td></tr>
-<tr><td><a href='https://github.com/Achint08/90210'>90210 – running the show without property tax</a></td></tr>
 </table>
 <!-- END:news -->
 
