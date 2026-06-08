@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.cypherpunkbooks.com'>The Cypherpunk Library</a></td></tr>
-<tr><td><a href='https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data'>OneDrive data now has an expiry date</a></td></tr>
 <tr><td><a href='https://igerman.cc/blog/dopamine-fracking/'>Dopamine Fracking</a></td></tr>
 <tr><td><a href='https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/'>1k Data Breaches Later, the Disclosure Lag Is Worse</a></td></tr>
-<tr><td><a href='https://teenage.engineering/products/apc-2'>APC–2 – A professional record cutter for producing original playback discs</a></td></tr>
+<tr><td><a href='https://bittersoutherner.com/feature/2022/a-family-project'>A Family Project (2022)</a></td></tr>
+<tr><td><a href='https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony'>Building from zero after addiction, prison, and a felony</a></td></tr>
 </table>
 <!-- END:news -->
 
