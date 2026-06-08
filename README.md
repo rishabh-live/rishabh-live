@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://lowtechguys.com/musicdecoy/'>Stop the Apple Music app from launching</a></td></tr>
 <tr><td><a href='https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/'>Apple reveals new AI architecture built around Google Gemini models</a></td></tr>
+<tr><td><a href='https://www.apple.com/apple-intelligence/'>Siri AI</a></td></tr>
+<tr><td><a href='https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf'>Surveillance Is Not Safety: A statement on the UK&#x27;s latest threat to privacy [pdf]</a></td></tr>
 <tr><td><a href='https://mimo.xiaomi.com/blog/mimo-tilert-1000tps'>MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second</a></td></tr>
 <tr><td><a href='https://vorpus.github.io/performativeUI/'>Show HN: Performative-UI – a react component library of design tropes</a></td></tr>
-<tr><td><a href='https://burrito.bio/essays/what-limits-a-cells-size'>Why are cells small?</a></td></tr>
 </table>
 <!-- END:news -->
 
