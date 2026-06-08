@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/boringcollege/zig-by-example'>Zig by Example</a></td></tr>
+<tr><td><a href='https://intunedhq.com'>Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code</a></td></tr>
+<tr><td><a href='https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social'>Anti-social: It&#x27;s fads, not friends, which now dominate social media feeds</a></td></tr>
+<tr><td><a href='https://handson.money/blog/2026-06-06-horse-arse-and-design/'>Spanish traders set the standard forGnuCash database design</a></td></tr>
 <tr><td><a href='https://www.cypherpunkbooks.com'>The Cypherpunk Library</a></td></tr>
-<tr><td><a href='https://igerman.cc/blog/dopamine-fracking/'>Dopamine Fracking</a></td></tr>
-<tr><td><a href='https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/'>1k Data Breaches Later, the Disclosure Lag Is Worse</a></td></tr>
-<tr><td><a href='https://bittersoutherner.com/feature/2022/a-family-project'>A Family Project (2022)</a></td></tr>
-<tr><td><a href='https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony'>Building from zero after addiction, prison, and a felony</a></td></tr>
 </table>
 <!-- END:news -->
 
