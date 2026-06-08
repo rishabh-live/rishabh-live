@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://teenage.engineering/products/apc-2'>APC–2 – A professional record cutter for producing original playback discs</a></td></tr>
-<tr><td><a href='https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/'>1k Data Breaches Later, the Disclosure Lag Is Worse</a></td></tr>
-<tr><td><a href='https://ranpara.net/posts/perceptron-explained-from-scratch/'>The Smallest Brain You Can Build: A Perceptron in Python</a></td></tr>
 <tr><td><a href='https://igerman.cc/blog/dopamine-fracking/'>Dopamine Fracking</a></td></tr>
-<tr><td><a href='https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony'>Building from zero after addiction, prison, and a felony</a></td></tr>
+<tr><td><a href='https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/'>1k Data Breaches Later, the Disclosure Lag Is Worse</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/'>Is This the Dawn of the Tokenpocalypse?</a></td></tr>
+<tr><td><a href='https://teenage.engineering/products/apc-2'>APC–2 – A professional record cutter for producing original playback discs</a></td></tr>
+<tr><td><a href='https://b-ark.ca/2026/06/07/cannibalism.html'>Cannibalism</a></td></tr>
 </table>
 <!-- END:news -->
 
