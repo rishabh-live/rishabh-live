@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-fable-5-mythos-5'>Claude Fable 5</a></td></tr>
+<tr><td><a href='https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/'>GPT-2: Too Dangerous To Release (2019)</a></td></tr>
+<tr><td><a href='https://aarushgupta.io/posts/kan-fpga/'>Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks</a></td></tr>
 <tr><td><a href='https://staniks.github.io/articles/catlantean-3d-blog-1/'>Making Graphics Like it&#x27;s 1993</a></td></tr>
-<tr><td><a href='https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos'>What it feels like to work with Mythos</a></td></tr>
 <tr><td><a href='https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html'>A giant star may have destroyed itself in one of the rarest explosions</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/'>Microsoft&#x27;s open source tools were hacked to steal passwords of AI developers</a></td></tr>
 </table>
 <!-- END:news -->
 
