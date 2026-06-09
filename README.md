@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/'>Microsoft&#x27;s open source tools were hacked to steal passwords of AI developers</a></td></tr>
 <tr><td><a href='https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/'>Apple reveals new AI architecture built around Google Gemini models</a></td></tr>
+<tr><td><a href='https://opencv.org/opencv-5/'>OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision</a></td></tr>
+<tr><td><a href='https://blog.aheymans.xyz/post/thinkpad_x61/'>Porting the ThinkPad X61 to Coreboot</a></td></tr>
 <tr><td><a href='https://oldavista.com/'>Old&#x27;aVista – The most powerful guide to the old Internet</a></td></tr>
-<tr><td><a href='https://www.apple.com/apple-intelligence/'>Siri AI</a></td></tr>
-<tr><td><a href='https://vorpus.github.io/performativeUI/'>Show HN: Performative-UI – A react component library of design tropes</a></td></tr>
-<tr><td><a href='https://martinalderson.com/posts/xais-new-rental-business/'>xAI is looking more like a datacentre REIT than a frontier lab</a></td></tr>
 </table>
 <!-- END:news -->
 
