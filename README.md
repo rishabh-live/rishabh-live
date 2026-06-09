@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/'>Microsoft&#x27;s open source tools were hacked to steal passwords of AI developers</a></td></tr>
-<tr><td><a href='https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/'>Apple reveals new AI architecture built around Google Gemini models</a></td></tr>
+<tr><td><a href='https://github.com/luke8086/gentleos32'>GentleOS – Classic operating system with a lovely retro GUI</a></td></tr>
+<tr><td><a href='https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age'>Forever Young: how one molecule can lock plants in a youthful state.(2025)</a></td></tr>
 <tr><td><a href='https://opencv.org/opencv-5/'>OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision</a></td></tr>
-<tr><td><a href='https://blog.aheymans.xyz/post/thinkpad_x61/'>Porting the ThinkPad X61 to Coreboot</a></td></tr>
-<tr><td><a href='https://oldavista.com/'>Old&#x27;aVista – The most powerful guide to the old Internet</a></td></tr>
+<tr><td><a href='https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/'>Apple reveals new AI architecture built around Google Gemini models</a></td></tr>
 </table>
 <!-- END:news -->
 
