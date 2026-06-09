@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/'>Apple reveals new AI architecture built around Google Gemini models</a></td></tr>
+<tr><td><a href='https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449'>Job: Head of Stonehenge</a></td></tr>
 <tr><td><a href='https://www.apple.com/apple-intelligence/'>Siri AI</a></td></tr>
-<tr><td><a href='https://hermes-agent.org/'>Hermes Agent – Open-source AI agent with persistent memory</a></td></tr>
 <tr><td><a href='https://vorpus.github.io/performativeUI/'>Show HN: Performative-UI – A react component library of design tropes</a></td></tr>
-<tr><td><a href='https://mimo.xiaomi.com/blog/mimo-tilert-1000tps'>MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second</a></td></tr>
+<tr><td><a href='https://martinalderson.com/posts/xais-new-rental-business/'>xAI is looking more like a datacentre REIT than a frontier lab</a></td></tr>
 </table>
 <!-- END:news -->
 
