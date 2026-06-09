@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.anthropic.com/news/claude-fable-5-mythos-5'>Claude Fable 5</a></td></tr>
 <tr><td><a href='https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/'>Upcoming breaking changes for NPM v12</a></td></tr>
 <tr><td><a href='https://aarushgupta.io/posts/kan-fpga/'>Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks</a></td></tr>
-<tr><td><a href='https://staniks.github.io/articles/catlantean-3d-blog-1/'>Making Graphics Like it&#x27;s 1993</a></td></tr>
 <tr><td><a href='https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html'>If Claude Fable stops helping you, you&#x27;ll never know</a></td></tr>
+<tr><td><a href='https://staniks.github.io/articles/catlantean-3d-blog-1/'>Making Graphics Like it&#x27;s 1993</a></td></tr>
 </table>
 <!-- END:news -->
 
