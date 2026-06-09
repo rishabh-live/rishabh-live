@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://staniks.github.io/articles/catlantean-3d-blog-1/'>Making Graphics Like it&#x27;s 1993</a></td></tr>
 <tr><td><a href='https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/'>Albania Is Not for Sale: Kushner&#x27;s $4B Resort Triggers&#x27;Flamingo Revolution&#x27;</a></td></tr>
+<tr><td><a href='https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/'>Solar Energy Saves Europeans $135M a Day</a></td></tr>
+<tr><td><a href='https://staniks.github.io/articles/catlantean-3d-blog-1/'>Making Graphics Like it&#x27;s 1993</a></td></tr>
 <tr><td><a href='https://github.com/luke8086/gentleos32'>GentleOS – Classic operating system with a lovely retro GUI</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/'>Microsoft&#x27;s open source tools were hacked to steal passwords of AI developers</a></td></tr>
-<tr><td><a href='https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/'>The better the autopilot the worse the pilot</a></td></tr>
 </table>
 <!-- END:news -->
 
