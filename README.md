@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.anthropic.com/news/claude-fable-5-mythos-5'>Claude Fable 5</a></td></tr>
+<tr><td><a href='https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/'>Apple decided not to roll out Siri in EU after denied request for exemption</a></td></tr>
+<tr><td><a href='https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf'>System Card: Claude Fable 5 and Claude Mythos 5 [pdf]</a></td></tr>
+<tr><td><a href='https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis'>Where is the AI jobs crisis?</a></td></tr>
 <tr><td><a href='https://staniks.github.io/articles/catlantean-3d-blog-1/'>Making Graphics Like it&#x27;s 1993</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/'>Microsoft&#x27;s open source tools were hacked to steal passwords of AI developers</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html'>A giant star may have destroyed itself in one of the rarest explosions</a></td></tr>
-<tr><td><a href='https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/'>&#x27;Sloppenheimer:&#x27; Amazon Employees Mock the Company&#x27;s AI on Slack</a></td></tr>
-<tr><td><a href='https://biffweb.com/p/core/'>Biff.core: system composition for Clojure web apps</a></td></tr>
 </table>
 <!-- END:news -->
 
