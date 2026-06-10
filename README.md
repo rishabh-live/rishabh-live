@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/apple/container/blob/main/docs/container-machine.md'>macOS Container Machines</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-fable-5-mythos-5'>Claude Fable 5</a></td></tr>
 <tr><td><a href='https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/'>Upcoming breaking changes for npm v12</a></td></tr>
-<tr><td><a href='https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/'>RIP software hackathons. Long live the hardware hackathon</a></td></tr>
-<tr><td><a href='https://aarushgupta.io/posts/kan-fpga/'>Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks</a></td></tr>
+<tr><td><a href='https://twitter.com/RichardSSutton/status/2061216087744946656'>Rich Sutton on AI creativity and discovery</a></td></tr>
+<tr><td><a href='https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/'>German ruling declares Google liable for false answers in AI Overviews</a></td></tr>
 </table>
 <!-- END:news -->
 
