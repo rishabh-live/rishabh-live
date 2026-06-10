@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://mohkohn.co.uk/writing/html-first/'>Building an HTML-first site doubled our users overnight</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48477135'>AMA: I&#x27;m Eric Ries (The Lean Startup) &#x26; Author of New Bestseller Incorruptible</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48477135'>I&#x27;m Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</a></td></tr>
 <tr><td><a href='https://pgdog.dev/blog/our-funding-announcement'>PgDog is funded and coming to a database near you</a></td></tr>
-<tr><td><a href='https://burr.apache.org/'>Apache Burr: Build reliable AI agents and applications</a></td></tr>
-<tr><td><a href='https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf'>Mercedes‑Benz starts large‑scale production of electric axial flux motor</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com/incidents/fcj3088jg1wx'>GitHub Authentication issues related to API requests</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/29045'>Claude Desktop spins up a VM without no way of stopping it</a></td></tr>
+<tr><td><a href='https://mohkohn.co.uk/writing/html-first/'>Building an HTML-first site doubled our users overnight</a></td></tr>
 </table>
 <!-- END:news -->
 
