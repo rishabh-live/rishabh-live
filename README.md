@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/29045'>Claude Desktop spins up a VM without no way of stopping it</a></td></tr>
-<tr><td><a href='https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated'>Anthropic&#x27;s Model Naming, Extrapolated</a></td></tr>
+<tr><td><a href='https://github.com/philipl/pifs'>πFS</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/curiosity-rover-jpl-mars-science'>How JPL keeps the 13-year-old Curiosity rover doing science</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48477135'>I&#x27;m Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</a></td></tr>
 <tr><td><a href='https://pgdog.dev/blog/our-funding-announcement'>PgDog is funded and coming to a database near you</a></td></tr>
+<tr><td><a href='https://mceglowski.substack.com/p/laffaire-siloxane'>L&#x27;Affaire Siloxane</a></td></tr>
 </table>
 <!-- END:news -->
 
