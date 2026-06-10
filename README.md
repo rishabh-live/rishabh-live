@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://danq.me/2026/06/09/fn-keys/'>I Hate (Most) Keyboard &#x27;Fn&#x27; Keys</a></td></tr>
+<tr><td><a href='https://mohkohn.co.uk/writing/html-first/'>Building an HTML-first site doubled our users overnight</a></td></tr>
+<tr><td><a href='https://pgdog.dev/blog/our-funding-announcement'>PgDog is funded and coming to a database near you</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48477135'>AMA: I&#x27;m Eric Ries (The Lean Startup) &#x26; Author of New Bestseller Incorruptible</a></td></tr>
 <tr><td><a href='https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf'>Mercedes‑Benz starts large‑scale production of electric axial flux motor</a></td></tr>
 <tr><td><a href='https://jivx.com/eki'>All 9,300 Japanese train station, animated by the year it opened (1872–2026)</a></td></tr>
-<tr><td><a href='https://mohkohn.co.uk/writing/html-first/'>Building an HTML-first site doubled our users overnight</a></td></tr>
-<tr><td><a href='https://sbbresale.ch/'>Buy a train, bridge or tracks from the Swiss Railway</a></td></tr>
 </table>
 <!-- END:news -->
 
