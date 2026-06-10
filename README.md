@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/philipl/pifs'>πFS</a></td></tr>
+<tr><td><a href='https://news.immunologic.org/p/organic-foods-are-not-healthieror'>Organic foods are not healthier or pesticide free</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/curiosity-rover-jpl-mars-science'>How JPL keeps the 13-year-old Curiosity rover doing science</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48477135'>I&#x27;m Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</a></td></tr>
-<tr><td><a href='https://pgdog.dev/blog/our-funding-announcement'>PgDog is funded and coming to a database near you</a></td></tr>
-<tr><td><a href='https://mceglowski.substack.com/p/laffaire-siloxane'>L&#x27;Affaire Siloxane</a></td></tr>
+<tr><td><a href='https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf'>What Is It Like to Be a Bat? [pdf] (1974)</a></td></tr>
 </table>
 <!-- END:news -->
 
