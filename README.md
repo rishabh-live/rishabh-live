@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf'>Mercedes‑Benz starts large‑scale production of electric axial flux motor</a></td></tr>
 <tr><td><a href='https://github.com/apple/container/blob/main/docs/container-machine.md'>macOS Container Machines</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-fable-5-mythos-5'>Claude Fable 5</a></td></tr>
-<tr><td><a href='https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf'>Mercedes‑Benz starts large‑scale production of electric axial flux motor</a></td></tr>
-<tr><td><a href='https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/'>How do you design a $30k electric pickup? Inside Ford&#x27;s skunkworks</a></td></tr>
-<tr><td><a href='https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/'>Upcoming breaking changes for npm v12</a></td></tr>
+<tr><td><a href='https://github.com/react/react/pull/36173'>Port React Compiler to Rust</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48473166'>AWS Bedrock to require sharing data with Anthropic for Mythos and future models</a></td></tr>
 </table>
 <!-- END:news -->
 
