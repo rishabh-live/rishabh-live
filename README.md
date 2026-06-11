@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://mimo.xiaomi.com/mimocode'>MiMo Code Is Now Released and Open-Source</a></td></tr>
 <tr><td><a href='https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/'>Lines of Code Got a Better Publicist</a></td></tr>
-<tr><td><a href='https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/'>Pokémon Go Scans Trained the Navigation Tech for Military Drones</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/videos/clyrvrde160o'>US-Canada border library gets new Quebec-only entrance</a></td></tr>
-<tr><td><a href='https://github.com/huggingface/open-r1'>Open Reproduction of DeepSeek-R1</a></td></tr>
-<tr><td><a href='https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6'>Workers are spending over 6 hours a week botsitting AI, fueling job frustration</a></td></tr>
+<tr><td><a href='https://mapcomplete.org/'>MapComplete – Contibute to OpenStreetMaps</a></td></tr>
+<tr><td><a href='https://nextcloud.com/blog/nextcloud-hub26-spring/'>Nextcloud Hub 26 Spring: Built together, designed for the future</a></td></tr>
+<tr><td><a href='https://github.com/icitry/FPS.cob'>FPS.cob: A first person shooter in COBOL</a></td></tr>
 </table>
 <!-- END:news -->
 
