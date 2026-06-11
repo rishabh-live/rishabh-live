@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td></tr>
+<tr><td><a href='https://fablepool.com'>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</a></td></tr>
 <tr><td><a href='https://www.kennethpayne.uk/p/shall-we-play-a-game'>Shall we play a game? – LLMs use tactical nukes in 95% of simulations</a></td></tr>
 <tr><td><a href='https://mimo.xiaomi.com/mimocode'>MiMo Code is now released and open-source</a></td></tr>
-<tr><td><a href='https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i'>I stopped tracking my time. Now I can&#x27;t focus</a></td></tr>
-<tr><td><a href='https://fablepool.com'>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</a></td></tr>
+<tr><td><a href='https://www.ssp.sh/brain/travel-where-you-are/'>Travel Locally, Where You Are</a></td></tr>
 </table>
 <!-- END:news -->
 
