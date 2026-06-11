@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td></tr>
+<tr><td><a href='https://tombedor.dev/human-attention-and-human-effort/'>If You Are Asking for Human Attention, Demonstrate Human Effort</a></td></tr>
 <tr><td><a href='https://fablepool.com'>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</a></td></tr>
-<tr><td><a href='https://www.kennethpayne.uk/p/shall-we-play-a-game'>Shall we play a game? – LLMs use tactical nukes in 95% of simulations</a></td></tr>
+<tr><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td></tr>
 <tr><td><a href='https://mimo.xiaomi.com/mimocode'>MiMo Code is now released and open-source</a></td></tr>
-<tr><td><a href='https://www.ssp.sh/brain/travel-where-you-are/'>Travel Locally, Where You Are</a></td></tr>
+<tr><td><a href='https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416'>Petition to Withdraw Canada&#x27;s Bill C-22</a></td></tr>
 </table>
 <!-- END:news -->
 
