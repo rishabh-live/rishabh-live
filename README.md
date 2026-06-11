@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/'>Pokémon Go Scans Trained the Navigation Tech for Military Drones</a></td></tr>
 <tr><td><a href='https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/'>AI agent runs amok in Fedora and elsewhere</a></td></tr>
-<tr><td><a href='https://github.com/vanyapr/makaroshki'>Macaroni – a single HTML file messenger</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/'>Cybersecurity researchers aren&#x27;t happy about the guardrails on Anthropic&#x27;s Fable</a></td></tr>
 <tr><td><a href='https://github.com/philipl/pifs'>πFS</a></td></tr>
+<tr><td><a href='https://vale.rocks/posts/game-console-browsers'>Web Browsers on Video Game Consoles</a></td></tr>
 </table>
 <!-- END:news -->
 
