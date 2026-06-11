@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td></tr>
 <tr><td><a href='https://mimo.xiaomi.com/mimocode'>MiMo Code is now released and open-source</a></td></tr>
-<tr><td><a href='https://mrbruh.com/amd2/'>The RCE that AMD wouldn&#x27;t fix</a></td></tr>
 <tr><td><a href='https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416'>Petition to Withdraw Canada&#x27;s Bill C-22</a></td></tr>
-<tr><td><a href='https://zed.dev/blog/introducing-deltadb'>Software Is Made Between Commits</a></td></tr>
+<tr><td><a href='https://ianyepan.github.io/posts/emacs-in-pop-culture/'>Emacs appearances in pop culture</a></td></tr>
+<tr><td><a href='https://mrbruh.com/amd2/'>The RCE that AMD wouldn&#x27;t fix</a></td></tr>
 </table>
 <!-- END:news -->
 
