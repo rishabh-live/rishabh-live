@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/'>Cybersecurity researchers aren&#x27;t happy about the guardrails on Anthropic&#x27;s Fable</a></td></tr>
 <tr><td><a href='https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/'>AI agent runs amok in Fedora and elsewhere</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/'>Cybersecurity researchers aren&#x27;t happy about the guardrails on Anthropic&#x27;s Fable</a></td></tr>
 <tr><td><a href='https://github.com/philipl/pifs'>πFS</a></td></tr>
-<tr><td><a href='https://www.adafruit.com/product/6125?src=raspberrypi'>Raspberry Pi 5 – 16GB RAM</a></td></tr>
 <tr><td><a href='https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models'>Anthropic requires 30 day data retention for Fable and Mythos</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/'>Sequoyah’s syllabary created a written language for the Cherokee</a></td></tr>
 </table>
 <!-- END:news -->
 
