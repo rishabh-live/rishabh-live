@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/philipl/pifs'>πFS</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/'>Cybersecurity researchers aren&#x27;t happy about the guardrails on Anthropic&#x27;s Fable</a></td></tr>
+<tr><td><a href='https://github.com/philipl/pifs'>πFS</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/'>A Written Language for the Cherokee So Efficient It Was Thought to Be Magic</a></td></tr>
+<tr><td><a href='https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models'>Anthropic requires 30 day data retention for Fable and Mythos</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/curiosity-rover-jpl-mars-science'>How JPL keeps the 13-year-old Curiosity rover doing science</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48477135'>I&#x27;m Eric Ries, author of &quot;The Lean Startup&quot; and new book &quot;Incorruptible&quot; – AMA</a></td></tr>
-<tr><td><a href='https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf'>What is it like to be a bat? (1974) [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
