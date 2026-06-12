@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/'>CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers</a></td></tr>
 <tr><td><a href='https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur'>I Am Not a Reverse Centaur</a></td></tr>
-<tr><td><a href='https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos'>How to Setup a Local Coding Agent on macOS</a></td></tr>
+<tr><td><a href='https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos'>How to setup a local coding agent on macOS</a></td></tr>
+<tr><td><a href='https://twitter.com/jsrailton/status/2064661778978533571'>Malware developers added nuclear and biological weapons text to to their spyware</a></td></tr>
 <tr><td><a href='https://piwodlaiwo.github.io/pirates/'>Pirates, a naval warfare game inspired by Sid Meier&#x27;s Pirates</a></td></tr>
-<tr><td><a href='https://sgaud.com/texts/pdf'>A PDF that changes based on how its read</a></td></tr>
 </table>
 <!-- END:news -->
 
