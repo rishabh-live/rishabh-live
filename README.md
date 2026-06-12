@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/'>CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers</a></td></tr>
+<tr><td><a href='https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur'>I Am Not a Reverse Centaur</a></td></tr>
+<tr><td><a href='https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos'>How to Setup a Local Coding Agent on macOS</a></td></tr>
+<tr><td><a href='https://piwodlaiwo.github.io/pirates/'>Pirates, a naval warfare game inspired by Sid Meier&#x27;s Pirates</a></td></tr>
 <tr><td><a href='https://sgaud.com/texts/pdf'>A PDF that changes based on how its read</a></td></tr>
-<tr><td><a href='https://envs.net/~volpe/blog/posts/reduce-slop.html'>Slightly reducing the sloppiness of AI generated front end</a></td></tr>
-<tr><td><a href='https://keygen.music'>Keygen.music</a></td></tr>
-<tr><td><a href='https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time'>Looking Forward to Postgres 19: It&#x27;s About Time</a></td></tr>
 </table>
 <!-- END:news -->
 
