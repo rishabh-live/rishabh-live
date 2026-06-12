@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/'>AI agent bankrupted their operator while trying to scan DN42</a></td></tr>
-<tr><td><a href='https://www.fastmail.com/blog/the-future-of-email/'>The Future of Email</a></td></tr>
 <tr><td><a href='https://tombedor.dev/human-attention-and-human-effort/'>If you are asking for human attention, demonstrate human effort</a></td></tr>
+<tr><td><a href='https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/'>Ryanair dark UX patterns summer 2026 refresher</a></td></tr>
 <tr><td><a href='https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf'>Nobody ever gets credit for fixing problems that never happened (2001) [pdf]</a></td></tr>
-<tr><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2606.13473'>Maxproof</a></td></tr>
 </table>
 <!-- END:news -->
 
