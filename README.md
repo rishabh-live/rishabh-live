@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tombedor.dev/human-attention-and-human-effort/'>If You Are Asking for Human Attention, Demonstrate Human Effort</a></td></tr>
 <tr><td><a href='https://fablepool.com'>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</a></td></tr>
 <tr><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td></tr>
-<tr><td><a href='https://mimo.xiaomi.com/mimocode'>MiMo Code is now released and open-source</a></td></tr>
-<tr><td><a href='https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416'>Petition to Withdraw Canada&#x27;s Bill C-22</a></td></tr>
+<tr><td><a href='https://tombedor.dev/human-attention-and-human-effort/'>If you are asking for human attention, demonstrate human effort</a></td></tr>
+<tr><td><a href='https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf'>Nobody ever gets credit for fixing problems that never happened (2002) [pdf]</a></td></tr>
+<tr><td><a href='https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life'>A greyscale iPhone setup that works in everyday life</a></td></tr>
 </table>
 <!-- END:news -->
 
