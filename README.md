@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/'>A Call to Action: Stop the FCC&#x27;s KYC Regime</a></td></tr>
+<tr><td><a href='https://github.com/WebAssembly/WASI/releases/tag/v0.3.0'>WASI 0.3.0 Released</a></td></tr>
 <tr><td><a href='https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/'>AI agent bankrupted their operator while trying to scan DN42</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2606.13473'>Maxproof</a></td></tr>
-<tr><td><a href='https://www.fastmail.com/blog/the-future-of-email/'>The Future of Email</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48504034'>Meta Down</a></td></tr>
 <tr><td><a href='https://tombedor.dev/human-attention-and-human-effort/'>If you are asking for human attention, demonstrate human effort</a></td></tr>
 </table>
 <!-- END:news -->
