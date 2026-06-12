@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://fablepool.com'>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</a></td></tr>
+<tr><td><a href='https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf'>Nobody ever gets credit for fixing problems that never happened (2001) [pdf]</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/'>Claude Fable is relentlessly proactive</a></td></tr>
 <tr><td><a href='https://brew.sh/2026/06/11/homebrew-6.0.0/'>Show HN: Homebrew 6.0.0</a></td></tr>
+<tr><td><a href='https://fablepool.com'>Show HN: FablePool – pool money behind a prompt, and Fable builds it in public</a></td></tr>
 <tr><td><a href='https://tombedor.dev/human-attention-and-human-effort/'>If you are asking for human attention, demonstrate human effort</a></td></tr>
-<tr><td><a href='https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf'>Nobody ever gets credit for fixing problems that never happened (2002) [pdf]</a></td></tr>
-<tr><td><a href='https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life'>A greyscale iPhone setup that works in everyday life</a></td></tr>
 </table>
 <!-- END:news -->
 
