@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://desfontain.es/blog/banning-noise.html'>US bans differential privacy in Census data</a></td></tr>
+<tr><td><a href='https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/'>AI Coding at Home Without Going Broke</a></td></tr>
 <tr><td><a href='https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch'>Treating pancreatic tumours may have revealed cancer&#x27;s master switch</a></td></tr>
 <tr><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td></tr>
-<tr><td><a href='https://bkaradzic.github.io/posts/orthodoxc++/'>Orthodox C++</a></td></tr>
-<tr><td><a href='https://lr0.org/blog/p/arabic/'>Introduction to the experience of rendering Arabic typography&#x26;its technical debt</a></td></tr>
+<tr><td><a href='https://brentfitzgerald.com/posts/appreciating-exif/'>Appreciating Exif</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
