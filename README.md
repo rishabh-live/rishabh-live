@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.anthropic.com/news/fable-mythos-access'>US Government directive to suspend access to Fable 5 and Mythos 5</a></td></tr>
 <tr><td><a href='https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/'>Renault: Electric motors with no rare earths</a></td></tr>
 <tr><td><a href='https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/'>CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers</a></td></tr>
-<tr><td><a href='https://putt.day/'>Show HN: Putt.day a daily mini golf game</a></td></tr>
 <tr><td><a href='https://www.swift.org/blog/migrating-truetype-hinting-to-swift/'>Swift at Apple: Migrating the TrueType hinting interpreter</a></td></tr>
 <tr><td><a href='https://depthfirst.com/research/21-zero-days-in-ffmpeg'>Twenty One Zero-Days in FFmpeg</a></td></tr>
 </table>
