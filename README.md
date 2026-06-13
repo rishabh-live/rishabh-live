@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://desfontain.es/blog/banning-noise.html'>US bans differential privacy in Census data</a></td></tr>
-<tr><td><a href='https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/'>AI Coding at Home Without Going Broke</a></td></tr>
 <tr><td><a href='https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch'>Treating pancreatic tumours may have revealed cancer&#x27;s master switch</a></td></tr>
 <tr><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td></tr>
 <tr><td><a href='https://brentfitzgerald.com/posts/appreciating-exif/'>Appreciating Exif</a></td></tr>
+<tr><td><a href='https://tcrf.net/Workboy'>GameBoy Workboy</a></td></tr>
 </table>
 <!-- END:news -->
 
