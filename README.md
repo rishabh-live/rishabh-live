@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow'>There is a shadow hanging over this Fable thing</a></td></tr>
+<tr><td><a href='https://blog.unitedheroes.net/5751'>Leaving Mozilla</a></td></tr>
+<tr><td><a href='https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/'>Electric motors with no rare earths</a></td></tr>
 <tr><td><a href='https://koenvangilst.nl/lab/claude-fable-shepherds-dog'>Shepherd&#x27;s Dog: A Game by the Most Dangerous AI Model</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/fable-mythos-access'>Statement on US government directive to suspend access to Fable 5 and Mythos 5</a></td></tr>
-<tr><td><a href='https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/'>Electric motors with no rare earths</a></td></tr>
 <tr><td><a href='https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/'>CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers</a></td></tr>
 </table>
 <!-- END:news -->
