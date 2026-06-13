@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://opensourceaimustwin.com/?share=v2'>Open Source AI Must Win</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/fable-mythos-access'>US Government directive to suspend access to Fable 5 and Mythos 5</a></td></tr>
+<tr><td><a href='https://status.claude.com/incidents/s9w82lp9dcn9'>We&#x27;ve suspended access to Claude Mythos 5 and Claude Fable 5</a></td></tr>
 <tr><td><a href='https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/'>Renault: Electric motors with no rare earths</a></td></tr>
 <tr><td><a href='https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/'>CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers</a></td></tr>
-<tr><td><a href='https://depthfirst.com/research/21-zero-days-in-ffmpeg'>Twenty One Zero-Days in FFmpeg</a></td></tr>
-<tr><td><a href='https://status.claude.com/incidents/s9w82lp9dcn9'>We&#x27;ve suspended access to Claude Mythos 5 and Claude Fable 5</a></td></tr>
 </table>
 <!-- END:news -->
 
