@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/tensorzero/tensorzero'>AI OSS tool repo goes archived over night after raising $7.3M Seed</a></td></tr>
+<tr><td><a href='https://desfontain.es/blog/banning-noise.html'>US bans differential privacy in Census data</a></td></tr>
 <tr><td><a href='https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/'>A low-carbon computing platform from your retired phones</a></td></tr>
+<tr><td><a href='https://lr0.org/blog/p/arabic/'>Introduction to the experience of rendering Arabic typography&#x26;its technical debt</a></td></tr>
 <tr><td><a href='https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko'>An Interview with Intel&#x27;s Kira Boyko: Xeon 6&#x27;s Product Director</a></td></tr>
-<tr><td><a href='https://areweguiyet.com/#ecosystem'>The state of building user interfaces in Rust</a></td></tr>
-<tr><td><a href='https://blog.unitedheroes.net/5751'>Leaving Mozilla</a></td></tr>
 </table>
 <!-- END:news -->
 
