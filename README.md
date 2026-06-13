@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://desfontain.es/blog/banning-noise.html'>US bans differential privacy in Census data</a></td></tr>
-<tr><td><a href='https://github.com/tensorzero/tensorzero'>AI OSS tool repo goes archived over night after raising $7.3M Seed</a></td></tr>
 <tr><td><a href='https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch'>Treating pancreatic tumours may have revealed cancer&#x27;s master switch</a></td></tr>
+<tr><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td></tr>
 <tr><td><a href='https://bkaradzic.github.io/posts/orthodoxc++/'>Orthodox C++</a></td></tr>
 <tr><td><a href='https://lr0.org/blog/p/arabic/'>Introduction to the experience of rendering Arabic typography&#x26;its technical debt</a></td></tr>
 </table>
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
