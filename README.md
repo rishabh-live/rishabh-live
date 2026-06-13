@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://desfontain.es/blog/banning-noise.html'>Noise infusion banned from statistical products published by Census Bureau</a></td></tr>
-<tr><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td></tr>
-<tr><td><a href='https://tcrf.net/Workboy'>GameBoy Workboy</a></td></tr>
-<tr><td><a href='https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch'>Treating pancreatic tumours may have revealed cancer&#x27;s master switch</a></td></tr>
 <tr><td><a href='https://blog.pyodide.org/posts/314-release/'>Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI</a></td></tr>
+<tr><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td></tr>
+<tr><td><a href='https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch'>Treating pancreatic tumours may have revealed cancer&#x27;s master switch</a></td></tr>
+<tr><td><a href='https://tcrf.net/Workboy'>GameBoy Workboy</a></td></tr>
 </table>
 <!-- END:news -->
 
