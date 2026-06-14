@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/tamnd/kage'>Show HN: Kage – Shadow any website to a single binary for offline viewing</a></td></tr>
-<tr><td><a href='https://tumbleweed.nu/r/lm-3/uv/amber.html'>Chaosnet (1981)</a></td></tr>
+<tr><td><a href='https://zinnia-os.org/'>Zinnia: A modular 64-bit Unix-like kernel written in Rust</a></td></tr>
+<tr><td><a href='https://github.com/joske/yserver'>Yserver: A modern X11 server written in Rust</a></td></tr>
 <tr><td><a href='https://github.com/nex-agi/Nex-N2/issues/4'>Rio de Janeiro&#x27;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</a></td></tr>
-<tr><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td></tr>
-<tr><td><a href='https://aresluna.org/segmented-type/'>Segmented type appreciation corner (2018)</a></td></tr>
+<tr><td><a href='https://tumbleweed.nu/r/lm-3/uv/amber.html'>Chaosnet (1981)</a></td></tr>
 </table>
 <!-- END:news -->
 
