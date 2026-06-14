@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://bramcohen.com/p/why-is-claude-turning-into-an-asshole'>Why Is Claude Turning into an a**Hole?</a></td></tr>
 <tr><td><a href='https://github.com/tamnd/kage'>Show HN: Kage – Shadow any website to a single binary for offline viewing</a></td></tr>
+<tr><td><a href='https://www.verysane.ai/p/did-anthropic-ask-for-this'>Did Anthropic ask for this?</a></td></tr>
 <tr><td><a href='https://github.com/nex-agi/Nex-N2/issues/4'>Rio de Janeiro&#x27;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</a></td></tr>
 <tr><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td></tr>
 <tr><td><a href='https://tumbleweed.nu/r/lm-3/uv/amber.html'>Chaosnet (1981)</a></td></tr>
