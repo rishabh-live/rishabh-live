@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://juniperspring.org/posts/honda-evil-valet/'>10th Gen Honda Civic Updates Are Signed with AOSP Test Keys</a></td></tr>
+<tr><td><a href='https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf'>The Redistribution of Housing Wealth Caused by Rent Control [pdf]</a></td></tr>
 <tr><td><a href='https://desfontain.es/blog/banning-noise.html'>Noise infusion banned from statistical products published by Census Bureau</a></td></tr>
 <tr><td><a href='https://twitter.com/jietang/status/2065784751345287314'>GLM 5.2 Is Out</a></td></tr>
 <tr><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td></tr>
-<tr><td><a href='https://blog.pyodide.org/posts/314-release/'>Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI</a></td></tr>
-<tr><td><a href='https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch'>Treating pancreatic tumours may have revealed cancer&#x27;s master switch</a></td></tr>
 </table>
 <!-- END:news -->
 
