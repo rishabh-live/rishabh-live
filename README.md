@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://phoenixframework.org/blog/phoenix-liveview-1-2-released'>Phoenix LiveView 1.2 Released</a></td></tr>
 <tr><td><a href='https://juniperspring.org/posts/honda-evil-valet/'>Honda Civics and the Evil Valet</a></td></tr>
-<tr><td><a href='https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows'>Don&#x27;t trust large context windows</a></td></tr>
 <tr><td><a href='https://sqltoerdiagram.com/'>Free SQL→ER diagram tool, runs in the browser, nothing uploaded</a></td></tr>
 <tr><td><a href='https://twitter.com/jietang/status/2065784751345287314'>GLM 5.2 Is Out</a></td></tr>
+<tr><td><a href='https://desfontain.es/blog/banning-noise.html'>Noise infusion banned from statistical products published by Census Bureau</a></td></tr>
+<tr><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td></tr>
 </table>
 <!-- END:news -->
 
