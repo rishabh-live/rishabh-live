@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/tamnd/kage'>Show HN: Kage – Shadow any website to a single binary for offline viewing</a></td></tr>
 <tr><td><a href='https://github.com/nex-agi/Nex-N2/issues/4'>Rio de Janeiro&#x27;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</a></td></tr>
 <tr><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48528779'>Ask HN: What are you working on? (June 2026)</a></td></tr>
 <tr><td><a href='https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript'>The Birth and Death of JavaScript (2014)</a></td></tr>
-<tr><td><a href='https://www.cs.yale.edu/homes/perlis-alan/quotes.html'>Perlisisms</a></td></tr>
-<tr><td><a href='https://su3.io/posts/zeroserve-caddy-compat'>Caddy compatibility for zeroserve: 3x throughput and 70% lower latency</a></td></tr>
 </table>
 <!-- END:news -->
 
