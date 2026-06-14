@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://juniperspring.org/posts/honda-evil-valet/'>10th Gen Honda Civic Updates Are Signed with AOSP Test Keys</a></td></tr>
-<tr><td><a href='https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf'>The Redistribution of Housing Wealth Caused by Rent Control [pdf]</a></td></tr>
+<tr><td><a href='http://tribblix.org/'>Tribblix: the retro illumos distribution</a></td></tr>
 <tr><td><a href='https://desfontain.es/blog/banning-noise.html'>Noise infusion banned from statistical products published by Census Bureau</a></td></tr>
+<tr><td><a href='https://martinfowler.com/architecture/'>Software Architecture Guide</a></td></tr>
 <tr><td><a href='https://twitter.com/jietang/status/2065784751345287314'>GLM 5.2 Is Out</a></td></tr>
-<tr><td><a href='https://tonsky.me/blog/every-frame-perfect/'>Every Frame Perfect</a></td></tr>
 </table>
 <!-- END:news -->
 
