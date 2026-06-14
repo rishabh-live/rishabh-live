@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://gabrielweinberg.com/p/people-are-consuming-ai-like-they'>No, everyone is not using AI for everything</a></td></tr>
-<tr><td><a href='https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript'>The Birth and Death of JavaScript (2014)</a></td></tr>
-<tr><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td></tr>
-<tr><td><a href='https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html'>Measles surge in Utah sparks fears US could undo decades of progress</a></td></tr>
 <tr><td><a href='https://github.com/nex-agi/Nex-N2/issues/4'>Rio de Janeiro&#x27;s &quot;homegrown&quot; LLM appears to be a merge of an existing model</a></td></tr>
+<tr><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td></tr>
+<tr><td><a href='https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript'>The Birth and Death of JavaScript (2014)</a></td></tr>
+<tr><td><a href='https://www.cs.yale.edu/homes/perlis-alan/quotes.html'>Perlisisms</a></td></tr>
+<tr><td><a href='https://su3.io/posts/zeroserve-caddy-compat'>Caddy compatibility for zeroserve: 3x throughput and 70% lower latency</a></td></tr>
 </table>
 <!-- END:news -->
 
