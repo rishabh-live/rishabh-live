@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://juniperspring.org/posts/honda-evil-valet/'>Honda Civics and the Evil Valet</a></td></tr>
+<tr><td><a href='https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript'>The Birth and Death of JavaScript (2014)</a></td></tr>
 <tr><td><a href='https://sqltoerdiagram.com/'>Free SQL→ER diagram tool, runs in the browser, nothing uploaded</a></td></tr>
+<tr><td><a href='https://juniperspring.org/posts/honda-evil-valet/'>Honda Civics and the Evil Valet</a></td></tr>
 <tr><td><a href='https://twitter.com/jietang/status/2065784751345287314'>GLM 5.2 Is Out</a></td></tr>
-<tr><td><a href='https://desfontain.es/blog/banning-noise.html'>Noise infusion banned from statistical products published by Census Bureau</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-05-historic-monasteries-digital-countries.html'>500-year-old monasteries outperform at digital transformation (U. of Zurich)</a></td></tr>
+<tr><td><a href='https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918'>Windows 1.0 and the WinAPI, 40 Years Later</a></td></tr>
 </table>
 <!-- END:news -->
 
