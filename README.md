@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript'>The Birth and Death of JavaScript (2014)</a></td></tr>
+<tr><td><a href='https://gabrielweinberg.com/p/people-are-consuming-ai-like-they'>No, everyone is not using AI for everything</a></td></tr>
 <tr><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td></tr>
-<tr><td><a href='https://su3.io/posts/zeroserve-caddy-compat'>Caddy compatibility for zeroserve: 3x throughput and 70% lower latency</a></td></tr>
 <tr><td><a href='https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e'>Lisp&#x27;s Influence on Ruby</a></td></tr>
 <tr><td><a href='https://faroutcompany.com/'>FarOutCompany</a></td></tr>
 </table>
