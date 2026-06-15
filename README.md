@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://crankgpt.com'>CrankGPT</a></td></tr>
 <tr><td><a href='https://www.iroh.computer/blog/v1'>Iroh 1.0</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48542064'>Hetzner increased dedicated server prices 3-4x</a></td></tr>
-<tr><td><a href='https://github.com/sammysltd/euromesh'>Show HN: Can Europe train a frontier AI model on the compute it owns?</a></td></tr>
-<tr><td><a href='https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models'>Apple Foundation Models</a></td></tr>
+<tr><td><a href='https://tinywind.io'>TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)</a></td></tr>
+<tr><td><a href='https://rsgm.dev/post/ai-dev-platform/'>My Homelab AI Dev Platform</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48543908'>Launch HN: Drafted (YC P26) – Models for residential architecture</a></td></tr>
+<tr><td><a href='https://maurycyz.com/projects/glass/1/'>Making glass-to-metal seals for home­made vacuum tubes</a></td></tr>
 </table>
 <!-- END:news -->
 
