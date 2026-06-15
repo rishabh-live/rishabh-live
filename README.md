@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.iroh.computer/blog/v1'>Iroh 1.0</a></td></tr>
 <tr><td><a href='https://tinywind.io'>TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48542100'>Ask HN: Has anyone replaced Claude&#x2F;GPT with a local model for daily coding?</a></td></tr>
 <tr><td><a href='https://typst.app/docs/changelog/0.15.0/'>Typst 0.15.0</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48542100'>Ask HN: Has anyone replaced Claude&#x2F;GPT with a local model for daily coding?</a></td></tr>
 <tr><td><a href='https://rsgm.dev/post/ai-dev-platform/'>My Homelab AI Dev Platform</a></td></tr>
 </table>
 <!-- END:news -->
