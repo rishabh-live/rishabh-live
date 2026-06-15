@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://roman.pt/posts/linkedin-backdoor/'>A backdoor in a LinkedIn job offer</a></td></tr>
-<tr><td><a href='https://fred.stlouisfed.org/series/IPG33591S'>US battery manufacturing output continues to break records</a></td></tr>
 <tr><td><a href='https://www.iroh.computer/blog/v1'>Iroh 1.0</a></td></tr>
+<tr><td><a href='https://fred.stlouisfed.org/series/IPG33591S'>US battery manufacturing output continues to break records</a></td></tr>
+<tr><td><a href='https://www.richardosgood.com/posts/banned-book-library/'>Banned Book Library in a Wi-Fi Smart Light Bulb</a></td></tr>
 <tr><td><a href='https://michaelenger.com/blog/i-love-the-computer/'>I Love the Computer</a></td></tr>
-<tr><td><a href='https://tinywind.io'>TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)</a></td></tr>
 </table>
 <!-- END:news -->
 
