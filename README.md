@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/'>Your ePub Is fine</a></td></tr>
 <tr><td><a href='https://karthinks.com/software/even-more-batteries-included-with-emacs/'>Even more batteries included with Emacs</a></td></tr>
+<tr><td><a href='https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/'>Curl will not accept vulnerability reports during July 2026</a></td></tr>
+<tr><td><a href='https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models'>Apple Foundation Models</a></td></tr>
 <tr><td><a href='https://github.com/tamnd/kage'>Show HN: Kage – Shadow any website to a single binary for offline viewing</a></td></tr>
-<tr><td><a href='https://bitsy.org/'>Bitsy</a></td></tr>
-<tr><td><a href='https://feralui.vercel.app/#/captcha'>Prove you&#x27;re human by winning a claw machine</a></td></tr>
 </table>
 <!-- END:news -->
 
