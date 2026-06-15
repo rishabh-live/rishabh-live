@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/'>Your ePub Is Fine. Kobo Disagrees. Blame Adobe</a></td></tr>
 <tr><td><a href='https://wizardzines.com/comics/write-for-one-person/'>Write for One Person</a></td></tr>
+<tr><td><a href='https://karthinks.com/software/even-more-batteries-included-with-emacs/'>Even More Batteries Included with Emacs</a></td></tr>
 <tr><td><a href='https://github.com/tamnd/kage'>Show HN: Kage – Shadow any website to a single binary for offline viewing</a></td></tr>
 <tr><td><a href='https://bitsy.org/'>Bitsy</a></td></tr>
-<tr><td><a href='https://screen.toys/firewood/'>Firewood Splitting Simulator</a></td></tr>
 </table>
 <!-- END:news -->
 
