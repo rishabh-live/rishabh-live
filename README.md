@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://ankursethi.com/links/nobody-clicks-your-share-buttons/'>Nobody clicks share buttons</a></td></tr>
 <tr><td><a href='https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/'>Running local models is good now</a></td></tr>
+<tr><td><a href='https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/'>Apple is about to make Hide My Email useless</a></td></tr>
 <tr><td><a href='https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/'>SpaceX to buy Cursor for $60B</a></td></tr>
 <tr><td><a href='https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/'>TIL: You can make HTTP requests without curl using Bash &#x2F;dev&#x2F;TCP</a></td></tr>
-<tr><td><a href='https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of'>Calvin and Hobbes and the price of integrity</a></td></tr>
-<tr><td><a href='https://ciechanow.ski/mechanical-watch/'>Mechanical Watch (2022)</a></td></tr>
 </table>
 <!-- END:news -->
 
