@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch'>Microsoft turns to AWS as GitHub faces AI capacity crunch</a></td></tr>
+<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419'>The time the x86 emulator team found code so bad they fixed it during emulation</a></td></tr>
 <tr><td><a href='https://roman.pt/posts/linkedin-backdoor/'>A backdoor in a LinkedIn job offer</a></td></tr>
 <tr><td><a href='https://www.richardosgood.com/posts/banned-book-library/'>Banned Book Library in a Wi-Fi Smart Light Bulb</a></td></tr>
 <tr><td><a href='https://www.iroh.computer/blog/v1'>Iroh 1.0</a></td></tr>
-<tr><td><a href='https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/'>Amazon Announces Multibillion-Dollar Data Center in Missouri</a></td></tr>
+<tr><td><a href='https://bobdahacker.com/blog/fifa-hack'>I Could&#x27;ve Rickrolled the FIFA World Cup. All I Needed Was My ID</a></td></tr>
 </table>
 <!-- END:news -->
 
