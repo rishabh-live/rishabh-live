@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/'>Running local models is good now</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/mechanical-watch/'>Mechanical Watch (2022)</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/'>Fable ban was never about a jailbreak</a></td></tr>
+<tr><td><a href='https://subq.ai/subq-1-1-small-technical-report'>Subquadratic – Introducing SubQ 1.1 Small</a></td></tr>
 <tr><td><a href='https://tck.mn/blog/correlated-randomness-sts2/'>Correlated randomness in Slay the Spire 2</a></td></tr>
-<tr><td><a href='https://twitter.com/ID_AA_Carmack/status/2064095424420487226'>John Carmack on Fabrice Bellard</a></td></tr>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419'>The time the x86 emulator team found code so bad they fixed it during emulation</a></td></tr>
-<tr><td><a href='https://roman.pt/posts/linkedin-backdoor/'>A backdoor in a LinkedIn job offer</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
