@@ -24,7 +24,7 @@
 <tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419'>The time the x86 emulator team found code so bad they fixed it during emulation</a></td></tr>
 <tr><td><a href='https://roman.pt/posts/linkedin-backdoor/'>A backdoor in a LinkedIn job offer</a></td></tr>
 <tr><td><a href='https://twitter.com/ID_AA_Carmack/status/2064095424420487226'>John Carmack on Fabrice Bellard</a></td></tr>
-<tr><td><a href='https://www.richardosgood.com/posts/banned-book-library/'>Banned Book Library in a Wi-Fi Smart Light Bulb</a></td></tr>
+<tr><td><a href='https://www.unsw.edu.au/newsroom/news/2026/06/New-way-making-espresso'>New way of making espresso with ultrasound</a></td></tr>
 <tr><td><a href='https://www.iroh.computer/blog/v1'>Iroh 1.0</a></td></tr>
 </table>
 <!-- END:news -->
