@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/'>Running local models is good now</a></td></tr>
+<tr><td><a href='https://status.claude.com/incidents/xmhsglsz3h3w'>Claude: Elevated errors across many models</a></td></tr>
+<tr><td><a href='https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/'>SpaceX to buy Cursor for $60B</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/mechanical-watch/'>Mechanical Watch (2022)</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/'>Fable ban was never about a jailbreak</a></td></tr>
-<tr><td><a href='https://subq.ai/subq-1-1-small-technical-report'>Subquadratic – Introducing SubQ 1.1 Small</a></td></tr>
-<tr><td><a href='https://tck.mn/blog/correlated-randomness-sts2/'>Correlated randomness in Slay the Spire 2</a></td></tr>
+<tr><td><a href='https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/'>TIL: You can make HTTP requests without curl using Bash &#x2F;dev&#x2F;TCP</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
