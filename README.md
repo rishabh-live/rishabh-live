@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://lore.org/'>Epic Games announces Lore version control system</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/'>Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society</a></td></tr>
-<tr><td><a href='https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/'>US holds off blacklisting DeepSeek, more than 100 firms deemed security risks</a></td></tr>
-<tr><td><a href='https://ribbie.tv/watch'>Show HN: An 8-bit live gamecast for baseball</a></td></tr>
 <tr><td><a href='https://github.com/Adam-CAD/CADAM'>Launch HN: Adam (YC W25) – Open-Source AI CAD</a></td></tr>
+<tr><td><a href='https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index'>GLM-5.2 is the new leading open weights model on Artificial Analysis</a></td></tr>
+<tr><td><a href='https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/'>US holds off blacklisting DeepSeek, more than 100 firms deemed security risks</a></td></tr>
 </table>
 <!-- END:news -->
 
