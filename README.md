@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://lore.org/'>Epic Games announces Lore version control system</a></td></tr>
-<tr><td><a href='https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3'>The hacker sent by Anthropic to calm the government&#x27;s nerves about AI safety</a></td></tr>
+<tr><td><a href='https://lore.org/'>Lore – Open source version control system designed for scalability</a></td></tr>
+<tr><td><a href='https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/'>US holds off blacklisting DeepSeek, more than 100 firms deemed security risks</a></td></tr>
+<tr><td><a href='https://browser-use.com/posts/firecracker-browser-infra'>How we run Firecracker VMs inside EC2 and start browsers in less than 1s</a></td></tr>
 <tr><td><a href='https://github.com/Adam-CAD/CADAM'>Launch HN: Adam (YC W25) – Open-Source AI CAD</a></td></tr>
 <tr><td><a href='https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index'>GLM-5.2 is the new leading open weights model on Artificial Analysis</a></td></tr>
-<tr><td><a href='https://browser-use.com/posts/firecracker-browser-infra'>How we run Firecracker VMs inside EC2 and start browsers in less than 1s</a></td></tr>
 </table>
 <!-- END:news -->
 
