@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars'>Want your images back? Sure... That&#x27;ll be $5!</a></td></tr>
 <tr><td><a href='https://lore.org/'>Epic Games announces Lore version control system</a></td></tr>
+<tr><td><a href='https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars'>Want your images back? Sure... That&#x27;ll be $5!</a></td></tr>
+<tr><td><a href='https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3'>Volkswagen started blocking GrapheneOS users</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation'>French physicist and media star loses doctorate after plagiarism investigation</a></td></tr>
 <tr><td><a href='https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index'>GLM-5.2 is the new leading open weights model on Artificial Analysis</a></td></tr>
-<tr><td><a href='https://wpvip.com/future-of-the-web-2026/'>Sixty percent of US consumers say &#x27;AI&#x27; in brand messaging is a turnoff</a></td></tr>
-<tr><td><a href='https://www.rfc-editor.org/info/rfc10008/'>RFC 10008: The new HTTP Query Method</a></td></tr>
 </table>
 <!-- END:news -->
 
