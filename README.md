@@ -25,7 +25,7 @@
 <tr><td><a href='https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/'>Running local models is good now</a></td></tr>
 <tr><td><a href='https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/'>Humiliating IIS servers for fun and jail time</a></td></tr>
 <tr><td><a href='https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/'>SpaceX to buy Cursor for $60B</a></td></tr>
-<tr><td><a href='https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/'>TIL: You can make HTTP requests without curl using Bash &#x2F;dev&#x2F;TCP</a></td></tr>
+<tr><td><a href='https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/'>Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More</a></td></tr>
 </table>
 <!-- END:news -->
 
