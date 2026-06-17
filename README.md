@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index'>GLM-5.2 is the new leading open weights model on Artificial Analysis</a></td></tr>
+<tr><td><a href='https://cells2pixels.github.io/'>Show HN: High-Res Neural Cellular Automata</a></td></tr>
+<tr><td><a href='https://www.rfc-editor.org/info/rfc10008/'>RFC 10008: The new HTTP Query Method</a></td></tr>
 <tr><td><a href='https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon'>GrapheneOS has been ported to Android 17</a></td></tr>
 <tr><td><a href='https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/'>Running local models is good now</a></td></tr>
-<tr><td><a href='https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/'>Humiliating IIS servers for fun and jail time</a></td></tr>
-<tr><td><a href='https://bubbles.town/'>Hacker News but for Independent Blogs</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study'>Subterranean fungi networks more than 100 quadrillion km in length</a></td></tr>
 </table>
 <!-- END:news -->
 
