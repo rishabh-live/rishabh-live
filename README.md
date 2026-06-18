@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://twitter.com/NoamShazeer/status/2067400851438932297'>Noam Shazeer Joins OpenAI</a></td></tr>
+<tr><td><a href='https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/'>I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M</a></td></tr>
 <tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
-<tr><td><a href='https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html'>Swiss parliament lifts ban on new nuclear power plants</a></td></tr>
+<tr><td><a href='https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/'>American Express: Cell-Based Architecture for Resilient Payment Systems</a></td></tr>
 <tr><td><a href='https://blog.ui.com/article/introducing-enterprise-nas'>Ubiquiti: Enterprise NAS, Built on ZFS</a></td></tr>
-<tr><td><a href='https://rednafi.com/misc/chezmoi/'>Migrating from GNU Stow to Chezmoi</a></td></tr>
 </table>
 <!-- END:news -->
 
