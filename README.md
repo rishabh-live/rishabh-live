@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.rahuljuliato.com/posts/emacs-31-around-the-corner'>Emacs 31 Is Around the Corner: The Changes I&#x27;m Daily Driving</a></td></tr>
-<tr><td><a href='https://blog.ui.com/article/introducing-enterprise-nas'>Ubiquiti: Enterprise NAS, Built on ZFS</a></td></tr>
-<tr><td><a href='https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html'>Swiss parliament lifts ban on new nuclear power plants</a></td></tr>
+<tr><td><a href='https://www.submission.directory/'>A website that lists websites to submit your website to</a></td></tr>
 <tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
+<tr><td><a href='https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html'>Swiss parliament lifts ban on new nuclear power plants</a></td></tr>
+<tr><td><a href='https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/'>TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants</a></td></tr>
 <tr><td><a href='https://tester.army'>Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps</a></td></tr>
 </table>
 <!-- END:news -->
