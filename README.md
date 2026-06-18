@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lore.org/'>Lore – Open source version control system designed for scalability</a></td></tr>
-<tr><td><a href='https://storiedcolors.com/'>Storied Colors – a catalogue of named colors</a></td></tr>
+<tr><td><a href='https://www.horg.com/horg/?page_id=921'>Taxonomy of the Occlupanida (parasitoids on bread bag tags)</a></td></tr>
 <tr><td><a href='https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/'>US holds off blacklisting DeepSeek, more than 100 firms deemed security risks</a></td></tr>
-<tr><td><a href='https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/'>Leaked financial docs show OpenAI is losing billions of dollars a year</a></td></tr>
-<tr><td><a href='https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index'>GLM-5.2 is the new leading open weights model on Artificial Analysis</a></td></tr>
+<tr><td><a href='https://storiedcolors.com/'>Storied Colors – a catalogue of named colors</a></td></tr>
+<tr><td><a href='https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt'>ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery</a></td></tr>
 </table>
 <!-- END:news -->
 
