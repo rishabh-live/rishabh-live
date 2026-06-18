@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://lore.org/'>Lore – Open source version control system designed for scalability</a></td></tr>
 <tr><td><a href='https://www.horg.com/horg/?page_id=921'>Taxonomy of the Occlupanida (parasitoids on bread bag tags)</a></td></tr>
+<tr><td><a href='https://www.midjourney.com/medical'>Midjourney Medical</a></td></tr>
 <tr><td><a href='https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/'>US holds off blacklisting DeepSeek, more than 100 firms deemed security risks</a></td></tr>
-<tr><td><a href='https://storiedcolors.com/'>Storied Colors – a catalogue of named colors</a></td></tr>
-<tr><td><a href='https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt'>ChatGPT Spontaneously Generates Sexual Violence and Hardcore Snuff Imagery</a></td></tr>
+<tr><td><a href='https://www.midjourney.com/medical/blogpost'>Midjourney Ultrasonic CT Scanner</a></td></tr>
 </table>
 <!-- END:news -->
 
