@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.midjourney.com/medical/blogpost'>Midjourney Medical</a></td></tr>
+<tr><td><a href='https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/'>I Hate Compilers</a></td></tr>
 <tr><td><a href='https://lore.org/'>Lore – Open source version control system designed for scalability</a></td></tr>
-<tr><td><a href='https://www.horg.com/horg/?page_id=921'>Taxonomy of the Occlupanida (parasitoids on bread bag tags)</a></td></tr>
+<tr><td><a href='https://blog.alexellis.io/local-ai-is-not-opus/'>Local Qwen isn&#x27;t a worse Opus, it&#x27;s a different tool</a></td></tr>
 <tr><td><a href='https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/'>US holds off blacklisting DeepSeek, more than 100 firms deemed security risks</a></td></tr>
-<tr><td><a href='https://storiedcolors.com/'>Storied Colors – a catalogue of named colors</a></td></tr>
 </table>
 <!-- END:news -->
 
