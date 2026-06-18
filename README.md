@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.rahuljuliato.com/posts/emacs-31-around-the-corner'>Emacs 31 Is Around the Corner: The Changes I&#x27;m Daily Driving</a></td></tr>
+<tr><td><a href='https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/'>Has W Social switched to closed source?</a></td></tr>
 <tr><td><a href='https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost'>Hospitals and universities repurposing drugs at 90% lower cost</a></td></tr>
+<tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
 <tr><td><a href='https://www.midjourney.com/medical/blogpost'>Midjourney Medical</a></td></tr>
-<tr><td><a href='https://chat.deepseek.com/'>DeepSeek Introduces Vision</a></td></tr>
-<tr><td><a href='https://blog.alexellis.io/local-ai-is-not-opus/'>Local Qwen isn&#x27;t a worse Opus, it&#x27;s a different tool</a></td></tr>
-<tr><td><a href='https://lore.org/'>Lore – Open source version control system designed for scalability</a></td></tr>
 </table>
 <!-- END:news -->
 
