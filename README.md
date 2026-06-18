@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.submission.directory/'>A website that lists websites to submit your website to</a></td></tr>
 <tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
 <tr><td><a href='https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html'>Swiss parliament lifts ban on new nuclear power plants</a></td></tr>
-<tr><td><a href='https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids'>Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids</a></td></tr>
 <tr><td><a href='https://rednafi.com/misc/chezmoi/'>Migrating from GNU Stow to Chezmoi</a></td></tr>
+<tr><td><a href='https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost'>Hospitals and universities repurposing drugs at 90% lower cost</a></td></tr>
 </table>
 <!-- END:news -->
 
