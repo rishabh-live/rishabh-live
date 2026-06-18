@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.midjourney.com/medical/blogpost'>Midjourney Medical</a></td></tr>
 <tr><td><a href='https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost'>Hospitals and universities repurposing drugs at 90% lower cost</a></td></tr>
-<tr><td><a href='https://rbelmont.mameworld.info/?p=1725'>I need your clothes, your boots, and your motorcycle</a></td></tr>
+<tr><td><a href='https://www.midjourney.com/medical/blogpost'>Midjourney Medical</a></td></tr>
 <tr><td><a href='https://chat.deepseek.com/'>DeepSeek Introduces Vision</a></td></tr>
 <tr><td><a href='https://blog.alexellis.io/local-ai-is-not-opus/'>Local Qwen isn&#x27;t a worse Opus, it&#x27;s a different tool</a></td></tr>
+<tr><td><a href='https://lore.org/'>Lore – Open source version control system designed for scalability</a></td></tr>
 </table>
 <!-- END:news -->
 
