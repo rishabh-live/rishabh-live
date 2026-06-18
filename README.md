@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.submission.directory/'>A website that lists websites to submit your website to</a></td></tr>
+<tr><td><a href='https://twitter.com/NoamShazeer/status/2067400851438932297'>Noam Shazeer Joins OpenAI</a></td></tr>
 <tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
 <tr><td><a href='https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html'>Swiss parliament lifts ban on new nuclear power plants</a></td></tr>
+<tr><td><a href='https://blog.ui.com/article/introducing-enterprise-nas'>Ubiquiti: Enterprise NAS, Built on ZFS</a></td></tr>
 <tr><td><a href='https://rednafi.com/misc/chezmoi/'>Migrating from GNU Stow to Chezmoi</a></td></tr>
-<tr><td><a href='https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost'>Hospitals and universities repurposing drugs at 90% lower cost</a></td></tr>
 </table>
 <!-- END:news -->
 
