@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://twitter.com/NoamShazeer/status/2067400851438932297'>Noam Shazeer Joins OpenAI</a></td></tr>
-<tr><td><a href='https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/'>I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M</a></td></tr>
 <tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
 <tr><td><a href='https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/'>American Express: Cell-Based Architecture for Resilient Payment Systems</a></td></tr>
+<tr><td><a href='https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/'>Zero-Touch OAuth for MCP</a></td></tr>
+<tr><td><a href='https://bomwiki.com/'>Everything Is BOM: Bill of Materials Encyclopedia</a></td></tr>
 <tr><td><a href='https://blog.ui.com/article/introducing-enterprise-nas'>Ubiquiti: Enterprise NAS, Built on ZFS</a></td></tr>
 </table>
 <!-- END:news -->
