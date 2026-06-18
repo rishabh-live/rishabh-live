@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.submission.directory/'>A website that lists websites to submit your website to</a></td></tr>
 <tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
 <tr><td><a href='https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html'>Swiss parliament lifts ban on new nuclear power plants</a></td></tr>
-<tr><td><a href='https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/'>TerraPower in Deal with Meta for Eight Natrium 345 MW Advanced Nuclear Plants</a></td></tr>
-<tr><td><a href='https://tester.army'>Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps</a></td></tr>
+<tr><td><a href='https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids'>Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids</a></td></tr>
+<tr><td><a href='https://rednafi.com/misc/chezmoi/'>Migrating from GNU Stow to Chezmoi</a></td></tr>
 </table>
 <!-- END:news -->
 
