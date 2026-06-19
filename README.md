@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/'>Hyundai buys Boston Dynamics</a></td></tr>
-<tr><td><a href='https://aiclambake.com/clamtakes/linear-a/'>Amateur may have cracked Linear A</a></td></tr>
+<tr><td><a href='https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/'>Norway imposes near ban on AI in elementary school</a></td></tr>
 <tr><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td></tr>
-<tr><td><a href='https://www.jvm-weekly.com/p/project-valhalla-explained-how-a'>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28</a></td></tr>
-<tr><td><a href='https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html'>Amazon drops Sam Altman movie after announcing OpenAI partnership</a></td></tr>
+<tr><td><a href='https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/'>Hyundai buys Boston Dynamics</a></td></tr>
+<tr><td><a href='https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929'>I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾</a></td></tr>
+<tr><td><a href='https://vocabowl-870366514258.us-west1.run.app/'>How many of the 170k English words do you know?</a></td></tr>
 </table>
 <!-- END:news -->
 
