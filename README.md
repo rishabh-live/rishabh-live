@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.jvm-weekly.com/p/project-valhalla-explained-how-a'>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28</a></td></tr>
+<tr><td><a href='https://www.jakeworth.com/posts/leave-a-trace'>Leave a Trace</a></td></tr>
 <tr><td><a href='https://www.greybeam.ai/blog/duckdb-internals-part-1'>DuckDB Internals: Why Is DuckDB Fast? (Part 1)</a></td></tr>
 <tr><td><a href='https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610'>To study how chips work, MIT researchers built their own operating system</a></td></tr>
-<tr><td><a href='https://mnot.net/blog/2026/well_known_uris'>So You Want to Define a Well-Known URI</a></td></tr>
 <tr><td><a href='https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning'>Zen and the Art of Machine Learning Research</a></td></tr>
 </table>
 <!-- END:news -->
