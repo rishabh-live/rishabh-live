@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/'>Norway imposes near ban on AI in elementary school</a></td></tr>
 <tr><td><a href='https://www.legacy.com/legacy/robert-bobby-prince-lll'>Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died</a></td></tr>
 <tr><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48604232'>Ask HN: Will programmers write more efficient code during the memory shortage?</a></td></tr>
 <tr><td><a href='https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929'>I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾</a></td></tr>
+<tr><td><a href='https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/'>Think of the Children: How to Force Real ID for All Internet Traffic (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
