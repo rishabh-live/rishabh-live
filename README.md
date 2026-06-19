@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
-<tr><td><a href='https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/'>American Express: Cell-Based Architecture for Resilient Payment Systems</a></td></tr>
+<tr><td><a href='https://www.theescapenewsletter.com/p/the-airpods-effect'>The AirPods Effect</a></td></tr>
 <tr><td><a href='https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/'>Zero-Touch OAuth for MCP</a></td></tr>
-<tr><td><a href='https://bomwiki.com/'>Everything Is BOM: Bill of Materials Encyclopedia</a></td></tr>
-<tr><td><a href='https://blog.ui.com/article/introducing-enterprise-nas'>Ubiquiti: Enterprise NAS, Built on ZFS</a></td></tr>
+<tr><td><a href='https://orchidfiles.com/github-repositories-distributing-malware/'>I found 10k GitHub repositories distributing Trojan malware</a></td></tr>
+<tr><td><a href='https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/'>Cell-based architecture for resilient payment systems</a></td></tr>
+<tr><td><a href='https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/'>The Korean telecom giant at the center of Anthropic&#x27;s Mythos controversy</a></td></tr>
 </table>
 <!-- END:news -->
 
