@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.jvm-weekly.com/p/project-valhalla-explained-how-a'>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28</a></td></tr>
 <tr><td><a href='https://aiclambake.com/clamtakes/linear-a/'>Amateur may have cracked Linear A, a 120-year-old puzzle</a></td></tr>
-<tr><td><a href='https://www.greybeam.ai/blog/duckdb-internals-part-1'>DuckDB Internals: Why Is DuckDB Fast? (Part 1)</a></td></tr>
-<tr><td><a href='https://ide.mit.edu/sites/default/files/publications/jcurve.pdf'>The Productivity J-Curve [pdf] (2018)</a></td></tr>
-<tr><td><a href='https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning'>Zen and the Art of Machine Learning Research</a></td></tr>
+<tr><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There Are No Instances in ATProto</a></td></tr>
+<tr><td><a href='https://www.jvm-weekly.com/p/project-valhalla-explained-how-a'>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28</a></td></tr>
+<tr><td><a href='https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/'>Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028</a></td></tr>
+<tr><td><a href='https://erildrun.bearblog.dev/spotify-killed-the-thrill-of-the-hunt/'>Spotify Killed the Thrill of the Hunt</a></td></tr>
 </table>
 <!-- END:news -->
 
