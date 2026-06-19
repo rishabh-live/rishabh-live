@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://letsencrypt.status.io/#2026'>Let&#x27;s Encrypt has been down most of today</a></td></tr>
-<tr><td><a href='https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885'>Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest</a></td></tr>
-<tr><td><a href='https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610'>To study how chips work, MIT researchers built their own operating system</a></td></tr>
+<tr><td><a href='https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885'>Ice water drowning survival of young patient (2025)</a></td></tr>
 <tr><td><a href='https://www.greybeam.ai/blog/duckdb-internals-part-1'>DuckDB Internals: Why Is DuckDB Fast? (Part 1)</a></td></tr>
-<tr><td><a href='https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/'>Zero-Touch OAuth for MCP</a></td></tr>
+<tr><td><a href='https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610'>To study how chips work, MIT researchers built their own operating system</a></td></tr>
+<tr><td><a href='https://mnot.net/blog/2026/well_known_uris'>So You Want to Define a Well-Known URI</a></td></tr>
+<tr><td><a href='https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/'>Gribouille 0.3.0: A Grammar of Graphics for Typst</a></td></tr>
 </table>
 <!-- END:news -->
 
