@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/'>I Stored a Website in a Favicon</a></td></tr>
 <tr><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained (2012)</a></td></tr>
-<tr><td><a href='https://www.specs.com/smart-glasses/specs-27'>Snap Smart Glasses</a></td></tr>
 <tr><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td></tr>
-<tr><td><a href='https://brooker.co.za/blog/2020/08/06/erlang.html'>Surprising economics of load-balanced systems</a></td></tr>
-<tr><td><a href='https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/'>Hyundai buys Boston Dynamics</a></td></tr>
+<tr><td><a href='https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize'>The discovery that changed how scientists think about memory</a></td></tr>
+<tr><td><a href='https://www.not-ship.com/can-you-see-three-trees/'>Can you see three trees?</a></td></tr>
 </table>
 <!-- END:news -->
 
