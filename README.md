@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film'>How to feed a dictator</a></td></tr>
-<tr><td><a href='https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/'>Think of the children: How to force real ID for all internet traffic (2023)</a></td></tr>
+<tr><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained (2012)</a></td></tr>
+<tr><td><a href='https://www.specs.com/smart-glasses/specs-27'>Snap Smart Glasses</a></td></tr>
 <tr><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td></tr>
-<tr><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained</a></td></tr>
-<tr><td><a href='https://brooker.co.za/blog/2020/08/06/erlang.html'>Surprising Economics of Load-Balanced Systems</a></td></tr>
+<tr><td><a href='https://brooker.co.za/blog/2020/08/06/erlang.html'>Surprising economics of load-balanced systems</a></td></tr>
+<tr><td><a href='https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/'>Hyundai buys Boston Dynamics</a></td></tr>
 </table>
 <!-- END:news -->
 
