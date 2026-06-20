@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://cssquake.com/'>CSSQuake</a></td></tr>
-<tr><td><a href='https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/'>I Stored a Website in a Favicon</a></td></tr>
-<tr><td><a href='https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/'>Where to Find the Colors Your Screen Can&#x27;t Show You</a></td></tr>
+<tr><td><a href='https://point.free/blog/delete-12-flags/'>I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps</a></td></tr>
 <tr><td><a href='https://bootimus.com'>Bootimus – A Self-Contained PXE and HTTP Boot Server</a></td></tr>
-<tr><td><a href='https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/'>The Cold War&#x27;s Accidental Whale Observatory</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/'>From PGP to Mythos: a brief history of export controls that didn&#x27;t stop anyone</a></td></tr>
+<tr><td><a href='https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/'>I Stored a Website in a Favicon</a></td></tr>
 </table>
 <!-- END:news -->
 
