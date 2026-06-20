@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html'>DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots</a></td></tr>
 <tr><td><a href='https://cssquake.com/'>CSSQuake</a></td></tr>
-<tr><td><a href='https://european.social'>The European Social Stack</a></td></tr>
 <tr><td><a href='https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063'>VPN ban update for UK households as government looks at &#x27;age-gate&#x27;</a></td></tr>
-<tr><td><a href='https://bootimus.com'>Bootimus – A Self-Contained PXE and HTTP Boot Server</a></td></tr>
-<tr><td><a href='https://vale.rocks/posts/pda-browsers'>Web Browsers on PDAS</a></td></tr>
+<tr><td><a href='https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/'>Big Tech is borrowing like never before</a></td></tr>
+<tr><td><a href='https://european.social'>The European Social Stack</a></td></tr>
 </table>
 <!-- END:news -->
 
