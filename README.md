@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/'>Norway imposes near ban on AI in elementary school</a></td></tr>
-<tr><td><a href='https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete'>Hey, N00B, We Didn&#x27;t Hire You to Complete Tasks</a></td></tr>
-<tr><td><a href='https://www.legacy.com/legacy/robert-bobby-prince-lll'>Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died</a></td></tr>
-<tr><td><a href='https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/'>Think of the Children: How to Force Real ID for All Internet Traffic (2023)</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film'>How to feed a dictator</a></td></tr>
+<tr><td><a href='https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/'>Think of the children: How to force real ID for all internet traffic (2023)</a></td></tr>
 <tr><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td></tr>
+<tr><td><a href='https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai'>I solved my mystery fatigue with AI</a></td></tr>
+<tr><td><a href='https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929'>I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾</a></td></tr>
 </table>
 <!-- END:news -->
 
