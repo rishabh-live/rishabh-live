@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community'>SMPTE Makes Its Standards Freely Accessible</a></td></tr>
+<tr><td><a href='https://www.lispm.net/apps/uhf-x11/'>UHF X11: X11 Built for VisionOS and Apple Vision Pro</a></td></tr>
 <tr><td><a href='https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html'>DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots</a></td></tr>
 <tr><td><a href='https://cssquake.com/'>CSSQuake</a></td></tr>
-<tr><td><a href='https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063'>VPN ban update for UK households as government looks at &#x27;age-gate&#x27;</a></td></tr>
-<tr><td><a href='https://startupfortune.com/big-tech-is-borrowing-like-never-before-and-the-fed-just-made-that-a-lot-more-expensive/'>Big Tech is borrowing like never before</a></td></tr>
-<tr><td><a href='https://european.social'>The European Social Stack</a></td></tr>
+<tr><td><a href='https://github.com/DatanoiseTV/ember-hackernews'>Ember, a native iOS Hacker News reader I built around accessibility</a></td></tr>
 </table>
 <!-- END:news -->
 
