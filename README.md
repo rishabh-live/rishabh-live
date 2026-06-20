@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/'>UK Home Office launches £75M &#x27;PoliceAI&#x27; to capitalise on artificial intelligence</a></td></tr>
 <tr><td><a href='https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community'>SMPTE Makes Its Standards Freely Accessible</a></td></tr>
+<tr><td><a href='https://brooker.co.za/blog/2026/06/19/waiting.html'>Alice is impatient</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam'>Unauthorized alert sent to cell phones across Brazil</a></td></tr>
 <tr><td><a href='https://www.lispm.net/apps/uhf-x11/'>UHF X11: X11 Built for VisionOS and Apple Vision Pro</a></td></tr>
 <tr><td><a href='https://clickhouse.com/blog/postgresbench'>PostgresBench: A Reproducible Benchmark for Postgres Services</a></td></tr>
-<tr><td><a href='https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/'>The Wholesale Plagiarism of Obscure Sorrows</a></td></tr>
 </table>
 <!-- END:news -->
 
