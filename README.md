@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/'>I Stored a Website in a Favicon</a></td></tr>
 <tr><td><a href='https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/'>Where to Find the Colors Your Screen Can&#x27;t Show You</a></td></tr>
 <tr><td><a href='https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating'>16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive&#x27;s rating</a></td></tr>
-<tr><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained (2012)</a></td></tr>
+<tr><td><a href='https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/'>The Cold War&#x27;s Accidental Whale Observatory</a></td></tr>
 </table>
 <!-- END:news -->
 
