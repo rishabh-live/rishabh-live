@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/'>Agency stole bestselling author&#x27;s book, used AI to relaunch as their own</a></td></tr>
 <tr><td><a href='https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community'>SMPTE Makes Its Standards Freely Accessible</a></td></tr>
 <tr><td><a href='https://www.lispm.net/apps/uhf-x11/'>UHF X11: X11 Built for VisionOS and Apple Vision Pro</a></td></tr>
 <tr><td><a href='https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html'>DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots</a></td></tr>
-<tr><td><a href='https://cssquake.com/'>CSSQuake</a></td></tr>
-<tr><td><a href='https://github.com/DatanoiseTV/ember-hackernews'>Ember, a native iOS Hacker News reader I built around accessibility</a></td></tr>
+<tr><td><a href='https://github.com/oven-sh/WebKit/pull/249'>Bun has an open PR adding shared-memory threads to JavaScriptCore</a></td></tr>
 </table>
 <!-- END:news -->
 
