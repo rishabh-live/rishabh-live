@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://cssquake.com/'>CSSQuake</a></td></tr>
-<tr><td><a href='https://point.free/blog/delete-12-flags/'>I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps</a></td></tr>
+<tr><td><a href='https://european.social'>The European Social Stack</a></td></tr>
+<tr><td><a href='https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063'>VPN ban update for UK households as government looks at &#x27;age-gate&#x27;</a></td></tr>
 <tr><td><a href='https://bootimus.com'>Bootimus – A Self-Contained PXE and HTTP Boot Server</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/'>From PGP to Mythos: a brief history of export controls that didn&#x27;t stop anyone</a></td></tr>
-<tr><td><a href='https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/'>I Stored a Website in a Favicon</a></td></tr>
+<tr><td><a href='https://vale.rocks/posts/pda-browsers'>Web Browsers on PDAS</a></td></tr>
 </table>
 <!-- END:news -->
 
