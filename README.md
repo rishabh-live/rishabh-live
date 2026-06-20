@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://notes.lorenzogravina.com/musings/pre-2022-books'>Pre-2022 Books</a></td></tr>
+<tr><td><a href='https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland'>Not just books: renting a sewing machine from the library can improve democracy</a></td></tr>
 <tr><td><a href='https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community'>SMPTE Makes Its Standards Freely Accessible</a></td></tr>
+<tr><td><a href='https://pudding.cool/2026/06/love-story/'>A Love Story</a></td></tr>
 <tr><td><a href='https://brooker.co.za/blog/2026/06/19/waiting.html'>Alice is impatient</a></td></tr>
-<tr><td><a href='https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam'>Unauthorized alert sent to cell phones across Brazil</a></td></tr>
-<tr><td><a href='https://www.lispm.net/apps/uhf-x11/'>UHF X11: X11 Built for VisionOS and Apple Vision Pro</a></td></tr>
-<tr><td><a href='https://clickhouse.com/blog/postgresbench'>PostgresBench: A Reproducible Benchmark for Postgres Services</a></td></tr>
 </table>
 <!-- END:news -->
 
