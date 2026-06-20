@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/'>I Stored a Website in a Favicon</a></td></tr>
-<tr><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained (2012)</a></td></tr>
 <tr><td><a href='https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/'>Where to Find the Colors Your Screen Can&#x27;t Show You</a></td></tr>
+<tr><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained (2012)</a></td></tr>
 <tr><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td></tr>
 <tr><td><a href='https://www.not-ship.com/can-you-see-three-trees/'>Can you see three trees?</a></td></tr>
 </table>
