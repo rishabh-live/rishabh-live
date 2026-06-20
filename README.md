@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film'>How to feed a dictator</a></td></tr>
 <tr><td><a href='https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/'>Think of the children: How to force real ID for all internet traffic (2023)</a></td></tr>
 <tr><td><a href='https://overreacted.io/there-are-no-instances-in-atproto/'>There are no instances in ATProto</a></td></tr>
-<tr><td><a href='https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai'>I solved my mystery fatigue with AI</a></td></tr>
-<tr><td><a href='https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929'>I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾</a></td></tr>
+<tr><td><a href='https://mattmahoney.net/dc/dce.html'>Data Compression Explained</a></td></tr>
+<tr><td><a href='https://brooker.co.za/blog/2020/08/06/erlang.html'>Surprising Economics of Load-Balanced Systems</a></td></tr>
 </table>
 <!-- END:news -->
 
