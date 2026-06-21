@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.mooreds.com/wordpress/archives/3518'>Ask for no, don&#x27;t ask for yes (2022)</a></td></tr>
 <tr><td><a href='https://hawksley.dev/blog/json-ld-explained-for-personal-websites/'>JSON-LD Explained for Personal Websites</a></td></tr>
 <tr><td><a href='https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction'>Prefer duplication over the wrong abstraction (2016)</a></td></tr>
 <tr><td><a href='https://www.beyondallreason.info'>Beyond All Reason (Free Total Annihilation Inspired RTS)</a></td></tr>
-<tr><td><a href='https://norvig.com/lispy.html'>(How to Write a (Lisp) Interpreter (In Python)) (2010)</a></td></tr>
 <tr><td><a href='https://support.claude.com/en/articles/14328960-identity-verification-on-claude'>Identity verification on Claude</a></td></tr>
 </table>
 <!-- END:news -->
