@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://notes.lorenzogravina.com/musings/pre-2022-books'>Pre-2022 Books</a></td></tr>
-<tr><td><a href='https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland'>Not just books: renting a sewing machine from the library can improve democracy</a></td></tr>
-<tr><td><a href='https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community'>SMPTE Makes Its Standards Freely Accessible</a></td></tr>
-<tr><td><a href='https://pudding.cool/2026/06/love-story/'>A Love Story</a></td></tr>
-<tr><td><a href='https://brooker.co.za/blog/2026/06/19/waiting.html'>Alice is impatient</a></td></tr>
+<tr><td><a href='https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland'>Renting a sewing machine from the library</a></td></tr>
+<tr><td><a href='https://sibexi.co/posts/epoll-vs-io_uring/'>Epoll vs. io_uring in Linux</a></td></tr>
+<tr><td><a href='https://townsquare.cauenapier.com/'>Show HN: TownSquare, a tiny presence layer for websites</a></td></tr>
+<tr><td><a href='https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9'>Slow breathing modulates brain function and risk behavior</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/research/project-fetch-phase-two'>Project Fetch: Phase Two</a></td></tr>
 </table>
 <!-- END:news -->
 
