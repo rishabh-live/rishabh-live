@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.mooreds.com/wordpress/archives/3518'>Ask for no, don&#x27;t ask for yes (2022)</a></td></tr>
+<tr><td><a href='https://apertvs.ai/'>Apertus – Open Foundation Model for Sovereign AI</a></td></tr>
+<tr><td><a href='https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html'>Everything Is Logarithms</a></td></tr>
 <tr><td><a href='https://hawksley.dev/blog/json-ld-explained-for-personal-websites/'>JSON-LD Explained for Personal Websites</a></td></tr>
-<tr><td><a href='https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction'>Prefer duplication over the wrong abstraction (2016)</a></td></tr>
-<tr><td><a href='https://www.beyondallreason.info'>Beyond All Reason (Free Total Annihilation Inspired RTS)</a></td></tr>
-<tr><td><a href='https://support.claude.com/en/articles/14328960-identity-verification-on-claude'>Identity verification on Claude</a></td></tr>
+<tr><td><a href='https://powerfox.jazzzny.me/'>PowerFox Browser</a></td></tr>
+<tr><td><a href='https://github.com/raiyanyahya/recall'>Stop wasting tokens and re explaining your project between sessions</a></td></tr>
 </table>
 <!-- END:news -->
 
