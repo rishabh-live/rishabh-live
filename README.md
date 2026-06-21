@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://alexkritchevsky.com/2024/02/28/geometric-algebra.html'>The case against geometric algebra (2024)</a></td></tr>
+<tr><td><a href='https://www.beyondallreason.info'>Beyond All Reason (Free Total Annihilation Inspired RTS)</a></td></tr>
 <tr><td><a href='https://github.com/namgyaaal/avoxelgame'>A 3D voxel game engine written in APL</a></td></tr>
 <tr><td><a href='https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/'>Google Hits 50% IPv6</a></td></tr>
-<tr><td><a href='https://fosterelli.co/developers-dont-understand-cors'>Developers don&#x27;t understand CORS (2019)</a></td></tr>
 <tr><td><a href='https://github.com/mysk-research/loupe'>Loupe – A iOS app that raises awareness about what native apps can see</a></td></tr>
-<tr><td><a href='https://zeux.io/2026/06/17/zigzag-decoding-avx512/'>Zigzag Decoding with AVX-512</a></td></tr>
 </table>
 <!-- END:news -->
 
