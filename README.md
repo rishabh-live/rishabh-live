@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction'>Code duplication is far cheaper than the wrong abstraction (2016)</a></td></tr>
-<tr><td><a href='https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers'>Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash</a></td></tr>
-<tr><td><a href='https://norvig.com/lispy.html'>(How to Write a (Lisp) Interpreter (In Python)) (2010)</a></td></tr>
+<tr><td><a href='https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction'>Prefer duplication over the wrong abstraction (2016)</a></td></tr>
+<tr><td><a href='https://hawksley.dev/blog/json-ld-explained-for-personal-websites/'>JSON-LD Explained for Personal Websites</a></td></tr>
 <tr><td><a href='https://www.beyondallreason.info'>Beyond All Reason (Free Total Annihilation Inspired RTS)</a></td></tr>
-<tr><td><a href='https://brandur.org/minimum-viable-unit'>The Minimum Viable Unit of Saleable Software</a></td></tr>
+<tr><td><a href='https://norvig.com/lispy.html'>(How to Write a (Lisp) Interpreter (In Python)) (2010)</a></td></tr>
+<tr><td><a href='https://brandur.org/minimum-viable-unit'>The minimum viable unit of saleable software</a></td></tr>
 </table>
 <!-- END:news -->
 
