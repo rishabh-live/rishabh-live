@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland'>Renting a sewing machine from the library</a></td></tr>
 <tr><td><a href='https://sibexi.co/posts/epoll-vs-io_uring/'>Epoll vs. io_uring in Linux</a></td></tr>
+<tr><td><a href='https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/'>When I reject AI code even if it works</a></td></tr>
 <tr><td><a href='https://townsquare.cauenapier.com/'>Show HN: TownSquare, a tiny presence layer for websites</a></td></tr>
-<tr><td><a href='https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9'>Slow breathing modulates brain function and risk behavior</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/research/project-fetch-phase-two'>Project Fetch: Phase Two</a></td></tr>
+<tr><td><a href='https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/'>15-minute at-home Lyme disease tick test</a></td></tr>
 </table>
 <!-- END:news -->
 
