@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://apertvs.ai/'>Apertus – Open Foundation Model for Sovereign AI</a></td></tr>
+<tr><td><a href='https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/'>Did my old job only exist because of fraud?</a></td></tr>
 <tr><td><a href='https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html'>Everything Is Logarithms</a></td></tr>
 <tr><td><a href='https://hawksley.dev/blog/json-ld-explained-for-personal-websites/'>JSON-LD Explained for Personal Websites</a></td></tr>
 <tr><td><a href='https://powerfox.jazzzny.me/'>PowerFox Browser</a></td></tr>
-<tr><td><a href='https://github.com/raiyanyahya/recall'>Stop wasting tokens and re explaining your project between sessions</a></td></tr>
 </table>
 <!-- END:news -->
 
