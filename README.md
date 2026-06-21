@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland'>Renting a sewing machine from the library</a></td></tr>
 <tr><td><a href='https://fosterelli.co/developers-dont-understand-cors'>Developers don&#x27;t understand CORS (2019)</a></td></tr>
-<tr><td><a href='https://martinfowler.com/articles/reliable-llm-bayer.html'>Building Reliable Agentic AI Systems</a></td></tr>
-<tr><td><a href='https://sibexi.co/posts/epoll-vs-io_uring/'>Epoll vs. io_uring in Linux</a></td></tr>
+<tr><td><a href='https://zeux.io/2026/06/17/zigzag-decoding-avx512/'>Zigzag Decoding with AVX-512</a></td></tr>
 <tr><td><a href='https://github.com/mysk-research/loupe'>Loupe – A iOS app that raises awareness about what native apps can see</a></td></tr>
+<tr><td><a href='https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland'>Renting a sewing machine from the library</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/the-100000-whys-of-ai'>The 100k Whys of AI</a></td></tr>
 </table>
 <!-- END:news -->
 
