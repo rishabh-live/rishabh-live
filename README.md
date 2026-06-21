@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.beyondallreason.info'>Beyond All Reason (Free Total Annihilation Inspired RTS)</a></td></tr>
-<tr><td><a href='https://alexkritchevsky.com/2024/02/28/geometric-algebra.html'>The case against geometric algebra (2024)</a></td></tr>
 <tr><td><a href='https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you'>Who Owns Your ATProto Identity? Hint: It&#x27;s Probably Not You</a></td></tr>
-<tr><td><a href='https://github.com/proteanthread/bcg'>David Ahl&#x27;s Basic Computer Games Ported to C</a></td></tr>
-<tr><td><a href='https://github.com/namgyaaal/avoxelgame'>A 3D voxel game engine written in APL</a></td></tr>
+<tr><td><a href='https://norvig.com/lispy.html'>(How to Write a (Lisp) Interpreter (In Python))</a></td></tr>
+<tr><td><a href='https://alexkritchevsky.com/2024/02/28/geometric-algebra.html'>The case against geometric algebra (2024)</a></td></tr>
+<tr><td><a href='https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb'>Commodore Made a Digital Detox Phone That Isn&#x27;t Dumb</a></td></tr>
 </table>
 <!-- END:news -->
 
