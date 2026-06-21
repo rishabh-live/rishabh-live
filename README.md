@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://norvig.com/lispy.html'>(How to Write a (Lisp) Interpreter (In Python))</a></td></tr>
+<tr><td><a href='https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction'>Code duplication is far cheaper than the wrong abstraction (2016)</a></td></tr>
+<tr><td><a href='https://norvig.com/lispy.html'>(How to Write a (Lisp) Interpreter (In Python)) (2010)</a></td></tr>
 <tr><td><a href='https://www.beyondallreason.info'>Beyond All Reason (Free Total Annihilation Inspired RTS)</a></td></tr>
-<tr><td><a href='https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you'>Who Owns Your ATProto Identity? Hint: It&#x27;s Probably Not You</a></td></tr>
-<tr><td><a href='https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb'>Commodore Made a Digital Detox Phone That Isn&#x27;t Dumb</a></td></tr>
-<tr><td><a href='https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction'>Code duplication is far cheaper than the wrong abstraction</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48620502'>Tell HN: Happy Fathers Day to all the fathers, uncles, anyone in that role!</a></td></tr>
+<tr><td><a href='https://brandur.org/minimum-viable-unit'>The Minimum Viable Unit of Saleable Software</a></td></tr>
 </table>
 <!-- END:news -->
 
