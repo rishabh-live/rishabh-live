@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
-<tr><td><a href='https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/'>Canyon HUD helmet for road riding</a></td></tr>
+<tr><td><a href='https://manualdousuario.net/en/smart-glasses-ugly-tacky/'>Tacky men with ridiculous glasses want you to wear them too</a></td></tr>
 <tr><td><a href='https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes'>British Columbia, Time Zones, and Postgres</a></td></tr>
 <tr><td><a href='https://github.com/dorukkumkumoglu/optocamzero'>Optocam Zero: a Pi Zero based digital camera made using off the shelf components</a></td></tr>
-<tr><td><a href='https://blog.dahl.dev/posts/my-mathematical-regression/'>My Mathematical Regression</a></td></tr>
+<tr><td><a href='https://mrmarket.lol/job-application-asked-for-my-sat-scores/'>Job application asked for my SAT scores</a></td></tr>
 </table>
 <!-- END:news -->
 
