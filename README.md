@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://apertvs.ai/'>Apertus – Open Foundation Model for Sovereign AI</a></td></tr>
 <tr><td><a href='https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/'>Did my old job only exist because of fraud?</a></td></tr>
-<tr><td><a href='https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html'>Everything is logarithms</a></td></tr>
-<tr><td><a href='https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/'>1983 Northern Telecom Commodore Phone</a></td></tr>
-<tr><td><a href='https://hawksley.dev/blog/json-ld-explained-for-personal-websites/'>JSON-LD explained for personal websites</a></td></tr>
+<tr><td><a href='https://sakana.ai/fugu/'>Sakana Fugu</a></td></tr>
+<tr><td><a href='https://lmao.center/blog/wiggle-accidents/'>Help I accidentally a wigglegram</a></td></tr>
+<tr><td><a href='https://fil-c.org/inlineasm'>Memory Safe Inline Assembly</a></td></tr>
 </table>
 <!-- END:news -->
 
