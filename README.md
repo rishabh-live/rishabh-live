@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://mitchellh.com/writing/zig-donation-2026'>Pledging Another $400k to the Zig Software Foundation</a></td></tr>
+<tr><td><a href='https://nevergivethemyourface.com/'>Never Give Them Your Face</a></td></tr>
+<tr><td><a href='https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/'>Claude Code&#x27;s &quot;extended thinking&quot; is a summary- not authentic thinking</a></td></tr>
 <tr><td><a href='https://docs.deno.com/runtime/desktop/'>Deno Desktop</a></td></tr>
-<tr><td><a href='https://techstackups.com/comparisons/glm-5.2-vs-opus/'>GLM 5.2 vs. Opus</a></td></tr>
-<tr><td><a href='https://github.com/openai/codex/issues/28224'>Codex logging bug may write TBs to local SSDs</a></td></tr>
-<tr><td><a href='https://lmao.center/blog/wiggle-accidents/'>Help I accidentally a wigglegram</a></td></tr>
-<tr><td><a href='https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/'>window.showDirectoryPicker opens up a whole new world</a></td></tr>
+<tr><td><a href='https://hustvl.github.io/Moebius/'>Moebius: 0.2B image inpainting model with 10B-level performance</a></td></tr>
 </table>
 <!-- END:news -->
 
