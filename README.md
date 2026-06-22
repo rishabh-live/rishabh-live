@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://store.steampowered.com/hardware/steammachine'>Steam Machine</a></td></tr>
+<tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
+<tr><td><a href='https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/'>Canyon HUD helmet for road riding</a></td></tr>
+<tr><td><a href='https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes'>British Columbia, Time Zones, and Postgres</a></td></tr>
+<tr><td><a href='https://github.com/dorukkumkumoglu/optocamzero'>Optocam Zero: a Pi Zero based digital camera made using off the shelf components</a></td></tr>
 <tr><td><a href='https://blog.dahl.dev/posts/my-mathematical-regression/'>My Mathematical Regression</a></td></tr>
-<tr><td><a href='https://lwn.net/Articles/1029767/'>Linux and Secure Boot certificate expiration</a></td></tr>
-<tr><td><a href='https://hustvl.github.io/Moebius/'>Moebius: 0.2B image inpainting model with 10B-level performance</a></td></tr>
-<tr><td><a href='https://docs.deno.com/runtime/desktop/'>Deno Desktop</a></td></tr>
 </table>
 <!-- END:news -->
 
