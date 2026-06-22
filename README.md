@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://docs.deno.com/runtime/desktop/'>Deno Desktop</a></td></tr>
+<tr><td><a href='https://techstackups.com/comparisons/glm-5.2-vs-opus/'>GLM 5.2 vs. Opus</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex/issues/28224'>Codex logging bug may write TBs to local SSDs</a></td></tr>
 <tr><td><a href='https://lmao.center/blog/wiggle-accidents/'>Help I accidentally a wigglegram</a></td></tr>
-<tr><td><a href='https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/'>Did my old job only exist because of fraud?</a></td></tr>
-<tr><td><a href='https://apertvs.ai/'>Apertus – Open Foundation Model for Sovereign AI</a></td></tr>
-<tr><td><a href='https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html'>Munich 1991: The Roots of the Current AI Boom</a></td></tr>
+<tr><td><a href='https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/'>window.showDirectoryPicker opens up a whole new world</a></td></tr>
 </table>
 <!-- END:news -->
 
