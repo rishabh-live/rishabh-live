@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
-<tr><td><a href='https://manualdousuario.net/en/smart-glasses-ugly-tacky/'>Tacky men with ridiculous glasses want you to wear them too</a></td></tr>
-<tr><td><a href='https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes'>British Columbia, Time Zones, and Postgres</a></td></tr>
+<tr><td><a href='https://spur.us/blog/smart-tv-apps-residential-proxy-sdks'>Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs</a></td></tr>
+<tr><td><a href='https://unsloth.ai/docs/models/glm-5.2'>Unsloth GLM-5.2 – How to Run Locally</a></td></tr>
 <tr><td><a href='https://github.com/dorukkumkumoglu/optocamzero'>Optocam Zero: a Pi Zero based digital camera made using off the shelf components</a></td></tr>
-<tr><td><a href='https://mrmarket.lol/job-application-asked-for-my-sat-scores/'>Job application asked for my SAT scores</a></td></tr>
+<tr><td><a href='https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes'>British Columbia, Time Zones, and Postgres</a></td></tr>
 </table>
 <!-- END:news -->
 
