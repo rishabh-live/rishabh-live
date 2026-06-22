@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://nevergivethemyourface.com/'>Never Give Them Your Face</a></td></tr>
-<tr><td><a href='https://mitchellh.com/writing/zig-donation-2026'>Pledging Another $400k to the Zig Software Foundation</a></td></tr>
-<tr><td><a href='https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/'>Claude Code&#x27;s &quot;extended thinking&quot; is a summary- not authentic thinking</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say'>National Science Foundation slashes basic science to fund new tech initiative</a></td></tr>
+<tr><td><a href='https://store.steampowered.com/hardware/steammachine'>Steam Machine</a></td></tr>
 <tr><td><a href='https://hustvl.github.io/Moebius/'>Moebius: 0.2B image inpainting model with 10B-level performance</a></td></tr>
+<tr><td><a href='https://docs.deno.com/runtime/desktop/'>Deno Desktop</a></td></tr>
+<tr><td><a href='https://oak.space/oak/oak'>Show HN: Oak – Git replacement designed for agents</a></td></tr>
+<tr><td><a href='https://www.displaymate.com/'>DisplayMate</a></td></tr>
 </table>
 <!-- END:news -->
 
