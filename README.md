@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://store.steampowered.com/hardware/steammachine'>Steam Machine</a></td></tr>
+<tr><td><a href='https://blog.dahl.dev/posts/my-mathematical-regression/'>My Mathematical Regression</a></td></tr>
+<tr><td><a href='https://lwn.net/Articles/1029767/'>Linux and Secure Boot certificate expiration</a></td></tr>
 <tr><td><a href='https://hustvl.github.io/Moebius/'>Moebius: 0.2B image inpainting model with 10B-level performance</a></td></tr>
 <tr><td><a href='https://docs.deno.com/runtime/desktop/'>Deno Desktop</a></td></tr>
-<tr><td><a href='https://oak.space/oak/oak'>Show HN: Oak – Git replacement designed for agents</a></td></tr>
-<tr><td><a href='https://www.displaymate.com/'>DisplayMate</a></td></tr>
 </table>
 <!-- END:news -->
 
