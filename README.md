@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://apertvs.ai/'>Apertus – Open Foundation Model for Sovereign AI</a></td></tr>
 <tr><td><a href='https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/'>Did my old job only exist because of fraud?</a></td></tr>
-<tr><td><a href='https://sakana.ai/fugu/'>Sakana Fugu</a></td></tr>
 <tr><td><a href='https://lmao.center/blog/wiggle-accidents/'>Help I accidentally a wigglegram</a></td></tr>
+<tr><td><a href='https://apertvs.ai/'>Apertus – Open Foundation Model for Sovereign AI</a></td></tr>
+<tr><td><a href='https://twitter.com/LarsAnders1620/status/2068208864747540516#m'>Danish privacy activist Lars Andersen raided by police</a></td></tr>
 <tr><td><a href='https://fil-c.org/inlineasm'>Memory Safe Inline Assembly</a></td></tr>
 </table>
 <!-- END:news -->
