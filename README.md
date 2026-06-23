@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='http://www.jerrysmap.com/the-map'>Jerry&#x27;s Map</a></td></tr>
+<tr><td><a href='https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union'>United Wizards of the Coast recognized by NLRB</a></td></tr>
 <tr><td><a href='https://milek7.pl/mailverifyspam/'>Don&#x27;t verify email addresses by sending spam to them</a></td></tr>
-<tr><td><a href='https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297'>German Rail Service Suspended Due to Radio Interference</a></td></tr>
-<tr><td><a href='https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html'>All train services in Germany halted after train radio communications disruption</a></td></tr>
 <tr><td><a href='https://swiftpackageindex.com/blog/swift-package-index-joins-apple'>Swift Package Index joins Apple</a></td></tr>
+<tr><td><a href='https://swipe.futo.tech/'>FUTO Swipe – A new swipe typing model</a></td></tr>
 </table>
 <!-- END:news -->
 
