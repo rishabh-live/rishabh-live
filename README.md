@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
-<tr><td><a href='https://unsloth.ai/docs/models/glm-5.2'>Unsloth GLM-5.2 – How to Run Locally</a></td></tr>
+<tr><td><a href='https://unsloth.ai/docs/models/glm-5.2'>Runing GLM-5.2 on local hardware</a></td></tr>
 <tr><td><a href='https://github.com/dorukkumkumoglu/optocamzero'>Optocam Zero: a Pi Zero based digital camera made using off the shelf components</a></td></tr>
+<tr><td><a href='https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/'>Cyberdecks, going analog, and convivial technology</a></td></tr>
 <tr><td><a href='https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes'>British Columbia, Time Zones, and Postgres</a></td></tr>
-<tr><td><a href='https://blog.dahl.dev/posts/my-mathematical-regression/'>My Mathematical Regression</a></td></tr>
 </table>
 <!-- END:news -->
 
