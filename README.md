@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='http://www.jerrysmap.com/the-map'>Jerry&#x27;s Map</a></td></tr>
-<tr><td><a href='https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union'>United Wizards of the Coast recognized by NLRB</a></td></tr>
-<tr><td><a href='https://milek7.pl/mailverifyspam/'>Don&#x27;t verify email addresses by sending spam to them</a></td></tr>
 <tr><td><a href='https://swiftpackageindex.com/blog/swift-package-index-joins-apple'>Swift Package Index joins Apple</a></td></tr>
 <tr><td><a href='https://swipe.futo.tech/'>FUTO Swipe – A new swipe typing model</a></td></tr>
+<tr><td><a href='https://www.patreon.com/DanyBittel/posts/printing-splats-161333338'>Printing Gaussian Splats</a></td></tr>
+<tr><td><a href='https://dynomight.net/vitamin-d/'>The worthlessness of Vitamin D is mildly exaggerated</a></td></tr>
 </table>
 <!-- END:news -->
 
