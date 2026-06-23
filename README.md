@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/future-file-format/f3'>F3</a></td></tr>
 <tr><td><a href='https://tikz.dev/editor/'>Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX</a></td></tr>
+<tr><td><a href='https://status.claude.com/incidents/jbhf20wjmzrf'>Elevated error rate across multiple models</a></td></tr>
 <tr><td><a href='https://github.com/baidu/Unlimited-OCR'>Unlimited OCR: One-Shot Long-Horizon Parsing</a></td></tr>
 <tr><td><a href='https://pluralistic.net/2026/06/23/destroy-the-village/'>Spying on kids to save kids from spying is stupid</a></td></tr>
-<tr><td><a href='https://lift4d.github.io/'>Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=ul5hC3PY1Yg'>Five monitors on a Commodore 128 [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
