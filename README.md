@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
 <tr><td><a href='https://github.com/baidu/Unlimited-OCR'>Unlimited OCR: One-Shot Long-Horizon Parsing</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c4gy0x0j5deo'>Tech giant Oracle cuts 21,000 jobs as it embraces AI</a></td></tr>
-<tr><td><a href='https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2'>Polymarket has flooded social media with deceptive videos by paid creators</a></td></tr>
+<tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
+<tr><td><a href='https://lucumr.pocoo.org/2026/6/23/the-coming-loop/'>The Coming Loop</a></td></tr>
 <tr><td><a href='https://plotnine.org/'>Plotnine</a></td></tr>
+<tr><td><a href='https://swelljoe.com/post/will-it-mythos/'>Will It Mythos?</a></td></tr>
 </table>
 <!-- END:news -->
 
