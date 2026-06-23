@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
 <tr><td><a href='https://unsloth.ai/docs/models/glm-5.2'>Runing GLM-5.2 on local hardware</a></td></tr>
-<tr><td><a href='https://github.com/dorukkumkumoglu/optocamzero'>Optocam Zero: a Pi Zero based digital camera made using off the shelf components</a></td></tr>
+<tr><td><a href='https://jchri.st/blog/in-praise-of-memcached/'>In Praise of Memcached</a></td></tr>
+<tr><td><a href='https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/'>Polymarket&#x27;s viral videos showed people winning big, but the bets were fake</a></td></tr>
 <tr><td><a href='https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/'>Cyberdecks, going analog, and convivial technology</a></td></tr>
-<tr><td><a href='https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes'>British Columbia, Time Zones, and Postgres</a></td></tr>
 </table>
 <!-- END:news -->
 
