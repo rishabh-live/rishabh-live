@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tikz.dev/editor/'>Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX</a></td></tr>
 <tr><td><a href='https://github.com/baidu/Unlimited-OCR'>Unlimited OCR: One-Shot Long-Horizon Parsing</a></td></tr>
-<tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
-<tr><td><a href='https://plotnine.org/'>Plotnine</a></td></tr>
-<tr><td><a href='https://swelljoe.com/post/will-it-mythos/'>Will It Mythos?</a></td></tr>
-<tr><td><a href='https://unsloth.ai/docs/models/glm-5.2'>GLM-5.2 – How to Run Locally</a></td></tr>
+<tr><td><a href='https://pluralistic.net/2026/06/23/destroy-the-village/'>Spying on kids to save kids from spying is stupid</a></td></tr>
+<tr><td><a href='https://blog.dshr.org/2026/06/ais-affordability-crisis.html'>AI&#x27;s Affordability Crisis</a></td></tr>
+<tr><td><a href='https://lift4d.github.io/'>Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild</a></td></tr>
 </table>
 <!-- END:news -->
 
