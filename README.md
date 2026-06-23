@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
+<tr><td><a href='https://jchri.st/blog/in-praise-of-memcached/'>In praise of memcached</a></td></tr>
 <tr><td><a href='https://unsloth.ai/docs/models/glm-5.2'>Runing GLM-5.2 on local hardware</a></td></tr>
-<tr><td><a href='https://jchri.st/blog/in-praise-of-memcached/'>In Praise of Memcached</a></td></tr>
-<tr><td><a href='https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/'>Polymarket&#x27;s viral videos showed people winning big, but the bets were fake</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2606.16140'>VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO</a></td></tr>
 <tr><td><a href='https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/'>Cyberdecks, going analog, and convivial technology</a></td></tr>
 </table>
 <!-- END:news -->
