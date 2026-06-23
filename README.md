@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://kreya.app/blog/new-http-query-method-explained/'>The new HTTP QUERY method explained</a></td></tr>
 <tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
-<tr><td><a href='https://www.lwilko.com/blog/i-gave-an-ai-a-civilization'>AI Built a Nuke and Still Lost</a></td></tr>
-<tr><td><a href='https://swelljoe.com/post/will-it-mythos/'>Will It Mythos?</a></td></tr>
+<tr><td><a href='https://kreya.app/blog/new-http-query-method-explained/'>The new HTTP QUERY method explained</a></td></tr>
+<tr><td><a href='https://www.stephendiehl.com/posts/bad_place_2026/'>Crypto in 2026: Oh, This Is the Bad Place</a></td></tr>
+<tr><td><a href='https://plotnine.org/'>Plotnine</a></td></tr>
 <tr><td><a href='https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2'>Polymarket has flooded social media with deceptive videos by paid creators</a></td></tr>
 </table>
 <!-- END:news -->
