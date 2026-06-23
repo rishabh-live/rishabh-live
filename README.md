@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/baidu/Unlimited-OCR'>Unlimited OCR: One-Shot Long-Horizon Parsing</a></td></tr>
 <tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
-<tr><td><a href='https://lucumr.pocoo.org/2026/6/23/the-coming-loop/'>The Coming Loop</a></td></tr>
 <tr><td><a href='https://plotnine.org/'>Plotnine</a></td></tr>
 <tr><td><a href='https://swelljoe.com/post/will-it-mythos/'>Will It Mythos?</a></td></tr>
+<tr><td><a href='https://unsloth.ai/docs/models/glm-5.2'>GLM-5.2 – How to Run Locally</a></td></tr>
 </table>
 <!-- END:news -->
 
