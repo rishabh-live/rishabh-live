@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://swelljoe.com/post/will-it-mythos/'>Will It Mythos?</a></td></tr>
 <tr><td><a href='https://store.steampowered.com/news/group/45479024/view/685257114654870245'>Steam Machine launches today</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2606.16140'>VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO</a></td></tr>
+<tr><td><a href='https://swelljoe.com/post/will-it-mythos/'>Will It Mythos?</a></td></tr>
 <tr><td><a href='https://unsloth.ai/docs/models/glm-5.2'>GLM-5.2 – How to Run Locally</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2606.16140'>VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO</a></td></tr>
 <tr><td><a href='https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2'>Polymarket has flooded social media with deceptive videos by paid creators</a></td></tr>
 </table>
 <!-- END:news -->
