@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/future-file-format/f3'>F3</a></td></tr>
+<tr><td><a href='https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/'>San Diego photologs from the 1970s</a></td></tr>
+<tr><td><a href='https://swiftpackageindex.com/blog/swift-package-index-joins-apple'>Swift Package Index Joins Apple</a></td></tr>
+<tr><td><a href='http://www.jerrysmap.com/the-map'>Jerry&#x27;s Map</a></td></tr>
 <tr><td><a href='https://tikz.dev/editor/'>Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX</a></td></tr>
-<tr><td><a href='https://status.claude.com/incidents/jbhf20wjmzrf'>Elevated error rate across multiple models</a></td></tr>
-<tr><td><a href='https://github.com/baidu/Unlimited-OCR'>Unlimited OCR: One-Shot Long-Horizon Parsing</a></td></tr>
-<tr><td><a href='https://pluralistic.net/2026/06/23/destroy-the-village/'>Spying on kids to save kids from spying is stupid</a></td></tr>
 </table>
 <!-- END:news -->
 
