@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/'>OpenAI unveils its first custom chip, built by Broadcom</a></td></tr>
-<tr><td><a href='https://rubyllm.com/'>RubyLLM: A Ruby framework for all major AI providers</a></td></tr>
-<tr><td><a href='https://twitter.com/ID_AA_Carmack/status/2069799283369345247'>There are a few things that I look back on as my mistakes in the early days</a></td></tr>
-<tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We’re making Bunny DNS free</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html'>NSA lost access to Mythos amid Anthropic dispute</a></td></tr>
+<tr><td><a href='https://rubyllm.com/'>RubyLLM: A Ruby framework for all major AI providers</a></td></tr>
+<tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We’re making Bunny DNS free</a></td></tr>
+<tr><td><a href='https://twitter.com/ID_AA_Carmack/status/2069799283369345247'>There are a few things that I look back on as my mistakes in the early days</a></td></tr>
 </table>
 <!-- END:news -->
 
