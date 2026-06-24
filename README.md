@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We&#x27;re making Bunny DNS free: because a faster internet won&#x27;t build itself</a></td></tr>
-<tr><td><a href='https://rubyllm.com/'>RubyLLM: A single, beautiful Ruby framework for all major AI providers</a></td></tr>
+<tr><td><a href='https://rubyllm.com/'>RubyLLM: A Ruby framework for all major AI providers</a></td></tr>
+<tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We’re making Bunny DNS free</a></td></tr>
+<tr><td><a href='https://twitter.com/ID_AA_Carmack/status/2069799283369345247'>John Carmack on the mistakes around Quake that ruined id software</a></td></tr>
 <tr><td><a href='https://github.com/nubjs/nub'>Show HN: Nub – A Bun-like all-in-one toolkit for Node.js</a></td></tr>
-<tr><td><a href='https://www.krea.ai/blog/krea-2-technical-report'>Krea 2 Technical Report</a></td></tr>
-<tr><td><a href='https://astral-os.org/posts/2026/04/03/wine-on-astral.html'>Running Windows Games on a Hobby OS with Wine</a></td></tr>
+<tr><td><a href='https://www.dijkstrascry.com/inventory'>Edsger Dijkstra&#x27;s Library (Housed and Archived in Leuven, Belgium)</a></td></tr>
 </table>
 <!-- END:news -->
 
