@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://paolino.me/founding-a-company-in-germany/'>Founding a company in Germany: €9600, 152 days and I still can&#x27;t send an invoice</a></td></tr>
 <tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We&#x27;re making Bunny DNS free: because a faster internet won&#x27;t build itself</a></td></tr>
 <tr><td><a href='https://www.krea.ai/blog/krea-2-technical-report'>Krea 2 Technical Report</a></td></tr>
 <tr><td><a href='https://images.minimus.io/'>Minimus container images are now free</a></td></tr>
 <tr><td><a href='https://rworks.dev/posts/too-many-R-packages/'>Too many R packages: CRAN is inundated with submissions</a></td></tr>
+<tr><td><a href='https://ben-mini.com/2026/stealing-is-a-skill'>Stealing Is a Skill</a></td></tr>
 </table>
 <!-- END:news -->
 
