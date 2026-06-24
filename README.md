@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/'>OpenAI unveils its first custom chip, built by Broadcom</a></td></tr>
+<tr><td><a href='https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb'>PostgreSQL Is Enough</a></td></tr>
 <tr><td><a href='https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/'>Qualcomm to Acquire Modular</a></td></tr>
 <tr><td><a href='https://rubyllm.com/'>RubyLLM: A Ruby framework for all major AI providers</a></td></tr>
-<tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We’re making Bunny DNS free</a></td></tr>
-<tr><td><a href='https://www.greptile.com/blog/prs-on-openclaw'>PR spam today looks like email spam in the early 2000s</a></td></tr>
+<tr><td><a href='https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees'>Elastic lays off 7% of employees</a></td></tr>
 </table>
 <!-- END:news -->
 
