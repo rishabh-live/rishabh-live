@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='http://www.jerrysmap.com/the-map'>Jerry&#x27;s Map</a></td></tr>
 <tr><td><a href='https://words.filippo.io/vuln-reports/'>Vulnerability reports are not special anymore</a></td></tr>
+<tr><td><a href='http://www.jerrysmap.com/the-map'>Jerry&#x27;s Map</a></td></tr>
 <tr><td><a href='https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison'>A man was gifted his dream car by Kevin Mitnick, who he helped put in prison</a></td></tr>
 <tr><td><a href='https://swipe.futo.tech/'>FUTO Swipe – A new swipe typing model</a></td></tr>
-<tr><td><a href='https://swiftpackageindex.com/blog/swift-package-index-joins-apple'>Swift Package Index joins Apple</a></td></tr>
+<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451'>In memory of the man who put red and green squiggles under words</a></td></tr>
 </table>
 <!-- END:news -->
 
