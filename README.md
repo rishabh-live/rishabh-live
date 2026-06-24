@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We&#x27;re making Bunny DNS free: because a faster internet won&#x27;t build itself</a></td></tr>
+<tr><td><a href='https://kolistat.com/blog/the-stats-duck-v0-6-0/'>Statistics that live in your SQL</a></td></tr>
 <tr><td><a href='https://words.filippo.io/vuln-reports/'>Vulnerability reports are not special anymore</a></td></tr>
+<tr><td><a href='https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading'>A deadly fungus that can infect cats and people is spreading</a></td></tr>
 <tr><td><a href='https://gitlab.com/baiyibai/pico-usb-wifi'>Raspberry Pi Pico W as USB Wi-Fi Adapter</a></td></tr>
-<tr><td><a href='http://www.jerrysmap.com/the-map'>Jerry&#x27;s Map</a></td></tr>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451'>In memory of the man who put red and green squiggles under words</a></td></tr>
 </table>
 <!-- END:news -->
 
