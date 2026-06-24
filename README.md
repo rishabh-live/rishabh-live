@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://twitter.com/ID_AA_Carmack/status/2069799283369345247'>John Carmack on the mistakes around Quake that ruined id software</a></td></tr>
 <tr><td><a href='https://rubyllm.com/'>RubyLLM: A Ruby framework for all major AI providers</a></td></tr>
 <tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We’re making Bunny DNS free</a></td></tr>
-<tr><td><a href='https://twitter.com/ID_AA_Carmack/status/2069799283369345247'>John Carmack on the mistakes around Quake that ruined id software</a></td></tr>
-<tr><td><a href='https://github.com/nubjs/nub'>Show HN: Nub – A Bun-like all-in-one toolkit for Node.js</a></td></tr>
-<tr><td><a href='https://www.dijkstrascry.com/inventory'>Edsger Dijkstra&#x27;s Library (Housed and Archived in Leuven, Belgium)</a></td></tr>
+<tr><td><a href='https://www.browserbase.com/blog/why-captchas-are-getting-harder'>CAPTCHAs have failed for 20 years</a></td></tr>
+<tr><td><a href='https://www.tigrisdata.com/blog/objgit/'>I taught a bucket to speak Git</a></td></tr>
 </table>
 <!-- END:news -->
 
