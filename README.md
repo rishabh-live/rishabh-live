@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://paolino.me/founding-a-company-in-germany/'>Founding a company in Germany: €9600, 152 days and I still can&#x27;t send an invoice</a></td></tr>
 <tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We&#x27;re making Bunny DNS free: because a faster internet won&#x27;t build itself</a></td></tr>
-<tr><td><a href='https://kolistat.com/blog/the-stats-duck-v0-6-0/'>Statistics that live in your SQL</a></td></tr>
-<tr><td><a href='https://words.filippo.io/vuln-reports/'>Vulnerability reports are not special anymore</a></td></tr>
-<tr><td><a href='https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading'>A deadly fungus that can infect cats and people is spreading</a></td></tr>
-<tr><td><a href='https://gitlab.com/baiyibai/pico-usb-wifi'>Raspberry Pi Pico W as USB Wi-Fi Adapter</a></td></tr>
+<tr><td><a href='https://www.krea.ai/blog/krea-2-technical-report'>Krea 2 Technical Report</a></td></tr>
+<tr><td><a href='https://images.minimus.io/'>Minimus container images are now free</a></td></tr>
+<tr><td><a href='https://rworks.dev/posts/too-many-R-packages/'>Too many R packages: CRAN is inundated with submissions</a></td></tr>
 </table>
 <!-- END:news -->
 
