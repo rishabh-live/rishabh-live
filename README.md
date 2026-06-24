@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://words.filippo.io/vuln-reports/'>Vulnerability reports are not special anymore</a></td></tr>
-<tr><td><a href='https://glyphcss.com'>Show HN: An ASCII 3D Rendering Engine</a></td></tr>
 <tr><td><a href='https://gitlab.com/baiyibai/pico-usb-wifi'>Raspberry Pi Pico W as USB Wi-Fi Adapter</a></td></tr>
+<tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We&#x27;re making Bunny DNS free: because a faster internet won&#x27;t build itself</a></td></tr>
 <tr><td><a href='http://www.jerrysmap.com/the-map'>Jerry&#x27;s Map</a></td></tr>
-<tr><td><a href='https://swipe.futo.tech/'>FUTO Swipe – A new swipe typing model</a></td></tr>
+<tr><td><a href='https://thomasliao.com/eval-startups'>Why eval startups fail (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
