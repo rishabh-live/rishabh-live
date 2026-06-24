@@ -25,7 +25,7 @@
 <tr><td><a href='http://www.jerrysmap.com/the-map'>Jerry&#x27;s Map</a></td></tr>
 <tr><td><a href='https://swipe.futo.tech/'>FUTO Swipe – A new swipe typing model</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2606.24597'>Qwen-AgentWorld: Language World Models for General Agents</a></td></tr>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451'>In memory of the man who put red and green squiggles under words</a></td></tr>
+<tr><td><a href='https://gitlab.com/baiyibai/pico-usb-wifi'>Raspberry Pi Pico W as USB Wi-Fi Adapter</a></td></tr>
 </table>
 <!-- END:news -->
 
