@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/'>OpenAI unveils its first custom chip, built by Broadcom</a></td></tr>
+<tr><td><a href='https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/'>Qualcomm to Acquire Modular</a></td></tr>
 <tr><td><a href='https://rubyllm.com/'>RubyLLM: A Ruby framework for all major AI providers</a></td></tr>
-<tr><td><a href='https://statusdude.com/blog/zero-downtime-docker-compose'>Zero-Downtime Deployments with Docker Compose – No Kubernetes Required</a></td></tr>
 <tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We’re making Bunny DNS free</a></td></tr>
 <tr><td><a href='https://www.greptile.com/blog/prs-on-openclaw'>PR spam today looks like email spam in the early 2000s</a></td></tr>
 </table>
