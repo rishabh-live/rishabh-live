@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bunny.net/blog/were-making-bunny-dns-free/'>We&#x27;re making Bunny DNS free: because a faster internet won&#x27;t build itself</a></td></tr>
+<tr><td><a href='https://rubyllm.com/'>RubyLLM: A single, beautiful Ruby framework for all major AI providers</a></td></tr>
+<tr><td><a href='https://github.com/nubjs/nub'>Show HN: Nub – A Bun-like all-in-one toolkit for Node.js</a></td></tr>
 <tr><td><a href='https://www.krea.ai/blog/krea-2-technical-report'>Krea 2 Technical Report</a></td></tr>
-<tr><td><a href='https://images.minimus.io/'>Minimus container images are now free</a></td></tr>
-<tr><td><a href='https://rworks.dev/posts/too-many-R-packages/'>Too many R packages: CRAN is inundated with submissions</a></td></tr>
-<tr><td><a href='https://ben-mini.com/2026/stealing-is-a-skill'>Stealing Is a Skill</a></td></tr>
+<tr><td><a href='https://astral-os.org/posts/2026/04/03/wine-on-astral.html'>Running Windows Games on a Hobby OS with Wine</a></td></tr>
 </table>
 <!-- END:news -->
 
