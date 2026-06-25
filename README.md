@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/'>OpenAI unveils its first custom chip, built by Broadcom</a></td></tr>
-<tr><td><a href='https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb'>PostgreSQL Is Enough</a></td></tr>
+<tr><td><a href='https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/'>Anthropic says Alibaba illicitly extracted Claude AI model capabilities</a></td></tr>
+<tr><td><a href='https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/'>Blogging Can Just Be Stating the Obvious</a></td></tr>
+<tr><td><a href='https://github.com/LuaJIT/LuaJIT/issues/1475'>LuaJIT 3.0 proposed syntax extensions</a></td></tr>
 <tr><td><a href='https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/'>Qualcomm to Acquire Modular</a></td></tr>
-<tr><td><a href='https://rubyllm.com/'>RubyLLM: A Ruby framework for all major AI providers</a></td></tr>
-<tr><td><a href='https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees'>Elastic lays off 7% of employees</a></td></tr>
 </table>
 <!-- END:news -->
 
