@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://hl2.slqnt.dev/'>Half-Life 2 in a Browser</a></td></tr>
 <tr><td><a href='https://dev.karltryggvason.com/you-cant-unit-test-for-taste/'>You can&#x27;t unit test for taste</a></td></tr>
+<tr><td><a href='https://hl2.slqnt.dev/'>Half-Life 2 in a Browser</a></td></tr>
 <tr><td><a href='https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/'>Anthropic says Alibaba illicitly extracted Claude AI model capabilities</a></td></tr>
-<tr><td><a href='https://mullvad.net/en/why-privacy-matters/state-mass-surveillance'>Countries are competing to see which can carry out mass surveillance the best</a></td></tr>
-<tr><td><a href='https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/'>LastPass notifies users of yet another data breach</a></td></tr>
+<tr><td><a href='https://lingochunk.com/try'>Show HN: Turn native language audio into flashcards and shadowing practice</a></td></tr>
+<tr><td><a href='https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators'>The Disappearance of Japan&#x27;s Animators</a></td></tr>
 </table>
 <!-- END:news -->
 
