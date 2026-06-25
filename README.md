@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/LuaJIT/LuaJIT/issues/1475'>LuaJIT 3.0 proposed syntax extensions</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/'>OpenAI unveils its first custom chip, built by Broadcom</a></td></tr>
 <tr><td><a href='https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/'>Anthropic says Alibaba illicitly extracted Claude AI model capabilities</a></td></tr>
+<tr><td><a href='https://github.com/LuaJIT/LuaJIT/issues/1475'>LuaJIT 3.0 proposed syntax extensions</a></td></tr>
+<tr><td><a href='https://blog.interceptfund.com/p/ending-respiratory-infections'>Ending All Respiratory Infections</a></td></tr>
 <tr><td><a href='https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/'>Blogging can just be stating the obvious</a></td></tr>
-<tr><td><a href='https://www.crosscanon.com/'>Bible as RAG Database</a></td></tr>
 </table>
 <!-- END:news -->
 
