@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://hackernewstrends.com'>Show HN: I made Google Trends for Hacker News by indexing 18 years of comments</a></td></tr>
 <tr><td><a href='https://dev.karltryggvason.com/you-cant-unit-test-for-taste/'>You can&#x27;t unit test for taste</a></td></tr>
+<tr><td><a href='https://ziglang.org/devlog/2026/#2026-06-25'>Zig&#x27;s New BitCast Semantics and LLVM Back End Improvements</a></td></tr>
 <tr><td><a href='https://hl2.slqnt.dev/'>Half-Life 2 in a Browser</a></td></tr>
-<tr><td><a href='https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/'>Anthropic says Alibaba illicitly extracted Claude AI model capabilities</a></td></tr>
-<tr><td><a href='https://lingochunk.com/try'>Show HN: Turn native language audio into flashcards and shadowing practice</a></td></tr>
-<tr><td><a href='https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators'>The Disappearance of Japan&#x27;s Animators</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short'>Ford rehires 350 engineers after AI fails to preserve expertise or train juniors</a></td></tr>
 </table>
 <!-- END:news -->
 
