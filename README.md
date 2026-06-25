@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://deno.com/blog/v2.9'>Deno 2.9</a></td></tr>
-<tr><td><a href='https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short'>Ford rehires 350 engineers after AI fails to preserve expertise or train juniors</a></td></tr>
-<tr><td><a href='https://ziglang.org/devlog/2026/#2026-06-25'>Zig&#x27;s New BitCast Semantics and LLVM Back End Improvements</a></td></tr>
-<tr><td><a href='https://hackernewstrends.com'>Show HN: I made Google Trends for Hacker News by indexing 18 years of comments</a></td></tr>
-<tr><td><a href='https://dev.karltryggvason.com/you-cant-unit-test-for-taste/'>You can&#x27;t unit test for taste</a></td></tr>
+<tr><td><a href='https://scrollprize.org/firstscroll'>A Herculaneum scroll has been read for the first time</a></td></tr>
+<tr><td><a href='https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology'>IBM debuts sub-1 nanometer chip technology</a></td></tr>
+<tr><td><a href='https://ziglang.org/devlog/2026/#2026-06-25'>Zig&#x27;s new bitCast semantics and LLVM back end improvements</a></td></tr>
+<tr><td><a href='https://explorer.oxide.computer/'>Oxide computer 3D rack guided tour</a></td></tr>
+<tr><td><a href='https://yllan.org/software/OS9Map/'>OS9Map</a></td></tr>
 </table>
 <!-- END:news -->
 
