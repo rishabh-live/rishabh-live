@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://hackernewstrends.com'>Show HN: I made Google Trends for Hacker News by indexing 18 years of comments</a></td></tr>
-<tr><td><a href='https://dev.karltryggvason.com/you-cant-unit-test-for-taste/'>You can&#x27;t unit test for taste</a></td></tr>
-<tr><td><a href='https://ziglang.org/devlog/2026/#2026-06-25'>Zig&#x27;s New BitCast Semantics and LLVM Back End Improvements</a></td></tr>
-<tr><td><a href='https://hl2.slqnt.dev/'>Half-Life 2 in a Browser</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short'>Ford rehires 350 engineers after AI fails to preserve expertise or train juniors</a></td></tr>
+<tr><td><a href='https://ziglang.org/devlog/2026/#2026-06-25'>Zig&#x27;s New BitCast Semantics and LLVM Back End Improvements</a></td></tr>
+<tr><td><a href='https://dev.karltryggvason.com/you-cant-unit-test-for-taste/'>You can&#x27;t unit test for taste</a></td></tr>
+<tr><td><a href='https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c'>Apple increases MacBook and iPad prices by 20%</a></td></tr>
 </table>
 <!-- END:news -->
 
