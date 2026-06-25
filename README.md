@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://hl2.slqnt.dev/'>Half-Life 2 in a Browser</a></td></tr>
 <tr><td><a href='https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/'>Dolphin Emulator Progress Release 2606</a></td></tr>
+<tr><td><a href='https://hl2.slqnt.dev/'>Half-Life 2 in a Browser</a></td></tr>
 <tr><td><a href='https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/'>Anthropic says Alibaba illicitly extracted Claude AI model capabilities</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/'>OpenAI unveils its first custom chip, built by Broadcom</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/oauth-for-all/'>Cloudflare launched self-managed OAuth for all</a></td></tr>
