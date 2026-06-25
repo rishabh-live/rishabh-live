@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://expression.fire.org/p/the-papers-please-era-of-the-internet'>The &#x27;papers, please&#x27; era of the internet will decimate your privacy</a></td></tr>
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
-<tr><td><a href='https://explorer.oxide.computer/'>Oxide computer 3D rack guided tour</a></td></tr>
 <tr><td><a href='https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/'>Un-0: Generating Images with Coupled Oscillators</a></td></tr>
+<tr><td><a href='https://explorer.oxide.computer/'>Oxide computer 3D rack guided tour</a></td></tr>
 <tr><td><a href='https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology'>IBM debuts sub-1 nanometer chip technology</a></td></tr>
-<tr><td><a href='https://github.com/inkeep/open-knowledge'>Show HN: OpenKnowledge – open source AI-first alternative to Obsidian&#x2F;Notion</a></td></tr>
 </table>
 <!-- END:news -->
 
