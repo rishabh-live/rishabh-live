@@ -24,8 +24,8 @@
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
 <tr><td><a href='https://explorer.oxide.computer/'>Oxide computer 3D rack guided tour</a></td></tr>
 <tr><td><a href='https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology'>IBM debuts sub-1 nanometer chip technology</a></td></tr>
-<tr><td><a href='https://ziglang.org/devlog/2026/#2026-06-25'>Zig&#x27;s new bitCast semantics and LLVM back end improvements</a></td></tr>
 <tr><td><a href='https://github.com/inkeep/open-knowledge'>Show HN: OpenKnowledge – open source AI-first alternative to Obsidian&#x2F;Notion</a></td></tr>
+<tr><td><a href='https://siliconopera.com/the-customer-who-almost-killed-slack-stripe-and-airbnb/'>The Customer Who Almost Killed Slack, Stripe, and Airbnb</a></td></tr>
 </table>
 <!-- END:news -->
 
