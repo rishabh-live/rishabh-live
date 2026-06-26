@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted'>Why have papers by one of history&#x27;s most famous physicists been retracted?</a></td></tr>
+<tr><td><a href='https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html'>Incident CVE-2026-LGTM</a></td></tr>
 <tr><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td></tr>
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
-<tr><td><a href='https://graphicore.github.io/librebarcode/'>Libre Barcode Project</a></td></tr>
-<tr><td><a href='https://scottaaronson.blog/?p=9851'>Bipartite Matching Is in NC</a></td></tr>
-<tr><td><a href='https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/'>Framework&#x27;s 10G Ethernet module exposes USB-C&#x27;s complexity</a></td></tr>
+<tr><td><a href='https://alephneuro.com/blog/ultrasound-brain'>Ultrasound Imaging of the Brain</a></td></tr>
 </table>
 <!-- END:news -->
 
