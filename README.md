@@ -24,8 +24,8 @@
 <tr><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td></tr>
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
 <tr><td><a href='https://graphicore.github.io/librebarcode/'>Libre Barcode Project</a></td></tr>
+<tr><td><a href='https://akrites.org/letter/'>We All Depend on Open Source. We Will Defend It Together</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/'>Framework&#x27;s 10G Ethernet module exposes USB-C&#x27;s complexity</a></td></tr>
-<tr><td><a href='https://www.fernandoi.cl/posts/hackmyclaw/'>What happened after 2k people tried to hack my AI assistant</a></td></tr>
 </table>
 <!-- END:news -->
 
