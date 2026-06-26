@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted'>Why have papers by one of history&#x27;s most famous physicists been retracted?</a></td></tr>
 <tr><td><a href='https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html'>Incident CVE-2026-LGTM</a></td></tr>
-<tr><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td></tr>
-<tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
+<tr><td><a href='https://ohadravid.github.io/posts/2026-06-tool-talking/'>The Exhaustion of Talking to a Tool</a></td></tr>
 <tr><td><a href='https://alephneuro.com/blog/ultrasound-brain'>Ultrasound Imaging of the Brain</a></td></tr>
+<tr><td><a href='https://commerce.jolla.com/products/jolla-phone-october-2026'>Jolla Phone, Over 13 500 units sold</a></td></tr>
 </table>
 <!-- END:news -->
 
