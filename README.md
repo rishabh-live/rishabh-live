@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://aditya.patadia.org/p/ai-and-cloud-costs'>Why current LLM costs are not sustainable</a></td></tr>
+<tr><td><a href='https://akrites.org/letter/'>We All Depend on Open Source. We Will Defend It Together</a></td></tr>
 <tr><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td></tr>
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
-<tr><td><a href='https://akrites.org/letter/'>We All Depend on Open Source. We Will Defend It Together</a></td></tr>
 <tr><td><a href='https://graphicore.github.io/librebarcode/'>Libre Barcode Project</a></td></tr>
+<tr><td><a href='https://blog.matthewbrunelle.com/my-steam-machine-is-a-50ft-hdmi-cable/'>My Steam Machine Is a 50ft HDMI Cable</a></td></tr>
 </table>
 <!-- END:news -->
 
