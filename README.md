@@ -25,7 +25,7 @@
 <tr><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td></tr>
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
 <tr><td><a href='https://graphicore.github.io/librebarcode/'>Libre Barcode Project</a></td></tr>
-<tr><td><a href='https://www.fernandoi.cl/posts/hackmyclaw/'>What happened after 2k people tried to hack my AI assistant</a></td></tr>
+<tr><td><a href='https://scottaaronson.blog/?p=9851'>Bipartite Matching Is in NC</a></td></tr>
 </table>
 <!-- END:news -->
 
