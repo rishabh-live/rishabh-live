@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td></tr>
-<tr><td><a href='https://blog.doubleword.ai/frontier-os-llm'>The gap between open weights LLMs and closed source LLMs</a></td></tr>
 <tr><td><a href='https://github.com/Tessil/hopscotch-map'>A C++ implementation of a fast hash map and hash set using hopscotch hashing</a></td></tr>
+<tr><td><a href='https://blog.doubleword.ai/frontier-os-llm'>The gap between open weights LLMs and closed source LLMs</a></td></tr>
 <tr><td><a href='https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/'>U.S. government will decide who gets to use GPT-5.6</a></td></tr>
 <tr><td><a href='https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/'>MicroVMs: Run isolated sandboxes with full lifecycle control</a></td></tr>
 </table>
