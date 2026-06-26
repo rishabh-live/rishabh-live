@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true'>Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line</a></td></tr>
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition'>AI children&#x27;s books, body horror edition</a></td></tr>
 <tr><td><a href='https://expression.fire.org/p/the-papers-please-era-of-the-internet'>The &#x27;papers, please&#x27; era of the internet will decimate your privacy</a></td></tr>
-<tr><td><a href='https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/'>Un-0: Generating Images with Coupled Oscillators</a></td></tr>
-<tr><td><a href='https://github.com/plbrault/youre-the-os'>A game where you&#x27;re an OS and have to manage processes, memory and I&#x2F;O events</a></td></tr>
 </table>
 <!-- END:news -->
 
