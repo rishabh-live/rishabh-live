@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/'>MicroVMs: Run isolated sandboxes with full lifecycle control</a></td></tr>
-<tr><td><a href='https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/'>A US military exercise to launch a satellite on short notice</a></td></tr>
-<tr><td><a href='https://alephneuro.com/blog/ultrasound-brain'>Ultrasound imaging of the brain</a></td></tr>
 <tr><td><a href='https://github.com/workweave/router'>Show HN: Smart model routing directly in Claude, Codex and Cursor</a></td></tr>
-<tr><td><a href='https://commerce.jolla.com/products/jolla-phone-october-2026'>Jolla Phone (October 2026)</a></td></tr>
+<tr><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td></tr>
+<tr><td><a href='https://alephneuro.com/blog/ultrasound-brain'>Ultrasound imaging of the brain</a></td></tr>
+<tr><td><a href='https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/'>A US military exercise to launch a satellite on short notice</a></td></tr>
 </table>
 <!-- END:news -->
 
