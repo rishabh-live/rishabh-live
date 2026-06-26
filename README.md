@@ -24,7 +24,7 @@
 <tr><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td></tr>
 <tr><td><a href='https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/'>U.S. government will decide who gets to use GPT-5.6</a></td></tr>
 <tr><td><a href='https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/'>MicroVMs: Run isolated sandboxes with full lifecycle control</a></td></tr>
-<tr><td><a href='https://gossamer-lang.org/'>Gossamer: a Rust-flavoured language with real goroutines and pause-free memory</a></td></tr>
+<tr><td><a href='https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/'>The &quot;Bizarre Headgear&quot; Exhibit at the Sam Noble Museum Is Incredible</a></td></tr>
 <tr><td><a href='https://github.com/workweave/router'>Show HN: Smart model routing directly in Claude, Codex and Cursor</a></td></tr>
 </table>
 <!-- END:news -->
