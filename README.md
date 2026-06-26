@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td></tr>
-<tr><td><a href='https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true'>Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line</a></td></tr>
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
-<tr><td><a href='https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/'>Framework&#x27;s 10G Ethernet module exposes USB-C&#x27;s complexity</a></td></tr>
 <tr><td><a href='https://graphicore.github.io/librebarcode/'>Libre Barcode Project</a></td></tr>
+<tr><td><a href='https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/'>Framework&#x27;s 10G Ethernet module exposes USB-C&#x27;s complexity</a></td></tr>
+<tr><td><a href='https://www.fernandoi.cl/posts/hackmyclaw/'>What happened after 2k people tried to hack my AI assistant</a></td></tr>
 </table>
 <!-- END:news -->
 
