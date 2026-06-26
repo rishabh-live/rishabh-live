@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://om.co/2026/06/24/1966-2026/'>Om Malik has died</a></td></tr>
 <tr><td><a href='https://scrollprize.org/firstscroll'>An entire Herculaneum scroll has been read for the first time</a></td></tr>
 <tr><td><a href='https://expression.fire.org/p/the-papers-please-era-of-the-internet'>The &#x27;papers, please&#x27; era of the internet will decimate your privacy</a></td></tr>
 <tr><td><a href='https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/'>Un-0: Generating Images with Coupled Oscillators</a></td></tr>
-<tr><td><a href='https://explorer.oxide.computer/'>Oxide computer 3D rack guided tour</a></td></tr>
 <tr><td><a href='https://github.com/plbrault/youre-the-os'>A game where you&#x27;re an OS and have to manage processes, memory and I&#x2F;O events</a></td></tr>
 </table>
 <!-- END:news -->
