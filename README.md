@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf'>DSpark: Speculative decoding accelerates LLM inference [pdf]</a></td></tr>
 <tr><td><a href='https://www.openra.net/'>OpenRA</a></td></tr>
 <tr><td><a href='https://w.pitula.me/fintech-engineering-handbook/'>Fintech Engineering Handbook</a></td></tr>
-<tr><td><a href='https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service'>Long Wave radio era set to end with switch-off</a></td></tr>
 <tr><td><a href='https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/'>Post-Mythos Cybersecurity: Keep calm and carry on</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981'>Underarm Bowling Incident of 1981</a></td></tr>
 </table>
 <!-- END:news -->
 
