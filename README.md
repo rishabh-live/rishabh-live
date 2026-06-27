@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1'>OpenTTD 16.0-Beta1</a></td></tr>
 <tr><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td></tr>
-<tr><td><a href='https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed'>Why does kinetic energy increase quadratically, not linearly, with speed? (2011)</a></td></tr>
 <tr><td><a href='https://www.sfwriter.com/wordstar.htm'>WordStar: A Writer&#x27;s Word Processor (1996)</a></td></tr>
-<tr><td><a href='https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies'>U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/ai-in-mathematics'>AI in mathematics is forcing big questions</a></td></tr>
+<tr><td><a href='https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed'>Why does kinetic energy increase quadratically, not linearly, with speed? (2011)</a></td></tr>
+<tr><td><a href='https://github.com/schlae/IBM_MCGA'>IBM MCGA Gate Array Reverse Engineering</a></td></tr>
 </table>
 <!-- END:news -->
 
