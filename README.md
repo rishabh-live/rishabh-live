@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://ipcrawl.com/'>IP Crawl: Living atlas of open webcams discovered on the public internet</a></td></tr>
 <tr><td><a href='https://github.com/bikini/exploitarium'>Anonymous GitHub account mass-dropping undisclosed 0-days</a></td></tr>
+<tr><td><a href='https://github.com/kageroumado/adrafinil'>Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work</a></td></tr>
 <tr><td><a href='https://www.openra.net/'>OpenRA</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/ai-radio-chip-design'>AI learns the “dark art” of RFIC design</a></td></tr>
-<tr><td><a href='https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf'>DSpark: Speculative decoding accelerates LLM inference [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
