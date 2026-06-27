@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf'>DSpark: Speculative decoding accelerates LLM inference [pdf]</a></td></tr>
 <tr><td><a href='https://www.openra.net/'>OpenRA</a></td></tr>
 <tr><td><a href='https://w.pitula.me/fintech-engineering-handbook/'>Fintech Engineering Handbook</a></td></tr>
-<tr><td><a href='https://dervis.de/physical/'>If you can&#x27;t hold it, you don&#x27;t own it</a></td></tr>
-<tr><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td></tr>
+<tr><td><a href='https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service'>Long Wave radio era set to end with switch-off</a></td></tr>
+<tr><td><a href='https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/'>Post-Mythos Cybersecurity: Keep calm and carry on</a></td></tr>
 </table>
 <!-- END:news -->
 
