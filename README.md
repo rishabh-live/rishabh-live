@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf'>DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]</a></td></tr>
 <tr><td><a href='https://w.pitula.me/fintech-engineering-handbook/'>Fintech Engineering Handbook</a></td></tr>
+<tr><td><a href='https://www.beercss.com'>Beer CSS – Build material design in record time</a></td></tr>
 <tr><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td></tr>
 <tr><td><a href='https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service'>Long Wave radio era set to end with switch-off</a></td></tr>
-<tr><td><a href='https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm'>Linux on Older Hardware: The Complete Revival Guide</a></td></tr>
 </table>
 <!-- END:news -->
 
