@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf'>DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]</a></td></tr>
 <tr><td><a href='https://openai.com/index/previewing-gpt-5-6-sol/'>Previewing GPT‑5.6 Sol: a next-generation model</a></td></tr>
+<tr><td><a href='https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm'>Linux on Older Hardware: The Complete Revival Guide</a></td></tr>
 <tr><td><a href='https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service'>Long Wave radio era set to end with switch-off</a></td></tr>
 <tr><td><a href='https://www.sfwriter.com/wordstar.htm'>WordStar: A Writer&#x27;s Word Processor (1996)</a></td></tr>
-<tr><td><a href='https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm'>Linux on Older Hardware: The Complete Revival Guide</a></td></tr>
-<tr><td><a href='https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed'>Why does kinetic energy increase quadratically, not linearly, with speed? (2011)</a></td></tr>
 </table>
 <!-- END:news -->
 
