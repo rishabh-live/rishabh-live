@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep'>Marfa Public Radio Puts You to Sleep</a></td></tr>
+<tr><td><a href='https://github.com/itsthelore/wayfinder-router'>Wayfinder Router: deterministic routing of queries between local and hosted LLM</a></td></tr>
 <tr><td><a href='https://decomp-academy.dev'>Show HN: Decomp Academy – Learn to decompile GameCube games into matching C</a></td></tr>
 <tr><td><a href='https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md'>AMD Strix Halo RDMA Cluster Setup Guide</a></td></tr>
-<tr><td><a href='https://evilbit.de/dns-resolver-guide.html'>Choosing a Public DNS Resolver</a></td></tr>
 <tr><td><a href='https://github.com/bikini/exploitarium'>Anonymous GitHub account mass-dropping undisclosed 0-days</a></td></tr>
 </table>
 <!-- END:news -->
