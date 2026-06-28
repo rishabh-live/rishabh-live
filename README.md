@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/openai/codex/issues/2847'>A way to exclude sensitive files issue still open for OpenAI Codex</a></td></tr>
 <tr><td><a href='https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep'>Marfa Public Radio Puts You to Sleep</a></td></tr>
+<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467'>DLL that was not present in memory despite not being formally unloaded</a></td></tr>
 <tr><td><a href='https://github.com/cfenollosa/bashblog'>Bashblog – a single bash script to create blogs</a></td></tr>
 <tr><td><a href='https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md'>AMD Strix Halo RDMA Cluster Setup Guide</a></td></tr>
-<tr><td><a href='https://www.openra.net/'>OpenRA</a></td></tr>
-<tr><td><a href='https://github.com/bikini/exploitarium'>Anonymous GitHub account mass-dropping undisclosed 0-days</a></td></tr>
 </table>
 <!-- END:news -->
 
