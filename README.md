@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/librepods-org/librepods'>Librepods: AirPods liberated from Apple&#x27;s ecosystem</a></td></tr>
 <tr><td><a href='https://pudding.cool/2026/06/menu-story/'>5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</a></td></tr>
 <tr><td><a href='https://antoine.fi/mri-analysis-using-claude-code-opus'>I used Claude Code to get a second opinion on my MRI</a></td></tr>
-<tr><td><a href='http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html'>Working around dragons with the Lemote Yeeloong laptop and OpenBSD</a></td></tr>
-<tr><td><a href='https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing'>Tokenmaxxing is dead, long live tokenmaxxing</a></td></tr>
-<tr><td><a href='https://zanagrams.com/'>Show HN: Zanagrams</a></td></tr>
+<tr><td><a href='https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/'>Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks</a></td></tr>
+<tr><td><a href='https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number'>TOP500 at ISC&#x27;26: We Have a New Number 1 – By George Cozma</a></td></tr>
 </table>
 <!-- END:news -->
 
