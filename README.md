@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://pudding.cool/2026/06/menu-collection/'>5k Restaurant Menus, Years 1880-1920</a></td></tr>
+<tr><td><a href='https://pudding.cool/2026/06/menu-story/'>5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</a></td></tr>
 <tr><td><a href='https://antoine.fi/mri-analysis-using-claude-code-opus'>I used Claude Code to get a second opinion on my MRI</a></td></tr>
 <tr><td><a href='http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html'>Working around dragons with the Lemote Yeeloong laptop and OpenBSD</a></td></tr>
-<tr><td><a href='https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/'>Reflections on Software Engineering in the Age of AI</a></td></tr>
-<tr><td><a href='https://www.openculture.com/2020/10/daisugi.html'>Daisugi, the Japanese technique of growing trees out of other trees (2020)</a></td></tr>
+<tr><td><a href='https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing'>Tokenmaxxing is dead, long live tokenmaxxing</a></td></tr>
+<tr><td><a href='https://zanagrams.com/'>Show HN: Zanagrams</a></td></tr>
 </table>
 <!-- END:news -->
 
