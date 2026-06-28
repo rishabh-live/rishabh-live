@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/cfenollosa/bashblog'>Bashblog – a single bash script to create blogs</a></td></tr>
 <tr><td><a href='https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md'>AMD Strix Halo RDMA Cluster Setup Guide</a></td></tr>
 <tr><td><a href='https://www.openra.net/'>OpenRA</a></td></tr>
-<tr><td><a href='https://decomp-academy.dev'>Show HN: Decomp Academy – Learn to decompile GameCube games into matching C</a></td></tr>
+<tr><td><a href='https://github.com/bikini/exploitarium'>Anonymous GitHub account mass-dropping undisclosed 0-days</a></td></tr>
 </table>
 <!-- END:news -->
 
