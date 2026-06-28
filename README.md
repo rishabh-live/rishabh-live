@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://pudding.cool/2026/06/menu-collection/'>5k Restaurant Menus, Years 1880-1920</a></td></tr>
-<tr><td><a href='https://www.openculture.com/2020/10/daisugi.html'>Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)</a></td></tr>
+<tr><td><a href='https://antoine.fi/mri-analysis-using-claude-code-opus'>I used Claude Code to get a second opinion on my MRI</a></td></tr>
 <tr><td><a href='http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html'>Working around dragons with the Lemote Yeeloong laptop and OpenBSD</a></td></tr>
-<tr><td><a href='https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html'>Examining circuit boards from the Space Shuttle&#x27;s I&#x2F;O Processor</a></td></tr>
-<tr><td><a href='https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/'>The curious case of the disappearing Polish S (2015)</a></td></tr>
+<tr><td><a href='https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/'>Reflections on Software Engineering in the Age of AI</a></td></tr>
+<tr><td><a href='https://www.openculture.com/2020/10/daisugi.html'>Daisugi, the Japanese technique of growing trees out of other trees (2020)</a></td></tr>
 </table>
 <!-- END:news -->
 
