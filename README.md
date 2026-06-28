@@ -24,8 +24,8 @@
 <tr><td><a href='https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/'>GLM 5.2 beats Claude in our benchmarks</a></td></tr>
 <tr><td><a href='https://xonaly.com/'>Xonaly – Canada&#x27;s Independent Search Engine</a></td></tr>
 <tr><td><a href='https://qsoe.net'>A QNX-inspired operating system with selectable kernels</a></td></tr>
-<tr><td><a href='https://pudding.cool/2026/06/menu-story/'>5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</a></td></tr>
 <tr><td><a href='https://dam.stanford.edu/memory-prices.html'>Historical memory prices 1960-2026</a></td></tr>
+<tr><td><a href='https://pudding.cool/2026/06/menu-story/'>5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</a></td></tr>
 </table>
 <!-- END:news -->
 
