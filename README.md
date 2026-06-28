@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.com/open-energy-transition/open-tyndp'>EU Open Sources Ten-Year Network Development Planning Tools</a></td></tr>
 <tr><td><a href='https://pudding.cool/2026/06/menu-collection/'>5k Restaurant Menus, Years 1880-1920</a></td></tr>
 <tr><td><a href='https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/'>The curious case of the disappearing Polish S (2015)</a></td></tr>
-<tr><td><a href='https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/'>EU to legislate about Chat Control behind closed doors</a></td></tr>
 <tr><td><a href='https://github.com/openai/codex/issues/2847'>A way to exclude sensitive files issue still open for OpenAI Codex</a></td></tr>
+<tr><td><a href='https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/'>EU to legislate about Chat Control behind closed doors</a></td></tr>
 </table>
 <!-- END:news -->
 
