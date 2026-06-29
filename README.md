@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf'>Mag 7 starting to underperform [pdf]</a></td></tr>
-<tr><td><a href='https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully'>RocketLab Acquires Iridium</a></td></tr>
+<tr><td><a href='https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully'>Rocketlab acquires Iridium</a></td></tr>
+<tr><td><a href='https://humphri.es/blog/WATaBoy/'>WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter</a></td></tr>
+<tr><td><a href='https://philipbohun.com/blog/0011.html'>Microsoft Needs Windows Lite</a></td></tr>
+<tr><td><a href='https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html'>A native graphical shell for SSH</a></td></tr>
 <tr><td><a href='https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/'>What happens when you run a CUDA kernel?</a></td></tr>
-<tr><td><a href='https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/'>Building Principia for Windows XP</a></td></tr>
-<tr><td><a href='https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/'>Sandia National Labs SA3000 8085 CPU</a></td></tr>
 </table>
 <!-- END:news -->
 
