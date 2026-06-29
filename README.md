@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/'>GLM 5.2 beats Claude in our benchmarks</a></td></tr>
-<tr><td><a href='https://qsoe.net'>A QNX-inspired operating system with selectable kernels</a></td></tr>
-<tr><td><a href='https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html'>Professor denounces mass AI fraud on an exam at Brown</a></td></tr>
 <tr><td><a href='https://dam.stanford.edu/memory-prices.html'>Historical memory prices 1960-2026</a></td></tr>
 <tr><td><a href='https://pudding.cool/2026/06/menu-story/'>5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2401.07013'>Knowledge Distillation of Black-Box Large Language Models (2024)</a></td></tr>
+<tr><td><a href='https://antoine.fi/mri-analysis-using-claude-code-opus'>I used Claude Code to get a second opinion on my MRI</a></td></tr>
 </table>
 <!-- END:news -->
 
