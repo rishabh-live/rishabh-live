@@ -25,7 +25,7 @@
 <tr><td><a href='https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully'>Rocketlab acquires Iridium</a></td></tr>
 <tr><td><a href='https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html'>A native graphical shell for SSH</a></td></tr>
 <tr><td><a href='https://humphri.es/blog/WATaBoy/'>WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision'>US Supreme Court rules geofence warrants require constitutional protections</a></td></tr>
+<tr><td><a href='https://github.com/deepreinforce-ai/Ornith-1'>Ornith-1.0: self-improving open-source models for agentic coding</a></td></tr>
 </table>
 <!-- END:news -->
 
