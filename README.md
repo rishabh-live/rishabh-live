@@ -24,8 +24,8 @@
 <tr><td><a href='https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/'>.self: A new top-level domain designed to support self-hosting</a></td></tr>
 <tr><td><a href='https://quesma.com/blog/qwen-36-is-awesome/'>Qwen 3.6 27B is the sweet spot for local development</a></td></tr>
 <tr><td><a href='https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/'>Free the Icons</a></td></tr>
+<tr><td><a href='https://outyet.ai'>Is It Out Yet?</a></td></tr>
 <tr><td><a href='https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully'>Rocketlab acquires Iridium</a></td></tr>
-<tr><td><a href='https://github.com/deepreinforce-ai/Ornith-1'>Ornith-1.0: self-improving open-source models for agentic coding</a></td></tr>
 </table>
 <!-- END:news -->
 
