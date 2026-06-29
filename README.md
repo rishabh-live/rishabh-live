@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://quesma.com/blog/qwen-36-is-awesome/'>Qwen 3.6 27B is the sweet spot for local development</a></td></tr>
 <tr><td><a href='https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully'>Rocketlab acquires Iridium</a></td></tr>
-<tr><td><a href='https://humphri.es/blog/WATaBoy/'>WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter</a></td></tr>
-<tr><td><a href='https://philipbohun.com/blog/0011.html'>Microsoft Needs Windows Lite</a></td></tr>
 <tr><td><a href='https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html'>A native graphical shell for SSH</a></td></tr>
-<tr><td><a href='https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/'>What happens when you run a CUDA kernel?</a></td></tr>
+<tr><td><a href='https://humphri.es/blog/WATaBoy/'>WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision'>US Supreme Court rules geofence warrants require constitutional protections</a></td></tr>
 </table>
 <!-- END:news -->
 
