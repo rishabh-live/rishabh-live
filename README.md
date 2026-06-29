@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/'>Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting</a></td></tr>
 <tr><td><a href='https://quesma.com/blog/qwen-36-is-awesome/'>Qwen 3.6 27B is the sweet spot for local development</a></td></tr>
 <tr><td><a href='https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully'>Rocketlab acquires Iridium</a></td></tr>
-<tr><td><a href='https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html'>A native graphical shell for SSH</a></td></tr>
 <tr><td><a href='https://github.com/deepreinforce-ai/Ornith-1'>Ornith-1.0: self-improving open-source models for agentic coding</a></td></tr>
-<tr><td><a href='https://humphri.es/blog/WATaBoy/'>WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter</a></td></tr>
+<tr><td><a href='https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html'>A native graphical shell for SSH</a></td></tr>
 </table>
 <!-- END:news -->
 
