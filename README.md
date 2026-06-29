@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/'>GLM 5.2 beats Claude in our benchmarks</a></td></tr>
+<tr><td><a href='https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026'>Age verification is just a precursor to automated attribution of speech</a></td></tr>
+<tr><td><a href='https://danunparsed.com/p/hackerrank-open-source-ats'>HackerRank open sourced its ATS. My resume scored 90&#x2F;100. Oh wait 74. No – 88</a></td></tr>
 <tr><td><a href='https://dam.stanford.edu/memory-prices.html'>Historical memory prices 1960-2026</a></td></tr>
-<tr><td><a href='https://betterimagesofai.org/'>Better Images of AI</a></td></tr>
 <tr><td><a href='https://pudding.cool/2026/06/menu-story/'>5k menus from the New York Public Library’s Buttolph Collection (1880-1920)</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2401.07013'>Knowledge Distillation of Black-Box Large Language Models (2024)</a></td></tr>
 </table>
 <!-- END:news -->
 
