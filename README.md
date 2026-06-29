@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/'>Sandia National Labs SA3000 8085 CPU</a></td></tr>
 <tr><td><a href='https://danunparsed.com/p/hackerrank-open-source-ats'>HackerRank open sourced its ATS. My resume scored 90&#x2F;100. Oh wait 74. No – 88</a></td></tr>
 <tr><td><a href='https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/'>GLM 5.2 beats Claude in our benchmarks</a></td></tr>
-<tr><td><a href='https://schamper.dev/dissecting-apples-sparse-image-format-asif/'>Dissecting Apple&#x27;s Sparse Image Format (ASIF)</a></td></tr>
-<tr><td><a href='https://github.com/ogulcancelik/herdr'>Herdr: Agent multiplexer that lives in your terminal</a></td></tr>
-<tr><td><a href='https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026'>Age verification is just a precursor to automated attribution of speech</a></td></tr>
+<tr><td><a href='https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/'>Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped</a></td></tr>
+<tr><td><a href='https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them'>NUMA: Cores, memory, and the distance between them</a></td></tr>
 </table>
 <!-- END:news -->
 
