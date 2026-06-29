@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tidal.com/ai-policy'>Tidal AI Policy</a></td></tr>
 <tr><td><a href='https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/'>Sandia National Labs SA3000 8085 CPU</a></td></tr>
+<tr><td><a href='https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html'>Type-checked non-empty strings</a></td></tr>
 <tr><td><a href='https://danunparsed.com/p/hackerrank-open-source-ats'>HackerRank open sourced its ATS. My resume scored 90&#x2F;100. Oh wait 74. No – 88</a></td></tr>
-<tr><td><a href='https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/'>GLM 5.2 beats Claude in our benchmarks</a></td></tr>
-<tr><td><a href='https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/'>Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped</a></td></tr>
-<tr><td><a href='https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them'>NUMA: Cores, memory, and the distance between them</a></td></tr>
+<tr><td><a href='https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/'>Building Principia for Windows XP</a></td></tr>
 </table>
 <!-- END:news -->
 
