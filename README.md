@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code Is Steganographically Marking Requests</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td></tr>
-<tr><td><a href='https://deepmind.google/models/gemini-image/flash-lite/'>Nano Banana 2 Lite</a></td></tr>
-<tr><td><a href='https://claude.com/product/claude-science'>Claude Science</a></td></tr>
+<tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code is steganographically marking requests</a></td></tr>
 <tr><td><a href='https://unix.foo/posts/last-people-who-know-how-it-works/'>We Are the Last People Who Know How It Works</a></td></tr>
+<tr><td><a href='https://claude.com/product/claude-science'>Claude Science</a></td></tr>
+<tr><td><a href='https://deepmind.google/models/gemini-image/flash-lite/'>Nano Banana 2 Lite</a></td></tr>
 </table>
 <!-- END:news -->
 
