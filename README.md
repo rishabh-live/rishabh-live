@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td></tr>
 <tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code is steganographically marking requests</a></td></tr>
 <tr><td><a href='https://claude.com/product/claude-science'>Claude Science</a></td></tr>
+<tr><td><a href='https://ngrok.com/blog/i-ported-kubernetes-to-the-browser'>I ported Kubernetes to the browser</a></td></tr>
 <tr><td><a href='https://deepmind.google/models/gemini-image/flash-lite/'>Nano Banana 2 Lite</a></td></tr>
-<tr><td><a href='https://gauthier-lechevalier.com/radar'>I built a mmWave material classification radar</a></td></tr>
 </table>
 <!-- END:news -->
 
