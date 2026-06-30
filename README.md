@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code Is Steganographically Marking Requests</a></td></tr>
-<tr><td><a href='https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/'>The labor share of income in the US is at its lowest post-war level</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td></tr>
 <tr><td><a href='https://deepmind.google/models/gemini-image/flash-lite/'>Nano Banana 2 Lite</a></td></tr>
-<tr><td><a href='https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/'>We moved our Bluesky data to Eurosky</a></td></tr>
-<tr><td><a href='https://www.gutenberg.org/ebooks/24518'>Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)</a></td></tr>
+<tr><td><a href='https://claude.com/product/claude-science'>Claude Science</a></td></tr>
+<tr><td><a href='https://unix.foo/posts/last-people-who-know-how-it-works/'>We Are the Last People Who Know How It Works</a></td></tr>
 </table>
 <!-- END:news -->
 
