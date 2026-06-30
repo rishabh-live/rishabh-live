@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://opensourcelowtech.org/'>Open Source Low Tech</a></td></tr>
+<tr><td><a href='https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/'>European digital ID wallets are a gift to Google and Apple</a></td></tr>
 <tr><td><a href='https://karolina.mgdubiel.com/drone/'>Building a custom octocopter from scratch with no prior hardware experience</a></td></tr>
-<tr><td><a href='https://quesma.com/blog/qwen-36-is-awesome/'>Qwen 3.6 27B is the sweet spot for local development</a></td></tr>
-<tr><td><a href='https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/'>.self: A new top-level domain designed to support self-hosting</a></td></tr>
-<tr><td><a href='https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/'>Free the Icons</a></td></tr>
+<tr><td><a href='https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext'>Exercise intensity influences body composition in healthy older adults</a></td></tr>
+<tr><td><a href='https://opensourcelowtech.org/'>Open Source Low Tech</a></td></tr>
+<tr><td><a href='https://www.economist.com/science-and-technology/2026/06/29/should-every-babys-dna-be-sequenced'>Should every baby&#x27;s DNA be sequenced?</a></td></tr>
 </table>
 <!-- END:news -->
 
