@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/'>European digital ID wallets are a gift to Google and Apple</a></td></tr>
 <tr><td><a href='https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting'>The US ambassador had Belgian police stop our reporting</a></td></tr>
+<tr><td><a href='https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/'>European digital ID wallets rely on safety services of Google and Apple</a></td></tr>
 <tr><td><a href='https://karolina.mgdubiel.com/drone/'>Building a custom octocopter from scratch with no prior hardware experience</a></td></tr>
-<tr><td><a href='https://cekrem.github.io/posts/parse-dont-validate-typescript/'>Parse, Don&#x27;t Validate – In a Language That Doesn&#x27;t Want You To</a></td></tr>
+<tr><td><a href='https://www.maturitas.org/article/S0378-5122(25)00571-7/fulltext'>Exercise intensity influences body composition in healthy older adults (2025)</a></td></tr>
 <tr><td><a href='https://opensourcelowtech.org/'>Open Source Low Tech</a></td></tr>
 </table>
 <!-- END:news -->
