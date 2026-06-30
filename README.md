@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://opensourcelowtech.org/'>Open Source Low Tech</a></td></tr>
+<tr><td><a href='https://karolina.mgdubiel.com/drone/'>Building a custom octocopter from scratch with no prior hardware experience</a></td></tr>
 <tr><td><a href='https://quesma.com/blog/qwen-36-is-awesome/'>Qwen 3.6 27B is the sweet spot for local development</a></td></tr>
 <tr><td><a href='https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/'>.self: A new top-level domain designed to support self-hosting</a></td></tr>
 <tr><td><a href='https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/'>Free the Icons</a></td></tr>
-<tr><td><a href='https://fil-c.org/context_switches'>Memory Safe Context Switching</a></td></tr>
 </table>
 <!-- END:news -->
 
