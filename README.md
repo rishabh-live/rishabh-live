@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/'>The labor share of income in the US is at its lowest post-war level</a></td></tr>
 <tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code Is Steganographically Marking Requests</a></td></tr>
-<tr><td><a href='https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/'>Looking Ahead to Postgres 19</a></td></tr>
-<tr><td><a href='https://www.gutenberg.org/ebooks/24518'>Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)</a></td></tr>
+<tr><td><a href='https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/'>The labor share of income in the US is at its lowest post-war level</a></td></tr>
+<tr><td><a href='https://deepmind.google/models/gemini-image/flash-lite/'>Nano Banana 2 Lite</a></td></tr>
 <tr><td><a href='https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/'>We moved our Bluesky data to Eurosky</a></td></tr>
+<tr><td><a href='https://www.gutenberg.org/ebooks/24518'>Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)</a></td></tr>
 </table>
 <!-- END:news -->
 
