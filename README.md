@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html'>Why I Stopped Arguing with People</a></td></tr>
 <tr><td><a href='https://asahilinux.org/2026/06/progress-report-7-1/'>Asahi Linux 7.1 Progress Report</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/'>For First Time, a Cell Built from Scratch Grows and Divides</a></td></tr>
+<tr><td><a href='https://biotic.org/research/spudcell/'>SpudCell: The first synthetic cell with a complete cell cycle</a></td></tr>
 <tr><td><a href='https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium'>Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48746752'>Launch HN: Parsewise (YC P25) – Reason Across Documents with an API</a></td></tr>
-<tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code is steganographically marking requests</a></td></tr>
 </table>
 <!-- END:news -->
 
