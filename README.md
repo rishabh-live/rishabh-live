@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td></tr>
 <tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code is steganographically marking requests</a></td></tr>
+<tr><td><a href='https://github.com/google/copybara'>Google copybara: moving code between repositories</a></td></tr>
+<tr><td><a href='https://twitter.com/AnthropicAI/status/2072106151890809341'>Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5</a></td></tr>
 <tr><td><a href='https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1'>From brain waves to words: a new path to communication without surgery</a></td></tr>
-<tr><td><a href='https://hatari.frama.io/hatari/online/hatari.html'>Hatari – Online Atari ST&#x2F;STE&#x2F;TT&#x2F;Falcon Emulator</a></td></tr>
-<tr><td><a href='https://claude.com/product/claude-science'>Claude Science</a></td></tr>
 </table>
 <!-- END:news -->
 
