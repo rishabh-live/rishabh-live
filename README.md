@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td></tr>
 <tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code is steganographically marking requests</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td></tr>
 <tr><td><a href='https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells'>The first early human eggs from stem cells</a></td></tr>
+<tr><td><a href='https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/'>ArXiv&#x27;s Next Chapter</a></td></tr>
 <tr><td><a href='https://github.com/google/copybara'>Google copybara: moving code between repositories</a></td></tr>
-<tr><td><a href='https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/'>Matrix Orthogonalization Improves Memory in Recurrent Models</a></td></tr>
 </table>
 <!-- END:news -->
 
