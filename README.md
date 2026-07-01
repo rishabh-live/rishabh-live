@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://zcode.z.ai/cn'>ZCode: Claude Code from the Makers of GLM</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/'>For first time, a cell built from scratch grows and divides</a></td></tr>
+<tr><td><a href='https://zcode.z.ai/en'>ZCode – Harness for GLM-5.2</a></td></tr>
 <tr><td><a href='https://www.workerowned.info/'>Show HN: Searchable directory of 22k+ products from worker-owned co-ops</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/'>For first time, a cell built from scratch grows and divides</a></td></tr>
 <tr><td><a href='https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/'>What to learn to be a graphics programmer</a></td></tr>
 <tr><td><a href='https://hydrogenaudio.org/index.php/topic,129691.0.html'>FFmpeg 9.1&#x27;s new AAC encoder</a></td></tr>
 </table>
