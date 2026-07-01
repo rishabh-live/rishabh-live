@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://asahilinux.org/2026/06/progress-report-7-1/'>Asahi Linux 7.1 Progress Report</a></td></tr>
+<tr><td><a href='https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium'>Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice</a></td></tr>
 <tr><td><a href='https://thereallo.dev/blog/claude-code-prompt-steganography'>Claude Code is steganographically marking requests</a></td></tr>
 <tr><td><a href='https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html'>Newly discovered spider builds spring loaded snare to catch ants</a></td></tr>
-<tr><td><a href='https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium'>Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-sonnet-5'>Claude Sonnet 5</a></td></tr>
+<tr><td><a href='https://cleberg.net/blog/internet.html'>The Internet I Grew Up with Doesn&#x27;t Exist Anymore</a></td></tr>
 </table>
 <!-- END:news -->
 
