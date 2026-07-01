@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/'>For first time, a cell built from scratch grows and divides</a></td></tr>
 <tr><td><a href='https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/'>Physical disc production ending in Jan 2028 for new games on PlayStation</a></td></tr>
+<tr><td><a href='https://hydrogenaudio.org/index.php/topic,129691.0.html'>FFmpeg 9.1&#x27;s new AAC encoder</a></td></tr>
 <tr><td><a href='https://probelab.io/blog/optimistic-provide/'>How We Made IPFS Content Publishing 10x Faster</a></td></tr>
 <tr><td><a href='https://box2d.org/posts/2026/06/announcing-box3d/'>Box3D, an open source 3D physics engine</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/monetization-gateway/'>Monetization Gateway</a></td></tr>
 </table>
 <!-- END:news -->
 
