@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/'>We Don&#x27;t Have to Be This Bad at Improving Society</a></td></tr>
+<tr><td><a href='https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/'>Kimi K2.7 Code is generally available in GitHub Copilot</a></td></tr>
+<tr><td><a href='https://f-droid.org/2026/07/01/adv-malware.html'>A new Android malware from Google</a></td></tr>
 <tr><td><a href='https://zcode.z.ai/en'>ZCode – Harness for GLM-5.2</a></td></tr>
 <tr><td><a href='https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/'>Oomwoo, an open-source robot vacuum you build yourself</a></td></tr>
-<tr><td><a href='https://senior-swe-bench.snorkel.ai/'>Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/'>For first time, a cell built from scratch grows and divides</a></td></tr>
-<tr><td><a href='https://tedium.co/2026/07/01/online-web-forums-retrospective/'>Bring back crappy forums</a></td></tr>
 </table>
 <!-- END:news -->
 
