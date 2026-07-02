@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.zachtronics.com/exapunks/'>Exapunks (2018)</a></td></tr>
 <tr><td><a href='https://mathstodon.xyz/@iblech/116769502749142438'>Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory</a></td></tr>
-<tr><td><a href='https://manufact.com'>Launch HN: Manufact (YC S25) – MCP Cloud</a></td></tr>
-<tr><td><a href='https://f-droid.org/2026/07/01/adv-malware.html'>Android Developer Verification: Threat masquerading as protection</a></td></tr>
 <tr><td><a href='https://github.com/Chocobozzz/PeerTube'>PeerTube is a free, decentralized and federated video platform</a></td></tr>
-<tr><td><a href='https://pradyuprasad.com/writings/how-to-ask-for-help/'>How to ask for help from people who don&#x27;t know you</a></td></tr>
+<tr><td><a href='https://blog.podman.io/2026/07/introducing-podman-v6-0-0/'>Podman v6.0.0</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/73125'>Claude&#x27;s AskUserQuestion: &quot;No response after 60s – continued without an answer&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
