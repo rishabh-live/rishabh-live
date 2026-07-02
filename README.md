@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://f-droid.org/2026/07/01/adv-malware.html'>Android Developer Verification: Threat masquerading as Protection</a></td></tr>
-<tr><td><a href='https://www.zerofs.net/'>Show HN: ZeroFS – A log-structured filesystem for S3</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2607.01232'>Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train</a></td></tr>
-<tr><td><a href='https://mathstodon.xyz/@mjd/115096720350507897'>Many people misunderstand the purpose of code review</a></td></tr>
-<tr><td><a href='https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/'>Kimi K2.7 Code is generally available in GitHub Copilot</a></td></tr>
+<tr><td><a href='https://mathstodon.xyz/@iblech/116769502749142438'>Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory</a></td></tr>
+<tr><td><a href='https://manufact.com'>Launch HN: Manufact (YC S25) – MCP Cloud</a></td></tr>
+<tr><td><a href='https://f-droid.org/2026/07/01/adv-malware.html'>Android Developer Verification: Threat masquerading as protection</a></td></tr>
+<tr><td><a href='https://mailmemories.com'>Show HN: Mail Memories – A desktop app to rescue photos from Gmail</a></td></tr>
+<tr><td><a href='https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/'>AI can&#x27;t be listed as inventor on patent applications, Japan&#x27;s top court rules</a></td></tr>
 </table>
 <!-- END:news -->
 
