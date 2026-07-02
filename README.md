@@ -24,8 +24,8 @@
 <tr><td><a href='https://mathstodon.xyz/@iblech/116769502749142438'>Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory</a></td></tr>
 <tr><td><a href='https://manufact.com'>Launch HN: Manufact (YC S25) – MCP Cloud</a></td></tr>
 <tr><td><a href='https://f-droid.org/2026/07/01/adv-malware.html'>Android Developer Verification: Threat masquerading as protection</a></td></tr>
-<tr><td><a href='https://mailmemories.com'>Show HN: Mail Memories – A desktop app to rescue photos from Gmail</a></td></tr>
-<tr><td><a href='https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/'>AI can&#x27;t be listed as inventor on patent applications, Japan&#x27;s top court rules</a></td></tr>
+<tr><td><a href='https://github.com/Chocobozzz/PeerTube'>PeerTube is a free, decentralized and federated video platform</a></td></tr>
+<tr><td><a href='https://pradyuprasad.com/writings/how-to-ask-for-help/'>How to ask for help from people who don&#x27;t know you</a></td></tr>
 </table>
 <!-- END:news -->
 
