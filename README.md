@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://f-droid.org/2026/07/01/adv-malware.html'>Android Developer Verification: Threat masquerading as Protection</a></td></tr>
+<tr><td><a href='https://www.zerofs.net/'>Show HN: ZeroFS – A log-structured filesystem for S3</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2607.01232'>Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train</a></td></tr>
+<tr><td><a href='https://mathstodon.xyz/@mjd/115096720350507897'>Many people misunderstand the purpose of code review</a></td></tr>
 <tr><td><a href='https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/'>Kimi K2.7 Code is generally available in GitHub Copilot</a></td></tr>
-<tr><td><a href='https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy'>The Fall of the Theorem Economy</a></td></tr>
-<tr><td><a href='https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/'>Oomwoo, an open-source robot vacuum you build yourself</a></td></tr>
-<tr><td><a href='https://zcode.z.ai/en'>ZCode – Harness for GLM-5.2</a></td></tr>
 </table>
 <!-- END:news -->
 
