@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data'>US State of Virginia Bans Sale of Geolocation Data</a></td></tr>
+<tr><td><a href='https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data'>Virginia bans sale of geolocation data</a></td></tr>
 <tr><td><a href='https://www.zachtronics.com/exapunks/'>Exapunks (2018)</a></td></tr>
 <tr><td><a href='https://mathstodon.xyz/@iblech/116769502749142438'>Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory</a></td></tr>
-<tr><td><a href='https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf'>EFF letter to FTC on X consent order (2 July 2026) [pdf]</a></td></tr>
-<tr><td><a href='http://www.lmdb.tech/doc/'>Lightning Memory-Mapped Database Manager (LMDB) 1.0</a></td></tr>
+<tr><td><a href='https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail'>Reality has a surprising amount of detail (2017)</a></td></tr>
+<tr><td><a href='https://blog.podman.io/2026/07/introducing-podman-v6-0-0/'>Podman v6.0.0</a></td></tr>
 </table>
 <!-- END:news -->
 
