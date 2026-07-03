@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://stefan.schueller.net/posts/the-free-market-lie/'>The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&#x27;t</a></td></tr>
 <tr><td><a href='https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data'>Virginia bans sale of geolocation data</a></td></tr>
-<tr><td><a href='https://scottaaronson.blog/?p=9902'>An American Privacy Emergency</a></td></tr>
-<tr><td><a href='https://github.com/FractalFir/crustc'>crustc: entirety of `rustc`, translated to C</a></td></tr>
-<tr><td><a href='https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail'>Reality has a surprising amount of detail (2017)</a></td></tr>
-<tr><td><a href='https://www.zachtronics.com/exapunks/'>Exapunks (2018)</a></td></tr>
+<tr><td><a href='https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts'>CarPlay Is Additive</a></td></tr>
+<tr><td><a href='https://www.nber.org/system/files/working_papers/w35310/w35310.pdf'>Is the iPhone birth control? Causal evidence from AT&#x26;T&#x27;s 2007-2011 monopoly [pdf]</a></td></tr>
+<tr><td><a href='https://righttointelligence.org/'>Right to Local Intelligence</a></td></tr>
 </table>
 <!-- END:news -->
 
