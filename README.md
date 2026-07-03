@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://weli.dev/blog/half-baked-product/'>Half-Baked Product</a></td></tr>
+<tr><td><a href='https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit'>PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit</a></td></tr>
 <tr><td><a href='https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data'>Virginia bans sale of geolocation data</a></td></tr>
-<tr><td><a href='https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition'>Gun Mistakes in Fiction Writing: Handgun Edition</a></td></tr>
+<tr><td><a href='https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/'>Valve open source the Steam Machine e-ink screen so you can make your own</a></td></tr>
 <tr><td><a href='https://righttointelligence.org/'>Right to Local Intelligence</a></td></tr>
-<tr><td><a href='https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts'>CarPlay Is Additive</a></td></tr>
 </table>
 <!-- END:news -->
 
