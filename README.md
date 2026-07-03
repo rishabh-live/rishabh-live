@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2602.20415'>Markets are competitive if and only if P = NP</a></td></tr>
 <tr><td><a href='https://weli.dev/blog/half-baked-product/'>Half-Baked Product</a></td></tr>
 <tr><td><a href='https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit'>PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit</a></td></tr>
-<tr><td><a href='https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data'>Virginia bans sale of geolocation data</a></td></tr>
+<tr><td><a href='https://github.com/jamesob/local-llm'>Jamesob&#x27;s guide to running SOTA LLMs locally</a></td></tr>
 <tr><td><a href='https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/'>Valve open source the Steam Machine e-ink screen so you can make your own</a></td></tr>
-<tr><td><a href='https://righttointelligence.org/'>Right to Local Intelligence</a></td></tr>
 </table>
 <!-- END:news -->
 
