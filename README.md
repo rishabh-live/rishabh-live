@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts'>Claude, please stop trying to memorize random crap</a></td></tr>
-<tr><td><a href='https://weli.dev/blog/half-baked-product/'>Half-Baked Product</a></td></tr>
-<tr><td><a href='https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/'>The Life and Times of Maxis, Part 1: SimEverything</a></td></tr>
 <tr><td><a href='https://github.com/jamesob/local-llm'>Jamesob&#x27;s guide to running SOTA LLMs locally</a></td></tr>
-<tr><td><a href='https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/'>International chess federation sanctions Kramnik</a></td></tr>
+<tr><td><a href='https://phenomenalworld.org/analysis/the-anti-amazon/'>Costco is the anti-Amazon</a></td></tr>
+<tr><td><a href='https://interconnected.org/home/2026/07/03/factories'>Factories are just rooms</a></td></tr>
+<tr><td><a href='https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected'>Hunting a 16-year-old SQLite WAL bug with TLA+</a></td></tr>
+<tr><td><a href='https://github.com/kerlenton/mcpsnoop'>Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)</a></td></tr>
 </table>
 <!-- END:news -->
 
