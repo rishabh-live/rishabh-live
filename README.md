@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2602.20415'>Markets are competitive if and only if P = NP</a></td></tr>
+<tr><td><a href='https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts'>Claude, please stop trying to memorize random crap</a></td></tr>
 <tr><td><a href='https://weli.dev/blog/half-baked-product/'>Half-Baked Product</a></td></tr>
-<tr><td><a href='https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit'>PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit</a></td></tr>
+<tr><td><a href='https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/'>The Life and Times of Maxis, Part 1: SimEverything</a></td></tr>
 <tr><td><a href='https://github.com/jamesob/local-llm'>Jamesob&#x27;s guide to running SOTA LLMs locally</a></td></tr>
-<tr><td><a href='https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/'>Valve open source the Steam Machine e-ink screen so you can make your own</a></td></tr>
+<tr><td><a href='https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/'>International chess federation sanctions Kramnik</a></td></tr>
 </table>
 <!-- END:news -->
 
