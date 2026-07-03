@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data'>Virginia bans sale of geolocation data</a></td></tr>
-<tr><td><a href='https://www.zachtronics.com/exapunks/'>Exapunks (2018)</a></td></tr>
-<tr><td><a href='https://mathstodon.xyz/@iblech/116769502749142438'>Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory</a></td></tr>
+<tr><td><a href='https://scottaaronson.blog/?p=9902'>An American Privacy Emergency</a></td></tr>
+<tr><td><a href='https://github.com/FractalFir/crustc'>crustc: entirety of `rustc`, translated to C</a></td></tr>
 <tr><td><a href='https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail'>Reality has a surprising amount of detail (2017)</a></td></tr>
-<tr><td><a href='https://blog.podman.io/2026/07/introducing-podman-v6-0-0/'>Podman v6.0.0</a></td></tr>
+<tr><td><a href='https://www.zachtronics.com/exapunks/'>Exapunks (2018)</a></td></tr>
 </table>
 <!-- END:news -->
 
