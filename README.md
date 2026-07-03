@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/'>Espionage Against the European Parliament</a></td></tr>
 <tr><td><a href='https://github.com/searxng/searxng'>SearXNG: A free internet metasearch engine</a></td></tr>
-<tr><td><a href='https://phenomenalworld.org/analysis/the-anti-amazon/'>Costco is the anti-Amazon</a></td></tr>
+<tr><td><a href='https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink'>Africans Are Turning to Starlink</a></td></tr>
+<tr><td><a href='https://whitep4nth3r.com/blog/goodbye-forever-probably/'>Goodbye, Forever, Probably</a></td></tr>
 <tr><td><a href='https://github.com/jamesob/local-llm'>Jamesob&#x27;s guide to running SOTA LLMs locally</a></td></tr>
-<tr><td><a href='https://crocidb.com/post/freebsd-ate-my-ram/'>FreeBSD ate my RAM</a></td></tr>
-<tr><td><a href='https://www.nnehdi.me/p/pet-projects-are-getting-too-big'>Pet projects are getting too big to pet</a></td></tr>
 </table>
 <!-- END:news -->
 
