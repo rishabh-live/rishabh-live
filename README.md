@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/jamesob/local-llm'>Jamesob&#x27;s guide to running SOTA LLMs locally</a></td></tr>
+<tr><td><a href='https://github.com/searxng/searxng'>SearXNG: A free internet metasearch engine</a></td></tr>
 <tr><td><a href='https://phenomenalworld.org/analysis/the-anti-amazon/'>Costco is the anti-Amazon</a></td></tr>
-<tr><td><a href='https://interconnected.org/home/2026/07/03/factories'>Factories are just rooms</a></td></tr>
-<tr><td><a href='https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected'>Hunting a 16-year-old SQLite WAL bug with TLA+</a></td></tr>
-<tr><td><a href='https://github.com/kerlenton/mcpsnoop'>Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)</a></td></tr>
+<tr><td><a href='https://github.com/jamesob/local-llm'>Jamesob&#x27;s guide to running SOTA LLMs locally</a></td></tr>
+<tr><td><a href='https://crocidb.com/post/freebsd-ate-my-ram/'>FreeBSD ate my RAM</a></td></tr>
+<tr><td><a href='https://www.nnehdi.me/p/pet-projects-are-getting-too-big'>Pet projects are getting too big to pet</a></td></tr>
 </table>
 <!-- END:news -->
 
