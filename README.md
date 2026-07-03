@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://weli.dev/blog/half-baked-product/'>Half-Baked Product</a></td></tr>
 <tr><td><a href='https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data'>Virginia bans sale of geolocation data</a></td></tr>
-<tr><td><a href='https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts'>CarPlay Is Additive</a></td></tr>
+<tr><td><a href='https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition'>Gun Mistakes in Fiction Writing: Handgun Edition</a></td></tr>
 <tr><td><a href='https://righttointelligence.org/'>Right to Local Intelligence</a></td></tr>
-<tr><td><a href='https://github.com/FractalFir/crustc'>crustc: entirety of `rustc`, translated to C</a></td></tr>
-<tr><td><a href='https://mathstodon.xyz/@iblech/116769502749142438'>Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory</a></td></tr>
+<tr><td><a href='https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts'>CarPlay Is Additive</a></td></tr>
 </table>
 <!-- END:news -->
 
