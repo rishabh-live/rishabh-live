@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/'>Giant trees have no trouble pumping water to top branches</a></td></tr>
-<tr><td><a href='https://katamari64.se/posts/2026/odin-wikipedia/'>Odin, Wikipedia and Engagement Farming</a></td></tr>
-<tr><td><a href='https://github.com/searxng/searxng'>SearXNG: A free internet metasearch engine</a></td></tr>
-<tr><td><a href='https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see'>The circuit that lets your brain think and see</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/leanstral-1-5/'>Leanstral 1.5: Proof Abundance for All</a></td></tr>
+<tr><td><a href='https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/'>Giant trees have no trouble pumping water to top branches: new research</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/leanstral-1-5/'>Leanstral 1.5: Proof abundance for all</a></td></tr>
+<tr><td><a href='https://www.wafer.ai/blog/glm52-amd'>GLM5.2 on AMD MI355X at 2626 tok&#x2F;s&#x2F;node at over 2x lower cost than Blackwell</a></td></tr>
+<tr><td><a href='https://mrbruh.com/msicenter/'>MSI Center – How to gain SYSTEM privileges in seconds</a></td></tr>
+<tr><td><a href='https://github.com/FossPrime/Steam-Controller-Auto-Charge'>Steam Controller Auto-Charge – pilot to magnetic charging puck using CV</a></td></tr>
 </table>
 <!-- END:news -->
 
