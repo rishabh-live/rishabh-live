@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/'>Astrophysicists Puzzle over Webb’s New Universe</a></td></tr>
+<tr><td><a href='https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641'>The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels</a></td></tr>
 <tr><td><a href='https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/'>The bottleneck might be the air in the room</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/'>Astrophysicists Puzzle over Webb&#x27;s New Universe</a></td></tr>
-<tr><td><a href='https://mirtitles.org'>Mir Books – Books from the Soviet Era</a></td></tr>
-<tr><td><a href='https://www.wafer.ai/blog/glm52-amd'>Performance per dollar is getting faster and cheaper</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/leanstral-1-5/'>Leanstral 1.5: Proof abundance for all</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Night_Witches'>Night Witches – all-female Soviet aviator regiment WW2</a></td></tr>
+<tr><td><a href='https://www.marginalia.nu/log/a_135_learn/'>Maybe you should learn something</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
