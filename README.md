@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/'>The bottleneck might be the air in the room</a></td></tr>
-<tr><td><a href='https://www.hyperstitionai.com/unslop-results'>2026 Unslop AI-Written Fiction Contest Results</a></td></tr>
 <tr><td><a href='https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post'>Agentic coding notes from Galapagos Island</a></td></tr>
 <tr><td><a href='https://www.wafer.ai/blog/glm52-amd'>Performance per dollar is getting faster and cheaper</a></td></tr>
+<tr><td><a href='https://mirtitles.org'>Mir Books – Books from the Soviet Era</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/leanstral-1-5/'>Leanstral 1.5: Proof abundance for all</a></td></tr>
 </table>
 <!-- END:news -->
