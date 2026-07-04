@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/'>Espionage Against the European Parliament</a></td></tr>
+<tr><td><a href='https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/'>Giant trees have no trouble pumping water to top branches</a></td></tr>
+<tr><td><a href='https://katamari64.se/posts/2026/odin-wikipedia/'>Odin, Wikipedia and Engagement Farming</a></td></tr>
 <tr><td><a href='https://github.com/searxng/searxng'>SearXNG: A free internet metasearch engine</a></td></tr>
-<tr><td><a href='https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink'>Africans Are Turning to Starlink</a></td></tr>
-<tr><td><a href='https://whitep4nth3r.com/blog/goodbye-forever-probably/'>Goodbye, Forever, Probably</a></td></tr>
-<tr><td><a href='https://github.com/jamesob/local-llm'>Jamesob&#x27;s guide to running SOTA LLMs locally</a></td></tr>
+<tr><td><a href='https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see'>The circuit that lets your brain think and see</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/leanstral-1-5/'>Leanstral 1.5: Proof Abundance for All</a></td></tr>
 </table>
 <!-- END:news -->
 
