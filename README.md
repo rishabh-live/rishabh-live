@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/'>Giant trees have no trouble pumping water to top branches: new research</a></td></tr>
+<tr><td><a href='https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/'>The bottleneck might be the air in the room</a></td></tr>
+<tr><td><a href='https://www.hyperstitionai.com/unslop-results'>2026 Unslop AI-Written Fiction Contest Results</a></td></tr>
+<tr><td><a href='https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post'>Agentic coding notes from Galapagos Island</a></td></tr>
+<tr><td><a href='https://www.wafer.ai/blog/glm52-amd'>Performance per dollar is getting faster and cheaper</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/leanstral-1-5/'>Leanstral 1.5: Proof abundance for all</a></td></tr>
-<tr><td><a href='https://www.wafer.ai/blog/glm52-amd'>GLM5.2 on AMD MI355X at 2626 tok&#x2F;s&#x2F;node at over 2x lower cost than Blackwell</a></td></tr>
-<tr><td><a href='https://mrbruh.com/msicenter/'>MSI Center – How to gain SYSTEM privileges in seconds</a></td></tr>
-<tr><td><a href='https://github.com/FossPrime/Steam-Controller-Auto-Charge'>Steam Controller Auto-Charge – pilot to magnetic charging puck using CV</a></td></tr>
 </table>
 <!-- END:news -->
 
