@@ -24,8 +24,8 @@
 <tr><td><a href='https://javoriuski.com/post/youtube'>Leaking YouTube creators&#x27; private videos</a></td></tr>
 <tr><td><a href='https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234'>Google Books (or similar) all book scans – $200k bounty (2025)</a></td></tr>
 <tr><td><a href='https://github.com/anthropics/claude-code/issues/74066'>Potential session&#x2F;cache leakage between workspace instances or consumer accounts</a></td></tr>
+<tr><td><a href='https://www.jefftk.com/p/verizon-is-about-to-break-our-watches'>Verizon is About to Break our Watches</a></td></tr>
 <tr><td><a href='https://peteris.rocks/blog/htop/'>Explanation of everything you can see in htop&#x2F;top on Linux (2019)</a></td></tr>
-<tr><td><a href='https://www.eso.org/public/news/eso2607/'>No more than 100 000 faint satellites should orbit Earth</a></td></tr>
 </table>
 <!-- END:news -->
 
