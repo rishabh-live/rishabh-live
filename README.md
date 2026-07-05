@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://organicmaps.app/'>Organic Maps</a></td></tr>
-<tr><td><a href='https://phosh.mobi/releases/rel-0.56.0/'>Phosh 0.56.0</a></td></tr>
 <tr><td><a href='https://dthain.github.io/books/compiler/'>Introduction to Compilers and Language Design</a></td></tr>
-<tr><td><a href='https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm'>Airplane Boneyards List and Map</a></td></tr>
-<tr><td><a href='https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk'>Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)</a></td></tr>
+<tr><td><a href='https://mceglowski.substack.com/p/the-plight-of-the-martian-farmer'>The Plight of the Martian Farmer</a></td></tr>
+<tr><td><a href='https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html'>Run Windows 2000 on a DEC Alpha with a new es40 fork</a></td></tr>
+<tr><td><a href='https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel'>Medieval-style fortifications are back in the Sahel</a></td></tr>
 </table>
 <!-- END:news -->
 
