@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://organicmaps.app/'>Organic Maps</a></td></tr>
 <tr><td><a href='https://phosh.mobi/releases/rel-0.56.0/'>Phosh 0.56.0</a></td></tr>
 <tr><td><a href='https://dthain.github.io/books/compiler/'>Introduction to Compilers and Language Design</a></td></tr>
-<tr><td><a href='https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/'>If you&#x27;re a button, you have one job</a></td></tr>
-<tr><td><a href='https://ui.shadcn.com/docs/changelog'>Shadcn&#x2F;UI now defaults to Base UI instead of Radix</a></td></tr>
-<tr><td><a href='https://demo.pcbjam.com/'>Show HN: KiCad in the Browser</a></td></tr>
+<tr><td><a href='https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm'>Airplane Boneyards List and Map</a></td></tr>
+<tr><td><a href='https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk'>Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
