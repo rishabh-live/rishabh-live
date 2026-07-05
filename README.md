@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.bbc.com/news/articles/c8e2j0j87reo'>Europe&#x27;s new climate in seven charts</a></td></tr>
 <tr><td><a href='https://ui.shadcn.com/docs/changelog'>Shadcn&#x2F;UI now defaults to Base UI instead of Radix</a></td></tr>
 <tr><td><a href='https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/'>If you&#x27;re a button, you have one job</a></td></tr>
-<tr><td><a href='https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main'>Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable</a></td></tr>
-<tr><td><a href='https://www.devever.net/~hl/webcrypto'>Web-based cryptography is always snake oil</a></td></tr>
-<tr><td><a href='https://jacob.gold/posts/programmers-need-to-start-meditating-now/'>Programmers need to start meditating now</a></td></tr>
+<tr><td><a href='https://mihai.page/pi-square-is-10/'>Pi square is nearly 10</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex/issues/30364'>GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</a></td></tr>
 </table>
 <!-- END:news -->
 
