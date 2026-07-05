@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://ui.shadcn.com/docs/changelog'>Shadcn&#x2F;UI now defaults to Base UI instead of Radix</a></td></tr>
 <tr><td><a href='https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main'>Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable</a></td></tr>
-<tr><td><a href='https://github.com/openai/codex/issues/30364'>GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</a></td></tr>
-<tr><td><a href='https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets'>Jellyfish can heal wounds in minutes. Scientists want their secrets</a></td></tr>
-<tr><td><a href='https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234'>Google Books (or similar) all book scans – $200k bounty (2025)</a></td></tr>
 <tr><td><a href='https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/'>If you&#x27;re a button, you have one job</a></td></tr>
+<tr><td><a href='https://hic-ai.com'>Mouse: Precision Editing Tools for AI Coding Agents</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex/issues/30364'>GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</a></td></tr>
 </table>
 <!-- END:news -->
 
