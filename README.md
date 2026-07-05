@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://organicmaps.app/'>Organic Maps</a></td></tr>
 <tr><td><a href='https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf'>New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]</a></td></tr>
-<tr><td><a href='https://www.starringthecomputer.com/computers.html'>Starring the Computer</a></td></tr>
 <tr><td><a href='https://blog.flipper.net/future-of-flipper-zero-development/'>The future of Flipper Zero development</a></td></tr>
-<tr><td><a href='https://sigfrid-lundberg.se/entries/2010/07/hate_xml/'>Do you hate XML? (2010)</a></td></tr>
+<tr><td><a href='https://www.starringthecomputer.com/computers.html'>Starring the Computer</a></td></tr>
+<tr><td><a href='https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/'>Mr. Baby Paint and accidentally discovering a new cellular automata</a></td></tr>
 </table>
 <!-- END:news -->
 
