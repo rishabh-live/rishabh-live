@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main'>Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable</a></td></tr>
 <tr><td><a href='https://github.com/openai/codex/issues/30364'>GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance</a></td></tr>
-<tr><td><a href='https://javoriuski.com/post/youtube'>Leaking YouTube creators&#x27; private videos</a></td></tr>
+<tr><td><a href='https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets'>Jellyfish can heal wounds in minutes. Scientists want their secrets</a></td></tr>
 <tr><td><a href='https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234'>Google Books (or similar) all book scans – $200k bounty (2025)</a></td></tr>
-<tr><td><a href='https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/'>Better Models: Worse Tools</a></td></tr>
+<tr><td><a href='https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/'>If you&#x27;re a button, you have one job</a></td></tr>
 </table>
 <!-- END:news -->
 
