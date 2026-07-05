@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://organicmaps.app/'>Organic Maps</a></td></tr>
-<tr><td><a href='https://www.starringthecomputer.com/computers.html'>The Computers Used in Movies</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2602.09239'>&quot;These cameras are just like the Eye of Sauron&quot;</a></td></tr>
-<tr><td><a href='https://dthain.github.io/books/compiler/'>Introduction to Compilers and Language Design</a></td></tr>
-<tr><td><a href='https://popcar.bearblog.dev/its-about-ownership/'>It&#x27;s not about physical vs. digital games, it&#x27;s about ownership</a></td></tr>
+<tr><td><a href='https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf'>New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]</a></td></tr>
+<tr><td><a href='https://www.starringthecomputer.com/computers.html'>Starring the Computer</a></td></tr>
+<tr><td><a href='https://blog.flipper.net/future-of-flipper-zero-development/'>The future of Flipper Zero development</a></td></tr>
+<tr><td><a href='https://sigfrid-lundberg.se/entries/2010/07/hate_xml/'>Do you hate XML? (2010)</a></td></tr>
 </table>
 <!-- END:news -->
 
