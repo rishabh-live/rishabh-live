@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://twitter.com/thsottiaux/status/2073933490513752151'>GPT-5.6 Sol Ultra will be in Codex</a></td></tr>
 <tr><td><a href='https://www.opentools.studio/'>OpenPrinter</a></td></tr>
+<tr><td><a href='https://iamwillwang.com/notes/has-not-been-viewed-much/'>Has_not_been_viewed_much</a></td></tr>
 <tr><td><a href='https://organicmaps.app/'>Organic Maps</a></td></tr>
-<tr><td><a href='https://homegames.io'>Show HN: Homegames. An open-source game platform I&#x27;ve been making for 8 years</a></td></tr>
-<tr><td><a href='https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf'>New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]</a></td></tr>
-<tr><td><a href='https://blog.flipper.net/future-of-flipper-zero-development/'>The future of Flipper Zero development</a></td></tr>
+<tr><td><a href='https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support'>Building relationships with customers through support didn&#x27;t turn out as hoped</a></td></tr>
 </table>
 <!-- END:news -->
 
