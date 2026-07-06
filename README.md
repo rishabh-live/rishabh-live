@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.map.signalbox.io'>Real-time map of Great Britain&#x27;s rail network</a></td></tr>
-<tr><td><a href='https://elm-lang.org/news/faster-builds'>Road to Elm 1.0</a></td></tr>
-<tr><td><a href='https://twitter.com/thsottiaux/status/2073933490513752151'>GPT-5.6 Sol Ultra will be in Codex</a></td></tr>
-<tr><td><a href='https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/'>Introduction to Genomics for Engineers</a></td></tr>
-<tr><td><a href='https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981'>C programmers commit fresh crimes against readability</a></td></tr>
+<tr><td><a href='https://www.publicnotice.co/p/kalshi-cnn-cnbc'>How Kalshi Infects the News</a></td></tr>
+<tr><td><a href='https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/'>Car touchscreens are cheap, not good</a></td></tr>
+<tr><td><a href='https://oztalking.com/en/issues/hidden-4gb-ai-model'>Google Chrome Installed a 4GB AI Model on Your PC</a></td></tr>
+<tr><td><a href='https://dernocua.github.io/notes/aluminum-foil.html'>Aluminum foil (2021)</a></td></tr>
+<tr><td><a href='https://writingclub.world/1picture1000words'>1k Words: A Writing Contest</a></td></tr>
 </table>
 <!-- END:news -->
 
