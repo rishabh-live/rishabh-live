@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.publicnotice.co/p/kalshi-cnn-cnbc'>How Kalshi Infects the News</a></td></tr>
-<tr><td><a href='https://ben.stolovitz.com/posts/car-touchscreens-are-cheap-not-good/'>Car touchscreens are cheap, not good</a></td></tr>
-<tr><td><a href='https://oztalking.com/en/issues/hidden-4gb-ai-model'>Google Chrome Installed a 4GB AI Model on Your PC</a></td></tr>
+<tr><td><a href='https://openwrt.org/toh/openwrt/one'>OpenWrt One – Open Hardware Router</a></td></tr>
+<tr><td><a href='https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo'>AMD Ryzen AI Halo – $4k AI Dev Kit</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2607.01504'>Kani: A Model Checker for Rust</a></td></tr>
 <tr><td><a href='https://dernocua.github.io/notes/aluminum-foil.html'>Aluminum foil (2021)</a></td></tr>
-<tr><td><a href='https://writingclub.world/1picture1000words'>1k Words: A Writing Contest</a></td></tr>
+<tr><td><a href='https://elm-lang.org/news/faster-builds'>Road to Elm 1.0</a></td></tr>
 </table>
 <!-- END:news -->
 
