@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.map.signalbox.io'>Real-time map of Great Britain&#x27;s rail network</a></td></tr>
+<tr><td><a href='https://elm-lang.org/news/faster-builds'>Road to Elm 1.0</a></td></tr>
 <tr><td><a href='https://twitter.com/thsottiaux/status/2073933490513752151'>GPT-5.6 Sol Ultra will be in Codex</a></td></tr>
-<tr><td><a href='https://iamwillwang.com/notes/has-not-been-viewed-much/'>Has_not_been_viewed_much</a></td></tr>
-<tr><td><a href='https://organicmaps.app/'>Organic Maps</a></td></tr>
-<tr><td><a href='https://kyrall.com/'>Generate parametric, manufacturable 3D models in seconds</a></td></tr>
-<tr><td><a href='https://tomtunguz.com/ai-spend-breakeven-2029/'>When AI Costs More Than the Engineer</a></td></tr>
+<tr><td><a href='https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/'>Introduction to Genomics for Engineers</a></td></tr>
+<tr><td><a href='https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981'>C programmers commit fresh crimes against readability</a></td></tr>
 </table>
 <!-- END:news -->
 
