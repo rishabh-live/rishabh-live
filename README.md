@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.opentools.studio/'>Reparaible and open source paper printer</a></td></tr>
+<tr><td><a href='https://www.opentools.studio/'>OpenPrinter</a></td></tr>
 <tr><td><a href='https://organicmaps.app/'>Organic Maps</a></td></tr>
 <tr><td><a href='https://homegames.io'>Show HN: Homegames. An open-source game platform I&#x27;ve been making for 8 years</a></td></tr>
 <tr><td><a href='https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf'>New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]</a></td></tr>
-<tr><td><a href='https://notesbylex.com/completing-a-computer-science-degree-on-coursera'>Completing a Computer Science Degree on Coursera</a></td></tr>
+<tr><td><a href='https://blog.flipper.net/future-of-flipper-zero-development/'>The future of Flipper Zero development</a></td></tr>
 </table>
 <!-- END:news -->
 
