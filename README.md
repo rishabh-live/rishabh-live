@@ -24,7 +24,7 @@
 <tr><td><a href='https://openwrt.org/toh/openwrt/one'>OpenWrt One – Open Hardware Router</a></td></tr>
 <tr><td><a href='https://www.comaps.app/'>CoMaps – FOSS Offline Maps</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/research/global-workspace'>A global workspace in language models</a></td></tr>
-<tr><td><a href='https://cakehonolulu.github.io/linux-for-jaguar/'>Linux on the Atari Jaguar</a></td></tr>
+<tr><td><a href='https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/'>GLM 5.2 and the coming AI margin collapse</a></td></tr>
 <tr><td><a href='https://www.kapa.ai/blog/how-we-prune-rag-context'>Pruning RAG context down to what the answer actually needs</a></td></tr>
 </table>
 <!-- END:news -->
