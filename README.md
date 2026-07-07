@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://streetcomplete.app/'>StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</a></td></tr>
+<tr><td><a href='https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/'>Microsoft Fire IdTech Team at Id Software</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=3R0Lp86GEBk'>A better way to tie your gym shorts. (Or any drawstring) [video]</a></td></tr>
-<tr><td><a href='https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal'>Dua Lipa opens library for banned and censored books in Portugal</a></td></tr>
+<tr><td><a href='https://better-auth.com/blog/better-auth-joins-vercel'>Better Auth is joining Vercel</a></td></tr>
 <tr><td><a href='https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/'>98% Isn&#x27;t Much</a></td></tr>
-<tr><td><a href='https://ciphercue.com/blog/european-web-hosting-vendor-share-2026'>Europe&#x27;s company websites are mostly served by US vendors</a></td></tr>
 </table>
 <!-- END:news -->
 
