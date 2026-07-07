@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://streetcomplete.app/'>StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</a></td></tr>
-<tr><td><a href='https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/'>Microsoft Fire IdTech Team at Id Software</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=3R0Lp86GEBk'>A better way to tie your gym shorts. (Or any drawstring) [video]</a></td></tr>
-<tr><td><a href='https://better-auth.com/blog/better-auth-joins-vercel'>Better Auth is joining Vercel</a></td></tr>
-<tr><td><a href='https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/'>98% Isn&#x27;t Much</a></td></tr>
+<tr><td><a href='https://knockoff.shopping/'>Amazon without the knockoffs</a></td></tr>
+<tr><td><a href='https://30papers.com/'>30papers.com – Ilya&#x27;s 30 essential ML papers, in a beginner friendly format</a></td></tr>
+<tr><td><a href='https://astro.build/blog/astro-7/'>Astro 7.0</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=3R0Lp86GEBk'>A better way to tie gym shorts (or any drawstring) [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
