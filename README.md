@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openwrt.org/toh/openwrt/one'>OpenWrt One – Open Hardware Router</a></td></tr>
-<tr><td><a href='https://www.comaps.app/'>CoMaps – FOSS Offline Maps</a></td></tr>
-<tr><td><a href='https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/'>GLM 5.2 and the coming AI margin collapse</a></td></tr>
-<tr><td><a href='https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/'>Dolosse – a South African invention used over the world</a></td></tr>
-<tr><td><a href='https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home'>How to sequence your own DNA at home</a></td></tr>
+<tr><td><a href='https://streetcomplete.app/'>StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=3R0Lp86GEBk'>A better way to tie your gym shorts. (Or any drawstring) [video]</a></td></tr>
+<tr><td><a href='https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal'>Dua Lipa opens library for banned and censored books in Portugal</a></td></tr>
+<tr><td><a href='https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/'>98% Isn&#x27;t Much</a></td></tr>
+<tr><td><a href='https://ciphercue.com/blog/european-web-hosting-vendor-share-2026'>Europe&#x27;s company websites are mostly served by US vendors</a></td></tr>
 </table>
 <!-- END:news -->
 
