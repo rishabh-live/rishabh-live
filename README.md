@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/MaximeRivest/Riddle'>Fable turned reMarkable into Tom Riddle&#x27;s diary from Harry Potter</a></td></tr>
 <tr><td><a href='https://openwrt.org/toh/openwrt/one'>OpenWrt One – Open Hardware Router</a></td></tr>
 <tr><td><a href='https://www.comaps.app/'>CoMaps – FOSS Offline Maps</a></td></tr>
 <tr><td><a href='https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/'>GLM 5.2 and the coming AI margin collapse</a></td></tr>
+<tr><td><a href='https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/'>Dolosse – a South African invention used over the world</a></td></tr>
 <tr><td><a href='https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home'>How to sequence your own DNA at home</a></td></tr>
 </table>
 <!-- END:news -->
