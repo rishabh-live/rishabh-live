@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td></tr>
 <tr><td><a href='https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/'>GitLost: We Tricked GitHub&#x27;s AI Agent into Leaking Private Repos</a></td></tr>
 <tr><td><a href='https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/'>How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</a></td></tr>
-<tr><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td></tr>
+<tr><td><a href='https://github.com/dekart-xyz/geosql'>Geosql: A Claude&#x2F;Codex skill for geospatial data</a></td></tr>
 <tr><td><a href='https://kb.cert.org/vuls/id/213560'>Tenda firmware (multiple versions) contains hidden authentication backdoor</a></td></tr>
-<tr><td><a href='https://www.digipres.org/the-floppy-guide/'>Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks</a></td></tr>
 </table>
 <!-- END:news -->
 
