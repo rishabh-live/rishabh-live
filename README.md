@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html'>Fable is not a useful model</a></td></tr>
-<tr><td><a href='https://www.hmans.dev/blog/chatto-is-open-source'>Chatto is now Open Source</a></td></tr>
-<tr><td><a href='https://cognition.com/blog/swe-1-7'>SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/robostral-navigate/'>Mistral&#x27;s Robostral Navigate: a state of the art robotics navigation model</a></td></tr>
+<tr><td><a href='https://openai.com/index/separating-signal-from-noise-coding-evaluations/'>Separating signal from noise in coding evaluations</a></td></tr>
+<tr><td><a href='https://www.abeyk.com/escape-the-rat-race/'>FAANG Simulator</a></td></tr>
+<tr><td><a href='https://www.hmans.dev/blog/chatto-is-open-source'>Chatto is now open source</a></td></tr>
+<tr><td><a href='https://x.ai/news/grok-4-5'>Grok 4.5</a></td></tr>
 <tr><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td></tr>
 </table>
 <!-- END:news -->
