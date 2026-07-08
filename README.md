@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong'>Is The Economist Always Wrong?</a></td></tr>
-<tr><td><a href='https://www.gao.gov/products/gao-26-108193'>GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup</a></td></tr>
+<tr><td><a href='https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/'>How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</a></td></tr>
 <tr><td><a href='https://kb.cert.org/vuls/id/213560'>Tenda firmware (multiple versions) contains hidden authentication backdoor</a></td></tr>
-<tr><td><a href='https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211'>Canada&#x27;s only watchmaking school still ticking after 80 years</a></td></tr>
-<tr><td><a href='https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/'>Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro</a></td></tr>
+<tr><td><a href='https://www.digipres.org/the-floppy-guide/'>Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks</a></td></tr>
+<tr><td><a href='https://www.gao.gov/products/gao-26-108193'>GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup</a></td></tr>
+<tr><td><a href='https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/'>Structure and Interpretation of Computer Programs Video Lectures (1986)</a></td></tr>
 </table>
 <!-- END:news -->
 
