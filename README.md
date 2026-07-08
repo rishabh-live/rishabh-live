@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://mistral.ai/news/robostral-navigate/'>Mistral&#x27;s Robostral Navigate: a state of the art robotics navigation model</a></td></tr>
 <tr><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/'>Apple to increase spend with Broadcom to produce billions more U.S. chips</a></td></tr>
-<tr><td><a href='https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/'>GitLost: We Tricked GitHub&#x27;s AI Agent into Leaking Private Repos</a></td></tr>
-<tr><td><a href='https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/'>How to Survive 3 Years in North Korea as a Foreigner</a></td></tr>
-<tr><td><a href='https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/'>How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</a></td></tr>
+<tr><td><a href='https://www.hmans.dev/blog/chatto-is-open-source'>Chatto is now Open Source</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/meerkat-introduction/'>Cloudflare Meerkat - Globally distributed consensus</a></td></tr>
+<tr><td><a href='https://nvd.nist.gov/vuln/detail/cve-2026-57589'>OpenBSD has a use-after-free allowing local privilege escalation to root</a></td></tr>
 </table>
 <!-- END:news -->
 
