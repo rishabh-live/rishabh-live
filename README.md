@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/'>Apple to increase spend with Broadcom to produce billions more U.S. chips</a></td></tr>
 <tr><td><a href='https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/'>GitLost: We Tricked GitHub&#x27;s AI Agent into Leaking Private Repos</a></td></tr>
+<tr><td><a href='https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/'>How to Survive 3 Years in North Korea as a Foreigner</a></td></tr>
 <tr><td><a href='https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/'>How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</a></td></tr>
-<tr><td><a href='https://github.com/dekart-xyz/geosql'>Geosql: A Claude&#x2F;Codex skill for geospatial data</a></td></tr>
-<tr><td><a href='https://kb.cert.org/vuls/id/213560'>Tenda firmware (multiple versions) contains hidden authentication backdoor</a></td></tr>
 </table>
 <!-- END:news -->
 
