@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/'>GitLost: We Tricked GitHub&#x27;s AI Agent into Leaking Private Repos</a></td></tr>
 <tr><td><a href='https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/'>How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)</a></td></tr>
+<tr><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td></tr>
 <tr><td><a href='https://kb.cert.org/vuls/id/213560'>Tenda firmware (multiple versions) contains hidden authentication backdoor</a></td></tr>
 <tr><td><a href='https://www.digipres.org/the-floppy-guide/'>Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks</a></td></tr>
-<tr><td><a href='https://www.gao.gov/products/gao-26-108193'>GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup</a></td></tr>
-<tr><td><a href='https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/'>Structure and Interpretation of Computer Programs Video Lectures (1986)</a></td></tr>
 </table>
 <!-- END:news -->
 
