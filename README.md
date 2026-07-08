@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openai.com/index/introducing-gpt-live/'>GPT‑Live</a></td></tr>
+<tr><td><a href='https://e360.yale.edu/features/cassandra-rauert-interview'>What Do We Know About the Microplastics Inside Us?</a></td></tr>
 <tr><td><a href='https://www.hmans.dev/blog/chatto-is-open-source'>Chatto is now Open Source</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/robostral-navigate/'>Mistral&#x27;s Robostral Navigate: a state of the art robotics navigation model</a></td></tr>
 <tr><td><a href='https://cognition.com/blog/swe-1-7'>SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence</a></td></tr>
-<tr><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td></tr>
+<tr><td><a href='https://microsoft.github.io/flint-chart/#/'>Show HN: Microsoft releases Flint, a visualization language for AI agents</a></td></tr>
 </table>
 <!-- END:news -->
 
