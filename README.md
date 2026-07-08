@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/'>Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro</a></td></tr>
+<tr><td><a href='https://www.gao.gov/products/gao-26-108193'>GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup</a></td></tr>
 <tr><td><a href='https://streetcomplete.app/'>StreetComplete: Fixing OpenStreetMap, one tiny quest at a time</a></td></tr>
-<tr><td><a href='https://allaboutcookies.org/eu-mandatory-distracted-driver-system'>Every new car sold in the European Union must include a driver monitoring camera</a></td></tr>
 <tr><td><a href='https://fightchatcontrol.eu/chat-control-overview'>Chat Control 1.0 and 2.0 Explained</a></td></tr>
-<tr><td><a href='https://herdr.dev/'>Herdr: One terminal to rule them all</a></td></tr>
+<tr><td><a href='https://davit.app'>Show HN: Davit, a Apple Containers UI</a></td></tr>
 </table>
 <!-- END:news -->
 
