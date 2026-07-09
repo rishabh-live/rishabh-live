@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/gpt-5-6/'>GPT-5.6</a></td></tr>
+<tr><td><a href='https://openai.com/index/chatgpt-for-your-most-ambitious-work/'>ChatGPT Work</a></td></tr>
 <tr><td><a href='https://18words.com/'>Show HN: 18 Words</a></td></tr>
-<tr><td><a href='https://datacenter.iers.org/data/latestVersion/bulletinC.txt'>No leap second will be introduced at the end of December 2026</a></td></tr>
-<tr><td><a href='https://github.com/PostHog/posthog-foss'>PostHog Open Sourced</a></td></tr>
-<tr><td><a href='https://www.context.dev'>Launch HN: Context.dev (YC S26) – API to get structured data from any website</a></td></tr>
-<tr><td><a href='https://tuxnet.dev/posts/tls-for-internal-services/'>TLS certificates for internal services done right</a></td></tr>
+<tr><td><a href='https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/'>EU Parliament greenlights Chat Control 1.0</a></td></tr>
+<tr><td><a href='https://hy.tencent.com/research/hy3'>Hy3</a></td></tr>
 </table>
 <!-- END:news -->
 
