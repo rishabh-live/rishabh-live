@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02'>John Deere owners will get the right to repair equipment under FTC settlement</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/cg5pd9z2487o'>Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75</a></td></tr>
 <tr><td><a href='https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming'>Spider venom kills varroa mites without harming honeybees</a></td></tr>
-<tr><td><a href='https://nexte.st/'>Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI</a></td></tr>
-<tr><td><a href='https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase'>Benchmarking coding agents on Databricks&#x27; multi-million line codebase</a></td></tr>
-<tr><td><a href='https://github.com/malisper/pgrust'>Postgres rewritten in Rust, now passing 100% of the Postgres regression tests</a></td></tr>
+<tr><td><a href='https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html'>Meta reuses old RAM in new servers with custom bridge chip</a></td></tr>
+<tr><td><a href='https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/'>Why developers are ditching GitHub for Codeberg and self-hosting alternatives</a></td></tr>
 </table>
 <!-- END:news -->
 
