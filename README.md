@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02'>John Deere owners will get the right to repair equipment under FTC settlement</a></td></tr>
-<tr><td><a href='https://www.hmans.dev/blog/chatto-is-open-source'>Chatto is now open source</a></td></tr>
-<tr><td><a href='https://openai.com/index/separating-signal-from-noise-coding-evaluations/'>Separating signal from noise in coding evaluations</a></td></tr>
-<tr><td><a href='https://www.cloudflare.com/drop/'>Cloudflare Drop</a></td></tr>
-<tr><td><a href='https://www.liamcvw.com/p/remote-attestation'>Remote Attestation</a></td></tr>
+<tr><td><a href='https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming'>Spider venom kills varroa mites without harming honeybees</a></td></tr>
+<tr><td><a href='https://nexte.st/'>Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI</a></td></tr>
+<tr><td><a href='https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase'>Benchmarking coding agents on Databricks&#x27; multi-million line codebase</a></td></tr>
+<tr><td><a href='https://github.com/malisper/pgrust'>Postgres rewritten in Rust, now passing 100% of the Postgres regression tests</a></td></tr>
 </table>
 <!-- END:news -->
 
