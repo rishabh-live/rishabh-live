@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02'>John Deere owners will get the right to repair equipment under FTC settlement</a></td></tr>
-<tr><td><a href='https://openai.com/index/separating-signal-from-noise-coding-evaluations/'>Separating signal from noise in coding evaluations</a></td></tr>
-<tr><td><a href='https://www.abeyk.com/escape-the-rat-race/'>FAANG Simulator</a></td></tr>
 <tr><td><a href='https://www.hmans.dev/blog/chatto-is-open-source'>Chatto is now open source</a></td></tr>
-<tr><td><a href='https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/'>Decoding the obfuscated bash script on a Uniqlo t-shirt</a></td></tr>
+<tr><td><a href='https://openai.com/index/separating-signal-from-noise-coding-evaluations/'>Separating signal from noise in coding evaluations</a></td></tr>
+<tr><td><a href='https://www.cloudflare.com/drop/'>Cloudflare Drop</a></td></tr>
+<tr><td><a href='https://www.liamcvw.com/p/remote-attestation'>Remote Attestation</a></td></tr>
 </table>
 <!-- END:news -->
 
