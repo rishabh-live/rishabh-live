@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/gpt-5-6/'>GPT-5.6</a></td></tr>
-<tr><td><a href='https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark'>GLM 5.2 is nearly as accurate as a human book keeper</a></td></tr>
-<tr><td><a href='https://openai.com/index/chatgpt-for-your-most-ambitious-work/'>ChatGPT Work</a></td></tr>
-<tr><td><a href='https://18words.com/'>Show HN: 18 Words</a></td></tr>
+<tr><td><a href='https://github.com/JustVugg/colibri'>Show HN: Getting GLM 5.2 running on my slow computer</a></td></tr>
 <tr><td><a href='https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/'>EU Parliament greenlights Chat Control 1.0</a></td></tr>
+<tr><td><a href='https://18words.com/'>Show HN: 18 Words</a></td></tr>
+<tr><td><a href='https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/'>Buried Apple feature turns an iPhone into the perfect kids&#x27; dumb phone</a></td></tr>
 </table>
 <!-- END:news -->
 
