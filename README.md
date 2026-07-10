@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://unstack.io/write-code-like-a-human-will-maintain-it'>Write code like a human will maintain it</a></td></tr>
+<tr><td><a href='https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/'>QuadRF can spot drones and see WiFi through my wall</a></td></tr>
+<tr><td><a href='https://lesleylai.info/en/flashcards/'>A Love Letter to Flashcards</a></td></tr>
 <tr><td><a href='https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/'>Late Bronze Age Collapse</a></td></tr>
-<tr><td><a href='https://ianreppel.org/how-successful-companies-go-blind/'>Successful Companies Go Blind</a></td></tr>
-<tr><td><a href='https://openai.com/index/gpt-5-6/'>GPT-5.6</a></td></tr>
-<tr><td><a href='https://mappingignorance.org/2026/06/30/sagrada-familia/'>The mathematical secrets of Barcelona&#x27;s Sagrada Familia</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/'>Snails&#x27; Teeth Beats Spider Silk as Nature&#x27;s Strongest Material</a></td></tr>
+<tr><td><a href='https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/'>The tech of &#x27;Terminator 2&#x27; – an oral history (2017)</a></td></tr>
 </table>
 <!-- END:news -->
 
