@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.tryai.dev/blog/gpt-5.6-build-off-12-models'>GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/'>QuadRF can spot drones and see WiFi through my wall</a></td></tr>
-<tr><td><a href='https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246'>Don&#x27;t discontinue Gemini 2.5 Flash</a></td></tr>
+<tr><td><a href='https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/'>Apple sues OpenAI, accuses ex-employees of stealing trade secrets</a></td></tr>
+<tr><td><a href='https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity'>Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows</a></td></tr>
+<tr><td><a href='https://mimo.xiaomi.com/blog/mimo-v2-5-inference'>Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit</a></td></tr>
 <tr><td><a href='https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf'>GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</a></td></tr>
-<tr><td><a href='https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/'>The tech of &#x27;Terminator 2&#x27; – an oral history (2017)</a></td></tr>
 </table>
 <!-- END:news -->
 
