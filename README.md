@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/'>QuadRF can spot drones and see WiFi through my wall</a></td></tr>
-<tr><td><a href='https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/'>Snails&#x27; Teeth Beats Spider Silk as Nature&#x27;s Strongest Material (2015)</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/'>Snails&#x27; teeth beats spider silk as nature&#x27;s strongest material (2015)</a></td></tr>
+<tr><td><a href='https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot'>Mayor Mamdani Announces Landmark &quot;Click-to-Cancel&quot; Consumer Protection Rules</a></td></tr>
 <tr><td><a href='https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/'>The tech of &#x27;Terminator 2&#x27; – an oral history (2017)</a></td></tr>
-<tr><td><a href='https://lesleylai.info/en/flashcards/'>A Love Letter to Flashcards</a></td></tr>
-<tr><td><a href='https://waratlas.org'>War Atlas: An interactive cartography of every named war in human history</a></td></tr>
+<tr><td><a href='https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf'>GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</a></td></tr>
 </table>
 <!-- END:news -->
 
