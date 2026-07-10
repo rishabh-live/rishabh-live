@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://unstack.io/write-code-like-a-human-will-maintain-it'>Write code like a human will maintain it</a></td></tr>
+<tr><td><a href='https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/'>Late Bronze Age Collapse</a></td></tr>
+<tr><td><a href='https://ianreppel.org/how-successful-companies-go-blind/'>Successful Companies Go Blind</a></td></tr>
 <tr><td><a href='https://openai.com/index/gpt-5-6/'>GPT-5.6</a></td></tr>
-<tr><td><a href='http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html'>In Emacs, Everything Looks Like a Service</a></td></tr>
-<tr><td><a href='https://github.com/JustVugg/colibri'>Show HN: Getting GLM 5.2 running on my slow computer</a></td></tr>
-<tr><td><a href='https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/'>EU Parliament greenlights Chat Control 1.0</a></td></tr>
-<tr><td><a href='https://ec.europa.eu/commission/presscorner/home/en'>EU Commission: addictive design Instagram and Facebook in breach of the DSA</a></td></tr>
+<tr><td><a href='https://mappingignorance.org/2026/06/30/sagrada-familia/'>The mathematical secrets of Barcelona&#x27;s Sagrada Familia</a></td></tr>
 </table>
 <!-- END:news -->
 
