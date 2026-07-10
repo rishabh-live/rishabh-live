@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/JustVugg/colibri'>Show HN: Getting GLM 5.2 running on my slow computer</a></td></tr>
 <tr><td><a href='https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/'>EU Parliament greenlights Chat Control 1.0</a></td></tr>
-<tr><td><a href='https://openai.com/index/gpt-5-6/'>GPT-5.6</a></td></tr>
-<tr><td><a href='https://18words.com/'>Show HN: 18 Words</a></td></tr>
 <tr><td><a href='https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429'>Train sim created by just one person is being called the best ever made</a></td></tr>
+<tr><td><a href='https://18words.com/'>Show HN: 18 Words</a></td></tr>
+<tr><td><a href='https://openai.com/index/gpt-5-6/'>GPT-5.6</a></td></tr>
 </table>
 <!-- END:news -->
 
