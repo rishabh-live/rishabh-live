@@ -24,8 +24,8 @@
 <tr><td><a href='https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/'>Modern Decor May Be Straining People&#x27;s Brains</a></td></tr>
 <tr><td><a href='https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres'>We scaled PgBouncer to 4x throughput</a></td></tr>
 <tr><td><a href='https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf'>The early History of the Singular Value Decomposition (1993) [pdf]</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey'>Female US rower completes historic solo journey from California to Hawaii</a></td></tr>
-<tr><td><a href='https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity'>Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows</a></td></tr>
+<tr><td><a href='https://www.off-policy.com/dont-go-quietly-into-the-ai-night/'>Who manages the agents?</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/'>Leaded Gas Was a Known Poison the Day It Was Invented (2016)</a></td></tr>
 </table>
 <!-- END:news -->
 
