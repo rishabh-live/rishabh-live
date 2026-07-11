@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/'>The Vintage Beauty of Soviet Control Rooms</a></td></tr>
 <tr><td><a href='https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity'>Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/'>QuadRF can spot drones and see WiFi through my wall</a></td></tr>
 <tr><td><a href='https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/'>Apple sues OpenAI, accuses ex-employees of stealing trade secrets</a></td></tr>
-<tr><td><a href='https://www.iroh.computer/blog/an-iroh-powered-smart-fan'>An iroh powered smart fan</a></td></tr>
-<tr><td><a href='https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/'>An update on residential proxies and the scraper situation</a></td></tr>
+<tr><td><a href='https://neciudan.dev/most-secure-way-to-store-auth-token'>What&#x27;s the best way to do authentication in modern applications</a></td></tr>
 </table>
 <!-- END:news -->
 
