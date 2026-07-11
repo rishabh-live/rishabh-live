@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://evanhahn.com/prefer-strict-tables-in-sqlite/'>Prefer Strict Tables in SQLite</a></td></tr>
-<tr><td><a href='https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones'>How to Hide from Killer Drones</a></td></tr>
-<tr><td><a href='https://www.off-policy.com/dont-go-quietly-into-the-ai-night/'>Who manages the agents?</a></td></tr>
+<tr><td><a href='https://antjs.org'>Show HN: Ant – A JavaScript runtime and ecosystem</a></td></tr>
 <tr><td><a href='https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres'>We scaled PgBouncer to 4x throughput</a></td></tr>
-<tr><td><a href='https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf'>The early History of the Singular Value Decomposition (1993) [pdf]</a></td></tr>
+<tr><td><a href='https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom'>Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom</a></td></tr>
+<tr><td><a href='https://evanhahn.com/prefer-strict-tables-in-sqlite/'>Prefer strict tables in SQLite</a></td></tr>
+<tr><td><a href='https://www.off-policy.com/dont-go-quietly-into-the-ai-night/'>Who manages the agents?</a></td></tr>
 </table>
 <!-- END:news -->
 
