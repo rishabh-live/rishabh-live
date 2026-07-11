@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://antjs.org'>Show HN: Ant – A JavaScript runtime and ecosystem</a></td></tr>
+<tr><td><a href='https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/'>Stop Telling Me to Ask an LLM</a></td></tr>
 <tr><td><a href='https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom'>Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom</a></td></tr>
-<tr><td><a href='https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres'>We scaled PgBouncer to 4x throughput</a></td></tr>
-<tr><td><a href='https://timeseriesofindia.com/economy/reads/upi-architecture/'>UPI: Anatomy of a Payment Transaction</a></td></tr>
-<tr><td><a href='https://evanhahn.com/prefer-strict-tables-in-sqlite/'>Prefer strict tables in SQLite</a></td></tr>
+<tr><td><a href='https://github.com/Wren6991/RISCBoy'>RISCBoy is an open-source portable games console, designed from scratch</a></td></tr>
+<tr><td><a href='https://www.iroh.computer/blog/mesh-llm'>Mesh LLM: distributed AI computing on iroh</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
