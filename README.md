@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.mixfont.com/ghost-font'>A font that humans can read but AI cannot</a></td></tr>
 <tr><td><a href='https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity'>Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/'>QuadRF can spot drones and see WiFi through my wall</a></td></tr>
 <tr><td><a href='https://alexandrepoupeau.com/otary/learn/'>Otary – Image and Geometry Python Library Now Has Tutorials</a></td></tr>
 <tr><td><a href='https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/'>Apple sues OpenAI, accuses ex-employees of stealing trade secrets</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves'>Almost $1B Later, the US Still Can&#x27;t Make a Medical Glove</a></td></tr>
 </table>
 <!-- END:news -->
 
