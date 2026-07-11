@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/'>Modern Decor May Be Straining People&#x27;s Brains</a></td></tr>
+<tr><td><a href='https://evanhahn.com/prefer-strict-tables-in-sqlite/'>Prefer Strict Tables in SQLite</a></td></tr>
+<tr><td><a href='https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones'>How to Hide from Killer Drones</a></td></tr>
+<tr><td><a href='https://www.off-policy.com/dont-go-quietly-into-the-ai-night/'>Who manages the agents?</a></td></tr>
 <tr><td><a href='https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres'>We scaled PgBouncer to 4x throughput</a></td></tr>
 <tr><td><a href='https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf'>The early History of the Singular Value Decomposition (1993) [pdf]</a></td></tr>
-<tr><td><a href='https://www.off-policy.com/dont-go-quietly-into-the-ai-night/'>Who manages the agents?</a></td></tr>
-<tr><td><a href='https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/'>Leaded Gas Was a Known Poison the Day It Was Invented (2016)</a></td></tr>
 </table>
 <!-- END:news -->
 
