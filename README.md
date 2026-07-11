@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://antjs.org'>Show HN: Ant – A JavaScript runtime and ecosystem</a></td></tr>
-<tr><td><a href='https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres'>We scaled PgBouncer to 4x throughput</a></td></tr>
 <tr><td><a href='https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom'>Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom</a></td></tr>
+<tr><td><a href='https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres'>We scaled PgBouncer to 4x throughput</a></td></tr>
+<tr><td><a href='https://timeseriesofindia.com/economy/reads/upi-architecture/'>UPI: Anatomy of a Payment Transaction</a></td></tr>
 <tr><td><a href='https://evanhahn.com/prefer-strict-tables-in-sqlite/'>Prefer strict tables in SQLite</a></td></tr>
-<tr><td><a href='https://www.off-policy.com/dont-go-quietly-into-the-ai-night/'>Who manages the agents?</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
