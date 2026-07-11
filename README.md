@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres'>We scaled PgBouncer to 4x throughput</a></td></tr>
 <tr><td><a href='https://fazamhd.com/mental-models/networking/'>Networking and the Internet, from First Principles</a></td></tr>
-<tr><td><a href='https://tiki.li/blog/lucky_code.html'>Your code is fast – if you&#x27;re lucky</a></td></tr>
 <tr><td><a href='https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity'>Einstein&#x27;s relativity rules chemical bonds in heavy elements, new research shows</a></td></tr>
 <tr><td><a href='https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/'>QuadRF can spot drones and see WiFi through my wall</a></td></tr>
 <tr><td><a href='https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties'>Google Search lets creators know more about their reach</a></td></tr>
