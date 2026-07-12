@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents by Terry Tao</a></td></tr>
-<tr><td><a href='https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video'>Yt-Dlp Sequence Diagrams</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/ai-science-research-flattens-discovery'>AI Boosts Research Careers but Flattens Scientific Discovery</a></td></tr>
 <tr><td><a href='https://odinbook.com/'>Understanding the Odin Programming Language</a></td></tr>
+<tr><td><a href='https://www.ginagallery.com/'>Gina Gallery of International Naive Art</a></td></tr>
 <tr><td><a href='https://dakra.github.io/ghostel/'>Ghostel.el: Terminal emulator powered by libghostty</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/'>Vint Cerf, a “father of the Internet”, is retiring</a></td></tr>
 </table>
 <!-- END:news -->
 
