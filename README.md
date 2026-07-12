@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents by Terry Tao</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/'>Vint Cerf, a “father of the Internet”, is retiring</a></td></tr>
 <tr><td><a href='https://github.com/cosmtrek/mindwalk'>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase</a></td></tr>
 <tr><td><a href='https://www.iroh.computer/blog/mesh-llm'>Mesh LLM: distributed AI computing on iroh</a></td></tr>
-<tr><td><a href='https://buf.build/blog/protobuf-py'>Protobuf-py: Protobuf for Python, without compromises</a></td></tr>
-<tr><td><a href='https://hlnet.notion.site/text-art-tools'>Text art tools</a></td></tr>
+<tr><td><a href='https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html'>Woman in Brazil enslaved for 55 years by 3 generations of the same family</a></td></tr>
 </table>
 <!-- END:news -->
 
