@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/'>Vint Cerf, a “father of the Internet”, is retiring</a></td></tr>
 <tr><td><a href='https://github.com/cosmtrek/mindwalk'>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase</a></td></tr>
 <tr><td><a href='https://www.iroh.computer/blog/mesh-llm'>Mesh LLM: distributed AI computing on iroh</a></td></tr>
 <tr><td><a href='https://buf.build/blog/protobuf-py'>Protobuf-py: Protobuf for Python, without compromises</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/'>Vint Cerf, a “father of the Internet”, is retiring</a></td></tr>
-<tr><td><a href='https://antjs.org'>Show HN: Ant – A JavaScript runtime and ecosystem</a></td></tr>
+<tr><td><a href='https://hlnet.notion.site/text-art-tools'>Text art tools</a></td></tr>
 </table>
 <!-- END:news -->
 
