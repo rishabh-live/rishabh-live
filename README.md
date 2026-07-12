@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents by Terry Tao</a></td></tr>
+<tr><td><a href='https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video'>Yt-Dlp Sequence Diagrams</a></td></tr>
+<tr><td><a href='https://odinbook.com/'>Understanding the Odin Programming Language</a></td></tr>
+<tr><td><a href='https://dakra.github.io/ghostel/'>Ghostel.el: Terminal emulator powered by libghostty</a></td></tr>
 <tr><td><a href='https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/'>Vint Cerf, a “father of the Internet”, is retiring</a></td></tr>
-<tr><td><a href='https://github.com/cosmtrek/mindwalk'>Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase</a></td></tr>
-<tr><td><a href='https://www.iroh.computer/blog/mesh-llm'>Mesh LLM: distributed AI computing on iroh</a></td></tr>
-<tr><td><a href='https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html'>Woman in Brazil enslaved for 55 years by 3 generations of the same family</a></td></tr>
 </table>
 <!-- END:news -->
 
