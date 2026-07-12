@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://scrapfly.dev/posts/browser-math-os-fingerprint/'>Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS</a></td></tr>
+<tr><td><a href='https://scrapfly.dev/posts/browser-math-os-fingerprint/'>Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS</a></td></tr>
 <tr><td><a href='https://floooh.github.io/tiny8bit-preview/index.html'>Tiny Emulators</a></td></tr>
-<tr><td><a href='https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy'>Storm clouds gather over America&#x27;s financial supremacy</a></td></tr>
+<tr><td><a href='https://www.susanrigetti.com/physics'>So you want to learn physics (second edition, 2021)</a></td></tr>
 <tr><td><a href='https://systima.ai/blog/claude-code-vs-opencode-token-overhead'>Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</a></td></tr>
-<tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents</a></td></tr>
+<tr><td><a href='https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6'>Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper</a></td></tr>
 </table>
 <!-- END:news -->
 
