@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://scrapfly.dev/posts/browser-math-os-fingerprint/'>Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS</a></td></tr>
 <tr><td><a href='https://floooh.github.io/tiny8bit-preview/index.html'>Tiny Emulators</a></td></tr>
+<tr><td><a href='https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy'>Storm clouds gather over America&#x27;s financial supremacy</a></td></tr>
 <tr><td><a href='https://systima.ai/blog/claude-code-vs-opencode-token-overhead'>Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</a></td></tr>
 <tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents</a></td></tr>
-<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html'>I love LLMs, I hate hype</a></td></tr>
-<tr><td><a href='https://substack.magazinenongrata.com/p/how-i-learned-to-read-again'>I Learned to Read Again</a></td></tr>
 </table>
 <!-- END:news -->
 
