@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/'>Stop Telling Me to Ask an LLM</a></td></tr>
-<tr><td><a href='https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html'>Weightlifting beats running for blood sugar control, researchers find</a></td></tr>
-<tr><td><a href='https://antjs.org'>Show HN: Ant – A JavaScript runtime and ecosystem</a></td></tr>
 <tr><td><a href='https://www.iroh.computer/blog/mesh-llm'>Mesh LLM: distributed AI computing on iroh</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/'>We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture</a></td></tr>
+<tr><td><a href='https://goeteia.dev'>A pure scheme web programming tool</a></td></tr>
+<tr><td><a href='https://antjs.org'>Show HN: Ant – A JavaScript runtime and ecosystem</a></td></tr>
 <tr><td><a href='https://github.com/Wren6991/RISCBoy'>RISCBoy is an open-source portable games console, designed from scratch</a></td></tr>
 </table>
 <!-- END:news -->
