@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents by Terry Tao</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/ai-science-research-flattens-discovery'>AI Boosts Research Careers but Flattens Scientific Discovery</a></td></tr>
+<tr><td><a href='https://scotto.me/blog/2026-07-12-how-to-read-more-books/'>How to Read More Books</a></td></tr>
+<tr><td><a href='https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain'>A no-brainer for protecting your brain</a></td></tr>
+<tr><td><a href='https://fabiensanglard.net/extinct/index.html'>Don&#x27;t You Mean Extinct?</a></td></tr>
 <tr><td><a href='https://odinbook.com/'>Understanding the Odin Programming Language</a></td></tr>
-<tr><td><a href='https://www.ginagallery.com/'>Gina Gallery of International Naive Art</a></td></tr>
-<tr><td><a href='https://dakra.github.io/ghostel/'>Ghostel.el: Terminal emulator powered by libghostty</a></td></tr>
 </table>
 <!-- END:news -->
 
