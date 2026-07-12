@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://floooh.github.io/tiny8bit-preview/index.html'>Tiny Emulators</a></td></tr>
 <tr><td><a href='https://systima.ai/blog/claude-code-vs-opencode-token-overhead'>Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</a></td></tr>
-<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html'>I love LLMs, I hate hype</a></td></tr>
-<tr><td><a href='https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain'>The shingles vaccine may reduce the risk of dementia</a></td></tr>
 <tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents</a></td></tr>
-<tr><td><a href='https://fabiensanglard.net/extinct/index.html'>Don&#x27;t you mean extinct?</a></td></tr>
+<tr><td><a href='https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html'>I love LLMs, I hate hype</a></td></tr>
+<tr><td><a href='https://substack.magazinenongrata.com/p/how-i-learned-to-read-again'>I Learned to Read Again</a></td></tr>
 </table>
 <!-- END:news -->
 
