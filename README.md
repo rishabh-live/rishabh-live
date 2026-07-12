@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents by Terry Tao</a></td></tr>
-<tr><td><a href='https://scotto.me/blog/2026-07-12-how-to-read-more-books/'>How to Read More Books</a></td></tr>
-<tr><td><a href='https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain'>A no-brainer for protecting your brain</a></td></tr>
+<tr><td><a href='https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion'>Claude Code May–July 2026 weekly limits promotion</a></td></tr>
+<tr><td><a href='https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/'>Old and new apps, via modern coding agents</a></td></tr>
 <tr><td><a href='https://fabiensanglard.net/extinct/index.html'>Don&#x27;t You Mean Extinct?</a></td></tr>
-<tr><td><a href='https://odinbook.com/'>Understanding the Odin Programming Language</a></td></tr>
+<tr><td><a href='https://github.com/hasenj/go-shirei/'>Show HN: Shirei, cross-platform GUI framework in native Go</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2607.06377'>Automation Without Understanding</a></td></tr>
 </table>
 <!-- END:news -->
 
