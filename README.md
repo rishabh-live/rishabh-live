@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/schlae/BeavisUltrasound'>Beavis Ultrasound PnP ISA Sound Card Replica</a></td></tr>
+<tr><td><a href='https://raymyers.org/post/zed-creator-calls-spade-a-spade/'>Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</a></td></tr>
+<tr><td><a href='https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/'>Interrail: 6,379Km and 13 Countries over 7 weeks</a></td></tr>
 <tr><td><a href='https://nebusec.ai/research/ionstack-part-2/'>GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years</a></td></tr>
-<tr><td><a href='https://shellzine.net/cyberpunk-comics/'>Cyberpunk Comics, Manga and Graphic Novels</a></td></tr>
-<tr><td><a href='https://floooh.github.io/tiny8bit-preview/index.html'>Tiny Emulators</a></td></tr>
-<tr><td><a href='https://www.susanrigetti.com/physics'>So you want to learn physics (second edition, 2021)</a></td></tr>
+<tr><td><a href='https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership'>The social physics of conversation: Communication patterns matter</a></td></tr>
+<tr><td><a href='https://github.com/schlae/BeavisUltrasound'>Beavis Ultrasound PnP ISA Sound Card Replica</a></td></tr>
 </table>
 <!-- END:news -->
 
