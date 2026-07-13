@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://get-inscribe.com/blog/apple-speech-api-benchmark.html'>Apple&#x27;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor</a></td></tr>
-<tr><td><a href='https://fabiensanglard.net/silpheed/index.html'>The art and engineering of Sega CD Silpheed</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/'>LAPD lets contract with surveillance giant Flock expire</a></td></tr>
-<tr><td><a href='https://jivx.com/densha'>A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese</a></td></tr>
 <tr><td><a href='https://superdario.pawb.de'>Show HN: Super Dario</a></td></tr>
+<tr><td><a href='https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/'>Building and Shipping Mac and iOS Apps Without Ever Opening Xcode</a></td></tr>
+<tr><td><a href='https://playcode.io/blog/real-price-of-frontier-models'>The real prices of frontier models. Tokens * Price, right?</a></td></tr>
+<tr><td><a href='https://cakehonolulu.github.io/linux-on-32x/'>Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?</a></td></tr>
 </table>
 <!-- END:news -->
 
