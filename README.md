@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://raymyers.org/post/zed-creator-calls-spade-a-spade/'>Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</a></td></tr>
+<tr><td><a href='https://fabiensanglard.net/silpheed/index.html'>The art and engineering of Sega CD Silpheed</a></td></tr>
 <tr><td><a href='https://jivx.com/densha'>A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese</a></td></tr>
-<tr><td><a href='https://antirez.com/news/169'>Control the Ideas, Not the Code</a></td></tr>
+<tr><td><a href='https://twitter.com/a_green_being/status/2076598897779020159'>Grok uploaded my user directory to xAI&#x27;s servers</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/'>LAPD lets contract with surveillance giant Flock expire</a></td></tr>
 <tr><td><a href='https://github.com/floodtide/dom-docx'>Show HN: DOM-docx – HTML to native, editable Word docs (MIT)</a></td></tr>
-<tr><td><a href='https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/'>Interrail: 6,379Km and 13 Countries over 7 weeks</a></td></tr>
 </table>
 <!-- END:news -->
 
