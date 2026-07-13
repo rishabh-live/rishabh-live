@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://scrapfly.dev/posts/browser-math-os-fingerprint/'>Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS</a></td></tr>
-<tr><td><a href='https://floooh.github.io/tiny8bit-preview/index.html'>Tiny Emulators</a></td></tr>
+<tr><td><a href='https://nebusec.ai/research/ionstack-part-2/'>GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years</a></td></tr>
 <tr><td><a href='https://shellzine.net/cyberpunk-comics/'>Cyberpunk Comics, Manga and Graphic Novels</a></td></tr>
-<tr><td><a href='https://www.susanrigetti.com/physics'>So you want to learn physics (second edition, 2021)</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48884984'>Ask HN: What Are You Working On? (July 2026)</a></td></tr>
+<tr><td><a href='https://floooh.github.io/tiny8bit-preview/index.html'>Tiny Emulators</a></td></tr>
+<tr><td><a href='https://vilkeliskis.com/b/2026/0711.html'>Designing and assembling my first PCB</a></td></tr>
 </table>
 <!-- END:news -->
 
