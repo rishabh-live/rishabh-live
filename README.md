@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/'>Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK</a></td></tr>
+<tr><td><a href='https://prismml.com/news/bonsai-27b'>Bonsai 27B: A 27B-Class Model that runs on a phone</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/'>The Tower Keeps Rising</a></td></tr>
-<tr><td><a href='https://prismml.com/news/bonsai-27b'>Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone</a></td></tr>
 <tr><td><a href='https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/'>Your &#x27;app&#x27; could have been a webpage (so I fixed it for you)</a></td></tr>
+<tr><td><a href='https://2b2t.place/1million'>The largest available Minecraft world, totalling 15 TB</a></td></tr>
 <tr><td><a href='https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing'>How to stop Claude from saying load-bearing</a></td></tr>
 </table>
 <!-- END:news -->
