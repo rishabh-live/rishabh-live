@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.verbaprima.com/'>Show HN: Opening lines of famous literary works</a></td></tr>
+<tr><td><a href='https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/'>Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK</a></td></tr>
+<tr><td><a href='https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/'>The Tower Keeps Rising</a></td></tr>
 <tr><td><a href='https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/'>Your &#x27;app&#x27; could have been a webpage (so I fixed it for you)</a></td></tr>
+<tr><td><a href='https://www.verbaprima.com/'>Show HN: Opening lines of famous literary works</a></td></tr>
 <tr><td><a href='https://www.artfish.ai/p/offloading-thinking-to-ai'>Are we offloading too much of our thinking to AI?</a></td></tr>
-<tr><td><a href='https://www.derekthompson.org/p/a-philosophers-one-word-theory-to'>Agnes Callard’s theory of the uni-context</a></td></tr>
-<tr><td><a href='https://github.com/juggler-ai/juggler'>Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE</a></td></tr>
 </table>
 <!-- END:news -->
 
