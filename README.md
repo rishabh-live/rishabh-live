@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/openai/codex/issues/28058'>Codex starts encrypting sub-agent prompts</a></td></tr>
-<tr><td><a href='https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948'>Codex scraped the ICM website and discovered 2026 Fields Medal winner list</a></td></tr>
-<tr><td><a href='https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/'>OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members</a></td></tr>
-<tr><td><a href='https://www.derekthompson.org/p/a-philosophers-one-word-theory-to'>A Philosopher&#x27;s One-Word Theory to Explain Why the World Feels So Weird</a></td></tr>
-<tr><td><a href='https://ryanjk5.github.io/posts/rjk-duck/'>Beautiful Type Erasure with C++26 Reflection</a></td></tr>
+<tr><td><a href='https://www.verbaprima.com/'>Show HN: Opening lines of famous literary works</a></td></tr>
+<tr><td><a href='https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/'>Your &#x27;app&#x27; could have been a webpage (so I fixed it for you)</a></td></tr>
+<tr><td><a href='https://www.artfish.ai/p/offloading-thinking-to-ai'>Are we offloading too much of our thinking to AI?</a></td></tr>
+<tr><td><a href='https://www.derekthompson.org/p/a-philosophers-one-word-theory-to'>Agnes Callard’s theory of the uni-context</a></td></tr>
+<tr><td><a href='https://github.com/juggler-ai/juggler'>Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE</a></td></tr>
 </table>
 <!-- END:news -->
 
