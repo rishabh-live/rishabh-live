@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19'>European &quot;age verification&quot; &quot;app&quot; forcing everyone to use Android or iOS</a></td></tr>
 <tr><td><a href='https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/'>Japan develops a method to recover up to 90% of lithium from used EV batteries</a></td></tr>
+<tr><td><a href='https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/'>Alternative(s) to run CUDA on non-Nvidia hardware</a></td></tr>
 <tr><td><a href='https://github.com/JetBrains/youtrackdb'>YouTrackDB is a general-use object-oriented graph database</a></td></tr>
-<tr><td><a href='https://lalitm.com/post/git-history/'>The Git history command deserves more attention</a></td></tr>
-<tr><td><a href='https://web.stanford.edu/~dntse/wireless_book.html'>Fundamentals of Wireless Communication (2005)</a></td></tr>
-<tr><td><a href='https://blinry.org/lcd-clock/'>How to build a circular LCD clock</a></td></tr>
+<tr><td><a href='https://lalitm.com/post/git-history/'>The git history command</a></td></tr>
 </table>
 <!-- END:news -->
 
