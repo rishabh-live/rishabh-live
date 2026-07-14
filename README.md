@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/'>Japan develops a method to recover up to 90% of lithium from used EV batteries</a></td></tr>
-<tr><td><a href='https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/'>Alternative(s) to run CUDA on non-Nvidia hardware</a></td></tr>
-<tr><td><a href='https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/'>Australian energy retailers must provide three hours of free daytime electricity</a></td></tr>
-<tr><td><a href='https://lalitm.com/post/git-history/'>The git history command</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cg53l737v1qo'>Indian scientists produce most detailed 3D atlas of the human brainstem</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex/issues/28058'>Codex starts encrypting sub-agent prompts</a></td></tr>
+<tr><td><a href='https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948'>Codex scraped the ICM website and discovered 2026 Fields Medal winner list</a></td></tr>
+<tr><td><a href='https://thinkingmachines.ai/blog/the-future-worth-building-is-human/'>The Future Worth Building Is Human – Thinking Machines Lab</a></td></tr>
+<tr><td><a href='https://blog.incogni.com/digital-fatigue-and-burnout/'>The great digital fatigue: How digital burnout is changing social media use</a></td></tr>
+<tr><td><a href='https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/'>Your &#x27;App&#x27; Could Have Been a Webpage (so I fixed it for you)</a></td></tr>
 </table>
 <!-- END:news -->
 
