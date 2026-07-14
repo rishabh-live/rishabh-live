@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays'>‘Asia&#x27;s cleanest village’ bans tourists on Sundays</a></td></tr>
-<tr><td><a href='https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/'>Building and shipping Mac and iOS apps without ever opening Xcode</a></td></tr>
+<tr><td><a href='https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/'>Building and shipping Mac and iOS apps without opening Xcode</a></td></tr>
 <tr><td><a href='https://get-inscribe.com/blog/apple-speech-api-benchmark.html'>Apple&#x27;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor</a></td></tr>
-<tr><td><a href='https://github.com/thephw/claude-meseeks'>Claude is just Mr. Meeseeks</a></td></tr>
-<tr><td><a href='https://github.com/marcelpanse/youtube-guitar-tab-parser'>Show HN: YouTube Guitar Tab Parser</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/cm2drrv6q54o'>An Englishwoman who sketched India before photography took hold</a></td></tr>
+<tr><td><a href='https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers'>What are Forward Deployed Engineers, and why are they so in demand? (2025)</a></td></tr>
+<tr><td><a href='https://www.woman-of-letters.com/p/n1'>N+1</a></td></tr>
 </table>
 <!-- END:news -->
 
