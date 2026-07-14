@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/'>Japan develops a method to recover up to 90% of lithium from used EV batteries</a></td></tr>
+<tr><td><a href='https://web.stanford.edu/~dntse/wireless_book.html'>Fundamentals of Wireless Communication</a></td></tr>
+<tr><td><a href='https://lalitm.com/post/git-history/'>The Git history command deserves more attention</a></td></tr>
+<tr><td><a href='https://www.normaltech.ai/p/what-will-be-left-for-us-to-work'>What will be left for us to work on?</a></td></tr>
 <tr><td><a href='https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/'>Building and shipping Mac and iOS apps without opening Xcode</a></td></tr>
-<tr><td><a href='https://get-inscribe.com/blog/apple-speech-api-benchmark.html'>Apple&#x27;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cm2drrv6q54o'>An Englishwoman who sketched India before photography took hold</a></td></tr>
-<tr><td><a href='https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers'>What are Forward Deployed Engineers, and why are they so in demand? (2025)</a></td></tr>
-<tr><td><a href='https://www.woman-of-letters.com/p/n1'>N+1</a></td></tr>
 </table>
 <!-- END:news -->
 
