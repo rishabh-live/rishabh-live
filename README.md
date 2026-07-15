@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://academic.oup.com/sleep/article/47/1/zsad253/7280269'>Sleep regularity is a stronger predictor of mortality risk than sleep duration</a></td></tr>
+<tr><td><a href='https://www.captchainbox.com'>Make people pay to get into your inbox</a></td></tr>
+<tr><td><a href='https://ramones.dev/posts/mental-health/'>Prioritize mental health, and why communication is so important</a></td></tr>
 <tr><td><a href='https://fabiensanglard.net/jurrasic_park_computers/index.html'>Jurassic Park computers in excruciating detail</a></td></tr>
-<tr><td><a href='https://vpd.ca/'>Vancouver PD website features Quick Escape button that wipes itself from history</a></td></tr>
-<tr><td><a href='https://prismml.com/news/bonsai-27b'>Bonsai 27B: A 27B-Class model that runs on a phone</a></td></tr>
-<tr><td><a href='https://tailscale.com/security-bulletins'>TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access</a></td></tr>
-<tr><td><a href='https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/'>Who&#x27;s running all those tiny RPKI servers?</a></td></tr>
+<tr><td><a href='https://github.com/Michael-Manning/E-Paper-Climate-Logger'>Weathergotchi – an open-source climate Tamagotchi</a></td></tr>
 </table>
 <!-- END:news -->
 
