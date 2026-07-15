@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://academic.oup.com/sleep/article/47/1/zsad253/7280269'>Sleep regularity is a stronger predictor of mortality risk than sleep duration</a></td></tr>
-<tr><td><a href='https://www.captchainbox.com'>Make people pay to get into your inbox</a></td></tr>
-<tr><td><a href='https://ramones.dev/posts/mental-health/'>Prioritize mental health, and why communication is so important</a></td></tr>
-<tr><td><a href='https://fabiensanglard.net/jurrasic_park_computers/index.html'>Jurassic Park computers in excruciating detail</a></td></tr>
-<tr><td><a href='https://github.com/Michael-Manning/E-Paper-Climate-Logger'>Weathergotchi – an open-source climate Tamagotchi</a></td></tr>
+<tr><td><a href='https://academic.oup.com/sleep/article/47/1/zsad253/7280269'>Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)</a></td></tr>
+<tr><td><a href='https://dev.moe/en/3025'>Mysteries of Telegram Data Centers</a></td></tr>
+<tr><td><a href='https://eardatasci.github.io/c/ambiance/index.html'>Towards a Harness That Can Do Anything</a></td></tr>
+<tr><td><a href='https://briarproject.org/news/2026-maintenance-mode/'>Briar Is in Maintenance Mode</a></td></tr>
+<tr><td><a href='https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541'>SpaceX bond worth 10% less than issue price – heading for junk bond status</a></td></tr>
 </table>
 <!-- END:news -->
 
