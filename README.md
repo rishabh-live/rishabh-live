@@ -25,7 +25,7 @@
 <tr><td><a href='https://vpd.ca/'>Vancouver PD website features Quick Escape button that wipes itself from history</a></td></tr>
 <tr><td><a href='https://tailscale.com/security-bulletins'>TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access</a></td></tr>
 <tr><td><a href='https://prismml.com/news/bonsai-27b'>Bonsai 27B: A 27B-Class model that runs on a phone</a></td></tr>
-<tr><td><a href='https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/'>Dependabot version updates introduce default package cooldown</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Andon_(manufacturing)'>Andon (manufacturing)</a></td></tr>
 </table>
 <!-- END:news -->
 
