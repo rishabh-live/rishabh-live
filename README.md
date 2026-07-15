@@ -19,14 +19,7 @@
 <br/>
 
 <!-- START:news -->
-### 📰 Latest Tech News
-<table>
-<tr><td><a href='https://thinkingmachines.ai/news/introducing-inkling/'>Inkling: Our Open-Weights Model</a></td></tr>
-<tr><td><a href='https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20'>Duskers, the scary command line game, is getting a sequel</a></td></tr>
-<tr><td><a href='https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/'>Stripe and Advent have made a joint offer to acquire PayPal – sources</a></td></tr>
-<tr><td><a href='https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/'>Running Gemma 4 26B at 5 tokens&#x2F;sec on a 13-year-old Xeon with no GPU</a></td></tr>
-<tr><td><a href='https://clocks.dev'>Collection of Digital Clock Designs</a></td></tr>
-</table>
+<i>No news available at the moment.</i>
 <!-- END:news -->
 
 <br/>
