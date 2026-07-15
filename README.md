@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://fabiensanglard.net/jurrasic_park_computers/index.html'>Jurassic Park computers in excruciating detail</a></td></tr>
+<tr><td><a href='https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/'>RISC-V Is Inevitable: State of the Union Keynote Argues</a></td></tr>
+<tr><td><a href='https://www.ayush.digital/blog/the-memory-heist'>I tricked Claude into leaking your deepest, darkest secrets</a></td></tr>
 <tr><td><a href='https://vpd.ca/'>Vancouver PD website features Quick Escape button that wipes itself from history</a></td></tr>
 <tr><td><a href='https://tailscale.com/security-bulletins'>TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access</a></td></tr>
-<tr><td><a href='https://prismml.com/news/bonsai-27b'>Bonsai 27B: A 27B-Class model that runs on a phone</a></td></tr>
-<tr><td><a href='https://en.wikipedia.org/wiki/Andon_(manufacturing)'>Andon (manufacturing)</a></td></tr>
 </table>
 <!-- END:news -->
 
