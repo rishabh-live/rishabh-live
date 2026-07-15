@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://academic.oup.com/sleep/article/47/1/zsad253/7280269'>Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)</a></td></tr>
-<tr><td><a href='https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public'>DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety</a></td></tr>
+<tr><td><a href='https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/'>Running Gemma 4 26B at 5 tokens&#x2F;sec on a 13-year-old Xeon with no GPU</a></td></tr>
 <tr><td><a href='https://dev.moe/en/3025'>Mysteries of Telegram Data Centers</a></td></tr>
+<tr><td><a href='https://github.com/vshulcz/deja-vu/'>Open-source memory for coding agents, synced over SSH</a></td></tr>
+<tr><td><a href='https://github.com/welcome-to-the-sunny-side/misa77'>Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)</a></td></tr>
 <tr><td><a href='https://ramones.dev/posts/mental-health/'>Prioritize mental health, and why communication is so important</a></td></tr>
-<tr><td><a href='https://fitelson.org/seminar/dawid.pdf'>The well-calibrated Bayesian [pdf] (1982)</a></td></tr>
 </table>
 <!-- END:news -->
 
