@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/'>Dependabot version updates introduce default package cooldown</a></td></tr>
 <tr><td><a href='https://www.bis.org/publ/bisbull120.pdf'>Financing the AI boom: from cash flows to debt [pdf]</a></td></tr>
 <tr><td><a href='https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/'>The Tower Keeps Rising</a></td></tr>
-<tr><td><a href='https://crates.io/crates/qr-swastika-avoider'>QR-Swastika-Avoider</a></td></tr>
+<tr><td><a href='https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left'>Cursor 0day: When Full Disclosure Becomes the Only Protection Left</a></td></tr>
 </table>
 <!-- END:news -->
 
