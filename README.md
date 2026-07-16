@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://community.oneplus.com/thread/2170715118587871237'>OnePlus halts operations in USA and Europe</a></td></tr>
 <tr><td><a href='https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming'>The lost joy of music piracy</a></td></tr>
+<tr><td><a href='https://joinedanthropic.com'>Where are YC founders now? OpenAI and Anthropic, mostly</a></td></tr>
 <tr><td><a href='https://thinkingmachines.ai/news/introducing-inkling/'>Inkling: Our Open-Weights Model</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/'>What&#x27;s the story behind the names of Cloudflare&#x27;s name servers? (2013)</a></td></tr>
-<tr><td><a href='https://madcampos.dev/blog/2026/07/accessibility-from-scratch/'>If you want to create a button from scratch, you must first create the universe</a></td></tr>
-<tr><td><a href='https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/'>Teardown: A Generic 7-Port USB 3.0 Hub That Wasn&#x27;t</a></td></tr>
+<tr><td><a href='https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html'>A Beautiful Theory Falls to Ugly Data</a></td></tr>
 </table>
 <!-- END:news -->
 
