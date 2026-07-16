@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.kimi.com/en'>Kimi K3 is now live</a></td></tr>
 <tr><td><a href='https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/'>Microsoft Comic Chat is now open source</a></td></tr>
 <tr><td><a href='https://www.mixfont.com/experiments/decoy-font'>Decoy Font</a></td></tr>
-<tr><td><a href='https://blog.lyc8503.net/en/post/llm-classifier/'>Detecting LLM-Generated Texts with “Classical” Machine Learning</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/'>NotebookLM is now Gemini Notebook</a></td></tr>
+<tr><td><a href='https://blog.lyc8503.net/en/post/llm-classifier/'>Detecting LLM-Generated Texts with “Classical” Machine Learning</a></td></tr>
 </table>
 <!-- END:news -->
 
