@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/'>Guerrilla London Bus Ads Mock Kylie Jenner&#x27;s Meta Glasses Campaign</a></td></tr>
+<tr><td><a href='https://madcampos.dev/blog/2026/07/accessibility-from-scratch/'>If you want to create a button from scratch, you must first create the universe</a></td></tr>
 <tr><td><a href='https://thinkingmachines.ai/news/introducing-inkling/'>Inkling: Our Open-Weights Model</a></td></tr>
 <tr><td><a href='https://mort.coffee/home/sqlite-editions/'>SQLite should have (Rust-style) editions</a></td></tr>
-<tr><td><a href='https://github.com/xai-org/grok-build'>Grok Build is open source</a></td></tr>
-<tr><td><a href='https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials'>Metal-Organic Frameworks, Chemistry&#x27;s New Miracle Materials</a></td></tr>
-<tr><td><a href='https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf'>Governments, companies, nonprofits should invest in free, open source AI [pdf]</a></td></tr>
+<tr><td><a href='https://artifipedia.com/map'>An Interactive Map of AI</a></td></tr>
 </table>
 <!-- END:news -->
 
