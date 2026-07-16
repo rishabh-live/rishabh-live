@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/'>Guerrilla London Bus Ads Mock Kylie Jenner&#x27;s Meta Glasses Campaign</a></td></tr>
-<tr><td><a href='https://madcampos.dev/blog/2026/07/accessibility-from-scratch/'>If you want to create a button from scratch, you must first create the universe</a></td></tr>
+<tr><td><a href='https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming'>The lost joy of music piracy</a></td></tr>
 <tr><td><a href='https://thinkingmachines.ai/news/introducing-inkling/'>Inkling: Our Open-Weights Model</a></td></tr>
+<tr><td><a href='https://madcampos.dev/blog/2026/07/accessibility-from-scratch/'>If you want to create a button from scratch, you must first create the universe</a></td></tr>
 <tr><td><a href='https://mort.coffee/home/sqlite-editions/'>SQLite should have (Rust-style) editions</a></td></tr>
-<tr><td><a href='https://artifipedia.com/map'>An Interactive Map of AI</a></td></tr>
+<tr><td><a href='https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html'>1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored</a></td></tr>
 </table>
 <!-- END:news -->
 
