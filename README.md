@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.kimi.com/en'>Kimi K3 is now live</a></td></tr>
+<tr><td><a href='https://www.kimi.com/blog/kimi-k3'>Kimi K3: Open Frontier Intelligence</a></td></tr>
 <tr><td><a href='https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/'>Microsoft Comic Chat is now open source</a></td></tr>
+<tr><td><a href='https://lmstudio.ai/blog/introducing-lm-studio-bionic'>LM Studio Bionic: the AI agent for open models</a></td></tr>
 <tr><td><a href='https://www.mixfont.com/experiments/decoy-font'>Decoy Font</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/'>NotebookLM is now Gemini Notebook</a></td></tr>
-<tr><td><a href='https://blog.lyc8503.net/en/post/llm-classifier/'>Detecting LLM-Generated Texts with “Classical” Machine Learning</a></td></tr>
+<tr><td><a href='https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6'>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol</a></td></tr>
 </table>
 <!-- END:news -->
 
