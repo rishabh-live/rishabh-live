@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.kimi.com/en'>Kimi K3 is now live</a></td></tr>
 <tr><td><a href='https://community.oneplus.com/thread/2170715118587871237'>OnePlus halts operations in USA and Europe</a></td></tr>
 <tr><td><a href='https://www.spaceweather.gov/news/goes-19-safe-hold'>Goes-19 weather satellite enters Safe Hold mode</a></td></tr>
+<tr><td><a href='https://rtfeldman.com/rust-to-zig'>How Our Rust-to-Zig Rewrite Is Going</a></td></tr>
 <tr><td><a href='https://onatm.dev/2026/07/16/homescale-part-1/'>Let&#x27;s Build PlanetScale from Scratch: Infrastructure</a></td></tr>
-<tr><td><a href='https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading'>SpaceX stock erases all its gains and slides below IPO price in intraday trading</a></td></tr>
-<tr><td><a href='https://refactoring.guru/email/gbb-rollout2'>How to spend 15 years perfecting a product</a></td></tr>
 </table>
 <!-- END:news -->
 
