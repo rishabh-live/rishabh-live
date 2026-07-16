@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming'>The lost joy of music piracy</a></td></tr>
 <tr><td><a href='https://thinkingmachines.ai/news/introducing-inkling/'>Inkling: Our Open-Weights Model</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/'>What&#x27;s the story behind the names of Cloudflare&#x27;s name servers? (2013)</a></td></tr>
 <tr><td><a href='https://madcampos.dev/blog/2026/07/accessibility-from-scratch/'>If you want to create a button from scratch, you must first create the universe</a></td></tr>
-<tr><td><a href='https://mort.coffee/home/sqlite-editions/'>SQLite should have (Rust-style) editions</a></td></tr>
-<tr><td><a href='https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html'>1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored</a></td></tr>
+<tr><td><a href='https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/'>Teardown: A Generic 7-Port USB 3.0 Hub That Wasn&#x27;t</a></td></tr>
 </table>
 <!-- END:news -->
 
