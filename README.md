@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.kimi.com/en'>Kimi K3 is now live</a></td></tr>
+<tr><td><a href='https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/'>Microsoft Comic Chat is now open source</a></td></tr>
+<tr><td><a href='https://www.mixfont.com/experiments/decoy-font'>Decoy Font</a></td></tr>
+<tr><td><a href='https://blog.lyc8503.net/en/post/llm-classifier/'>Detecting LLM-Generated Texts with &quot;Classical&quot; Machine Learning</a></td></tr>
 <tr><td><a href='https://community.oneplus.com/thread/2170715118587871237'>OnePlus halts operations in USA and Europe</a></td></tr>
-<tr><td><a href='https://www.spaceweather.gov/news/goes-19-safe-hold'>Goes-19 weather satellite enters Safe Hold mode</a></td></tr>
-<tr><td><a href='https://rtfeldman.com/rust-to-zig'>How Our Rust-to-Zig Rewrite Is Going</a></td></tr>
-<tr><td><a href='https://onatm.dev/2026/07/16/homescale-part-1/'>Let&#x27;s Build PlanetScale from Scratch: Infrastructure</a></td></tr>
 </table>
 <!-- END:news -->
 
