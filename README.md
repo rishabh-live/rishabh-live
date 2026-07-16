@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://community.oneplus.com/thread/2170715118587871237'>OnePlus halts operations in USA and Europe</a></td></tr>
-<tr><td><a href='https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming'>The lost joy of music piracy</a></td></tr>
-<tr><td><a href='https://joinedanthropic.com'>Where are YC founders now? OpenAI and Anthropic, mostly</a></td></tr>
-<tr><td><a href='https://thinkingmachines.ai/news/introducing-inkling/'>Inkling: Our Open-Weights Model</a></td></tr>
-<tr><td><a href='https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html'>A Beautiful Theory Falls to Ugly Data</a></td></tr>
+<tr><td><a href='https://www.spaceweather.gov/news/goes-19-safe-hold'>Goes-19 weather satellite enters Safe Hold mode</a></td></tr>
+<tr><td><a href='https://onatm.dev/2026/07/16/homescale-part-1/'>Let&#x27;s Build PlanetScale from Scratch: Infrastructure</a></td></tr>
+<tr><td><a href='https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading'>SpaceX stock erases all its gains and slides below IPO price in intraday trading</a></td></tr>
+<tr><td><a href='https://refactoring.guru/email/gbb-rollout2'>How to spend 15 years perfecting a product</a></td></tr>
 </table>
 <!-- END:news -->
 
