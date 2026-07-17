@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423'>Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize</a></td></tr>
 <tr><td><a href='https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876'>EEG shows brain can simultaneous encode two speech streams</a></td></tr>
 <tr><td><a href='https://www.kimi.com/blog/kimi-k3'>Kimi K3: Open Frontier Intelligence</a></td></tr>
 <tr><td><a href='https://repebble.com/blog/pebble-mega-update-july-2026'>Pebble Mega Update – July 2026</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/'>How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues</a></td></tr>
-<tr><td><a href='https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/'>Microsoft Comic Chat is now open source</a></td></tr>
 </table>
 <!-- END:news -->
 
