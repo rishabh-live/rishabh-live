@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/'>How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues</a></td></tr>
+<tr><td><a href='https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876'>EEG shows brain can simultaneous encode two speech streams</a></td></tr>
 <tr><td><a href='https://www.kimi.com/blog/kimi-k3'>Kimi K3: Open Frontier Intelligence</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/'>How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues</a></td></tr>
 <tr><td><a href='https://repebble.com/blog/pebble-mega-update-july-2026'>Pebble Mega Update – July 2026</a></td></tr>
-<tr><td><a href='https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029'>An Engineer&#x27;s Guide to USB Typе-С (2024)</a></td></tr>
-<tr><td><a href='https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/'>GrapheneOS recommended for domestic abuse victims</a></td></tr>
+<tr><td><a href='https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/'>Microsoft Comic Chat is now open source</a></td></tr>
 </table>
 <!-- END:news -->
 
