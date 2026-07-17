@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/'>How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues</a></td></tr>
 <tr><td><a href='https://www.kimi.com/blog/kimi-k3'>Kimi K3: Open Frontier Intelligence</a></td></tr>
-<tr><td><a href='https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/'>Microsoft Comic Chat is now open source</a></td></tr>
-<tr><td><a href='https://lmstudio.ai/blog/introducing-lm-studio-bionic'>LM Studio Bionic: the AI agent for open models</a></td></tr>
-<tr><td><a href='https://www.mixfont.com/experiments/decoy-font'>Decoy Font</a></td></tr>
-<tr><td><a href='https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6'>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol</a></td></tr>
+<tr><td><a href='https://repebble.com/blog/pebble-mega-update-july-2026'>Pebble Mega Update – July 2026</a></td></tr>
+<tr><td><a href='https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029'>An Engineer&#x27;s Guide to USB Typе-С (2024)</a></td></tr>
+<tr><td><a href='https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/'>GrapheneOS recommended for domestic abuse victims</a></td></tr>
 </table>
 <!-- END:news -->
 
