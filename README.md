@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423'>Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize</a></td></tr>
-<tr><td><a href='https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/'>Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology</a></td></tr>
-<tr><td><a href='https://minikotlin.run'>Minikotlin</a></td></tr>
-<tr><td><a href='https://www.kimi.com/blog/kimi-k3'>Kimi K3: Open Frontier Intelligence</a></td></tr>
-<tr><td><a href='https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876'>EEG shows brain can simultaneous encode two speech streams</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48945241'>AWS: Inaccurate Estimated Billing Data – $1.7 billion</a></td></tr>
+<tr><td><a href='https://stateofopensource.ai/'>Mozilla: The state of open source AI</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/cy4kdd1e0ejo'>First atmosphere found on Earth-like planet in habitable zone of distant star</a></td></tr>
+<tr><td><a href='https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/'>Claude Code: Anatomy of a Misfeature</a></td></tr>
+<tr><td><a href='https://honeypotlive.cc/'>Show HN: Watch bots interact with an SSH honeypot in real time</a></td></tr>
 </table>
 <!-- END:news -->
 
