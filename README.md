@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://news.ycombinator.com/item?id=48945241'>AWS: Inaccurate Estimated Billing Data – $1.7 billion</a></td></tr>
 <tr><td><a href='https://goliath32.com/blog/z80.html'>The Zilog Z80 has turned 50</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=48945241'>AWS: Inaccurate Estimated Billing Data – $1.7 billion</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cy4kdd1e0ejo'>First atmosphere found on Earth-like planet in habitable zone of distant star</a></td></tr>
 <tr><td><a href='https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/'>Learning a few things about running SQLite</a></td></tr>
 <tr><td><a href='https://isene.org/2026/07/Frame.html'>Frame – Linux X server in Assembly</a></td></tr>
