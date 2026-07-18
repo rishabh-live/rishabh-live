@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/'>Kaiser nurses say AI, workplace surveillance are making their jobs, care worse</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48945241'>AWS: Inaccurate Estimated Billing Data – $1.7 billion</a></td></tr>
-<tr><td><a href='https://goliath32.com/blog/z80.html'>The Zilog Z80 has turned 50</a></td></tr>
-<tr><td><a href='https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and'>Texas wins court order to suspend domain name for violating age-verification law</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48949551'>Thanks HN for 15 years of support and helping me find my life&#x27;s work</a></td></tr>
+<tr><td><a href='https://goliath32.com/blog/z80.html'>The Zilog Z80 has turned 50</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/cy4kdd1e0ejo'>First atmosphere found on Earth-like planet in habitable zone of distant star</a></td></tr>
 </table>
 <!-- END:news -->
 
