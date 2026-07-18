@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://velvetshark.com/ai-company-logos-that-look-like-buttholes'>Why do AI company logos look like buttholes?</a></td></tr>
 <tr><td><a href='https://maurycyz.com/projects/bad_jpeg/'>Regressive JPEGs</a></td></tr>
 <tr><td><a href='https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent'>LG monitors silently install software through Windows Update without consent</a></td></tr>
-<tr><td><a href='https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/'>Funny item co-occurrences in 3.2M Instacart orders</a></td></tr>
+<tr><td><a href='https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/'>The Computer at the Bottom of a Canal</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48945241'>AWS: Inaccurate Estimated Billing Data – $1.7 billion</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=48949551'>Thanks HN for 15 years of support and helping me find my life&#x27;s work</a></td></tr>
 </table>
 <!-- END:news -->
 
