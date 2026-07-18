@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://queue.acm.org/detail.cfm?id=3818307'>Goodbye, and Thanks for All the Bikesheds</a></td></tr>
-<tr><td><a href='https://reotrucks.com'>REO Trucks I4 4WD Pickup Truck Starts at $21,500</a></td></tr>
 <tr><td><a href='https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/'>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</a></td></tr>
 <tr><td><a href='https://tangled.org/gleam.run/gleam'>Gleam Is Now on Tangled</a></td></tr>
 <tr><td><a href='https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/'>The Kimi K3 Moment</a></td></tr>
+<tr><td><a href='https://www.benlandautaylor.com/p/if-you-build-it-they-will-come'>If You Build It, They Will Come</a></td></tr>
+<tr><td><a href='https://queue.acm.org/detail.cfm?id=3818307'>Goodbye, and Thanks for All the Bikesheds</a></td></tr>
 </table>
 <!-- END:news -->
 
