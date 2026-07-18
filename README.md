@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/'>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</a></td></tr>
-<tr><td><a href='https://tangled.org/gleam.run/gleam'>Gleam Is Now on Tangled</a></td></tr>
+<tr><td><a href='https://ykdojo.github.io/claude-controls-mac/'>Setting up your spare Mac for Claude Code to control, a step-by-step guide</a></td></tr>
 <tr><td><a href='https://elixir-lang.org/'>Elixir-lang.org has a new design</a></td></tr>
-<tr><td><a href='https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/'>Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does &#x2F;goal help?</a></td></tr>
+<tr><td><a href='https://tangled.org/gleam.run/gleam'>Gleam Is Now on Tangled</a></td></tr>
 <tr><td><a href='https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/'>Is this the end of the once-mighty GoPro?</a></td></tr>
 </table>
 <!-- END:news -->
