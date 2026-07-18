@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/'>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</a></td></tr>
-<tr><td><a href='https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent'>LG monitors silently install software through Windows Update without consent</a></td></tr>
 <tr><td><a href='https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/'>Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does &#x2F;goal help?</a></td></tr>
-<tr><td><a href='https://maurycyz.com/projects/bad_jpeg/'>Regressive JPEGs</a></td></tr>
-<tr><td><a href='https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/'>The Computer at the Bottom of a Canal</a></td></tr>
+<tr><td><a href='https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/'>Is this the end of the once-mighty GoPro?</a></td></tr>
+<tr><td><a href='https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots'>Tech note: making your own V-I plots at home</a></td></tr>
+<tr><td><a href='https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent'>LG monitors silently install software through Windows Update without consent</a></td></tr>
 </table>
 <!-- END:news -->
 
