@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td></tr>
 <tr><td><a href='https://github.com/moonshine-ai/moonshine/tree/main/micro'>Speech Recognition and TTS in less than 500kb</a></td></tr>
-<tr><td><a href='https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol'>FDA approves new kind of cholesterol pill</a></td></tr>
+<tr><td><a href='https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash'>Supabase just announced searchable encryption</a></td></tr>
 <tr><td><a href='https://github.com/stupside/castor'>Better and Cheaper Than IPTV</a></td></tr>
-<tr><td><a href='https://calculus.academa.ai/'>LLM-Integrated Multivariable Calculus Course</a></td></tr>
+<tr><td><a href='https://codex-resets.com/'>Codex Resets</a></td></tr>
 </table>
 <!-- END:news -->
 
