@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://news.ycombinator.com/item?id=48968606'>Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s</a></td></tr>
 <tr><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen 3.8</a></td></tr>
+<tr><td><a href='https://smolnero.com/posts/the-zen-of-parallel-programming'>The Zen of Parallel Programming</a></td></tr>
+<tr><td><a href='https://www.passinote.app/'>Show HN: A canvas-based note taking and organizer app</a></td></tr>
 <tr><td><a href='https://justsomebody.dev/blog/mikrotik-home-router'>HomeLab #1: MikroTik as a Home Router</a></td></tr>
-<tr><td><a href='https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4'>Minecraft: Java Edition now uses SDL3</a></td></tr>
-<tr><td><a href='https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html'>A new Intel Itanium (IA-64) emulator that boots Windows</a></td></tr>
 </table>
 <!-- END:news -->
 
