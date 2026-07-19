@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/'>Claude Code uses Bun written in Rust now</a></td></tr>
-<tr><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen3.8 is launching and going open-weight soon</a></td></tr>
-<tr><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td></tr>
 <tr><td><a href='https://www.qwencloud.com/pricing/token-plan'>Qwen 3.8 Max Preview</a></td></tr>
+<tr><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td></tr>
 <tr><td><a href='https://www.blender.org/download/releases/5-2-lts/'>Blender 5.2 LTS</a></td></tr>
+<tr><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen3.8 is launching and going open-weight soon</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex/pull/33972/files'>OpenAI reduces Codex Model Context Size from 372k to 272k</a></td></tr>
 </table>
 <!-- END:news -->
 
