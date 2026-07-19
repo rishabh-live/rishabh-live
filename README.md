@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/'>Claude Code uses Bun written in Rust now</a></td></tr>
 <tr><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen3.8 is launching and going open-weight soon</a></td></tr>
-<tr><td><a href='https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic'>Perforce charges $500 for training training videos.. and it&#x27;s AI narrated</a></td></tr>
-<tr><td><a href='https://github.com/moonshine-ai/moonshine/tree/main/micro'>Speech Recognition and TTS in less than 500kb</a></td></tr>
-<tr><td><a href='https://codex-resets.com/'>Codex Resets</a></td></tr>
+<tr><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td></tr>
+<tr><td><a href='https://www.qwencloud.com/pricing/token-plan'>Qwen 3.8 Max Preview</a></td></tr>
+<tr><td><a href='https://www.blender.org/download/releases/5-2-lts/'>Blender 5.2 LTS</a></td></tr>
 </table>
 <!-- END:news -->
 
