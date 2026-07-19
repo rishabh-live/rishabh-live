@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td></tr>
 <tr><td><a href='https://github.com/moonshine-ai/moonshine/tree/main/micro'>Speech Recognition and TTS in less than 500kb</a></td></tr>
-<tr><td><a href='https://amigafreeware.downer.tech/'>Classic Amiga titles, free to download</a></td></tr>
-<tr><td><a href='https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/'>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</a></td></tr>
-<tr><td><a href='https://www.benlandautaylor.com/p/if-you-build-it-they-will-come'>If You Build It, They Will Come</a></td></tr>
-<tr><td><a href='https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/'>Mayor Mamdani Says Landlords Can&#x27;t Use AI Images to Advertise</a></td></tr>
+<tr><td><a href='https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol'>FDA approves new kind of cholesterol pill</a></td></tr>
+<tr><td><a href='https://github.com/stupside/castor'>Better and Cheaper Than IPTV</a></td></tr>
+<tr><td><a href='https://calculus.academa.ai/'>LLM-Integrated Multivariable Calculus Course</a></td></tr>
 </table>
 <!-- END:news -->
 
