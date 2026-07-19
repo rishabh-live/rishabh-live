@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://workshop.cjpais.com/projects/transcribe-cpp'>Transcribe.cpp</a></td></tr>
+<tr><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen3.8 is launching and going open-weight soon</a></td></tr>
+<tr><td><a href='https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic'>Perforce charges $500 for training training videos.. and it&#x27;s AI narrated</a></td></tr>
 <tr><td><a href='https://github.com/moonshine-ai/moonshine/tree/main/micro'>Speech Recognition and TTS in less than 500kb</a></td></tr>
-<tr><td><a href='https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash'>Supabase just announced searchable encryption</a></td></tr>
-<tr><td><a href='https://github.com/stupside/castor'>Better and Cheaper Than IPTV</a></td></tr>
 <tr><td><a href='https://codex-resets.com/'>Codex Resets</a></td></tr>
 </table>
 <!-- END:news -->
