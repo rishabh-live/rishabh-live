@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.qwencloud.com/pricing/token-plan'>Qwen 3.8 Max Preview</a></td></tr>
-<tr><td><a href='https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard'>What I learned selling 2,500 MIDI recorders: Hardware is not so hard</a></td></tr>
 <tr><td><a href='https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4'>Minecraft: Java Edition now uses SDL3</a></td></tr>
+<tr><td><a href='https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard'>What I learned selling 2,500 MIDI recorders: Hardware is not so hard</a></td></tr>
 <tr><td><a href='https://www.blender.org/download/releases/5-2/'>Blender 5.2 LTS</a></td></tr>
-<tr><td><a href='https://quesma.com/blog/custom-deep-research-pipeline/'>I burned all my tokens researching how to save tokens</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex/pull/33972/files'>OpenAI reduces Codex Model Context Size from 372k to 272k</a></td></tr>
+<tr><td><a href='https://sgt.hootr.club/blog/home-server-rebirth/'>The death and rebirth of my home server</a></td></tr>
 </table>
 <!-- END:news -->
 
