@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen 3.8</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48968606'>Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s</a></td></tr>
-<tr><td><a href='https://www.hmd.com/en_int/hmd-touch-4g'>HMD Touch 4G</a></td></tr>
-<tr><td><a href='https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard'>What I learned selling 2,500 MIDI recorders: Hardware is not so hard</a></td></tr>
+<tr><td><a href='https://twitter.com/Alibaba_Qwen/status/2078759124914098291'>Qwen 3.8</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/'>Claude Code uses Bun written in Rust now</a></td></tr>
+<tr><td><a href='https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4'>Minecraft: Java Edition now uses SDL3</a></td></tr>
+<tr><td><a href='https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard'>What I learned selling 2,500 MIDI recorders: Hardware is not so hard</a></td></tr>
 </table>
 <!-- END:news -->
 
