@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/'>China&#x27;s open-weights AI strategy is winning</a></td></tr>
-<tr><td><a href='https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/'>Hacker wipes Romania&#x27;s land registry database</a></td></tr>
-<tr><td><a href='https://unslop.run/blog/measuring-ai-writing-on-arxiv'>Over 30% of new ArXiv submissions now read as AI-written</a></td></tr>
 <tr><td><a href='https://www.kimi.com/products/kimi-work'>Kimi Work</a></td></tr>
-<tr><td><a href='https://hypr.land/news/update55/'>Hyprland 0.55 announced the switch to Lua for its config files</a></td></tr>
+<tr><td><a href='https://jelly-ui.com/'>Jelly UI: Soft-body physics for native HTML form controls</a></td></tr>
+<tr><td><a href='https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/'>Hacker wipes Romania&#x27;s land registry database</a></td></tr>
+<tr><td><a href='https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/'>Human mathematicians are being outcounterexampled</a></td></tr>
 </table>
 <!-- END:news -->
 
