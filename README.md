@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/'>China’s open-weights AI strategy is winning</a></td></tr>
 <tr><td><a href='https://www.kimi.com/products/kimi-work'>Kimi Work</a></td></tr>
+<tr><td><a href='https://stratechery.com/2026/whos-afraid-of-chinese-models/'>Who&#x27;s Afraid of Chinese Models?</a></td></tr>
 <tr><td><a href='https://jelly-ui.com/'>Jelly UI: Soft-body physics for native HTML form controls</a></td></tr>
 <tr><td><a href='https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/'>Human mathematicians are being outcounterexampled</a></td></tr>
-<tr><td><a href='https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/'>Hacker wipes Romania&#x27;s land registry database</a></td></tr>
 </table>
 <!-- END:news -->
 
