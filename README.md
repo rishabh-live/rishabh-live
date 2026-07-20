@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://news.ycombinator.com/item?id=48968606'>Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s</a></td></tr>
-<tr><td><a href='https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study'>AI advice made people 3x less accurate but 2x confident, researchers found</a></td></tr>
-<tr><td><a href='https://smolnero.com/posts/the-zen-of-parallel-programming'>The Zen of Parallel Programming</a></td></tr>
-<tr><td><a href='https://pgadey.ca/notes/talk-relatorium-2026/'>Talk: The Art of Braiding Algorithms</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/biggest-probabilistic-computer'>Biggest Probabilistic Computer Turns Noise into Answers</a></td></tr>
+<tr><td><a href='https://github.com/hgaiser/moonshine'>Moonshine: Lets you stream games from your PC to any device running Moonlight</a></td></tr>
+<tr><td><a href='https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/'>Power companies are using eminent domain to seize land for data centers</a></td></tr>
+<tr><td><a href='https://xcancel.com/__alpoge__/status/2079028340955197566'>Claude Fable produced a counterexample to the Jacobian Conjecture</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/'>Claude Code uses Bun written in Rust now</a></td></tr>
 </table>
 <!-- END:news -->
 
