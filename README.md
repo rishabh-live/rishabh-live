@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/'>China&#x27;s open-weights AI strategy is winning</a></td></tr>
 <tr><td><a href='https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/'>Hacker wipes Romania&#x27;s land registry database</a></td></tr>
-<tr><td><a href='https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/'>American AI is locked down and proprietary. It&#x27;s losing</a></td></tr>
+<tr><td><a href='https://nothings.org/gamedev/ssao/'>Corners Don&#x27;t Look Like That: Regarding Screenspace Ambient Occlusion (2012)</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/led-light-pollution'>We&#x27;re Squandering LEDs&#x27; Potential to Save Our Night Skies</a></td></tr>
 <tr><td><a href='https://airport.apunen.com/'>Airport Simulator</a></td></tr>
-<tr><td><a href='https://github.com/search'>Firefox Merges Support for Vulkan Video Decoding</a></td></tr>
 </table>
 <!-- END:news -->
 
