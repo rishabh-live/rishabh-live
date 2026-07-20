@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://robotics.xiaomi.com/xiaomi-robotics-1.html'>Xiaomi-Robotics-1</a></td></tr>
+<tr><td><a href='https://github.com/Saivineeth147/lora-speedrun'>LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48968606'>Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s</a></td></tr>
 <tr><td><a href='https://github.com/hgaiser/moonshine'>Moonshine: Lets you stream games from your PC to any device running Moonlight</a></td></tr>
-<tr><td><a href='https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/'>Power companies are using eminent domain to seize land for data centers</a></td></tr>
-<tr><td><a href='https://xcancel.com/__alpoge__/status/2079028340955197566'>Claude Fable produced a counterexample to the Jacobian Conjecture</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/'>Claude Code uses Bun written in Rust now</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization'>Self-Powered Trailers Promise Leaner Freight Runs</a></td></tr>
 </table>
 <!-- END:news -->
 
