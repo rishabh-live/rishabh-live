@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://robotics.xiaomi.com/xiaomi-robotics-1.html'>Xiaomi-Robotics-1</a></td></tr>
-<tr><td><a href='https://github.com/Saivineeth147/lora-speedrun'>LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques</a></td></tr>
+<tr><td><a href='https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/'>Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=48968606'>Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s</a></td></tr>
 <tr><td><a href='https://github.com/hgaiser/moonshine'>Moonshine: Lets you stream games from your PC to any device running Moonlight</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization'>Self-Powered Trailers Promise Leaner Freight Runs</a></td></tr>
+<tr><td><a href='https://github.com/Saivineeth147/lora-speedrun'>LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques</a></td></tr>
+<tr><td><a href='https://blog.andr2i.com/posts/2026-07-06-eliminating-go-bound-checks-with-unsafe'>Eliminating Go bounds checks with unsafe</a></td></tr>
 </table>
 <!-- END:news -->
 
