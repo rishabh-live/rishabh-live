@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/'>China&#x27;s open-weights AI strategy is winning</a></td></tr>
 <tr><td><a href='https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/'>Hacker wipes Romania&#x27;s land registry database</a></td></tr>
-<tr><td><a href='https://nothings.org/gamedev/ssao/'>Corners Don&#x27;t Look Like That: Regarding Screenspace Ambient Occlusion (2012)</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/led-light-pollution'>We&#x27;re Squandering LEDs&#x27; Potential to Save Our Night Skies</a></td></tr>
-<tr><td><a href='https://airport.apunen.com/'>Airport Simulator</a></td></tr>
+<tr><td><a href='https://unslop.run/blog/measuring-ai-writing-on-arxiv'>Over 30% of new ArXiv submissions now read as AI-written</a></td></tr>
+<tr><td><a href='https://www.kimi.com/products/kimi-work'>Kimi Work</a></td></tr>
+<tr><td><a href='https://hypr.land/news/update55/'>Hyprland 0.55 announced the switch to Lua for its config files</a></td></tr>
 </table>
 <!-- END:news -->
 
