@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://qwen.ai/blog?id=qwen-image-3.0'>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</a></td></tr>
+<tr><td><a href='https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first'>New US homeownership measure puts people first</a></td></tr>
 <tr><td><a href='https://github.com/janestreet/incremental'>Incremental – A library for incremental computations</a></td></tr>
 <tr><td><a href='https://stratechery.com/2026/whos-afraid-of-chinese-models/'>Who&#x27;s afraid of Chinese models?</a></td></tr>
-<tr><td><a href='https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage'>The Growing Compute Shortage</a></td></tr>
-<tr><td><a href='https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/'>Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects</a></td></tr>
+<tr><td><a href='https://fidget-spinner.github.io/posts/ultra-fast-tracing.html'>Python 3.15&#x27;s Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin&#x27;s Blog</a></td></tr>
 </table>
 <!-- END:news -->
 
