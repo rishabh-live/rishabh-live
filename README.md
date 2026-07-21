@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/janestreet/incremental'>Incremental – A library for incremental computations</a></td></tr>
 <tr><td><a href='https://stratechery.com/2026/whos-afraid-of-chinese-models/'>Who&#x27;s afraid of Chinese models?</a></td></tr>
-<tr><td><a href='https://forum.jellyfin.org/t-project-leadership-changes'>Jellyfin founder Andrew leaves team</a></td></tr>
-<tr><td><a href='https://www.kimi.com/products/kimi-work'>Kimi Work</a></td></tr>
-<tr><td><a href='https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/'>Human mathematicians are being outcounterexampled</a></td></tr>
-<tr><td><a href='https://jelly-ui.com/'>Jelly UI: Soft-body physics for native HTML form controls</a></td></tr>
+<tr><td><a href='https://www.yashthapliyal.com/blog/do-we-just-want-slaves'>Do we just want slaves?</a></td></tr>
+<tr><td><a href='https://www.armaangomes.com/blogs/doom/'>Running Doom on Our Custom CPU and Going Viral</a></td></tr>
+<tr><td><a href='https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/'>A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste</a></td></tr>
 </table>
 <!-- END:news -->
 
