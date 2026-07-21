@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/hugging-face-model-evaluation-security-incident/'>OpenAI and Hugging Face address security incident during model evaluation</a></td></tr>
 <tr><td><a href='https://freeink.org/'>FreeInk: Open ecosystem for e-readers</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/'>Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber</a></td></tr>
 <tr><td><a href='https://e360.yale.edu/digest/benin-coral-reef'>Long presumed dead, a thriving coral reef is discovered in West Africa</a></td></tr>
 <tr><td><a href='https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git'>Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting</a></td></tr>
-<tr><td><a href='https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm'>Apple defeats liability for not scanning iCloud for CSAM</a></td></tr>
 </table>
 <!-- END:news -->
 
