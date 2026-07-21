@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://qwen.ai/blog?id=qwen-image-3.0'>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/'>Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber</a></td></tr>
+<tr><td><a href='https://e360.yale.edu/digest/benin-coral-reef'>Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa</a></td></tr>
+<tr><td><a href='https://thecastlemap.com/'>The World&#x27;s 2,400 Castles</a></td></tr>
 <tr><td><a href='https://www.pcjs.org/'>PCjs Machines</a></td></tr>
-<tr><td><a href='https://colossus.com/article/sarah-guo-conviction/'>Sarah&#x27;s Wager</a></td></tr>
-<tr><td><a href='https://fidget-spinner.github.io/posts/ultra-fast-tracing.html'>Python 3.15&#x27;s Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin&#x27;s Blog</a></td></tr>
-<tr><td><a href='https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm'>Apple Defeats Liability for Not Scanning iCloud for CSAM</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen-image-3.0'>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</a></td></tr>
 </table>
 <!-- END:news -->
 
