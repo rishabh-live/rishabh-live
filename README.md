@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://qwen.ai/blog?id=qwen-image-3.0'>Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge</a></td></tr>
 <tr><td><a href='https://github.com/janestreet/incremental'>Incremental – A library for incremental computations</a></td></tr>
 <tr><td><a href='https://stratechery.com/2026/whos-afraid-of-chinese-models/'>Who&#x27;s afraid of Chinese models?</a></td></tr>
-<tr><td><a href='https://www.armaangomes.com/blogs/doom/'>Running Doom on Our Custom CPU and Going Viral</a></td></tr>
-<tr><td><a href='https://www.kimi.com/products/kimi-work'>Kimi Work</a></td></tr>
-<tr><td><a href='https://jelly-ui.com/'>Jelly UI: Soft-body physics for native HTML form controls</a></td></tr>
+<tr><td><a href='https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage'>The Growing Compute Shortage</a></td></tr>
+<tr><td><a href='https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/'>Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects</a></td></tr>
 </table>
 <!-- END:news -->
 
