@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/hugging-face-model-evaluation-security-incident/'>OpenAI and Hugging Face address security incident during model evaluation</a></td></tr>
+<tr><td><a href='https://fireworks.ai/blog/kimik3-fable'>Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA</a></td></tr>
 <tr><td><a href='https://freeink.org/'>FreeInk: Open ecosystem for e-readers</a></td></tr>
 <tr><td><a href='https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/'>A digestion of the Jacobian conjecture counterexample</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/'>Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber</a></td></tr>
-<tr><td><a href='https://e360.yale.edu/digest/benin-coral-reef'>Long presumed dead, a thriving coral reef is discovered in West Africa</a></td></tr>
 </table>
 <!-- END:news -->
 
