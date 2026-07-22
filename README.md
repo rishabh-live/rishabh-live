@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bento.page/slides/'>Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a></td></tr>
-<tr><td><a href='https://dynomight.net/creatine/'>Does creatine make you smarter?</a></td></tr>
-<tr><td><a href='https://hatchet.run/blog/postgres-survival-guide'>The startup&#x27;s Postgres survival guide</a></td></tr>
+<tr><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terrence Tao&#x27;s ChatGPT Conversation about the Jacobian Conjecture Counterexample</a></td></tr>
 <tr><td><a href='https://www.orangecrumbs.com/hall/'>Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links</a></td></tr>
-<tr><td><a href='https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow'>Airbus Full Scale Foldable Wing Extensions</a></td></tr>
+<tr><td><a href='https://beej.us/blog/data/ai-making/'>Making</a></td></tr>
+<tr><td><a href='https://hatchet.run/blog/postgres-survival-guide'>The startup&#x27;s Postgres survival guide</a></td></tr>
 </table>
 <!-- END:news -->
 
