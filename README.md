@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terrence Tao&#x27;s ChatGPT Conversation about the Jacobian Conjecture Counterexample</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria'>Medici family mystery may be solved after more than 400 years</a></td></tr>
+<tr><td><a href='https://resobscura.substack.com/p/quality-non-fiction-books-are-the'>Quality non-fiction books are the antithesis of AI slop</a></td></tr>
 <tr><td><a href='https://github.com/marcelroed/gigatoken/'>GigaToken: ~1000x faster Language model tokenization</a></td></tr>
+<tr><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terrence Tao&#x27;s ChatGPT Conversation about the Jacobian Conjecture Counterexample</a></td></tr>
 <tr><td><a href='http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html'>Malleable Computing, Emacs, and You</a></td></tr>
-<tr><td><a href='https://bento.page/slides/'>Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a></td></tr>
-<tr><td><a href='https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/'>Safari Technology Preview 248 Released</a></td></tr>
 </table>
 <!-- END:news -->
 
