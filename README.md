@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/hugging-face-model-evaluation-security-incident/'>OpenAI and Hugging Face address security incident during model evaluation</a></td></tr>
 <tr><td><a href='https://fireworks.ai/blog/kimik3-fable'>Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA</a></td></tr>
-<tr><td><a href='https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv'>Intel Starts Shipping High-NA EUV Silicon</a></td></tr>
-<tr><td><a href='https://github.com/chrislgarry/Apollo-11'>Original Apollo 11 Guidance Computer source code for command and lunar modules</a></td></tr>
 <tr><td><a href='https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)'>Introduction to Formal Verification with Lean Part 1</a></td></tr>
+<tr><td><a href='https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv'>Intel Starts Shipping High-NA EUV Silicon</a></td></tr>
+<tr><td><a href='https://overpaid.lol'>OverpAId – Fire your CEO. Hire the future</a></td></tr>
 </table>
 <!-- END:news -->
 
