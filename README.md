@@ -25,7 +25,7 @@
 <tr><td><a href='https://github.com/marcelroed/gigatoken/'>GigaToken: ~1000x faster Language model tokenization</a></td></tr>
 <tr><td><a href='https://bento.page/slides/'>Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a></td></tr>
 <tr><td><a href='https://dylancastillo.co/posts/pelicanmaxxing.html'>Are AI Labs Pelicanmaxxing?</a></td></tr>
-<tr><td><a href='https://beej.us/blog/data/ai-making/'>Making</a></td></tr>
+<tr><td><a href='https://mitchellh.com/writing/everyone-should-know-simd'>Everyone Should Know SIMD</a></td></tr>
 </table>
 <!-- END:news -->
 
