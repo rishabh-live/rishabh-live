@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html'>Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot</a></td></tr>
-<tr><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terence Tao&#x27;s ChatGPT conversation about the Jacobian Conjecture counterexample</a></td></tr>
-<tr><td><a href='https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734'>Cruller: Bun&#x27;s Zig Runtime, Continued on Zig 0.16</a></td></tr>
-<tr><td><a href='https://resobscura.substack.com/p/quality-non-fiction-books-are-the'>Quality non-fiction books are the antithesis of AI slop</a></td></tr>
-<tr><td><a href='https://unity.com/blog/meet-the-unity-cli'>The Unity CLI: manage Unity from your terminal</a></td></tr>
+<tr><td><a href='https://www.eso.org/public/news/eso2610/'>Astronomers may have found the first exomoon</a></td></tr>
+<tr><td><a href='https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet'>AI Companies Are Trying to Hide a Staggering Amount of Debt</a></td></tr>
+<tr><td><a href='https://veryfineprint.substack.com/p/scanning-for-pangram-errors'>Scanning for Pangram Errors</a></td></tr>
+<tr><td><a href='https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/'>Private healthcare makes industries less innovative. It&#x27;s time for change</a></td></tr>
+<tr><td><a href='https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/'>Alphabet&#x27;s cash burn raises alarm for Big Tech as AI spending climbs</a></td></tr>
 </table>
 <!-- END:news -->
 
