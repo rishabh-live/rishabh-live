@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://nesbitt.io/2026/07/21/end-of-options.html'>git&#x27;s –end-of-options Flag</a></td></tr>
-<tr><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terence Tao&#x27;s ChatGPT conversation about the Jacobian Conjecture counterexample</a></td></tr>
-<tr><td><a href='https://resobscura.substack.com/p/quality-non-fiction-books-are-the'>Quality non-fiction books are the antithesis of AI slop</a></td></tr>
 <tr><td><a href='https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html'>Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot</a></td></tr>
-<tr><td><a href='https://github.com/marcelroed/gigatoken/'>GigaToken: ~1000x faster Language model tokenization</a></td></tr>
+<tr><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terence Tao&#x27;s ChatGPT conversation about the Jacobian Conjecture counterexample</a></td></tr>
+<tr><td><a href='https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734'>Cruller: Bun&#x27;s Zig Runtime, Continued on Zig 0.16</a></td></tr>
+<tr><td><a href='https://resobscura.substack.com/p/quality-non-fiction-books-are-the'>Quality non-fiction books are the antithesis of AI slop</a></td></tr>
+<tr><td><a href='https://nesbitt.io/2026/07/21/end-of-options.html'>git&#x27;s –end-of-options Flag</a></td></tr>
 </table>
 <!-- END:news -->
 
