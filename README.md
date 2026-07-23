@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td></tr>
 <tr><td><a href='https://www.eso.org/public/news/eso2610/'>Astronomers may have found the first exomoon</a></td></tr>
-<tr><td><a href='https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet'>AI Companies Are Trying to Hide a Staggering Amount of Debt</a></td></tr>
-<tr><td><a href='https://veryfineprint.substack.com/p/scanning-for-pangram-errors'>Scanning for Pangram Errors</a></td></tr>
-<tr><td><a href='https://werd.io/private-healthcare-makes-industries-less-innovative-its-time-for-change/'>Private healthcare makes industries less innovative. It&#x27;s time for change</a></td></tr>
-<tr><td><a href='https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/'>Alphabet&#x27;s cash burn raises alarm for Big Tech as AI spending climbs</a></td></tr>
+<tr><td><a href='https://haqr.eu/tinyrenderer/'>Software rendering in 500 lines of bare C++</a></td></tr>
+<tr><td><a href='https://learnopengl.com/'>Learn OpenGL, extensive tutorial resource for learning Modern OpenGL</a></td></tr>
+<tr><td><a href='https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992'>Startup founders urge Trump not to shut off Chinese open weight AI</a></td></tr>
 </table>
 <!-- END:news -->
 
