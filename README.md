@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://nesbitt.io/2026/07/21/end-of-options.html'>git&#x27;s –end-of-options Flag</a></td></tr>
+<tr><td><a href='https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56'>Terence Tao&#x27;s ChatGPT conversation about the Jacobian Conjecture counterexample</a></td></tr>
 <tr><td><a href='https://resobscura.substack.com/p/quality-non-fiction-books-are-the'>Quality non-fiction books are the antithesis of AI slop</a></td></tr>
-<tr><td><a href='https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria'>Medici family mystery may be solved after more than 400 years</a></td></tr>
 <tr><td><a href='https://github.com/marcelroed/gigatoken/'>GigaToken: ~1000x faster Language model tokenization</a></td></tr>
 <tr><td><a href='https://bento.page/slides/'>Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)</a></td></tr>
-<tr><td><a href='https://dylancastillo.co/posts/pelicanmaxxing.html'>Are AI Labs Pelicanmaxxing?</a></td></tr>
 </table>
 <!-- END:news -->
 
