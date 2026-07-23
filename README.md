@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td></tr>
 <tr><td><a href='https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all'>What happened to TheNumbers.com</a></td></tr>
-<tr><td><a href='https://haqr.eu/tinyrenderer/'>Software rendering in 500 lines of bare C++</a></td></tr>
-<tr><td><a href='https://learnopengl.com/'>Learn OpenGL, extensive tutorial resource for learning Modern OpenGL</a></td></tr>
-<tr><td><a href='https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992'>Startup founders urge U.S. government not to shut off Chinese open weight AI</a></td></tr>
+<tr><td><a href='https://lukekanies.com/writing/building-on-atproto/'>Building on ATProto</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=49026810'>Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models</a></td></tr>
+<tr><td><a href='https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements'>A solid-state “atomic channel” for separating rare earth elements</a></td></tr>
 </table>
 <!-- END:news -->
 
