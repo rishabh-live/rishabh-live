@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bfl.ai/blog/flux-3'>Flux 3</a></td></tr>
+<tr><td><a href='https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/'>The PImpl idiom and the C++26 std:indirect type</a></td></tr>
 <tr><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49026810'>Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models</a></td></tr>
-<tr><td><a href='https://glinscott.github.io/beam-engine/'>The Beam Engine</a></td></tr>
 <tr><td><a href='https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992'>Startup founders urge U.S. government not to shut off Chinese open weight AI</a></td></tr>
-<tr><td><a href='https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all'>What happened to TheNumbers.com</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=49026810'>Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models</a></td></tr>
 </table>
 <!-- END:news -->
 
