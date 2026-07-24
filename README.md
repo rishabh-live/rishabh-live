@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bfl.ai/blog/flux-3-mimic'>Flux 3 X Mimic: The Next Generation of Video-Action Models</a></td></tr>
 <tr><td><a href='https://bfl.ai/blog/flux-3'>Flux 3</a></td></tr>
-<tr><td><a href='https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/'>The PImpl idiom and the C++26 std:indirect type</a></td></tr>
+<tr><td><a href='https://glyphack.com/attention/'>It&#x27;s getting harder to focus every day</a></td></tr>
 <tr><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td></tr>
 <tr><td><a href='https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992'>Startup founders urge U.S. government not to shut off Chinese open weight AI</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49026810'>Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models</a></td></tr>
 </table>
 <!-- END:news -->
 
