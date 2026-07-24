@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.anthropic.com/claude-opus-5-system-card'>Claude Opus 5</a></td></tr>
 <tr><td><a href='https://hhh.hn/hanwha-github-token/'>My security camera shipped a GitHub admin token in its login page</a></td></tr>
 <tr><td><a href='https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/'>India&#x27;s first privately-developed rocket reaches orbit on dramatic debut launch</a></td></tr>
-<tr><td><a href='https://bfl.ai/blog/flux-3-mimic'>Flux 3 X Mimic: The Next Generation of Video-Action Models</a></td></tr>
-<tr><td><a href='https://glyphack.com/attention/'>It&#x27;s getting harder to focus every day</a></td></tr>
-<tr><td><a href='https://www.3gpp.org/specifications-technologies/releases/release-19'>3GPP Version 19</a></td></tr>
+<tr><td><a href='https://openjdk.org/jeps/541'>As of JDK 27, Oracle engineers will thus stop maintaining the macOS&#x2F;x64 port</a></td></tr>
+<tr><td><a href='https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18'>Half-Life 2 running natively on HaikuOS</a></td></tr>
 </table>
 <!-- END:news -->
 
