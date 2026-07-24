@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td></tr>
 <tr><td><a href='https://jdan.github.io/98.css/#status-bar'>98.css</a></td></tr>
+<tr><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td></tr>
+<tr><td><a href='http://visual6502.org/JSSim/index.html'>The Visual 6502</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49026810'>Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models</a></td></tr>
-<tr><td><a href='https://glinscott.github.io/beam-engine/'>The Beam Engine</a></td></tr>
-<tr><td><a href='https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all'>What happened to TheNumbers.com</a></td></tr>
+<tr><td><a href='https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/'>The Corporate Creep of Plex: Why it may be time to move to Jellyfin</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
