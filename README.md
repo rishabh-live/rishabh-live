@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-5'>Claude Opus 5</a></td></tr>
 <tr><td><a href='https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html'>Nvidia, Microsoft, Meta warn against overregulating open-weight models</a></td></tr>
+<tr><td><a href='https://www.dbos.dev/blog/postgres-listen-notify-scalability'>Postgres LISTEN&#x2F;NOTIFY actually scales</a></td></tr>
 <tr><td><a href='https://hhh.hn/hanwha-github-token/'>My security camera shipped a GitHub admin token in its login page</a></td></tr>
-<tr><td><a href='https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html'>I got into YC by hacking it</a></td></tr>
 <tr><td><a href='https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/'>India&#x27;s first privately-developed rocket reaches orbit on dramatic debut launch</a></td></tr>
 </table>
 <!-- END:news -->
