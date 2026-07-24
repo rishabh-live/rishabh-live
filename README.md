@@ -24,8 +24,8 @@
 <tr><td><a href='https://bfl.ai/blog/flux-3-mimic'>Flux 3 X Mimic: The Next Generation of Video-Action Models</a></td></tr>
 <tr><td><a href='https://bfl.ai/blog/flux-3'>Flux 3</a></td></tr>
 <tr><td><a href='https://glyphack.com/attention/'>It&#x27;s getting harder to focus every day</a></td></tr>
-<tr><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td></tr>
-<tr><td><a href='https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992'>Startup founders urge U.S. government not to shut off Chinese open weight AI</a></td></tr>
+<tr><td><a href='https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times'>The case for MUDs in modern times</a></td></tr>
+<tr><td><a href='https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891'>Buz – A fork of Bun using modern Zig, with sub-1s incremental builds</a></td></tr>
 </table>
 <!-- END:news -->
 
