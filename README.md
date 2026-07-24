@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public'>Couple pay &#x3E;$800k for a gene-editing therapy for their daughter. She died.</a></td></tr>
 <tr><td><a href='https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your'>Writing by hand is good for your brain</a></td></tr>
+<tr><td><a href='https://jdan.github.io/98.css/#status-bar'>98.css</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49026810'>Show HN: Echo – Fable-level results at 1&#x2F;3 the cost using open-weight models</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49028037'>Namecheap Gave My Account to an Unverified Third Party Just Because They Asked</a></td></tr>
 <tr><td><a href='https://glinscott.github.io/beam-engine/'>The Beam Engine</a></td></tr>
+<tr><td><a href='https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all'>What happened to TheNumbers.com</a></td></tr>
 </table>
 <!-- END:news -->
 
