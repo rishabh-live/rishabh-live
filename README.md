@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-opus-5'>Claude Opus 5</a></td></tr>
-<tr><td><a href='https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize'>Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach</a></td></tr>
+<tr><td><a href='https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/'>The Silurian Hypothesis (2020)</a></td></tr>
 <tr><td><a href='https://dead.garden/blog/how-my-images-are-dithered.html'>My Images Are Dithered</a></td></tr>
-<tr><td><a href='https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld'>Building a Tiny 3D Renderer for a Tiny Handheld</a></td></tr>
+<tr><td><a href='https://supakeen.com/weblog/the-fedora-45-sausage-factory/'>The Fedora 45 Sausage Factory</a></td></tr>
+<tr><td><a href='https://shukla.io/blog/2026-07/cccx.html'>Spatial languages: Writing code in 2D</a></td></tr>
 </table>
 <!-- END:news -->
 
