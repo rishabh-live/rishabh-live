@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td></tr>
-<tr><td><a href='https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/'>The Silurian Hypothesis (2020)</a></td></tr>
-<tr><td><a href='https://dead.garden/blog/how-my-images-are-dithered.html'>My Images Are Dithered</a></td></tr>
-<tr><td><a href='https://supakeen.com/weblog/the-fedora-45-sausage-factory/'>The Fedora 45 Sausage Factory</a></td></tr>
-<tr><td><a href='https://shukla.io/blog/2026-07/cccx.html'>Spatial languages: Writing code in 2D</a></td></tr>
+<tr><td><a href='https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/'>Wind turbine is being used to produce zero-carbon &quot;green ammonia&quot; fertilizer</a></td></tr>
+<tr><td><a href='https://anatolyzenkov.com/stolen-buttons'>Stolen Buttons</a></td></tr>
+<tr><td><a href='https://mohammedshehu.com/checking-for-human-writing-is-daft/'>The whole premise of checking for human writing is daft</a></td></tr>
+<tr><td><a href='https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6'>Bitchat Is Now on Radicle</a></td></tr>
 </table>
 <!-- END:news -->
 
