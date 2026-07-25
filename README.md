@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/'>A 77-year-old Republican man is staging a solo protest against Flock cameras</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/sodium-ion-battery-peak-energy'>GM Backs Sodium Ion Batteries for U.S. Grid Storage</a></td></tr>
-<tr><td><a href='https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models'>The new rules of context engineering for Claude 5 generation models</a></td></tr>
-<tr><td><a href='https://fly.io/blog/kurt-scott-money-sprites/'>Fly.io CEO Kurt Mackey is stepping down</a></td></tr>
 <tr><td><a href='https://didtheyghostyou.com/'>Did They Ghost You?</a></td></tr>
+<tr><td><a href='https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models'>The new rules of context engineering for Claude 5 generation models</a></td></tr>
+<tr><td><a href='https://anatolyzenkov.com/stolen-buttons'>Stolen Buttons</a></td></tr>
+<tr><td><a href='https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/'>Producing ammonia and fertiliser using wind power in Morris, Minnesota</a></td></tr>
 </table>
 <!-- END:news -->
 
