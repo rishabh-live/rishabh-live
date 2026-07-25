@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/'>Producing ammonia and fertiliser using wind power in Morris, Minnesota</a></td></tr>
 <tr><td><a href='https://anatolyzenkov.com/stolen-buttons'>Stolen Buttons</a></td></tr>
-<tr><td><a href='https://github.com/lucid-fabrics/proxmox-bluetooth'>Show HN: Proxmox -&#x3E; Share your host&#x27;s Bluetooth with a VM over the network</a></td></tr>
+<tr><td><a href='https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/'>Producing ammonia and fertiliser using wind power in Morris, Minnesota</a></td></tr>
 <tr><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td></tr>
 <tr><td><a href='https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/'>Open-weight AI is having its Kubernetes moment</a></td></tr>
+<tr><td><a href='https://brandonli.net/semisim/animations'>Show HN: I made some transistor animations</a></td></tr>
 </table>
 <!-- END:news -->
 
