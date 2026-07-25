@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-5'>Claude Opus 5</a></td></tr>
+<tr><td><a href='https://bytecodealliance.org/articles/wasmtime-gc'>GC and Exceptions in Wasmtime</a></td></tr>
 <tr><td><a href='https://www.dbos.dev/blog/postgres-listen-notify-scalability'>Postgres LISTEN&#x2F;NOTIFY actually scales</a></td></tr>
-<tr><td><a href='https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/'>Sperm Whales blow bubbles to achieve restful, vertical sleep</a></td></tr>
-<tr><td><a href='https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/'>India&#x27;s first privately-developed rocket reaches orbit on debut launch</a></td></tr>
-<tr><td><a href='https://hhh.hn/hanwha-github-token/'>My security camera shipped a GitHub admin token in its login page</a></td></tr>
+<tr><td><a href='https://artificialanalysis.ai/models'>Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard</a></td></tr>
+<tr><td><a href='https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc'>Taylor Farms Called White House to Try to Delay Cyclospora Recall</a></td></tr>
 </table>
 <!-- END:news -->
 
