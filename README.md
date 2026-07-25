@@ -24,8 +24,8 @@
 <tr><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-5'>Claude Opus 5</a></td></tr>
 <tr><td><a href='https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize'>Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach</a></td></tr>
+<tr><td><a href='https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld'>Building a Tiny 3D Renderer for a Tiny Handheld</a></td></tr>
 <tr><td><a href='https://bytecodealliance.org/articles/wasmtime-gc'>GC and Exceptions in Wasmtime</a></td></tr>
-<tr><td><a href='https://erinmurphy.dev/projects/project-2/'>NYC Apartment Aquaponics</a></td></tr>
 </table>
 <!-- END:news -->
 
