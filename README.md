@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td></tr>
-<tr><td><a href='https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/'>Wind turbine is being used to produce zero-carbon &quot;green ammonia&quot; fertilizer</a></td></tr>
 <tr><td><a href='https://anatolyzenkov.com/stolen-buttons'>Stolen Buttons</a></td></tr>
-<tr><td><a href='https://mohammedshehu.com/checking-for-human-writing-is-daft/'>The whole premise of checking for human writing is daft</a></td></tr>
+<tr><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td></tr>
+<tr><td><a href='https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/'>Open-weight AI is having its Kubernetes moment. Let&#x27;s not ruin it</a></td></tr>
 <tr><td><a href='https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6'>Bitchat Is Now on Radicle</a></td></tr>
+<tr><td><a href='https://rauno.me/notes/2'>Rauno&#x27;s Field Notes #2</a></td></tr>
 </table>
 <!-- END:news -->
 
