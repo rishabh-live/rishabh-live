@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/'>Android May Soon Restrict On-Device ADB</a></td></tr>
+<tr><td><a href='https://arcprize.org/leaderboard'>ARC-AGI Leaderboard</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/claude-opus-5'>Claude Opus 5</a></td></tr>
 <tr><td><a href='https://bytecodealliance.org/articles/wasmtime-gc'>GC and Exceptions in Wasmtime</a></td></tr>
-<tr><td><a href='https://www.dbos.dev/blog/postgres-listen-notify-scalability'>Postgres LISTEN&#x2F;NOTIFY actually scales</a></td></tr>
-<tr><td><a href='https://artificialanalysis.ai/models'>Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard</a></td></tr>
-<tr><td><a href='https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc'>Taylor Farms Called White House to Try to Delay Cyclospora Recall</a></td></tr>
+<tr><td><a href='https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize'>Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach</a></td></tr>
 </table>
 <!-- END:news -->
 
