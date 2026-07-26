@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://astral.sh/blog/ruff-v0.16.0'>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a></td></tr>
 <tr><td><a href='https://refp.se/articles/your-shell-and-the-magic-colon'>A shell colon does nothing. Use it anyway</a></td></tr>
-<tr><td><a href='https://status.claude.com/incidents/zftg3gqkmv18'>Elevated Errors for Opus 5</a></td></tr>
 <tr><td><a href='https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices'>GrapheneOS protections against data extraction from locked devices</a></td></tr>
-<tr><td><a href='https://blog.ktz.me/esp32-plane-radar/'>An ESP32 based plane radar for my desk</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/German_Peasants%27_War'>German Peasants&#x27; War</a></td></tr>
+<tr><td><a href='https://etbe.coker.com.au/2026/07/24/systemd-linger/'>Systemd Linger</a></td></tr>
 </table>
 <!-- END:news -->
 
