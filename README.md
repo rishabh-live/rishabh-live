@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://spectrum.ieee.org/sodium-ion-battery-peak-energy'>GM Backs Sodium Ion Batteries for U.S. Grid Storage</a></td></tr>
-<tr><td><a href='https://didtheyghostyou.com/'>Did They Ghost You?</a></td></tr>
-<tr><td><a href='https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models'>The new rules of context engineering for Claude 5 generation models</a></td></tr>
+<tr><td><a href='https://www.jetzero.aero'>JetZero</a></td></tr>
 <tr><td><a href='https://anatolyzenkov.com/stolen-buttons'>Stolen Buttons</a></td></tr>
-<tr><td><a href='https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/'>Producing ammonia and fertiliser using wind power in Morris, Minnesota</a></td></tr>
+<tr><td><a href='https://martin.janiczek.cz/2026/07/24/systems-and-delays.html'>Systems and Delays</a></td></tr>
+<tr><td><a href='https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes'>Clinical failure rates over the decades: yikes</a></td></tr>
+<tr><td><a href='https://huggingface.co/owensong/Inflect-Micro-v2'>Inflect-Micro-v2: complete voice in 9.36M parameters</a></td></tr>
 </table>
 <!-- END:news -->
 
