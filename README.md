@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://beyondloom.com/decker/'>Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></td></tr>
 <tr><td><a href='https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/'>It&#x27;s not empowering to hand off the details</a></td></tr>
-<tr><td><a href='https://stephango.com/design-is-compromise'>Design is compromise</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/space-debris-atmosphere-burn-up'>Plasma Tunnels Reveal How Dying Satellites Fall to Earth</a></td></tr>
 <tr><td><a href='https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf'>Introduction to Data-Oriented Design [pdf]</a></td></tr>
-<tr><td><a href='https://swag.htmx.org/en-cad/products/htmx-4-the-game'>Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy</a></td></tr>
+<tr><td><a href='https://stephango.com/design-is-compromise'>Design is compromise</a></td></tr>
 </table>
 <!-- END:news -->
 
