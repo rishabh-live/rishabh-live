@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://astral.sh/blog/ruff-v0.16.0'>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a></td></tr>
+<tr><td><a href='https://pkg.go.dev/golang.org/x/tools/go/analysis'>Go Analysis Framework: modular static analysis by go team</a></td></tr>
+<tr><td><a href='https://english.mapn.ro/'>Third Drone Shot Down in Three Days in Romanian Territory</a></td></tr>
+<tr><td><a href='https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c'>Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake</a></td></tr>
 <tr><td><a href='https://refp.se/articles/your-shell-and-the-magic-colon'>A shell colon does nothing. Use it anyway</a></td></tr>
-<tr><td><a href='https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices'>GrapheneOS protections against data extraction from locked devices</a></td></tr>
-<tr><td><a href='https://en.wikipedia.org/wiki/German_Peasants%27_War'>German Peasants&#x27; War</a></td></tr>
-<tr><td><a href='https://etbe.coker.com.au/2026/07/24/systemd-linger/'>Systemd Linger</a></td></tr>
 </table>
 <!-- END:news -->
 
