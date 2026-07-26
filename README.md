@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://astral.sh/blog/ruff-v0.16.0'>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a></td></tr>
+<tr><td><a href='https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/'>Park by Robot at London Gatwick Airport</a></td></tr>
 <tr><td><a href='https://pkg.go.dev/golang.org/x/tools/go/analysis'>Go Analysis Framework: modular static analysis by go team</a></td></tr>
-<tr><td><a href='https://english.mapn.ro/'>Third Drone Shot Down in Three Days in Romanian Territory</a></td></tr>
+<tr><td><a href='https://astral.sh/blog/ruff-v0.16.0'>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a></td></tr>
 <tr><td><a href='https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c'>Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake</a></td></tr>
-<tr><td><a href='https://refp.se/articles/your-shell-and-the-magic-colon'>A shell colon does nothing. Use it anyway</a></td></tr>
+<tr><td><a href='https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices'>GrapheneOS protections against data extraction from locked devices</a></td></tr>
 </table>
 <!-- END:news -->
 
