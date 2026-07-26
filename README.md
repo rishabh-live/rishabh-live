@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.ktz.me/esp32-plane-radar/'>An ESP32 based plane radar for my desk</a></td></tr>
-<tr><td><a href='https://www.jetzero.aero'>JetZero</a></td></tr>
 <tr><td><a href='https://refp.se/articles/your-shell-and-the-magic-colon'>A shell colon does nothing. Use it anyway</a></td></tr>
-<tr><td><a href='https://golfcoursebrowser.com/'>Show HN: I mapped every US golf course</a></td></tr>
+<tr><td><a href='https://blog.ktz.me/esp32-plane-radar/'>An ESP32 based plane radar for my desk</a></td></tr>
+<tr><td><a href='https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices'>GrapheneOS protections against data extraction from locked devices</a></td></tr>
 <tr><td><a href='https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models'>The new rules of context engineering for Claude 5 generation models</a></td></tr>
+<tr><td><a href='https://golfcoursebrowser.com/'>Show HN: I mapped every US golf course</a></td></tr>
 </table>
 <!-- END:news -->
 
