@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/'>Park by Robot at London Gatwick Airport</a></td></tr>
-<tr><td><a href='https://killthecookiebanner.eu/'>Kill The Cookie Banner</a></td></tr>
-<tr><td><a href='https://stephango.com/design-is-compromise'>Design Is Compromise</a></td></tr>
-<tr><td><a href='https://github.com/gmrandazzo/CheapSecurity'>Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs</a></td></tr>
-<tr><td><a href='https://astral.sh/blog/ruff-v0.16.0'>Ruff v0.16.0 – Significant new updates – 413 default rules up from 59</a></td></tr>
+<tr><td><a href='https://beyondloom.com/decker/'>Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></td></tr>
+<tr><td><a href='https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/'>London Gatwick has launched a robotic airport parking service</a></td></tr>
+<tr><td><a href='https://stephango.com/design-is-compromise'>Design is compromise</a></td></tr>
+<tr><td><a href='https://github.com/hertz-ai/HARTOS'>Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter</a></td></tr>
+<tr><td><a href='https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/'>How to Block Some of the Bots</a></td></tr>
 </table>
 <!-- END:news -->
 
