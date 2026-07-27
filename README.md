@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.anthropic.com/news/position-open-weights-models'>Our position on open-weights models</a></td></tr>
 <tr><td><a href='https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html'>Watching Go&#x27;s new garbage collector move through the heap</a></td></tr>
 <tr><td><a href='https://www.rise-reforming.com'>Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals</a></td></tr>
+<tr><td><a href='https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/'>Securing Services with Rootless Containers</a></td></tr>
 <tr><td><a href='https://gregoryszorc.com/docs/python-build-standalone/main/'>Self-contained highly-portable Python distributions</a></td></tr>
-<tr><td><a href='https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/'>Ray tracing massive amounts of animated geometry using tetrahedral cages</a></td></tr>
-<tr><td><a href='https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07'>Glue bonds to nonstick surfaces and wipes clean with ethanol</a></td></tr>
 </table>
 <!-- END:news -->
 
