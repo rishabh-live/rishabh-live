@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://huggingface.co/moonshotai/Kimi-K3'>Kimi-K3 Releases on HuggingFace 7&#x2F;27</a></td></tr>
 <tr><td><a href='https://nikolays.github.io/PGSimCity/'>PGSimCity - How PostgreSQL Works</a></td></tr>
 <tr><td><a href='https://blackhole.plav.in'>Show HN: Physically accurate black hole you can put in your room</a></td></tr>
-<tr><td><a href='https://muchmirul.github.io/jacobian-conjecture/'>Jacobian Conjecture for Baby</a></td></tr>
-<tr><td><a href='https://beyondloom.com/decker/'>Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></td></tr>
 <tr><td><a href='https://github.com/vercel-labs/scriptc'>Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary</a></td></tr>
+<tr><td><a href='https://beyondloom.com/decker/'>Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></td></tr>
 </table>
 <!-- END:news -->
 
