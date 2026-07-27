@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/experientiallabs/world-model-optimizer'>Show HN: Distill and serve small models with frontier quality for half the cost</a></td></tr>
+<tr><td><a href='https://nikolays.github.io/PGSimCity/'>PGSimCity - How PostgreSQL Works</a></td></tr>
+<tr><td><a href='https://blackhole.plav.in'>Show HN: Physically accurate black hole you can put in your room</a></td></tr>
+<tr><td><a href='https://muchmirul.github.io/jacobian-conjecture/'>Jacobian Conjecture for Baby</a></td></tr>
 <tr><td><a href='https://beyondloom.com/decker/'>Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></td></tr>
-<tr><td><a href='https://gracefulliberty.com/articles/teaching-kids-forth/'>Teaching Kids Forth</a></td></tr>
-<tr><td><a href='https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/'>I wanted a clock that never needed setting. Things escalated</a></td></tr>
-<tr><td><a href='https://github.com/AARomanov1985/Audio-Cassette-Simulation'>Simulate cassette tape audio profiles using FFmpeg</a></td></tr>
+<tr><td><a href='https://github.com/vercel-labs/scriptc'>Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary</a></td></tr>
 </table>
 <!-- END:news -->
 
