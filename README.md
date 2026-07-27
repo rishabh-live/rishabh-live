@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://huggingface.co/moonshotai/Kimi-K3'>Kimi-K3 Releases on HuggingFace 7&#x2F;27</a></td></tr>
-<tr><td><a href='https://www.harpguitars.net/history/grunewald/12-string.htm'>The Birth of the American 12-string Guitar</a></td></tr>
-<tr><td><a href='https://nikolays.github.io/PGSimCity/'>PGSimCity - How PostgreSQL Works</a></td></tr>
+<tr><td><a href='https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html'>Should you wash your solar panels?</a></td></tr>
 <tr><td><a href='https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html'>How is the Bun Rewrite in Rust going?</a></td></tr>
-<tr><td><a href='https://mymodernmet.com/magnolia-ancient-flowers-beetles/'>Magnolias Are So Old That They&#x27;re Pollinated by Beetles, Not Bees</a></td></tr>
+<tr><td><a href='https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/'>Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)</a></td></tr>
+<tr><td><a href='https://xcancel.com/HedgieMarkets/status/2081534588485296565'>AI companies are shredding rare books</a></td></tr>
 </table>
 <!-- END:news -->
 
