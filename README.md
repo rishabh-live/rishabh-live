@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf'>Kimi-K3 Technical Report [pdf]</a></td></tr>
-<tr><td><a href='https://huggingface.co/moonshotai/Kimi-K3'>Kimi-K3 Releases on HuggingFace 7&#x2F;27</a></td></tr>
+<tr><td><a href='https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/'>MAI-Cyber 1</a></td></tr>
+<tr><td><a href='https://huggingface.co/moonshotai/Kimi-K3'>Kimi-K3 on HuggingFace</a></td></tr>
 <tr><td><a href='https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07'>Glue bonds to nonstick surfaces and wipes clean with ethanol</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/colossus-computer-ieee-milestone'>The Computer That Helped Win World War II</a></td></tr>
-<tr><td><a href='https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/'>Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/colossus-computer-ieee-milestone'>The computer that helped win World War II</a></td></tr>
+<tr><td><a href='https://usefeyn.com/blog/feynobg/'>Show HN: FeyNoBg – Automatic background removal model and training library</a></td></tr>
 </table>
 <!-- END:news -->
 
