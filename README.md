@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/experientiallabs/world-model-optimizer'>Show HN: Distill and serve small models with frontier quality for half the cost</a></td></tr>
 <tr><td><a href='https://beyondloom.com/decker/'>Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></td></tr>
-<tr><td><a href='https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/'>It&#x27;s not empowering to hand off the details</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/space-debris-atmosphere-burn-up'>Plasma Tunnels Reveal How Dying Satellites Fall to Earth</a></td></tr>
-<tr><td><a href='https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf'>Introduction to Data-Oriented Design [pdf]</a></td></tr>
-<tr><td><a href='https://stephango.com/design-is-compromise'>Design is compromise</a></td></tr>
+<tr><td><a href='https://gracefulliberty.com/articles/teaching-kids-forth/'>Teaching Kids Forth</a></td></tr>
+<tr><td><a href='https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/'>I wanted a clock that never needed setting. Things escalated</a></td></tr>
+<tr><td><a href='https://github.com/AARomanov1985/Audio-Cassette-Simulation'>Simulate cassette tape audio profiles using FFmpeg</a></td></tr>
 </table>
 <!-- END:news -->
 
