@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://huggingface.co/moonshotai/Kimi-K3'>Kimi-K3 Releases on HuggingFace 7&#x2F;27</a></td></tr>
+<tr><td><a href='https://www.harpguitars.net/history/grunewald/12-string.htm'>The Birth of the American 12-string Guitar</a></td></tr>
 <tr><td><a href='https://nikolays.github.io/PGSimCity/'>PGSimCity - How PostgreSQL Works</a></td></tr>
-<tr><td><a href='https://blackhole.plav.in'>Show HN: Physically accurate black hole you can put in your room</a></td></tr>
-<tr><td><a href='https://github.com/vercel-labs/scriptc'>Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary</a></td></tr>
-<tr><td><a href='https://beyondloom.com/decker/'>Decker, a platform that builds on the legacy of Hypercard and classic macOS</a></td></tr>
+<tr><td><a href='https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html'>How is the Bun Rewrite in Rust going?</a></td></tr>
+<tr><td><a href='https://mymodernmet.com/magnolia-ancient-flowers-beetles/'>Magnolias Are So Old That They&#x27;re Pollinated by Beetles, Not Bees</a></td></tr>
 </table>
 <!-- END:news -->
 
