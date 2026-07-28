@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention'>You Could Have Come Up with Kimi Delta Attention</a></td></tr>
+<tr><td><a href='https://www.slow-journalism.com/'>Delayed Gratification – Proud to Be &#x27;Last to Breaking News&#x27;</a></td></tr>
+<tr><td><a href='https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/'>How Do I Profile eBPF Code?</a></td></tr>
 <tr><td><a href='https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en'>7.1 Earthquake in Japan</a></td></tr>
-<tr><td><a href='https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/'>New HIV vaccine shows unprecedented success in preclinical study</a></td></tr>
-<tr><td><a href='https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link'>Show HN: tale.fyi, we deserve a home for fiction</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2510.26692'>Kimi Linear: An Expressive, Efficient Attention Architecture</a></td></tr>
-<tr><td><a href='https://github.com/schildep/verified-3d-mesh-intersection'>Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code</a></td></tr>
+<tr><td><a href='https://mlugg.co.uk/posts/incremental-compilation-internals/'>Zig&#x27;s Incremental Compilation Internals</a></td></tr>
 </table>
 <!-- END:news -->
 
