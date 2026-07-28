@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/position-open-weights-models'>Our position on open-weights models</a></td></tr>
+<tr><td><a href='https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/'>Using an open model feels surprisingly good</a></td></tr>
+<tr><td><a href='https://fermisense.com/when-machines-take-the-wheel/'>A $500 RL fine-tune of a 9B open model beat frontier models on catalog review</a></td></tr>
 <tr><td><a href='https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md'>Benchmarking Opus 5 on SlopCodeBench</a></td></tr>
-<tr><td><a href='https://dconf.org/2026/index.html'>DConf 2026 in London</a></td></tr>
-<tr><td><a href='https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html'>Watching Go&#x27;s new garbage collector move through the heap</a></td></tr>
-<tr><td><a href='https://github.com/allyourcodebase'>C&#x2F;C++ projects packaged for Zig</a></td></tr>
+<tr><td><a href='https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/'>Astronauts describe persistent &#x27;observer&#x27; sensation after 6 month missions</a></td></tr>
 </table>
 <!-- END:news -->
 
