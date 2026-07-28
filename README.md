@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention'>You Could Have Come Up with Kimi Delta Attention</a></td></tr>
-<tr><td><a href='https://sbcl.org/all-news.html?2.6.7'>Steel Bank Common Lisp version 2.6.7</a></td></tr>
-<tr><td><a href='https://www.slow-journalism.com/'>Delayed Gratification – Proud to Be &#x27;Last to Breaking News&#x27;</a></td></tr>
-<tr><td><a href='https://mlugg.co.uk/posts/incremental-compilation-internals/'>Zig&#x27;s Incremental Compilation Internals</a></td></tr>
-<tr><td><a href='https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en'>7.1 Earthquake in Japan</a></td></tr>
+<tr><td><a href='https://deflockcg.com/'>Deflock Casa Grande</a></td></tr>
+<tr><td><a href='https://grapheneos.org/donate'>Donate to GrapheneOS</a></td></tr>
+<tr><td><a href='https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/'>Substack writers, you need a website</a></td></tr>
+<tr><td><a href='https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention'>A walk through of the DeltaNet family of linear attention variants</a></td></tr>
+<tr><td><a href='https://github.com/astral-sh/uv/releases/tag/0.12.0'>uv 0.12.0</a></td></tr>
 </table>
 <!-- END:news -->
 
