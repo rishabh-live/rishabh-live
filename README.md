@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention'>You Could Have Come Up with Kimi Delta Attention</a></td></tr>
+<tr><td><a href='https://sbcl.org/all-news.html?2.6.7'>Steel Bank Common Lisp version 2.6.7</a></td></tr>
 <tr><td><a href='https://www.slow-journalism.com/'>Delayed Gratification – Proud to Be &#x27;Last to Breaking News&#x27;</a></td></tr>
-<tr><td><a href='https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/'>How Do I Profile eBPF Code?</a></td></tr>
-<tr><td><a href='https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en'>7.1 Earthquake in Japan</a></td></tr>
 <tr><td><a href='https://mlugg.co.uk/posts/incremental-compilation-internals/'>Zig&#x27;s Incremental Compilation Internals</a></td></tr>
+<tr><td><a href='https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en'>7.1 Earthquake in Japan</a></td></tr>
 </table>
 <!-- END:news -->
 
