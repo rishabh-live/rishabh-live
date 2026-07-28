@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://deflockcg.com/'>Deflock Casa Grande</a></td></tr>
-<tr><td><a href='https://grapheneos.org/donate'>Donate to GrapheneOS</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex-security'>OpenAI just open-sourced Codex Security</a></td></tr>
 <tr><td><a href='https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/'>Substack writers, you need a website</a></td></tr>
-<tr><td><a href='https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention'>A walk through of the DeltaNet family of linear attention variants</a></td></tr>
-<tr><td><a href='https://github.com/astral-sh/uv/releases/tag/0.12.0'>uv 0.12.0</a></td></tr>
+<tr><td><a href='https://sbcl.org/all-news.html?2.6.7'>Steel Bank Common Lisp version 2.6.7</a></td></tr>
+<tr><td><a href='https://mac-classic.com/news/half-life-ported-to-mac-os-9/'>Half-Life ported to Mac OS 9</a></td></tr>
+<tr><td><a href='https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html'>Kimi K3 Architecture Overview and Notes</a></td></tr>
 </table>
 <!-- END:news -->
 
