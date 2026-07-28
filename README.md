@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en'>7.1 Earthquake in Japan</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/news/position-open-weights-models'>Our position on open-weights models</a></td></tr>
-<tr><td><a href='https://arsastronomica.com/'>Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts</a></td></tr>
-<tr><td><a href='https://www.fermionresearch.com/models/neutrino-8b/'>Neutrino-1 8B</a></td></tr>
+<tr><td><a href='https://var0.xyz/posts/what-even-are-microservices.html'>What Even Are Microservices?</a></td></tr>
 <tr><td><a href='https://fermisense.com/when-machines-take-the-wheel/'>A $500 RL fine-tune of a 9B open model beat frontier models on catalog review</a></td></tr>
-<tr><td><a href='https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/'>Using an open model feels surprisingly good</a></td></tr>
+<tr><td><a href='https://support.apple.com/en-us/128067'>About the security content of macOS Tahoe 26.6</a></td></tr>
 </table>
 <!-- END:news -->
 
