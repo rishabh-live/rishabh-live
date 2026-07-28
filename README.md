@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en'>7.1 Earthquake in Japan</a></td></tr>
-<tr><td><a href='https://support.apple.com/en-us/128067'>About the security content of macOS Tahoe 26.6</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/position-open-weights-models'>Our position on open-weights models</a></td></tr>
-<tr><td><a href='https://spawn-queue.acm.org/doi/10.1145/3819083'>Google&#x27;s Beyond Zero: Enterprise Security for the AI Era</a></td></tr>
-<tr><td><a href='https://taxa.substack.com/p/how-to-survive-boiling-water'>How to Survive Boiling Water</a></td></tr>
+<tr><td><a href='https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/'>New HIV vaccine shows unprecedented success in preclinical study</a></td></tr>
+<tr><td><a href='https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link'>Show HN: tale.fyi, we deserve a home for fiction</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2510.26692'>Kimi Linear: An Expressive, Efficient Attention Architecture</a></td></tr>
+<tr><td><a href='https://github.com/schildep/verified-3d-mesh-intersection'>Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code</a></td></tr>
 </table>
 <!-- END:news -->
 
