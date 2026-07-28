@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/position-open-weights-models'>Our position on open-weights models</a></td></tr>
+<tr><td><a href='https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md'>Benchmarking Opus 5 on SlopCodeBench</a></td></tr>
+<tr><td><a href='https://dconf.org/2026/index.html'>DConf 2026 in London</a></td></tr>
 <tr><td><a href='https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html'>Watching Go&#x27;s new garbage collector move through the heap</a></td></tr>
-<tr><td><a href='https://www.rise-reforming.com'>Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals</a></td></tr>
-<tr><td><a href='https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/'>Securing Services with Rootless Containers</a></td></tr>
-<tr><td><a href='https://gregoryszorc.com/docs/python-build-standalone/main/'>Self-contained highly-portable Python distributions</a></td></tr>
+<tr><td><a href='https://github.com/allyourcodebase'>C&#x2F;C++ projects packaged for Zig</a></td></tr>
 </table>
 <!-- END:news -->
 
