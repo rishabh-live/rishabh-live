@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes'>More Tailscale tricks for your jailbroken Kindle</a></td></tr>
 <tr><td><a href='https://www.datagubbe.se/scenegui/'>User Interfaces of the Demo Scene</a></td></tr>
+<tr><td><a href='https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers'>SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers</a></td></tr>
+<tr><td><a href='https://letoverlambda.com/textmode.cl/guest/chap8.html'>Lisp moving Forth moving Lisp</a></td></tr>
 <tr><td><a href='https://github.com/openai/codex-security'>Codex Security</a></td></tr>
-<tr><td><a href='https://learnvector.ai/'>LearnVector – Andrew Ng&#x27;s AI company building one‑to‑one learning experiences</a></td></tr>
-<tr><td><a href='https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html'>Cracking Windows Open: Porting RADV to Win32</a></td></tr>
 </table>
 <!-- END:news -->
 
