@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes'>More Tailscale tricks for your jailbroken Kindle</a></td></tr>
+<tr><td><a href='https://www.datagubbe.se/scenegui/'>User Interfaces of the Demo Scene</a></td></tr>
 <tr><td><a href='https://github.com/openai/codex-security'>Codex Security</a></td></tr>
 <tr><td><a href='https://learnvector.ai/'>LearnVector – Andrew Ng&#x27;s AI company building one‑to‑one learning experiences</a></td></tr>
-<tr><td><a href='https://github.com/twalichiewicz/HNewhere'>Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript</a></td></tr>
-<tr><td><a href='https://mac-classic.com/news/half-life-ported-to-mac-os-9/'>Half-Life ported to Mac OS 9</a></td></tr>
-<tr><td><a href='https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/'>Substack writers, you need a website</a></td></tr>
+<tr><td><a href='https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html'>Cracking Windows Open: Porting RADV to Win32</a></td></tr>
 </table>
 <!-- END:news -->
 
