@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/drumih/turbo-fieldfare'>Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac</a></td></tr>
 <tr><td><a href='https://www.superlogical.com/'>Superlogical</a></td></tr>
+<tr><td><a href='https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice'>Keychron announces first open-source firmware for gaming mice</a></td></tr>
 <tr><td><a href='https://koreader.rocks/'>KOReader</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2607.25398'>Handbook.md shows that long policy documents do not reliably govern agents</a></td></tr>
-<tr><td><a href='https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice'>Keychron announces first open-source firmware for gaming mice</a></td></tr>
 </table>
 <!-- END:news -->
 
