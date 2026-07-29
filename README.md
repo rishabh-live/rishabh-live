@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/drumih/turbo-fieldfare'>Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac</a></td></tr>
 <tr><td><a href='https://koreader.rocks/'>KOReader</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2607.25398'>Handbook.md shows that long policy documents do not reliably govern agents</a></td></tr>
-<tr><td><a href='https://tracewayapp.com/blog/sqlite-vs-duckdb'>Choose DuckDB rather than SQLite</a></td></tr>
-<tr><td><a href='https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/'>Document-borne AI worms can self-propagate through Copilot for Word</a></td></tr>
-<tr><td><a href='https://www.darktable.org/'>Darktable</a></td></tr>
+<tr><td><a href='https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html'>Hugging Face: Anatomy of a frontier-lab agent intrusion</a></td></tr>
+<tr><td><a href='https://usetokenless.com/'>Launch HN: Tokenless (YC S26) – Automatic model switching to save money</a></td></tr>
 </table>
 <!-- END:news -->
 
