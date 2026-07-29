@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/openai/codex-security'>OpenAI just open-sourced Codex Security</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex-security'>Codex Security</a></td></tr>
 <tr><td><a href='https://mac-classic.com/news/half-life-ported-to-mac-os-9/'>Half-Life ported to Mac OS 9</a></td></tr>
-<tr><td><a href='https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/'>Substack writers, you need a website</a></td></tr>
-<tr><td><a href='https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn'>Underwater Oxygen Loss Threatens Earth&#x27;s Stability, Researchers Warn</a></td></tr>
 <tr><td><a href='https://github.com/twalichiewicz/HNewhere'>Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript</a></td></tr>
+<tr><td><a href='https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/'>Substack writers, you need a website</a></td></tr>
+<tr><td><a href='https://unplannedobsolescence.com/blog/buttons-vs-links/'>The Difference Between a Button and a Link</a></td></tr>
 </table>
 <!-- END:news -->
 
