@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://koreader.rocks/'>KOReader</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2607.25398'>Handbook.md shows that long policy documents do not reliably govern agents</a></td></tr>
+<tr><td><a href='https://tracewayapp.com/blog/sqlite-vs-duckdb'>Choose DuckDB rather than SQLite</a></td></tr>
 <tr><td><a href='https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/'>Document-borne AI worms can self-propagate through Copilot for Word</a></td></tr>
-<tr><td><a href='https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes'>More Tailscale tricks for your jailbroken Kindle</a></td></tr>
-<tr><td><a href='https://amiga.lychesis.net/index.html'>Amiga Graphics Archive</a></td></tr>
-<tr><td><a href='https://docs.imiron.io/v/0.5.10/en/tour.html'>SpecForge – A Platform for Authoring Formal Specifications</a></td></tr>
+<tr><td><a href='https://www.darktable.org/'>Darktable</a></td></tr>
 </table>
 <!-- END:news -->
 
