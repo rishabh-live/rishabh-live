@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://christianselig.com/2026/07/vision-pro-house/'>The coolest use for the Vision Pro</a></td></tr>
-<tr><td><a href='https://www.kimi.com/code/docs/en/kimi-code/models'>Kimi K3-256k</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research'>AI&#x27;s top startups are barely publishing their research</a></td></tr>
 <tr><td><a href='https://github.com/drumih/turbo-fieldfare'>Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac</a></td></tr>
-<tr><td><a href='https://huggingface.co/blog/agent-intrusion-technical-timeline'>Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident</a></td></tr>
 <tr><td><a href='https://www.superlogical.com/'>Superlogical</a></td></tr>
+<tr><td><a href='https://www.kimi.com/code/docs/en/kimi-code/models'>Kimi K3-256k</a></td></tr>
 </table>
 <!-- END:news -->
 
