@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://koreader.rocks/'>KOReader</a></td></tr>
+<tr><td><a href='https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/'>Document-borne AI worms can self-propagate through Copilot for Word</a></td></tr>
 <tr><td><a href='https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes'>More Tailscale tricks for your jailbroken Kindle</a></td></tr>
-<tr><td><a href='https://www.datagubbe.se/scenegui/'>User Interfaces of the Demo Scene</a></td></tr>
-<tr><td><a href='https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers'>SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers</a></td></tr>
-<tr><td><a href='https://letoverlambda.com/textmode.cl/guest/chap8.html'>Lisp moving Forth moving Lisp</a></td></tr>
-<tr><td><a href='https://github.com/openai/codex-security'>Codex Security</a></td></tr>
+<tr><td><a href='https://amiga.lychesis.net/index.html'>Amiga Graphics Archive</a></td></tr>
+<tr><td><a href='https://docs.imiron.io/v/0.5.10/en/tour.html'>SpecForge – A Platform for Authoring Formal Specifications</a></td></tr>
 </table>
 <!-- END:news -->
 
