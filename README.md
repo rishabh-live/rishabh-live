@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bennuttall.com/blog/2026/07/gpiozero-flow/'>Gpiozero Flow</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Azulejo'>Azulejo</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research'>AI&#x27;s top startups are barely publishing their research</a></td></tr>
+<tr><td><a href='https://docs.carolinacloud.io/organizations/prepaid-interest/'>Carolina Cloud pays SOFR on unused prepaid credits</a></td></tr>
 <tr><td><a href='https://christianselig.com/2026/07/vision-pro-house/'>The coolest use for the Vision Pro</a></td></tr>
-<tr><td><a href='https://github.com/drumih/turbo-fieldfare'>Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac</a></td></tr>
-<tr><td><a href='https://www.superlogical.com/'>Superlogical</a></td></tr>
-<tr><td><a href='https://llm2human.pages.dev/'>LLM Honeypot</a></td></tr>
 </table>
 <!-- END:news -->
 
