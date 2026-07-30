@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/'>Read this before you buy that TV streaming stick</a></td></tr>
-<tr><td><a href='https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/'>Advancing the price-performance frontier with GPT‑5.6</a></td></tr>
 <tr><td><a href='https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/'>Gemini Robotics 2 brings whole body intelligence to robots</a></td></tr>
-<tr><td><a href='https://www.dbos.dev/blog/making-postgres-queues-scale'>Postgres Queues Actually Scale</a></td></tr>
 <tr><td><a href='https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/'>Stacked PRs are now live on GitHub</a></td></tr>
+<tr><td><a href='https://obryant.dev/p/2x-not-10x/'>2x, not 10x: coding with LLMs in 2026</a></td></tr>
+<tr><td><a href='https://dynomight.net/plants/'>So you want to use plants to reduce CO₂</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -114,6 +114,7 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+<tr><td>Created repository</td><td><a href='https://github.com/rishabh-live/th26'>rishabh-live/th26</a></td><td>-</td></tr>
 </table>
 <!-- END:github_activity -->
 
