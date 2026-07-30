@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/'>Advancing the price-performance frontier with GPT‑5.6</a></td></tr>
 <tr><td><a href='https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/'>Gemini Robotics 2 brings whole body intelligence to robots</a></td></tr>
-<tr><td><a href='https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/'>The Lost Civic Life of Movie Rental Stores</a></td></tr>
-<tr><td><a href='https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/'>Paging Through a Parquet File in DuckDB: File_row_number or Offset?</a></td></tr>
-<tr><td><a href='https://github.com/n67094/sdl_gp'>SDL_GPU minimal, single-header, high-performance 2D graphics painting library</a></td></tr>
-<tr><td><a href='https://prized.dev'>Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools</a></td></tr>
+<tr><td><a href='https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/'>Read This Before You Buy That TV Streaming Stick</a></td></tr>
+<tr><td><a href='https://www.bottlenecklabs.com/blog/autonomously-run-businesses'>We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/'>Physicists Solve a Muon Mystery. Now, Old Results Don&#x27;t Add Up</a></td></tr>
 </table>
 <!-- END:news -->
 
