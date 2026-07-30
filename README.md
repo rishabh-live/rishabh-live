@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://remysharp.com/links/2026-07-23-35890312'>&#x27;VPNs are lawful technical tools,&#x27; says EU Court in landmark copyright ruling</a></td></tr>
-<tr><td><a href='https://mnot.net/blog/2020/for_the_users'>RFC 8890 – The Internet is for End Users (2020)</a></td></tr>
-<tr><td><a href='https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a'>Why Is Everyone Trying to Build a Solid-State Battery?</a></td></tr>
-<tr><td><a href='https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/'>How Old Is Ann?</a></td></tr>
+<tr><td><a href='https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/'>Gemini Robotics 2 brings whole body intelligence to robots</a></td></tr>
+<tr><td><a href='https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/'>The Lost Civic Life of Movie Rental Stores</a></td></tr>
+<tr><td><a href='https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/'>Paging Through a Parquet File in DuckDB: File_row_number or Offset?</a></td></tr>
+<tr><td><a href='https://github.com/n67094/sdl_gp'>SDL_GPU minimal, single-header, high-performance 2D graphics painting library</a></td></tr>
 <tr><td><a href='https://prized.dev'>Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools</a></td></tr>
 </table>
 <!-- END:news -->
