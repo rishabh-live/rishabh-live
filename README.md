@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tailscale.com/blog/hugging-face-intrusion'>Tailscale didn&#x27;t stop the Hugging Face intrusion</a></td></tr>
 <tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
 <tr><td><a href='https://github.com/yc-software/qm'>qm</a></td></tr>
-<tr><td><a href='https://tailscale.com/blog/hugging-face-intrusion'>Tailscale didn&#x27;t stop the Hugging Face intrusion</a></td></tr>
-<tr><td><a href='https://www.lighthousereports.com/investigation/big-food-vs-the-people/'>Big Food vs. the People</a></td></tr>
-<tr><td><a href='https://github.com/l00sed/termixer'>Termixer (TUI DJ Mixer)</a></td></tr>
+<tr><td><a href='https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/'>Apple Will &#x27;Watch Everything Burn&#x27; When AI Bubble Bursts</a></td></tr>
+<tr><td><a href='https://github.com/golang/go/issues/80590'>Golang proposal: container&#x2F;: generic collection types</a></td></tr>
 </table>
 <!-- END:news -->
 
