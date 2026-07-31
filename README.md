@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://earendil.com/posts/session-portability/'>The session you cannot take with you</a></td></tr>
+<tr><td><a href='https://artificialanalysis.ai/models/deepseek-v4-flash-ga'>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</a></td></tr>
 <tr><td><a href='https://github.com/openjdk/jdk/pull/31120'>JEP 401: Value Objects (Preview) merged to OpenJDK master</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cn0nqv05g0do'>Danube&#x27;s record low levels force shutdown of Hungary&#x27;s only nuclear plant</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/updates/'>DeepSeek-V4-Flash Update</a></td></tr>
-<tr><td><a href='https://blog.google/security/chrome-stronger-with-every-update/'>Google fixed more Chrome bugs in June than over the past two years, thanks to AI</a></td></tr>
+<tr><td><a href='https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/'>Stacked PRs are now live on GitHub</a></td></tr>
 </table>
 <!-- END:news -->
 
