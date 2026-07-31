@@ -24,8 +24,8 @@
 <tr><td><a href='https://tailscale.com/blog/hugging-face-intrusion'>Tailscale didn&#x27;t stop the Hugging Face intrusion</a></td></tr>
 <tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
 <tr><td><a href='https://github.com/yc-software/qm'>qm</a></td></tr>
-<tr><td><a href='https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/'>Apple Will &#x27;Watch Everything Burn&#x27; When AI Bubble Bursts</a></td></tr>
-<tr><td><a href='https://github.com/golang/go/issues/80590'>Golang proposal: container&#x2F;: generic collection types</a></td></tr>
+<tr><td><a href='https://weeraman.com/because-we-can/'>Twenty-five years ago it was cryptography, today it&#x27;s model weights</a></td></tr>
+<tr><td><a href='https://maurycyz.com/misc/tungsten/'>Increasing the lifespan of a bulb makes it worse in every other way</a></td></tr>
 </table>
 <!-- END:news -->
 
