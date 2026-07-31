@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return'>A California aquifer may have crossed the point of no return</a></td></tr>
+<tr><td><a href='https://blog.jim-nielsen.com/2026/ai-aesthetic/'>The AI Aesthetic</a></td></tr>
 <tr><td><a href='https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/'>Read this before you buy that TV streaming stick</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals'>Investigating three real-world incidents in our cybersecurity evaluations</a></td></tr>
-<tr><td><a href='https://github.com/AminBlg/SimpleEnglish'>Agent Skill to Force Docs in ASD-STE100 Simplified Technical English</a></td></tr>
-<tr><td><a href='https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/'>Stacked PRs are now live on GitHub</a></td></tr>
 <tr><td><a href='https://geospatialml.com/posts/reviewing-ai-slop/'>I flagged two research papers for fake authors and both were accepted as orals</a></td></tr>
+<tr><td><a href='https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/'>Stacked PRs are now live on GitHub</a></td></tr>
 </table>
 <!-- END:news -->
 
