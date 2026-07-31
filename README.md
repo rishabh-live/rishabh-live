@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
+<tr><td><a href='https://github.com/yc-software/qm'>qm</a></td></tr>
+<tr><td><a href='https://tailscale.com/blog/hugging-face-intrusion'>Tailscale didn&#x27;t stop the Hugging Face intrusion</a></td></tr>
 <tr><td><a href='https://www.lighthousereports.com/investigation/big-food-vs-the-people/'>Big Food vs. the People</a></td></tr>
-<tr><td><a href='https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/'>Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio</a></td></tr>
-<tr><td><a href='https://artificialanalysis.ai/models/deepseek-v4-flash'>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</a></td></tr>
-<tr><td><a href='https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/'>Algorithms on billion-scale graph using 10GB RAM: I love DataFusion</a></td></tr>
+<tr><td><a href='https://github.com/l00sed/termixer'>Termixer (TUI DJ Mixer)</a></td></tr>
 </table>
 <!-- END:news -->
 
