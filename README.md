@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://artificialanalysis.ai/models/deepseek-v4-flash-ga'>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</a></td></tr>
-<tr><td><a href='https://blog.google/security/chrome-stronger-with-every-update/'>Google fixed more Chrome bugs in June than over the past two years, thanks to AI</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2607.27197'>The Maxwell Conjecture Is False (GPT 5.6 Sol)</a></td></tr>
-<tr><td><a href='https://earendil.com/posts/session-portability/'>The session you cannot take with you</a></td></tr>
-<tr><td><a href='https://hyperbo.la/w/winding-down-artichoke-ruby/'>Winding Down Artichoke Ruby</a></td></tr>
+<tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
+<tr><td><a href='https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol'>Dubious research tied to Red Bull has shaped energy drink policy</a></td></tr>
+<tr><td><a href='https://www.lighthousereports.com/investigation/big-food-vs-the-people/'>Big Food vs. the People</a></td></tr>
+<tr><td><a href='https://artificialanalysis.ai/models/deepseek-v4-flash'>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</a></td></tr>
+<tr><td><a href='https://uml.gpmai.workers.dev'>Show HN: Shared memory graph for Claude and ChatGPT, over MCP</a></td></tr>
 </table>
 <!-- END:news -->
 
