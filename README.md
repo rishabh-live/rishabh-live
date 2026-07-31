@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
-<tr><td><a href='https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol'>Dubious research tied to Red Bull has shaped energy drink policy</a></td></tr>
 <tr><td><a href='https://www.lighthousereports.com/investigation/big-food-vs-the-people/'>Big Food vs. the People</a></td></tr>
+<tr><td><a href='https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/'>Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio</a></td></tr>
 <tr><td><a href='https://artificialanalysis.ai/models/deepseek-v4-flash'>DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis</a></td></tr>
-<tr><td><a href='https://uml.gpmai.workers.dev'>Show HN: Shared memory graph for Claude and ChatGPT, over MCP</a></td></tr>
+<tr><td><a href='https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/'>Algorithms on billion-scale graph using 10GB RAM: I love DataFusion</a></td></tr>
 </table>
 <!-- END:news -->
 
