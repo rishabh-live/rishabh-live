@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://weeraman.com/the-prototype-isnt-the-product/'>AI doesn&#x27;t generate working products, that&#x27;s still your job</a></td></tr>
 <tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
-<tr><td><a href='https://ramen.haus/'>RamenHaus</a></td></tr>
-<tr><td><a href='https://paulgraham.com/greatwork.html'>How to Do Great Work</a></td></tr>
 <tr><td><a href='https://microsoft.github.io/flint-chart/'>Flint: A Visualization Language for the AI Era</a></td></tr>
+<tr><td><a href='https://github.com/yc-software/qm'>qm – Multiplayer agent harness for work</a></td></tr>
+<tr><td><a href='https://www.raptitude.com/2026/07/how-to-exist/'>How to Exist</a></td></tr>
 </table>
 <!-- END:news -->
 
