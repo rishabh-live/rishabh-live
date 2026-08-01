@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://andrewshell.org/2026/07/i-%e2%99%a5-rss/'>I ♥ RSS – A directory of people who love RSS</a></td></tr>
-<tr><td><a href='https://forum.cursor.com/t/usage-page-to-token-amount-what/167153'>Cursor removed cost information from the usage page and CSV export</a></td></tr>
+<tr><td><a href='https://blog.netbsd.org/tnf/entry/netbsd_11_0_released'>NetBSD 11.0 Released</a></td></tr>
+<tr><td><a href='https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/'>Postmortem for Kernel Soundness Bug #14576</a></td></tr>
 <tr><td><a href='https://nostarch.com/art-64-bit-assembly-v2'>The Art of 64-bit Assembly</a></td></tr>
-<tr><td><a href='https://github.com/BurntSushi/ripgrep/issues/3494'>RipGrep musl binaries occasionally segfault during very-large searches</a></td></tr>
 <tr><td><a href='https://kaisel.dev/'>Kaisel – Routes as Values. Dart 3 Native Router for Flutter</a></td></tr>
+<tr><td><a href='https://alexiglad.github.io/blog/2026/explorative_modeling/'>Explorative modeling: Train on the best of K guesses</a></td></tr>
 </table>
 <!-- END:news -->
 
