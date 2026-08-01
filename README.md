@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://andrewshell.org/2026/07/i-%e2%99%a5-rss/'>I ♥ RSS – A directory of people who love RSS</a></td></tr>
+<tr><td><a href='https://forum.cursor.com/t/usage-page-to-token-amount-what/167153'>Cursor removed cost information from the usage page and CSV export</a></td></tr>
 <tr><td><a href='https://nostarch.com/art-64-bit-assembly-v2'>The Art of 64-bit Assembly</a></td></tr>
 <tr><td><a href='https://github.com/BurntSushi/ripgrep/issues/3494'>RipGrep musl binaries occasionally segfault during very-large searches</a></td></tr>
-<tr><td><a href='https://lalitm.com/post/github-alternatives/'>GitHub has alternatives, but no replacement</a></td></tr>
-<tr><td><a href='https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/'>A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention</a></td></tr>
-<tr><td><a href='https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries'>Indexing the Data Lake for Online Point Queries</a></td></tr>
+<tr><td><a href='https://kaisel.dev/'>Kaisel – Routes as Values. Dart 3 Native Router for Flutter</a></td></tr>
 </table>
 <!-- END:news -->
 
