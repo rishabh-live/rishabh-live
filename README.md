@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now'>Google News is just Forrest Gump&#x27;s shrimp boat now</a></td></tr>
-<tr><td><a href='https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/'>Postmortem for Kernel Soundness Bug #14576</a></td></tr>
 <tr><td><a href='https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds'>How Google helped destroy adoption of RSS feeds (2023)</a></td></tr>
+<tr><td><a href='https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/'>The Silicon Valley Founder Meat Grinder</a></td></tr>
+<tr><td><a href='https://diataxis.fr/'>Diátaxis</a></td></tr>
+<tr><td><a href='https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/'>Postmortem for Kernel Soundness Bug #14576</a></td></tr>
 <tr><td><a href='https://nostarch.com/art-64-bit-assembly-v2'>The Art of 64-bit Assembly</a></td></tr>
-<tr><td><a href='https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html'>But can your calculator run Linux?</a></td></tr>
 </table>
 <!-- END:news -->
 
