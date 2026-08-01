@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://weeraman.com/the-prototype-isnt-the-product/'>AI doesn&#x27;t generate working products, that&#x27;s still your job</a></td></tr>
+<tr><td><a href='https://github.com/BurntSushi/ripgrep/issues/3494'>RipGrep musl binaries occasionally segfault during very-large searches</a></td></tr>
+<tr><td><a href='https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/'>A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention</a></td></tr>
 <tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
-<tr><td><a href='https://microsoft.github.io/flint-chart/'>Flint: A Visualization Language for the AI Era</a></td></tr>
-<tr><td><a href='https://github.com/yc-software/qm'>qm – Multiplayer agent harness for work</a></td></tr>
-<tr><td><a href='https://www.raptitude.com/2026/07/how-to-exist/'>How to Exist</a></td></tr>
+<tr><td><a href='https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing'>How to Spot AI Writing</a></td></tr>
+<tr><td><a href='https://type.today/en/journal/dots'>Manual: •.,:;?·</a></td></tr>
 </table>
 <!-- END:news -->
 
