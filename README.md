@@ -24,8 +24,8 @@
 <tr><td><a href='https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds'>How Google helped destroy adoption of RSS feeds (2023)</a></td></tr>
 <tr><td><a href='https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/'>The Silicon Valley Founder Meat Grinder</a></td></tr>
 <tr><td><a href='https://diataxis.fr/'>Diátaxis</a></td></tr>
+<tr><td><a href='https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5'>Seedance 2.5</a></td></tr>
 <tr><td><a href='https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/'>Postmortem for Kernel Soundness Bug #14576</a></td></tr>
-<tr><td><a href='https://nostarch.com/art-64-bit-assembly-v2'>The Art of 64-bit Assembly</a></td></tr>
 </table>
 <!-- END:news -->
 
