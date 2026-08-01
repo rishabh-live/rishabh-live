@@ -25,7 +25,7 @@
 <tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
 <tr><td><a href='https://github.com/yc-software/qm'>qm</a></td></tr>
 <tr><td><a href='https://weeraman.com/because-we-can/'>Twenty-five years ago it was cryptography, today it&#x27;s model weights</a></td></tr>
-<tr><td><a href='https://maurycyz.com/misc/tungsten/'>Increasing the lifespan of a bulb makes it worse in every other way</a></td></tr>
+<tr><td><a href='https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus'>The Absurdity of Albert Camus</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,9 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-<tr><td>Created repository</td><td><a href='https://github.com/rishabh-live/th26'>rishabh-live/th26</a></td><td>-</td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
