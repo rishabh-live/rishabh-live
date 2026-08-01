@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tailscale.com/blog/hugging-face-intrusion'>Tailscale didn&#x27;t stop the Hugging Face intrusion</a></td></tr>
 <tr><td><a href='https://john.fun/elevators'>Elevators</a></td></tr>
-<tr><td><a href='https://github.com/yc-software/qm'>qm</a></td></tr>
-<tr><td><a href='https://weeraman.com/because-we-can/'>Twenty-five years ago it was cryptography, today it&#x27;s model weights</a></td></tr>
-<tr><td><a href='https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus'>The Absurdity of Albert Camus</a></td></tr>
+<tr><td><a href='https://microsoft.github.io/flint-chart/'>Flint: A Visualization Language for the AI Era</a></td></tr>
+<tr><td><a href='https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system'>The development pipeline is a production system</a></td></tr>
+<tr><td><a href='https://www.raptitude.com/2026/07/how-to-exist/'>How to Exist</a></td></tr>
+<tr><td><a href='https://github.com/yc-software/qm'>qm – Multiplayer agent harness for work</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,9 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+<tr><td>Created repository</td><td><a href='https://github.com/rishabh-live/th26'>rishabh-live/th26</a></td><td>-</td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
