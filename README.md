@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://seanhelvey.com/tools-and-their-tools/'>AI Mania: From Tulips to Tokens</a></td></tr>
 <tr><td><a href='https://twitter.com/karpathy/status/2083749667410727319'>Karpathy’s Pelican</a></td></tr>
 <tr><td><a href='https://github.com/wie-project/kakehashi'>Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM</a></td></tr>
 <tr><td><a href='https://unattributed.cc/note-taking-and-personal-knowledge-management'>Note-Taking and Personal Knowledge Management</a></td></tr>
 <tr><td><a href='https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/'>Developers are attached to tools because tools encode trust</a></td></tr>
-<tr><td><a href='https://github.com/graham33/nixos-dgx-spark'>Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark</a></td></tr>
 </table>
 <!-- END:news -->
 
