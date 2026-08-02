@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://publicdomainreview.org/essay/ars-notoria/'>Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</a></td></tr>
+<tr><td><a href='https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html'>Is the Industrial Revolution a good precedent for explosive growth today?</a></td></tr>
+<tr><td><a href='https://getbor.dev/blog/2026-08-02-bor-v080-release/'>Show HN: Bor – Open-source policy management for Linux desktops</a></td></tr>
+<tr><td><a href='https://github.com/syncular/syncular'>Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores</a></td></tr>
 <tr><td><a href='https://victoriametrics.com/blog/go-1-27/index.html'>Go 1.27 Interactive Tour</a></td></tr>
-<tr><td><a href='https://github.com/tom-ilan/cycloidal_gearbox'>Show HN: I&#x27;m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built</a></td></tr>
-<tr><td><a href='https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5'>Seedance 2.5</a></td></tr>
-<tr><td><a href='http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html'>MkLinux and the pimped-out Apple Workgroup Server 9150</a></td></tr>
-<tr><td><a href='https://diataxis.fr/'>Diátaxis</a></td></tr>
 </table>
 <!-- END:news -->
 
