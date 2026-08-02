@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions'>AI financial advice is surprisingly good if you ask the right questions</a></td></tr>
-<tr><td><a href='https://diataxis.fr/'>Diátaxis</a></td></tr>
 <tr><td><a href='https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5'>Seedance 2.5</a></td></tr>
+<tr><td><a href='https://diataxis.fr/'>Diátaxis</a></td></tr>
 <tr><td><a href='https://www.kyoto-u.ac.jp/en/research-news/2026-07-28'>Unraveling the mysteries of habit formation</a></td></tr>
 <tr><td><a href='https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/'>Postmortem for Kernel Soundness Bug #14576</a></td></tr>
 </table>
