@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open'>Twenty Years of RISC OS Open</a></td></tr>
+<tr><td><a href='https://fstar-lang.org/'>F*: A general-purpose proof-oriented programming language</a></td></tr>
 <tr><td><a href='https://meshdiff.com/'>Meshdiff – visually compare two STL versions in the browser, client-side</a></td></tr>
 <tr><td><a href='https://getbor.dev/blog/2026-08-02-bor-v080-release/'>Show HN: Bor – Open-source policy management for Linux desktops</a></td></tr>
-<tr><td><a href='https://foldingglobes.com/globes'>Folding Paper Globes</a></td></tr>
-<tr><td><a href='https://fstar-lang.org/'>F*: A general-purpose proof-oriented programming language</a></td></tr>
+<tr><td><a href='https://16-bits.org/ft2.php'>Fasttracker II clone in C using SDL 2</a></td></tr>
 </table>
 <!-- END:news -->
 
