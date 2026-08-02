@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://publicdomainreview.org/essay/ars-notoria/'>Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</a></td></tr>
-<tr><td><a href='https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html'>Is the Industrial Revolution a good precedent for explosive growth today?</a></td></tr>
+<tr><td><a href='https://meshdiff.com/'>Meshdiff – visually compare two STL versions in the browser, client-side</a></td></tr>
 <tr><td><a href='https://getbor.dev/blog/2026-08-02-bor-v080-release/'>Show HN: Bor – Open-source policy management for Linux desktops</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes'>Wikimedia Foundation refuses union recognition, hires union-busting law firm</a></td></tr>
+<tr><td><a href='https://publicdomainreview.org/essay/ars-notoria/'>Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge</a></td></tr>
 <tr><td><a href='https://github.com/syncular/syncular'>Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores</a></td></tr>
-<tr><td><a href='https://victoriametrics.com/blog/go-1-27/index.html'>Go 1.27 Interactive Tour</a></td></tr>
 </table>
 <!-- END:news -->
 
