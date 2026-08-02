@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://twitter.com/karpathy/status/2083749667410727319'>Karpathy’s Pelican</a></td></tr>
+<tr><td><a href='https://pudding.cool/2026/07/essential-words/'>How the words we teach English language learners changed</a></td></tr>
+<tr><td><a href='https://github.com/wie-project/kakehashi'>Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM</a></td></tr>
 <tr><td><a href='https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open'>Twenty Years of RISC OS Open</a></td></tr>
-<tr><td><a href='https://fstar-lang.org/'>F*: A general-purpose proof-oriented programming language</a></td></tr>
-<tr><td><a href='https://meshdiff.com/'>Meshdiff – visually compare two STL versions in the browser, client-side</a></td></tr>
-<tr><td><a href='https://getbor.dev/blog/2026-08-02-bor-v080-release/'>Show HN: Bor – Open-source policy management for Linux desktops</a></td></tr>
-<tr><td><a href='https://16-bits.org/ft2.php'>Fasttracker II clone in C using SDL 2</a></td></tr>
+<tr><td><a href='https://github.com/graham33/nixos-dgx-spark'>Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark</a></td></tr>
 </table>
 <!-- END:news -->
 
