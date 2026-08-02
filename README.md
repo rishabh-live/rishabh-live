@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://victoriametrics.com/blog/go-1-27/index.html'>Go 1.27 Interactive Tour</a></td></tr>
+<tr><td><a href='https://www.wafer.ai/blog/kimi-k3-mi355x'>Running Kimi K3 on MI355X at Better Performance per Dollar Than B300</a></td></tr>
 <tr><td><a href='http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html'>MkLinux and the pimped-out Apple Workgroup Server 9150</a></td></tr>
 <tr><td><a href='https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5'>Seedance 2.5</a></td></tr>
 <tr><td><a href='https://diataxis.fr/'>Diátaxis</a></td></tr>
-<tr><td><a href='https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow'>Plug-in solar is coming. Plug-in batteries should follow</a></td></tr>
 </table>
 <!-- END:news -->
 
