@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://victoriametrics.com/blog/go-1-27/index.html'>Go 1.27 Interactive Tour</a></td></tr>
-<tr><td><a href='https://www.wafer.ai/blog/kimi-k3-mi355x'>Running Kimi K3 on MI355X at Better Performance per Dollar Than B300</a></td></tr>
-<tr><td><a href='http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html'>MkLinux and the pimped-out Apple Workgroup Server 9150</a></td></tr>
+<tr><td><a href='https://github.com/tom-ilan/cycloidal_gearbox'>Show HN: I&#x27;m a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built</a></td></tr>
 <tr><td><a href='https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5'>Seedance 2.5</a></td></tr>
+<tr><td><a href='http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html'>MkLinux and the pimped-out Apple Workgroup Server 9150</a></td></tr>
 <tr><td><a href='https://diataxis.fr/'>Diátaxis</a></td></tr>
 </table>
 <!-- END:news -->
