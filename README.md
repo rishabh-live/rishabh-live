@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic'>Apple engineer says he was fired after refusing to send cust. device IDs to AT&#x26;T</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.8'>Qwen3.8-Max: A New Bar for Coding and Cowork</a></td></tr>
-<tr><td><a href='https://github.com/johnsonjh/cpm386'>CP&#x2F;M-386 – CP&#x2F;M for 386 protected mode, derived from CP&#x2F;M‑68K</a></td></tr>
+<tr><td><a href='https://gruhn.me/blog/2026-08-03/'>Don&#x27;t Be a Meat Proxy</a></td></tr>
 <tr><td><a href='https://sf.isopolis.city/'>Show HN: Isopolis – Isometric pixel map of SF</a></td></tr>
 <tr><td><a href='https://twitter.com/karpathy/status/2083749667410727319'>Karpathy’s Pelican</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2607.28271'>AI migrated legacy COBOL programs to Java, bugs included</a></td></tr>
 </table>
 <!-- END:news -->
 
