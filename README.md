@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.seangoedecke.com/llms-reward-expertise/'>LLMs reward expertise</a></td></tr>
 <tr><td><a href='https://openai.com/index/ten-advances-in-mathematics/'>Ten advances in mathematics and theoretical computer science</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=49156683'>Ask HN: Who is hiring? (August 2026)</a></td></tr>
 <tr><td><a href='https://blog.exe.dev/devtools-must-be-open-source'>Devtools must be open source</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/smaller-faster-safer-models/'>Smaller, faster, safer: running Kimi and GLM at scale</a></td></tr>
-<tr><td><a href='https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase'>Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years</a></td></tr>
+<tr><td><a href='https://200ms.thenodebook.com'>200 Milliseconds</a></td></tr>
 </table>
 <!-- END:news -->
 
