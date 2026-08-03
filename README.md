@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/'>Critical CVE issued for hallucinated SQLite vulnerability</a></td></tr>
 <tr><td><a href='https://gruhn.me/blog/2026-08-03/'>Don&#x27;t be a meat proxy</a></td></tr>
-<tr><td><a href='https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/'>Prevent cognitive debt by manually retyping LLM-generated code</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.8'>Qwen3.8-Max: A New Bar for Coding and Cowork</a></td></tr>
+<tr><td><a href='https://github.com/lyogavin/airllm'>AirLLM 70B inference with single 4GB GPU</a></td></tr>
 <tr><td><a href='https://github.com/janestreet/bonsai'>Bonsai: Janestreet&#x27;s UI Library</a></td></tr>
-<tr><td><a href='https://www.marginalia.nu/log/a_109_sleep2/'>Less Coffee, Better Sleep</a></td></tr>
 </table>
 <!-- END:news -->
 
