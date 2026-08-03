@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic'>Apple engineer says he was fired after refusing to send cust. device IDs to AT&#x26;T</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.8'>Qwen3.8-Max: A New Bar for Coding and Cowork</a></td></tr>
+<tr><td><a href='https://github.com/johnsonjh/cpm386'>CP&#x2F;M-386 – CP&#x2F;M for 386 protected mode, derived from CP&#x2F;M‑68K</a></td></tr>
+<tr><td><a href='https://sf.isopolis.city/'>Show HN: Isopolis – Isometric pixel map of SF</a></td></tr>
 <tr><td><a href='https://twitter.com/karpathy/status/2083749667410727319'>Karpathy’s Pelican</a></td></tr>
-<tr><td><a href='https://mattbeton.com/blog/bitnet-6502.html'>Autoregressive Language Model on the 6502 Processor</a></td></tr>
-<tr><td><a href='https://unattributed.cc/note-taking-and-personal-knowledge-management'>Note-Taking and Personal Knowledge Management</a></td></tr>
-<tr><td><a href='https://github.com/wie-project/kakehashi'>Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM</a></td></tr>
-<tr><td><a href='https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else'>Read the Novels and Forget Everything Else</a></td></tr>
 </table>
 <!-- END:news -->
 
