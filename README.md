@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/'>Critical CVE issued for hallucinated SQLite vulnerability</a></td></tr>
-<tr><td><a href='https://gruhn.me/blog/2026-08-03/'>Don&#x27;t be a meat proxy</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.8'>Qwen3.8-Max: A New Bar for Coding and Cowork</a></td></tr>
-<tr><td><a href='https://github.com/lyogavin/airllm'>AirLLM 70B inference with single 4GB GPU</a></td></tr>
-<tr><td><a href='https://github.com/janestreet/bonsai'>Bonsai: Janestreet&#x27;s UI Library</a></td></tr>
+<tr><td><a href='https://blog.exe.dev/devtools-must-be-open-source'>Devtools must be open source</a></td></tr>
+<tr><td><a href='https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui'>MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video</a></td></tr>
+<tr><td><a href='https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/'>Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days</a></td></tr>
+<tr><td><a href='https://www.statsignificant.com/p/how-hollywood-stopped-making-movies'>Hollywood Stopped Making Movies in Hollywood</a></td></tr>
 </table>
 <!-- END:news -->
 
