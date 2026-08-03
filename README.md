@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://gruhn.me/blog/2026-08-03/'>Don&#x27;t be a meat proxy</a></td></tr>
+<tr><td><a href='https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/'>Prevent cognitive debt by manually retyping LLM-generated code</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.8'>Qwen3.8-Max: A New Bar for Coding and Cowork</a></td></tr>
-<tr><td><a href='https://gruhn.me/blog/2026-08-03/'>Don&#x27;t Be a Meat Proxy</a></td></tr>
-<tr><td><a href='https://sf.isopolis.city/'>Show HN: Isopolis – Isometric pixel map of SF</a></td></tr>
-<tr><td><a href='https://twitter.com/karpathy/status/2083749667410727319'>Karpathy’s Pelican</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2607.28271'>AI migrated legacy COBOL programs to Java, bugs included</a></td></tr>
+<tr><td><a href='https://github.com/janestreet/bonsai'>Bonsai: Janestreet&#x27;s UI Library</a></td></tr>
+<tr><td><a href='https://www.marginalia.nu/log/a_109_sleep2/'>Less Coffee, Better Sleep</a></td></tr>
 </table>
 <!-- END:news -->
 
