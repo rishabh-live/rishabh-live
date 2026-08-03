@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.exe.dev/devtools-must-be-open-source'>Devtools must be open source</a></td></tr>
 <tr><td><a href='https://openai.com/index/ten-advances-in-mathematics/'>Ten advances in mathematics and theoretical computer science</a></td></tr>
-<tr><td><a href='https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui'>MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video</a></td></tr>
-<tr><td><a href='https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase'>Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years</a></td></tr>
+<tr><td><a href='https://blog.exe.dev/devtools-must-be-open-source'>Devtools must be open source</a></td></tr>
 <tr><td><a href='https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/'>Wind and solar overtake fossil fuels in Germany for the first time</a></td></tr>
+<tr><td><a href='https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase'>Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/smaller-faster-safer-models/'>Smaller, faster, safer: running Kimi and GLM at scale</a></td></tr>
 </table>
 <!-- END:news -->
 
