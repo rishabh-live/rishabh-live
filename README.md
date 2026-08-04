@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://toneyalexander.github.io/inclusive-color-space/'>Show HN: Simple algorithm and color space to generate diverse skin tones</a></td></tr>
 <tr><td><a href='https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj'>Ray Bradbury&#x27;s &quot;There Will Come Soft Rains&quot; is set today (2026-08-04)</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2602.16763'>When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation</a></td></tr>
 <tr><td><a href='https://github.com/ryanzhou/deepseek-v4-flash-mi300x'>DeepSeek V4 Flash on a Single AMD MI300X</a></td></tr>
-<tr><td><a href='https://github.com/tikalk/adlc-team-skills'>Agent skills that bring team coding standards to Claude Code and Codex</a></td></tr>
-<tr><td><a href='https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/'>Xbox goes down. You can&#x27;t play games you own on disc</a></td></tr>
-<tr><td><a href='https://www.seangoedecke.com/llms-reward-expertise/'>LLMs reward expertise</a></td></tr>
+<tr><td><a href='https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/'>Germany Records Historic 12B KWh Solar Feed-In in July 2026</a></td></tr>
 </table>
 <!-- END:news -->
 
