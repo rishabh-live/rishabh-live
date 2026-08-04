@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES'>FFmpeg 9.0</a></td></tr>
 <tr><td><a href='https://www.seangoedecke.com/llms-reward-expertise/'>LLMs reward expertise</a></td></tr>
+<tr><td><a href='https://lilianweng.github.io/posts/2026-07-04-harness/'>Harness Engineering for Self-Improvement</a></td></tr>
 <tr><td><a href='https://github.com/leonickson1/Swiftlet'>Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization'>Amazonian civilization had estimated 3M people in 3% of forest area</a></td></tr>
-<tr><td><a href='https://openai.com/index/ten-advances-in-mathematics/'>Ten advances in mathematics and theoretical computer science</a></td></tr>
-<tr><td><a href='https://ing.dk/artikel/ny-rekord-maaned-elbilsalget-private-koeb-ligger-paa-97-procent'>Denmark: EVs Make Up 97% of New Private Car Sales in July</a></td></tr>
+<tr><td><a href='https://pedroth.github.io/?p=post/NoNeedReact'>You don&#x27;t need React: creating a minimal UI library in Vanilla JavaScript</a></td></tr>
 </table>
 <!-- END:news -->
 
