@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://toneyalexander.github.io/inclusive-color-space/'>Show HN: Simple algorithm and color space to generate diverse skin tones</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/shieldstral/'>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</a></td></tr>
+<tr><td><a href='https://waymo.com/blog/shorts/dallas-open-to-all/'>Waymo – Dallas Open to All</a></td></tr>
 <tr><td><a href='https://pudding.cool/2026/06/mow/'>Why some people mow a lawn better than others</a></td></tr>
-<tr><td><a href='https://hop.earth/?server=lkhr7&amp;route=fQ5nuu9R'>Hop.earth – OpenStreetMap based car racing game</a></td></tr>
-<tr><td><a href='https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent'>The Warp Agent CLI</a></td></tr>
-<tr><td><a href='https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/'>Dataset: Dead mental health startups, 2000-2026, coded on 18 fields</a></td></tr>
+<tr><td><a href='https://github.com/ryanzhou/deepseek-v4-flash-mi300x'>DeepSeek V4 Flash on a Single AMD MI300X</a></td></tr>
 </table>
 <!-- END:news -->
 
