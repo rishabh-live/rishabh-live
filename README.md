@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES'>FFmpeg 9.0</a></td></tr>
+<tr><td><a href='https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/'>Xbox goes down. You can&#x27;t play games you own on disc</a></td></tr>
+<tr><td><a href='https://github.com/ryanzhou/deepseek-v4-flash-mi300x'>DeepSeek V4 Flash on a Single AMD MI300X</a></td></tr>
+<tr><td><a href='https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/'>AI-Generated Images Discourage Me from Reading Your Blog</a></td></tr>
+<tr><td><a href='https://www.bfi.org/about-fuller/everything-i-know/'>Buckminster Fuller: everything I know</a></td></tr>
 <tr><td><a href='https://www.seangoedecke.com/llms-reward-expertise/'>LLMs reward expertise</a></td></tr>
-<tr><td><a href='https://lilianweng.github.io/posts/2026-07-04-harness/'>Harness Engineering for Self-Improvement</a></td></tr>
-<tr><td><a href='https://github.com/leonickson1/Swiftlet'>Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone</a></td></tr>
-<tr><td><a href='https://pedroth.github.io/?p=post/NoNeedReact'>You don&#x27;t need React: creating a minimal UI library in Vanilla JavaScript</a></td></tr>
 </table>
 <!-- END:news -->
 
