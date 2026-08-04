@@ -25,7 +25,7 @@
 <tr><td><a href='https://openai.com/index/ten-advances-in-mathematics/'>Ten advances in mathematics and theoretical computer science</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49156683'>Ask HN: Who is hiring? (August 2026)</a></td></tr>
 <tr><td><a href='https://blog.exe.dev/devtools-must-be-open-source'>Devtools must be open source</a></td></tr>
-<tr><td><a href='https://200ms.thenodebook.com'>200 Milliseconds</a></td></tr>
+<tr><td><a href='https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/'>Windows XP 2002 for the Itanium: Unbridled rage</a></td></tr>
 </table>
 <!-- END:news -->
 
