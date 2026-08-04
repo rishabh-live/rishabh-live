@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/'>AI fuels more than half of cybercrime in Africa as scams surge – Interpol</a></td></tr>
+<tr><td><a href='https://twitter.com/i/status/2084739205071343837'>Gwern reties from fulltime writing to launch Guardian Angel Inc</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/shieldstral/'>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</a></td></tr>
-<tr><td><a href='https://toneyalexander.github.io/inclusive-color-space/'>Show HN: Simple algorithm and color space to generate diverse skin tones</a></td></tr>
-<tr><td><a href='https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/'>In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years</a></td></tr>
-<tr><td><a href='https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf'>Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]</a></td></tr>
-<tr><td><a href='https://waymo.com/blog/shorts/dallas-open-to-all/'>Waymo in Dallas</a></td></tr>
+<tr><td><a href='https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/'>libexpat now funded by the City of Munich for up to 6 months</a></td></tr>
+<tr><td><a href='https://techascent.com/blog/just-ducking-around.html'>DuckDB – Data power tools for your laptop, now in Clojure (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
