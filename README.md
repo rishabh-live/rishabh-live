@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.seangoedecke.com/llms-reward-expertise/'>LLMs reward expertise</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization'>Amazonian civilization had estimated 3M people in 3% of forest area</a></td></tr>
+<tr><td><a href='https://github.com/leonickson1/Swiftlet'>Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone</a></td></tr>
 <tr><td><a href='https://openai.com/index/ten-advances-in-mathematics/'>Ten advances in mathematics and theoretical computer science</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49156683'>Ask HN: Who is hiring? (August 2026)</a></td></tr>
 <tr><td><a href='https://blog.exe.dev/devtools-must-be-open-source'>Devtools must be open source</a></td></tr>
-<tr><td><a href='https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/'>Windows XP 2002 for the Itanium: Unbridled rage</a></td></tr>
 </table>
 <!-- END:news -->
 
