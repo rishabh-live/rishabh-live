@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/'>Xbox goes down. You can&#x27;t play games you own on disc</a></td></tr>
+<tr><td><a href='https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj'>Ray Bradbury&#x27;s &quot;There Will Come Soft Rains&quot; is set today (2026-08-04)</a></td></tr>
 <tr><td><a href='https://github.com/ryanzhou/deepseek-v4-flash-mi300x'>DeepSeek V4 Flash on a Single AMD MI300X</a></td></tr>
-<tr><td><a href='https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/'>AI-Generated Images Discourage Me from Reading Your Blog</a></td></tr>
-<tr><td><a href='https://www.bfi.org/about-fuller/everything-i-know/'>Buckminster Fuller: everything I know</a></td></tr>
+<tr><td><a href='https://github.com/tikalk/adlc-team-skills'>Agent skills that bring team coding standards to Claude Code and Codex</a></td></tr>
+<tr><td><a href='https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/'>Xbox goes down. You can&#x27;t play games you own on disc</a></td></tr>
 <tr><td><a href='https://www.seangoedecke.com/llms-reward-expertise/'>LLMs reward expertise</a></td></tr>
 </table>
 <!-- END:news -->
