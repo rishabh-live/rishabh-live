@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/'>AI fuels more than half of cybercrime in Africa as scams surge – Interpol</a></td></tr>
-<tr><td><a href='https://twitter.com/i/status/2084739205071343837'>Gwern reties from fulltime writing to launch Guardian Angel Inc</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/shieldstral/'>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</a></td></tr>
 <tr><td><a href='https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/'>libexpat now funded by the City of Munich for up to 6 months</a></td></tr>
-<tr><td><a href='https://techascent.com/blog/just-ducking-around.html'>DuckDB – Data power tools for your laptop, now in Clojure (2023)</a></td></tr>
+<tr><td><a href='https://queue.acm.org/detail.cfm?id=3807963'>Eight Myths on Software Engineering and GenAI</a></td></tr>
+<tr><td><a href='https://earendil.com/posts/pi-autoresearch-and-databricks/'>Pi&#x27;s Minimalism Is Its Advantage</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/shieldstral/'>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</a></td></tr>
+<tr><td><a href='https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/'>IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay</a></td></tr>
 </table>
 <!-- END:news -->
 
