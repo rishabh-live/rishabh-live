@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://knock-knock.net/blog/citigroup-idaho-build-a-bear/'>Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/cloudflare-os/'>Cloudflare OS: an open platform for agents, apps, and work</a></td></tr>
-<tr><td><a href='https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/'>Aristotle quotes on virtue, knowledge, and happiness</a></td></tr>
-<tr><td><a href='https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck'>Intelligence Is Not the Main Bottleneck</a></td></tr>
-<tr><td><a href='https://data4sci.com/blog/building-an-advanced-agentic-harness'>Building an Advanced Agentic Harness</a></td></tr>
+<tr><td><a href='https://www.discoveryloop.com/'>Discovery Loop</a></td></tr>
+<tr><td><a href='https://www.qwencloud.com/models/qwen-image-3.0-pro'>Qwen 3.0 Image Pro</a></td></tr>
+<tr><td><a href='https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/'>Oracle Just Halved Its Always Free ARM Limits</a></td></tr>
+<tr><td><a href='https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/'>The next chapter of our AI momentum</a></td></tr>
+<tr><td><a href='https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai'>Google DeepMind CEO Demis Hassabis is stepping down</a></td></tr>
 </table>
 <!-- END:news -->
 
