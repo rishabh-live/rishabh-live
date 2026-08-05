@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://simonwillison.net/2026/Jul/31/stateless-mcp/'>Stateless MCP has recaptured my interest</a></td></tr>
-<tr><td><a href='https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/'>Some car companies are operating without regard for a declining customer base</a></td></tr>
+<tr><td><a href='https://unsung.aresluna.org/gravity-is-worth-asking-about/'>&quot;Gravity is worth asking about.&quot;</a></td></tr>
+<tr><td><a href='https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html'>The Pneumatics of Hero of Alexandria</a></td></tr>
 <tr><td><a href='https://earendil.com/posts/pi-autoresearch-and-databricks/'>Pi&#x27;s Minimalism Is Its Advantage</a></td></tr>
-<tr><td><a href='https://queue.acm.org/detail.cfm?id=3807963'>Eight Myths on Software Engineering and GenAI</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/shieldstral/'>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</a></td></tr>
 </table>
 <!-- END:news -->
