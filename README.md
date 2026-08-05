@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jasmi.news/p/no-data-centers-in-my-backyard'>No Data Centers in My Backyard</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/Jul/31/stateless-mcp/'>Stateless MCP has recaptured my interest</a></td></tr>
-<tr><td><a href='https://calpaterson.com/helsinki-hn.html'>Helsinki Hacker News Meetup</a></td></tr>
-<tr><td><a href='https://unsung.aresluna.org/gravity-is-worth-asking-about/'>“Gravity is worth asking about”</a></td></tr>
+<tr><td><a href='https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and'>Iowa et al asks OpenAI to keep their bots sandboxed</a></td></tr>
+<tr><td><a href='https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt'>Position: LLMs Can&#x27;t Jump</a></td></tr>
 <tr><td><a href='https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/'>Civilian plane crash in New Mexico tied to military GPS blocking</a></td></tr>
+<tr><td><a href='https://divingintheshallowend.com/three-six-mafia/'>Three Six Mafia – Data about &quot;6&#x2F;6&#x2F;6 dating&quot; (2024)</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Jul/31/stateless-mcp/'>Stateless MCP has recaptured my interest</a></td></tr>
 </table>
 <!-- END:news -->
 
