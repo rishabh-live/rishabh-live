@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.discoveryloop.com/'>Discovery Loop</a></td></tr>
-<tr><td><a href='https://www.qwencloud.com/models/qwen-image-3.0-pro'>Qwen 3.0 Image Pro</a></td></tr>
-<tr><td><a href='https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/'>Oracle Just Halved Its Always Free ARM Limits</a></td></tr>
-<tr><td><a href='https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/'>The next chapter of our AI momentum</a></td></tr>
-<tr><td><a href='https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai'>Google DeepMind CEO Demis Hassabis is stepping down</a></td></tr>
+<tr><td><a href='https://zed.dev/deltadb'>Zed DeltaDB</a></td></tr>
+<tr><td><a href='https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/'>Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs</a></td></tr>
+<tr><td><a href='https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency'>Beating GPT-5.6 Sol on retrieval with 100x cheaper open models</a></td></tr>
+<tr><td><a href='https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data'>Atlassian Rovo Exfiltrates Data, Bypassing Controls</a></td></tr>
 </table>
 <!-- END:news -->
 
