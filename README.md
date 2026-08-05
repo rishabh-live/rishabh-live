@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and'>Iowa et al asks OpenAI to keep their bots sandboxed</a></td></tr>
-<tr><td><a href='https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt'>Position: LLMs Can&#x27;t Jump</a></td></tr>
-<tr><td><a href='https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/'>Civilian plane crash in New Mexico tied to military GPS blocking</a></td></tr>
-<tr><td><a href='https://divingintheshallowend.com/three-six-mafia/'>Three Six Mafia – Data about &quot;6&#x2F;6&#x2F;6 dating&quot; (2024)</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/Jul/31/stateless-mcp/'>Stateless MCP has recaptured my interest</a></td></tr>
+<tr><td><a href='https://knock-knock.net/blog/citigroup-idaho-build-a-bear/'>Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/cloudflare-os/'>Cloudflare OS: an open platform for agents, apps, and work</a></td></tr>
+<tr><td><a href='https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/'>Aristotle quotes on virtue, knowledge, and happiness</a></td></tr>
+<tr><td><a href='https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck'>Intelligence Is Not the Main Bottleneck</a></td></tr>
+<tr><td><a href='https://data4sci.com/blog/building-an-advanced-agentic-harness'>Building an Advanced Agentic Harness</a></td></tr>
 </table>
 <!-- END:news -->
 
