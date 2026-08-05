@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://zed.dev/deltadb'>Zed DeltaDB</a></td></tr>
 <tr><td><a href='https://www.discoveryloop.com/'>Discovery Loop</a></td></tr>
+<tr><td><a href='https://runarcn.no/android-to-linux/'>I&#x27;m switching my phone from Android to Linux</a></td></tr>
 <tr><td><a href='https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/'>Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs</a></td></tr>
 <tr><td><a href='https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency'>Beating GPT-5.6 Sol on retrieval with 100x cheaper open models</a></td></tr>
-<tr><td><a href='https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data'>Atlassian Rovo Exfiltrates Data, Bypassing Controls</a></td></tr>
 </table>
 <!-- END:news -->
 
