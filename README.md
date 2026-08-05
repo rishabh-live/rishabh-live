@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://jasmi.news/p/no-data-centers-in-my-backyard'>No Data Centers in My Backyard</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Jul/31/stateless-mcp/'>Stateless MCP has recaptured my interest</a></td></tr>
-<tr><td><a href='https://unsung.aresluna.org/gravity-is-worth-asking-about/'>&quot;Gravity is worth asking about.&quot;</a></td></tr>
-<tr><td><a href='https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html'>The Pneumatics of Hero of Alexandria</a></td></tr>
-<tr><td><a href='https://earendil.com/posts/pi-autoresearch-and-databricks/'>Pi&#x27;s Minimalism Is Its Advantage</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/shieldstral/'>Mistral&#x27;s Shieldstral: 3B open-weights model for multimodal moderation</a></td></tr>
+<tr><td><a href='https://calpaterson.com/helsinki-hn.html'>Helsinki Hacker News Meetup</a></td></tr>
+<tr><td><a href='https://unsung.aresluna.org/gravity-is-worth-asking-about/'>“Gravity is worth asking about”</a></td></tr>
+<tr><td><a href='https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/'>Civilian plane crash in New Mexico tied to military GPS blocking</a></td></tr>
 </table>
 <!-- END:news -->
 
