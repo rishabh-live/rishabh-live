@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project'>Nashville uses eminent domain to block data center near zoo</a></td></tr>
 <tr><td><a href='https://www.discoveryloop.com/'>Discovery Loop</a></td></tr>
 <tr><td><a href='https://zed.dev/deltadb'>Zed DeltaDB</a></td></tr>
-<tr><td><a href='https://randsinrepose.com/archives/blade-runner-title-cards/'>The title cards in Blade Runner are amazing</a></td></tr>
 <tr><td><a href='https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/'>Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs</a></td></tr>
-<tr><td><a href='https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread'>NVIDIA’s Vera Whitepaper Has a Thread Loose</a></td></tr>
+<tr><td><a href='https://randsinrepose.com/archives/blade-runner-title-cards/'>The title cards in Blade Runner are amazing</a></td></tr>
 </table>
 <!-- END:news -->
 
