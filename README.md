@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.mayerowitz.io/blog/mario-meets-pareto'>Mario Meets Pareto</a></td></tr>
 <tr><td><a href='https://phoboslab.org/log/2026/08/xibalba64-making-of'>How to Make a Nintendo 64 Game in 2026</a></td></tr>
 <tr><td><a href='https://www.crimepaysbutbotanydoesnt.com/reading-list'>Crime Pays but Botany Doesn&#x27;t</a></td></tr>
-<tr><td><a href='https://en.wikipedia.org/wiki/Pareto_front'>Pareto Front</a></td></tr>
-<tr><td><a href='https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/'>Let&#x27;s all meet up in the Y2K</a></td></tr>
-<tr><td><a href='https://www.discoveryloop.com/'>Discovery Loop</a></td></tr>
+<tr><td><a href='https://www.sciencedaily.com/releases/2026/07/260729051515.htm'>Tiny Black Holes May Be Exploding Stars Across the Milky Way</a></td></tr>
+<tr><td><a href='https://scalex.dev/blog/ai-agent-permissions-stats/'>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs</a></td></tr>
 </table>
 <!-- END:news -->
 
