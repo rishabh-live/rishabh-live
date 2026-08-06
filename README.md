@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.crimepaysbutbotanydoesnt.com/reading-list'>Crime Pays but Botany Doesn&#x27;t</a></td></tr>
+<tr><td><a href='https://phoboslab.org/log/2026/08/xibalba64-making-of'>How to Make a Nintendo 64 Game in 2026</a></td></tr>
+<tr><td><a href='https://buttondown.com/blog/what-i-love-about-django'>What I love about Django</a></td></tr>
 <tr><td><a href='https://www.discoveryloop.com/'>Discovery Loop</a></td></tr>
-<tr><td><a href='https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project'>Nashville uses eminent domain to block data center near zoo</a></td></tr>
-<tr><td><a href='https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/'>Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs</a></td></tr>
-<tr><td><a href='https://zed.dev/deltadb'>Zed DeltaDB</a></td></tr>
-<tr><td><a href='https://www.greyblake.com/blog/branchless-rust/'>Branchless Rust: Making a Filter 4x Faster by Removing an If</a></td></tr>
+<tr><td><a href='https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/'>Let&#x27;s all meet up in the Y2K</a></td></tr>
 </table>
 <!-- END:news -->
 
