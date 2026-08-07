@@ -24,8 +24,8 @@
 <tr><td><a href='https://www.bbc.com/news/articles/c1e1vg0gjl5o'>US strikes $1.2B deal to pay German firm to halt offshore wind projects</a></td></tr>
 <tr><td><a href='https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta'>New Mexico court orders Meta to pay $567m over harms to children’s mental health</a></td></tr>
 <tr><td><a href='https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344'>AMD acquires Taalas to boost inference performance by etching models in silicon</a></td></tr>
-<tr><td><a href='https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding'>Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding</a></td></tr>
 <tr><td><a href='https://notashelf.dev/posts/taste-is-all-thats-left'>Taste Is All That&#x27;s Left</a></td></tr>
+<tr><td><a href='https://www.politico.com/news/2026/08/06/doge-savings-overstated-watchdog-report-01027797'>DOGE overstated savings, government watchdog says</a></td></tr>
 </table>
 <!-- END:news -->
 
