@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.sdss.org/black-hole-mapper-release-20/'>An all-sky map of half a million supermassive black holes</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta'>New Mexico court orders Meta to pay $567m over harms to children’s mental health</a></td></tr>
 <tr><td><a href='https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/'>Responding to the next frontier of critical cyber capabilities</a></td></tr>
-<tr><td><a href='https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344'>AMD acquires Taalas to boost inference performance by etching models in silicon</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta'>New Mexico court orders Meta to pay $567m over harms to children’s mental health</a></td></tr>
+<tr><td><a href='https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/'>Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD</a></td></tr>
 <tr><td><a href='https://github.com/Wyzer-Lang/wyzer'>Show HN: Wyzer Programming Language</a></td></tr>
 </table>
 <!-- END:news -->
