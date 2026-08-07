@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/'>99% of My Website Traffic Is Bots</a></td></tr>
-<tr><td><a href='https://github.com/Wyzer-Lang/wyzer'>Show HN: Wyzer Programming Language</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=UufMqwyO7pY'>Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]</a></td></tr>
+<tr><td><a href='https://www.sdss.org/black-hole-mapper-release-20/'>An all-sky map of half a million supermassive black holes</a></td></tr>
 <tr><td><a href='https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta'>New Mexico court orders Meta to pay $567m over harms to children’s mental health</a></td></tr>
+<tr><td><a href='https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/'>Responding to the next frontier of critical cyber capabilities</a></td></tr>
 <tr><td><a href='https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344'>AMD acquires Taalas to boost inference performance by etching models in silicon</a></td></tr>
+<tr><td><a href='https://github.com/Wyzer-Lang/wyzer'>Show HN: Wyzer Programming Language</a></td></tr>
 </table>
 <!-- END:news -->
 
