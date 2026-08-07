@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344'>AMD acquires Taalas to boost inference performance by etching models in silicon</a></td></tr>
-<tr><td><a href='https://www.mayerowitz.io/blog/mario-meets-pareto'>Mario Meets Pareto</a></td></tr>
+<tr><td><a href='https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta'>New Mexico court orders Meta to pay $567m over harms to children’s mental health</a></td></tr>
+<tr><td><a href='https://roge.onwrite.app/what-is-a-product'>What is a product?</a></td></tr>
 <tr><td><a href='https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work'>Atomic Clocks</a></td></tr>
 <tr><td><a href='https://notashelf.dev/posts/taste-is-all-thats-left'>Taste Is All That&#x27;s Left</a></td></tr>
-<tr><td><a href='https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/'>Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun</a></td></tr>
 </table>
 <!-- END:news -->
 
