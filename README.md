@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344'>AMD acquires Taalas to boost inference performance by etching models in silicon</a></td></tr>
+<tr><td><a href='https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/'>Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun</a></td></tr>
+<tr><td><a href='https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/'>Welcoming the Nepalese Government to Have I Been Pwned</a></td></tr>
 <tr><td><a href='https://www.mayerowitz.io/blog/mario-meets-pareto'>Mario Meets Pareto</a></td></tr>
-<tr><td><a href='https://phoboslab.org/log/2026/08/xibalba64-making-of'>How to Make a Nintendo 64 Game in 2026</a></td></tr>
-<tr><td><a href='https://www.crimepaysbutbotanydoesnt.com/reading-list'>Crime Pays but Botany Doesn&#x27;t</a></td></tr>
-<tr><td><a href='https://www.sciencedaily.com/releases/2026/07/260729051515.htm'>Tiny Black Holes May Be Exploding Stars Across the Milky Way</a></td></tr>
-<tr><td><a href='https://scalex.dev/blog/ai-agent-permissions-stats/'>Humans missed 1 in 3 threats approving AI agent commands across 40k game runs</a></td></tr>
+<tr><td><a href='https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/'>I stopped trusting USB-C cable labels and started testing them</a></td></tr>
 </table>
 <!-- END:news -->
 
