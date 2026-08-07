@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344'>AMD acquires Taalas to boost inference performance by etching models in silicon</a></td></tr>
-<tr><td><a href='https://www.mayerowitz.io/blog/mario-meets-pareto'>Mario Meets Pareto</a></td></tr>
 <tr><td><a href='https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/'>Hackers Stalked Me by Hijacking a Smartwatch for Kids</a></td></tr>
+<tr><td><a href='https://www.mayerowitz.io/blog/mario-meets-pareto'>Mario Meets Pareto</a></td></tr>
 <tr><td><a href='https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/'>Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun</a></td></tr>
-<tr><td><a href='https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/'>I stopped trusting USB-C cable labels and started testing them</a></td></tr>
+<tr><td><a href='https://notashelf.dev/posts/taste-is-all-thats-left'>Taste Is All That&#x27;s Left</a></td></tr>
 </table>
 <!-- END:news -->
 
