@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://arcprize.org/results/deepseek-v4-flash-0731'>DeepSeek V4 Flash 0731</a></td></tr>
 <tr><td><a href='https://github.com/xoreaxeaxeax/asm-hall-of-shame'>Assembly Hall of Shame</a></td></tr>
-<tr><td><a href='https://www.databricks.com/blog/managing-ai-coding-costs-scale'>Databricks drove down AI coding spend 70%</a></td></tr>
 <tr><td><a href='https://ancientlibrary.net/'>Ancient Library – 1,060 Greek&#x2F;Latin texts, click any word to parse it</a></td></tr>
 <tr><td><a href='https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/'>Responding to the next frontier of critical cyber capabilities</a></td></tr>
+<tr><td><a href='https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code'>Oracle bans AI-generated code from OpenJDK</a></td></tr>
 </table>
 <!-- END:news -->
 
