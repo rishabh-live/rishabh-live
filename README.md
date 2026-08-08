@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/'>Denmark Requires Oral Defenses for Students&#x27; Written Work to Counter AI Cheating</a></td></tr>
-<tr><td><a href='https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers'>&quot;Code was never the hard part&quot; is an insult to all programmers</a></td></tr>
-<tr><td><a href='https://www.fastmail.com/blog/fastmail-offers-eu-data-region/'>Fastmail offers EU data region</a></td></tr>
 <tr><td><a href='https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/'>Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack</a></td></tr>
+<tr><td><a href='https://www.fastmail.com/blog/fastmail-offers-eu-data-region/'>Fastmail offers EU data region</a></td></tr>
+<tr><td><a href='https://seg6.space/posts/phone-server/'>My server is a phone now</a></td></tr>
 <tr><td><a href='https://specification.website/spec/foundations/for-sale-dns/'>A domain can now say it is for sale, in DNS</a></td></tr>
 </table>
 <!-- END:news -->
