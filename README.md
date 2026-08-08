@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413'>The Nixpkgs core team has disbanded</a></td></tr>
 <tr><td><a href='https://arcprize.org/results/deepseek-v4-flash-0731'>DeepSeek V4 Flash 0731</a></td></tr>
+<tr><td><a href='https://genesisopenmodels.anl.gov/'>U.S. Department of Energy Launches the Genesis Open Models Initiative</a></td></tr>
 <tr><td><a href='https://github.com/xoreaxeaxeax/asm-hall-of-shame'>Assembly Hall of Shame</a></td></tr>
 <tr><td><a href='https://ancientlibrary.net/'>Ancient Library – 1,060 Greek&#x2F;Latin texts, click any word to parse it</a></td></tr>
-<tr><td><a href='https://www.noemamag.com/why-is-everyone-in-tech-so-sad/'>What happens if an entire class of workers loses faith in their careers</a></td></tr>
-<tr><td><a href='https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/'>Responding to the next frontier of critical cyber capabilities</a></td></tr>
 </table>
 <!-- END:news -->
 
