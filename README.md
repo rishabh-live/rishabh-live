@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://specification.website/spec/foundations/for-sale-dns/'>A domain can now say it is for sale, in DNS</a></td></tr>
 <tr><td><a href='https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/'>DeepMind&#x27;s WeatherNext model achieves breakthrough forecasting cyclones</a></td></tr>
+<tr><td><a href='https://nate.spot/no-phone-while-poop/'>Don&#x27;t use your phone while you poop</a></td></tr>
+<tr><td><a href='https://zaneham.github.io/voyager-fds-emulator/'>Voyager 1 FDS Computer Emulator</a></td></tr>
 <tr><td><a href='https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/'>A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava</a></td></tr>
-<tr><td><a href='https://github.com/xoreaxeaxeax/rosenbridge'>Hardware backdoors in some x86 CPUs</a></td></tr>
-<tr><td><a href='https://arcprize.org/results/deepseek-v4-flash-0731'>DeepSeek V4 Flash 0731</a></td></tr>
-<tr><td><a href='https://genesisopenmodels.anl.gov/'>U.S. Department of Energy Launches the Genesis Open Models Initiative</a></td></tr>
 </table>
 <!-- END:news -->
 
