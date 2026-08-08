@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://specification.website/spec/foundations/for-sale-dns/'>A domain can now say it is for sale, in DNS</a></td></tr>
 <tr><td><a href='https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/'>DeepMind&#x27;s WeatherNext model achieves breakthrough forecasting cyclones</a></td></tr>
-<tr><td><a href='https://nate.spot/no-phone-while-poop/'>Don&#x27;t use your phone while you poop</a></td></tr>
+<tr><td><a href='https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/'>Gateway 2000&#x27;s hilariously bad ads in the 90s (Part II)</a></td></tr>
 <tr><td><a href='https://zaneham.github.io/voyager-fds-emulator/'>Voyager 1 FDS Computer Emulator</a></td></tr>
-<tr><td><a href='https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/'>A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava</a></td></tr>
+<tr><td><a href='https://nate.spot/no-phone-while-poop/'>Don&#x27;t use your phone while you poop</a></td></tr>
 </table>
 <!-- END:news -->
 
