@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html'>Reviving a four year old reMarkable 2</a></td></tr>
 <tr><td><a href='https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html'>Mea Culpa – Dark Hours</a></td></tr>
+<tr><td><a href='https://github.com/rochus-keller/OberonSystem/tree/op2-rv32'>Show HN: A Project Oberon System version running on RISC-V instead of RISC-5</a></td></tr>
 <tr><td><a href='https://gukov.dev/math/2026/08/02/new-magic-hexagons.html'>There Are Magic Hexagons of Every Order</a></td></tr>
 <tr><td><a href='https://halfhill.com/byte/1998-12_alpha.html'>The Alpha 21264 CPU: NT&#x27;s Greatest RISC (1998)</a></td></tr>
 <tr><td><a href='https://seg6.space/posts/phone-server/'>My server is a phone now</a></td></tr>
