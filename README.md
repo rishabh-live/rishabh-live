@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html'>Mea Culpa – Dark Hours</a></td></tr>
+<tr><td><a href='https://rozumem.xyz/posts/19'>Saying No</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49233423'>Ask HN: What are you working on? (August 2026)</a></td></tr>
+<tr><td><a href='https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html'>Mea Culpa – Dark Hours</a></td></tr>
+<tr><td><a href='https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/'>How I use LLMs to learn complex topics</a></td></tr>
 <tr><td><a href='https://openchamber.dev/'>OpenChamber: An Agentic Development Environment</a></td></tr>
-<tr><td><a href='https://www.w3.org/Provider/Style/URI'>Cool URIs Don&#x27;t Change (1998)</a></td></tr>
-<tr><td><a href='https://frequal.com/aptera/ProductionImminent.html'>Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon</a></td></tr>
 </table>
 <!-- END:news -->
 
