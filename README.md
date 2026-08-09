@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gukov.dev/math/2026/08/02/new-magic-hexagons.html'>There Are Magic Hexagons of Every Order</a></td></tr>
-<tr><td><a href='https://github.com/jmarshall23/msword'>Microsoft Word for Windows 1.1a, Native X64 Port</a></td></tr>
 <tr><td><a href='https://seg6.space/posts/phone-server/'>My server is a phone now</a></td></tr>
+<tr><td><a href='https://github.com/jmarshall23/msword'>Microsoft Word for Windows 1.1a, Native X64 Port</a></td></tr>
+<tr><td><a href='https://halfhill.com/byte/1998-12_alpha.html'>The Alpha 21264 CPU: NT&#x27;s Greatest RISC (1998)</a></td></tr>
 <tr><td><a href='https://os8088.com/'>Os8088: A powerful Mac-like OS for the IBM XT, 286, 386</a></td></tr>
-<tr><td><a href='https://www.redblobgames.com/pathfinding/heuristics/differential.html'>Improving Heuristics for A* Pathfinding</a></td></tr>
 </table>
 <!-- END:news -->
 
