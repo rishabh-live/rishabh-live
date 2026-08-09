@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/'>How I use LLMs to learn complex topics</a></td></tr>
-<tr><td><a href='https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware'>Is it all just vapourware?</a></td></tr>
-<tr><td><a href='https://rozumem.xyz/posts/19'>Saying No</a></td></tr>
+<tr><td><a href='https://phrack.org/issues/72/19#article'>The Hacker&#x27;s Renaissance</a></td></tr>
+<tr><td><a href='https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn'>The main way I&#x27;ve seen people turn ideologically crazy (2025)</a></td></tr>
 <tr><td><a href='https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media'>New Zealand lost its music media, and what we&#x27;re building to replace it</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49233423'>Ask HN: What are you working on? (August 2026)</a></td></tr>
 </table>
