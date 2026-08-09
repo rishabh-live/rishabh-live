@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='http://longbets.org/601/'>The original URL for this prediction will no longer be available in 11 years (2011)</a></td></tr>
 <tr><td><a href='https://seg6.space/posts/phone-server/'>My server is a phone now</a></td></tr>
 <tr><td><a href='https://os8088.com/'>Os8088: A powerful Mac-like OS for the IBM XT, 286, 386</a></td></tr>
-<tr><td><a href='https://longbets.org/601/'>&quot;The original URL for this prediction will no longer be available in 11 years.&quot; (2011)</a></td></tr>
 <tr><td><a href='https://www.redblobgames.com/pathfinding/heuristics/differential.html'>Improving Heuristics for A* Pathfinding</a></td></tr>
-<tr><td><a href='https://www.fastmail.com/blog/fastmail-offers-eu-data-region/'>Fastmail offers EU data region</a></td></tr>
+<tr><td><a href='https://shopify.engineering/scaling-inventory-reservations'>Shopify replaced Redis with MySQL for inventory reservations–and it scaled</a></td></tr>
 </table>
 <!-- END:news -->
 
