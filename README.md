@@ -19,7 +19,14 @@
 <br/>
 
 <!-- START:news -->
-<i>No news available at the moment.</i>
+### 📰 Latest Tech News
+<table>
+<tr><td><a href='https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html'>Mea Culpa – Dark Hours</a></td></tr>
+<tr><td><a href='https://github.com/rochus-keller/OberonSystem/tree/op2-rv32'>Show HN: A Project Oberon System version running on RISC-V instead of RISC-5</a></td></tr>
+<tr><td><a href='https://kibotronics.net/unlisted/lilly-machines/'>John C. Lilly on solid state intelligence and the elimination of man (1978)</a></td></tr>
+<tr><td><a href='https://dylancastillo.co/posts/matryoshka-vs-pca'>Honey, I shrunk the embeddings: Matryoshka vs. PCA</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/'>Silicon Valley misreads science fiction and undermines democracy</a></td></tr>
+</table>
 <!-- END:news -->
 
 <br/>
