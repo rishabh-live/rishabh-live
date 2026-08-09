@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html'>Mea Culpa – Dark Hours</a></td></tr>
-<tr><td><a href='https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981'>Criminal Deception in Silicon Valley</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=49233423'>Ask HN: What are you working on? (August 2026)</a></td></tr>
+<tr><td><a href='https://openchamber.dev/'>OpenChamber: An Agentic Development Environment</a></td></tr>
 <tr><td><a href='https://www.w3.org/Provider/Style/URI'>Cool URIs Don&#x27;t Change (1998)</a></td></tr>
-<tr><td><a href='https://github.com/rochus-keller/OberonSystem/tree/op2-rv32'>Show HN: A Project Oberon System version running on RISC-V instead of RISC-5</a></td></tr>
-<tr><td><a href='https://kibotronics.net/unlisted/lilly-machines/'>John C. Lilly on solid state intelligence and the elimination of man (1978)</a></td></tr>
+<tr><td><a href='https://frequal.com/aptera/ProductionImminent.html'>Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon</a></td></tr>
 </table>
 <!-- END:news -->
 
