@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://gukov.dev/math/2026/08/02/new-magic-hexagons.html'>There Are Magic Hexagons of Every Order</a></td></tr>
 <tr><td><a href='https://github.com/jmarshall23/msword'>Microsoft Word for Windows 1.1a, Native X64 Port</a></td></tr>
 <tr><td><a href='https://seg6.space/posts/phone-server/'>My server is a phone now</a></td></tr>
 <tr><td><a href='https://os8088.com/'>Os8088: A powerful Mac-like OS for the IBM XT, 286, 386</a></td></tr>
-<tr><td><a href='https://gukov.dev/math/2026/08/02/new-magic-hexagons.html'>There Are Magic Hexagons of Every Order</a></td></tr>
-<tr><td><a href='https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621'>Melatonin impairs morning cognition in healthy young adults (2023)</a></td></tr>
+<tr><td><a href='https://www.redblobgames.com/pathfinding/heuristics/differential.html'>Improving Heuristics for A* Pathfinding</a></td></tr>
 </table>
 <!-- END:news -->
 
