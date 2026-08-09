@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/'>Denmark Requires Oral Defenses for Students&#x27; Written Work to Counter AI Cheating</a></td></tr>
-<tr><td><a href='https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/'>Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack</a></td></tr>
-<tr><td><a href='https://www.fastmail.com/blog/fastmail-offers-eu-data-region/'>Fastmail offers EU data region</a></td></tr>
 <tr><td><a href='https://seg6.space/posts/phone-server/'>My server is a phone now</a></td></tr>
-<tr><td><a href='https://specification.website/spec/foundations/for-sale-dns/'>A domain can now say it is for sale, in DNS</a></td></tr>
+<tr><td><a href='https://www.redblobgames.com/pathfinding/heuristics/differential.html'>Improving Heuristics for A* Pathfinding</a></td></tr>
+<tr><td><a href='https://www.fastmail.com/blog/fastmail-offers-eu-data-region/'>Fastmail offers EU data region</a></td></tr>
+<tr><td><a href='https://shopify.engineering/scaling-inventory-reservations'>Shopify replaced Redis with MySQL for inventory reservations–and it scaled</a></td></tr>
+<tr><td><a href='https://os8088.com/'>Os8088: A powerful Mac-like OS for the IBM XT, 286, 386</a></td></tr>
 </table>
 <!-- END:news -->
 
