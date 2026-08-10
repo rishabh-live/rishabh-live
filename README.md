@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model'>Meta Muse Glimmer – open weights 30B local coding model</a></td></tr>
+<tr><td><a href='https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough'>Because It&#x27;s Not Fun Enough: why languages fail</a></td></tr>
+<tr><td><a href='https://www.beautifulpublicdata.com/boat-names/'>50k Boat Names</a></td></tr>
 <tr><td><a href='https://www.docker.com/products/docker-sandboxes/'>Docker Sandboxes – Disposable, isolated sandboxes for AI agents</a></td></tr>
-<tr><td><a href='https://blog.teknogeek.io/posts/what-happened-to-hackerone/'>What Happened to HackerOne?</a></td></tr>
-<tr><td><a href='https://github.com/shinyquagsire23/Klepton'>Run Android ARM64 VR APKs on Apple Vision Pro</a></td></tr>
-<tr><td><a href='https://lordgoati.us/blog/tail-call/'>Tail-Call Interpreters in Rust – Jimmy Ostler</a></td></tr>
+<tr><td><a href='https://lwn.net/Articles/1034703/'>Tail-call optimization in C is relatively recent</a></td></tr>
 </table>
 <!-- END:news -->
 
