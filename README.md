@@ -25,7 +25,7 @@
 <tr><td><a href='https://blog.teknogeek.io/posts/what-happened-to-hackerone/'>What Happened to HackerOne?</a></td></tr>
 <tr><td><a href='https://github.com/shinyquagsire23/Klepton'>Run Android ARM64 VR APKs on Apple Vision Pro</a></td></tr>
 <tr><td><a href='https://www.whodunnitai.com/'>Show HN: Voice driven murder mystery, Interview AI suspects with your voice</a></td></tr>
-<tr><td><a href='https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/'>How I use LLMs to learn complex topics</a></td></tr>
+<tr><td><a href='https://lordgoati.us/blog/tail-call/'>Tail-Call Interpreters in Rust – Jimmy Ostler</a></td></tr>
 </table>
 <!-- END:news -->
 
