@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/'>How I use LLMs to learn complex topics</a></td></tr>
-<tr><td><a href='https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media'>New Zealand lost its music media, and what we&#x27;re building to replace it</a></td></tr>
+<tr><td><a href='https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/'>How We Pushed CDC into Postgres</a></td></tr>
 <tr><td><a href='https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html'>Mea Culpa – Dark Hours</a></td></tr>
+<tr><td><a href='https://publicdomainreview.org/collection/marnameh/'>&quot;The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes&quot; (1892)</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49233423'>Ask HN: What are you working on? (August 2026)</a></td></tr>
-<tr><td><a href='https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition'>The tragedy of the commons, AI edition</a></td></tr>
 </table>
 <!-- END:news -->
 
