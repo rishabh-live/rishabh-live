@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://claude.com/blog/auto-mode-default-in-claude-code'>Auto mode is now the default in Claude Code</a></td></tr>
 <tr><td><a href='https://blog.teknogeek.io/posts/what-happened-to-hackerone/'>What Happened to HackerOne?</a></td></tr>
-<tr><td><a href='https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/'>How I use LLMs to learn complex topics</a></td></tr>
-<tr><td><a href='https://foldingglobes.com/'>Turn satellite imagery into a paper globe you fold yourself</a></td></tr>
-<tr><td><a href='https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/'>How We Pushed CDC into Postgres</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49233423'>Ask HN: What are you working on? (August 2026)</a></td></tr>
+<tr><td><a href='https://www.whodunnitai.com/'>Show HN: Voice driven murder mystery, Interview AI suspects with your voice</a></td></tr>
+<tr><td><a href='https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/'>Why do we assume everyone should be working?</a></td></tr>
+<tr><td><a href='https://www.nber.org/papers/w35560'>Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)</a></td></tr>
 </table>
 <!-- END:news -->
 
