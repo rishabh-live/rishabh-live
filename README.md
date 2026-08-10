@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.bbc.com/news/articles/c1j1kjy7gewo'>Mars Bar from 1991 found – and it&#x27;s 20g bigger than today&#x27;s</a></td></tr>
 <tr><td><a href='https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model'>Meta Muse Glimmer – open weights 30B local coding model</a></td></tr>
-<tr><td><a href='https://www.beautifulpublicdata.com/boat-names/'>50k Boat Names</a></td></tr>
+<tr><td><a href='https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the'>Itadakimasu: A Word You Say to the Food, Not the Cook</a></td></tr>
 <tr><td><a href='https://squeak.org/release_notes/6.1/'>Squeak&#x2F;Smalltalk 6.1 Release Notes</a></td></tr>
-<tr><td><a href='https://www.docker.com/products/docker-sandboxes/'>Docker Sandboxes – Disposable, isolated sandboxes for AI agents</a></td></tr>
-<tr><td><a href='https://ethw.org/Milestones:Parametron,_1954'>Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes</a></td></tr>
+<tr><td><a href='https://www.beautifulpublicdata.com/boat-names/'>50k Boat Names</a></td></tr>
 </table>
 <!-- END:news -->
 
