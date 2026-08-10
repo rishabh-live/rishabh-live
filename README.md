@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model'>Meta Muse Glimmer – open weights 30B local coding model</a></td></tr>
 <tr><td><a href='https://www.docker.com/products/docker-sandboxes/'>Docker Sandboxes – Disposable, isolated sandboxes for AI agents</a></td></tr>
 <tr><td><a href='https://blog.teknogeek.io/posts/what-happened-to-hackerone/'>What Happened to HackerOne?</a></td></tr>
 <tr><td><a href='https://github.com/shinyquagsire23/Klepton'>Run Android ARM64 VR APKs on Apple Vision Pro</a></td></tr>
-<tr><td><a href='https://www.whodunnitai.com/'>Show HN: Voice driven murder mystery, Interview AI suspects with your voice</a></td></tr>
 <tr><td><a href='https://lordgoati.us/blog/tail-call/'>Tail-Call Interpreters in Rust – Jimmy Ostler</a></td></tr>
 </table>
 <!-- END:news -->
