@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.teknogeek.io/posts/what-happened-to-hackerone/'>What Happened to HackerOne?</a></td></tr>
 <tr><td><a href='https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/'>How I use LLMs to learn complex topics</a></td></tr>
+<tr><td><a href='https://foldingglobes.com/'>Turn satellite imagery into a paper globe you fold yourself</a></td></tr>
 <tr><td><a href='https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/'>How We Pushed CDC into Postgres</a></td></tr>
-<tr><td><a href='https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html'>Mea Culpa – Dark Hours</a></td></tr>
-<tr><td><a href='https://publicdomainreview.org/collection/marnameh/'>&quot;The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes&quot; (1892)</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49233423'>Ask HN: What are you working on? (August 2026)</a></td></tr>
 </table>
 <!-- END:news -->
