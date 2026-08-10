@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model'>Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows</a></td></tr>
-<tr><td><a href='https://github.com/AntigmaLabs/ante'>Show HN: Ante, a coding agent in a single binary that runs offline</a></td></tr>
 <tr><td><a href='https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392'>Sonic Pi v5</a></td></tr>
-<tr><td><a href='https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii'>Exploiting System Management Mode with a very long interrupt</a></td></tr>
 <tr><td><a href='https://www.stoaexchange.com'>Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/research/riemann-zeta'>Learning more about Claude&#x27;s mathematical capabilities</a></td></tr>
+<tr><td><a href='https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii'>Exploiting System Management Mode with a very long interrupt</a></td></tr>
 </table>
 <!-- END:news -->
 
