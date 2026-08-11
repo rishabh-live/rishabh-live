@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.bbc.com/news/articles/c75gk620r22o'>England set to be one of the first countries to eliminate hepatitis C</a></td></tr>
+<tr><td><a href='https://github.com/anthropics/claude-code/issues/78431'>Claude Code is leaking real email address as a User-Agent string in curl command</a></td></tr>
 <tr><td><a href='https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html'>France to ban unsolicited telemarketing calls</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/ce3q5nxpgk1o'>More than 10 firms pay up to $100k a month for access to Truth Social posts</a></td></tr>
-<tr><td><a href='https://github.com/antirez/h3.c'>H3-metal – Native MiniMax-H3 inference for Apple Silicon</a></td></tr>
+<tr><td><a href='https://stratechery.com/2026/nvidias-risky-business/'>Nvidia&#x27;s Risky Business</a></td></tr>
 <tr><td><a href='https://thewalrus.ca/google-search-is-dying/'>As AI eats the web, the internet’s collective memory is disappearing</a></td></tr>
-<tr><td><a href='https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883'>OpenAI&#x27;s Only Ethicist Reportedly Left Last Month</a></td></tr>
 </table>
 <!-- END:news -->
 
