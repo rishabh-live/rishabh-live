@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.effort.news/uk-lobby'>The UK&#x27;s War on Anonymity Has Come to America</a></td></tr>
+<tr><td><a href='https://code.call-cc.org/releases/6.0.0/NEWS'>Chicken Scheme 6.0</a></td></tr>
+<tr><td><a href='https://everycube.alen.is/'>Show HN: Scroll through all 43252003274489856000 Rubik&#x27;s Cube states</a></td></tr>
 <tr><td><a href='https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model'>Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows</a></td></tr>
-<tr><td><a href='https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878'>Mark Zuckerberg attacks &#x27;closed&#x27; AI rivals as Meta returns to open models</a></td></tr>
-<tr><td><a href='https://www.vectorware.com/blog/simd-on-gpu/'>Rust SIMD on the GPU</a></td></tr>
-<tr><td><a href='https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392'>Sonic Pi v5</a></td></tr>
-<tr><td><a href='https://arachnoid.com/lutusp/sailbook.html'>Confessions of a Long-Distance Sailor</a></td></tr>
+<tr><td><a href='https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined'>The “mechanical miracle” that ruined Mark Twain’s life</a></td></tr>
 </table>
 <!-- END:news -->
 
