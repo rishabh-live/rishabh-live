@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/'>Woman Pulled over at Gunpoint Twice After Flock Camera Glitch</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/c75gk620r22o'>England set to be one of the first countries to eliminate hepatitis C</a></td></tr>
 <tr><td><a href='https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md'>Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp</a></td></tr>
+<tr><td><a href='https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/'>Why Go Is an Ideal Language for AI-Assisted Software Engineering</a></td></tr>
 <tr><td><a href='https://stolen-thoughts.com/'>Stealing Reasoning Traces from Proprietary LLM APIs</a></td></tr>
-<tr><td><a href='https://manus.im/blog/a-note-to-our-users'>Manus will return to operating as an independent company</a></td></tr>
-<tr><td><a href='https://github.com/TheRealYT/git-knife'>Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet</a></td></tr>
 </table>
 <!-- END:news -->
 
