@@ -24,7 +24,7 @@
 <tr><td><a href='https://github.com/antirez/h3.c'>H3-metal – Native MiniMax-H3 inference for Apple Silicon</a></td></tr>
 <tr><td><a href='https://github.com/activeing123/mcptoon'>Show HN: Mcptoon – Token-efficient MCP CLI client</a></td></tr>
 <tr><td><a href='https://code.call-cc.org/releases/6.0.0/NEWS'>Chicken Scheme 6.0</a></td></tr>
-<tr><td><a href='https://everycube.alen.is/'>Show HN: Scroll through all 43252003274489856000 Rubik&#x27;s Cube states</a></td></tr>
+<tr><td><a href='https://thewalrus.ca/google-search-is-dying/'>As AI eats the web, the internet’s collective memory is disappearing</a></td></tr>
 <tr><td><a href='https://huggingface.co/LiquidAI/LFM2.5-2.6B'>LFM2.5 2.6B model competitive with 4x larger models</a></td></tr>
 </table>
 <!-- END:news -->
