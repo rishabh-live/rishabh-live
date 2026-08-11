@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.bbc.com/news/articles/c75gk620r22o'>England set to be one of the first countries to eliminate hepatitis C</a></td></tr>
-<tr><td><a href='https://github.com/anthropics/claude-code/issues/78431'>Claude Code is leaking real email address as a User-Agent string in curl command</a></td></tr>
-<tr><td><a href='https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html'>France to ban unsolicited telemarketing calls</a></td></tr>
-<tr><td><a href='https://stratechery.com/2026/nvidias-risky-business/'>Nvidia&#x27;s Risky Business</a></td></tr>
-<tr><td><a href='https://thewalrus.ca/google-search-is-dying/'>As AI eats the web, the internet’s collective memory is disappearing</a></td></tr>
+<tr><td><a href='https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md'>Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp</a></td></tr>
+<tr><td><a href='https://github.com/TheRealYT/git-knife'>Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet</a></td></tr>
+<tr><td><a href='https://stolen-thoughts.com/'>Stealing Reasoning Traces from Proprietary LLM APIs</a></td></tr>
+<tr><td><a href='https://manus.im/blog/a-note-to-our-users'>Manus will return to operating as an independent company</a></td></tr>
 </table>
 <!-- END:news -->
 
