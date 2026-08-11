@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/antirez/h3.c'>H3-metal – Native MiniMax-H3 inference for Apple Silicon</a></td></tr>
-<tr><td><a href='https://github.com/activeing123/mcptoon'>Show HN: Mcptoon – Token-efficient MCP CLI client</a></td></tr>
-<tr><td><a href='https://code.call-cc.org/releases/6.0.0/NEWS'>Chicken Scheme 6.0</a></td></tr>
 <tr><td><a href='https://thewalrus.ca/google-search-is-dying/'>As AI eats the web, the internet’s collective memory is disappearing</a></td></tr>
-<tr><td><a href='https://huggingface.co/LiquidAI/LFM2.5-2.6B'>LFM2.5 2.6B model competitive with 4x larger models</a></td></tr>
+<tr><td><a href='https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html'>France to ban unsolicited telemarketing calls</a></td></tr>
+<tr><td><a href='https://code.call-cc.org/releases/6.0.0/NEWS'>Chicken Scheme 6.0</a></td></tr>
+<tr><td><a href='https://github.com/activeing123/mcptoon'>Show HN: Mcptoon – Token-efficient MCP CLI client</a></td></tr>
 </table>
 <!-- END:news -->
 
