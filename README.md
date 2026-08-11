@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/antirez/h3.c'>H3-metal – Native MiniMax-H3 inference for Apple Silicon</a></td></tr>
+<tr><td><a href='https://github.com/activeing123/mcptoon'>Show HN: Mcptoon – Token-efficient MCP CLI client</a></td></tr>
 <tr><td><a href='https://code.call-cc.org/releases/6.0.0/NEWS'>Chicken Scheme 6.0</a></td></tr>
 <tr><td><a href='https://everycube.alen.is/'>Show HN: Scroll through all 43252003274489856000 Rubik&#x27;s Cube states</a></td></tr>
-<tr><td><a href='https://www.floppydisk.com/recycle'>Recycle – Floppydisks</a></td></tr>
-<tr><td><a href='https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined'>The “mechanical miracle” that ruined Mark Twain’s life</a></td></tr>
+<tr><td><a href='https://huggingface.co/LiquidAI/LFM2.5-2.6B'>LFM2.5 2.6B model competitive with 4x larger models</a></td></tr>
 </table>
 <!-- END:news -->
 
