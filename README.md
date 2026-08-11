@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/'>Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</a></td></tr>
+<tr><td><a href='https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment'>The brain may be about to have its Ozempic moment</a></td></tr>
+<tr><td><a href='https://ngrok.com/blog/compression-is-prediction'>Compression Is Prediction</a></td></tr>
 <tr><td><a href='https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here'>Mojo 1.0</a></td></tr>
-<tr><td><a href='https://stolen-thoughts.com/'>Stealing Reasoning Traces from Proprietary LLM APIs</a></td></tr>
 <tr><td><a href='https://ironicsans.ghost.io/how-we-used-to-get-jobs/'>How we used to get jobs: A newspaper classifieds story</a></td></tr>
-<tr><td><a href='https://photosynthesis.camera'>Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo</a></td></tr>
-<tr><td><a href='https://blog.jordan.matelsky.com/Penplotter-holography/'>Making holograms with a pen plotter</a></td></tr>
 </table>
 <!-- END:news -->
 
