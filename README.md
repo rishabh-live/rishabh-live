@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/'>Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</a></td></tr>
 <tr><td><a href='https://ngrok.com/blog/compression-is-prediction'>Compression is prediction</a></td></tr>
+<tr><td><a href='https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/'>WorldClaw Agentic 3D open-world generation at scale</a></td></tr>
 <tr><td><a href='https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here'>Mojo 1.0</a></td></tr>
 <tr><td><a href='https://stolen-thoughts.com/'>Stealing Reasoning Traces from Proprietary LLM APIs</a></td></tr>
-<tr><td><a href='https://blog.jordan.matelsky.com/Penplotter-holography/'>Making holograms with a pen plotter</a></td></tr>
 </table>
 <!-- END:news -->
 
