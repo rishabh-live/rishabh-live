@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html'>France to ban unsolicited telemarketing calls</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/ce3q5nxpgk1o'>More than 10 firms pay up to $100k a month for access to Truth Social posts</a></td></tr>
 <tr><td><a href='https://github.com/antirez/h3.c'>H3-metal – Native MiniMax-H3 inference for Apple Silicon</a></td></tr>
 <tr><td><a href='https://thewalrus.ca/google-search-is-dying/'>As AI eats the web, the internet’s collective memory is disappearing</a></td></tr>
-<tr><td><a href='https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi'>To Save C, We Must Save ABI</a></td></tr>
-<tr><td><a href='https://code.call-cc.org/releases/6.0.0/NEWS'>Chicken Scheme 6.0</a></td></tr>
+<tr><td><a href='https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883'>OpenAI&#x27;s Only Ethicist Reportedly Left Last Month</a></td></tr>
 </table>
 <!-- END:news -->
 
