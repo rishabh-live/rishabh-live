@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.cringebot3000.com/'>LinkedIn CringeBot 3000</a></td></tr>
 <tr><td><a href='https://aresluna.org/the-hardest-working-font-in-manhattan/'>The hardest working font in Manhattan (2025)</a></td></tr>
 <tr><td><a href='https://ngrok.com/blog/compression-is-prediction'>Compression is prediction</a></td></tr>
+<tr><td><a href='https://worm.net/'>Worms: The Future of Yesterday&#x27;s Worms Today</a></td></tr>
 <tr><td><a href='https://llama.app'>llama.cpp</a></td></tr>
-<tr><td><a href='https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/'>WorldClaw Agentic 3D open-world generation at scale</a></td></tr>
-<tr><td><a href='https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/'>The lifesaving secret hidden inside a horseshoe crab&#x27;s blue blood</a></td></tr>
 </table>
 <!-- END:news -->
 
