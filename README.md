@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/'>Tim Gowers: What sort of maths are LLMs good at?</a></td></tr>
-<tr><td><a href='https://www.cringebot3000.com/'>LinkedIn CringeBot 3000</a></td></tr>
+<tr><td><a href='https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/'>What sort of maths are LLMs good at?</a></td></tr>
 <tr><td><a href='https://woxi.ad-si.com'>Show HN: Woxi - Open-source Mathematica &#x2F; Wolfram Language reimplementation</a></td></tr>
+<tr><td><a href='https://www.cringebot3000.com/'>LinkedIn CringeBot 3000</a></td></tr>
 <tr><td><a href='https://spoorkaart.zaza.dev'>Dutch Train Map Simulator</a></td></tr>
-<tr><td><a href='https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland'>Beef and dairy drive 41% of biodiversity damage linked to global farmland</a></td></tr>
+<tr><td><a href='https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/'>High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons</a></td></tr>
 </table>
 <!-- END:news -->
 
