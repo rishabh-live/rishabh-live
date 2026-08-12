@@ -25,7 +25,7 @@
 <tr><td><a href='https://zed.dev/blog/introducing-delta'>Delta</a></td></tr>
 <tr><td><a href='https://tailscale.com/blog/sqlite-wal-reset-bug'>Tailscale Traces Database Corruption to 16y&#x2F;o SQLite WAL-Reset Bug</a></td></tr>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B'>Qwen3.8-2.4T</a></td></tr>
-<tr><td><a href='https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis'>Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index</a></td></tr>
+<tr><td><a href='https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/'>Thanks to social media, canned sardines are a scarcity on the supermarket shelf</a></td></tr>
 </table>
 <!-- END:news -->
 
