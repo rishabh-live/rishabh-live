@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openrouter.ai/deepseek/deepseek-v4-pro-0813'>DeepSeek V4 Pro 0813</a></td></tr>
 <tr><td><a href='https://tailscale.com/blog/sqlite-wal-reset-bug'>Tailscale Traces Database Corruption to 16y&#x2F;o SQLite WAL-Reset Bug</a></td></tr>
 <tr><td><a href='https://jonty.github.io/2026_eclipse_webcams/'>2026 Eclipse Webcams</a></td></tr>
 <tr><td><a href='https://amiga-news.de/en/news/AN-2026-08-00070-EN.html'>Tim King, AmigaDOS developer, has died</a></td></tr>
-<tr><td><a href='https://x.ai/news/grok-4-6'>Grok 4.6</a></td></tr>
-<tr><td><a href='https://knownagents.com/insights'>Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot</a></td></tr>
+<tr><td><a href='https://api-docs.deepseek.com/guides/responses_api/'>DeepSeek V4 Pro 0813 quietly released</a></td></tr>
 </table>
 <!-- END:news -->
 
