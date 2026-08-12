@@ -25,7 +25,7 @@
 <tr><td><a href='https://zed.dev/blog/introducing-delta'>Delta</a></td></tr>
 <tr><td><a href='https://tailscale.com/blog/sqlite-wal-reset-bug'>Tailscale Traces Database Corruption to 16y&#x2F;o SQLite WAL-Reset Bug</a></td></tr>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B'>Qwen3.8-2.4T</a></td></tr>
-<tr><td><a href='https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/'>Thanks to social media, canned sardines are a scarcity on the supermarket shelf</a></td></tr>
+<tr><td><a href='http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html'>Why Target Common Lisp for Code Generation?</a></td></tr>
 </table>
 <!-- END:news -->
 
