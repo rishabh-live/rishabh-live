@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://jonty.github.io/2026_eclipse_webcams/'>2026 Eclipse Webcams</a></td></tr>
 <tr><td><a href='https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/'>What sort of maths are LLMs good at?</a></td></tr>
 <tr><td><a href='https://woxi.ad-si.com'>Show HN: Woxi - Open-source Mathematica &#x2F; Wolfram Language reimplementation</a></td></tr>
+<tr><td><a href='https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/'>Delphi 13 Community Edition Is Now Available</a></td></tr>
 <tr><td><a href='https://www.cringebot3000.com/'>LinkedIn CringeBot 3000</a></td></tr>
-<tr><td><a href='https://spoorkaart.zaza.dev'>Dutch Train Map Simulator</a></td></tr>
-<tr><td><a href='https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/'>High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons</a></td></tr>
 </table>
 <!-- END:news -->
 
