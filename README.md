@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tailscale.com/blog/sqlite-wal-reset-bug'>Tailscale Traces Database Corruption to 16y&#x2F;o SQLite WAL-Reset Bug</a></td></tr>
 <tr><td><a href='https://jonty.github.io/2026_eclipse_webcams/'>2026 Eclipse Webcams</a></td></tr>
-<tr><td><a href='https://amiga-news.de/en/news/AN-2026-08-00070-EN.html'>Obituary: AmigaDOS developer Dr. Tim King has passed away</a></td></tr>
-<tr><td><a href='https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html'>AI is removing the middle class of software engineering</a></td></tr>
-<tr><td><a href='https://guillaumetech.github.io/posts/jpg-scaling-chrome/'>Why Tiny JPEGs Look Different in Chrome</a></td></tr>
-<tr><td><a href='https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/'>What sort of maths are LLMs good at?</a></td></tr>
+<tr><td><a href='https://amiga-news.de/en/news/AN-2026-08-00070-EN.html'>Tim King, AmigaDOS developer, has died</a></td></tr>
+<tr><td><a href='https://x.ai/news/grok-4-6'>Grok 4.6</a></td></tr>
+<tr><td><a href='https://knownagents.com/insights'>Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot</a></td></tr>
 </table>
 <!-- END:news -->
 
