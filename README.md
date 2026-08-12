@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/'>Tim Gowers: What sort of maths are LLMs good at?</a></td></tr>
 <tr><td><a href='https://www.cringebot3000.com/'>LinkedIn CringeBot 3000</a></td></tr>
-<tr><td><a href='https://aresluna.org/the-hardest-working-font-in-manhattan/'>The hardest working font in Manhattan (2025)</a></td></tr>
-<tr><td><a href='https://ngrok.com/blog/compression-is-prediction'>Compression is prediction</a></td></tr>
-<tr><td><a href='https://worm.net/'>Worms: The Future of Yesterday&#x27;s Worms Today</a></td></tr>
-<tr><td><a href='https://llama.app'>llama.cpp</a></td></tr>
+<tr><td><a href='https://woxi.ad-si.com'>Show HN: Woxi - Open-source Mathematica &#x2F; Wolfram Language reimplementation</a></td></tr>
+<tr><td><a href='https://spoorkaart.zaza.dev'>Dutch Train Map Simulator</a></td></tr>
+<tr><td><a href='https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland'>Beef and dairy drive 41% of biodiversity damage linked to global farmland</a></td></tr>
 </table>
 <!-- END:news -->
 
