@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ngrok.com/blog/compression-is-prediction'>Compression is prediction</a></td></tr>
+<tr><td><a href='https://llama.app'>llama.cpp</a></td></tr>
 <tr><td><a href='https://aresluna.org/the-hardest-working-font-in-manhattan/'>The hardest working font in Manhattan (2025)</a></td></tr>
+<tr><td><a href='https://ngrok.com/blog/compression-is-prediction'>Compression is prediction</a></td></tr>
 <tr><td><a href='https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/'>The lifesaving secret hidden inside a horseshoe crab&#x27;s blue blood</a></td></tr>
 <tr><td><a href='https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/'>WorldClaw Agentic 3D open-world generation at scale</a></td></tr>
-<tr><td><a href='https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/'>Nvidia Nemotron 3.5 Lightning and NeMo Switchyard</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,9 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+<tr><td>Created repository</td><td><a href='https://github.com/rishabh-live/th26'>rishabh-live/th26</a></td><td>-</td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
