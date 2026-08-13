@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/'>Deutsche Bank becomes first foreign yuan clearing bank in Europe</a></td></tr>
-<tr><td><a href='https://www.netlify.com/blog/one-prompt-11-models-very-different-results/'>Choosing an AI model: one prompt, 11 models, different results</a></td></tr>
-<tr><td><a href='https://openai.com/codex/'>ChatGPT Desktop (Codex Desktop) for Linux</a></td></tr>
-<tr><td><a href='https://pxl-th.github.io/blog/better-gs-julia/'>Better Gaussian Splatting in Julia</a></td></tr>
-<tr><td><a href='https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/'>The lattice of sets of natural numbers is rich (2021)</a></td></tr>
+<tr><td><a href='https://github.com/deepseek-ai/deepseek-harness'>DeepSeek Harness</a></td></tr>
+<tr><td><a href='https://gloom.sh/'>Gloomberb</a></td></tr>
+<tr><td><a href='https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users'>AI agents lie, cheat and steal. That is putting off users</a></td></tr>
+<tr><td><a href='https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft'>Heart Aerospace Completes First Flight of Largest Electric Aircraft</a></td></tr>
+<tr><td><a href='https://github.com/xoreaxeaxeax/skitter-creek-bath-salts'>Spaghettifying DRAM</a></td></tr>
 </table>
 <!-- END:news -->
 
