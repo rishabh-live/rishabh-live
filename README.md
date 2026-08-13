@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/codex/'>ChatGPT Desktop (Codex Desktop) for Linux</a></td></tr>
+<tr><td><a href='https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/'>The lattice of sets of natural numbers is rich</a></td></tr>
 <tr><td><a href='https://openrouter.ai/deepseek/deepseek-v4-pro-0813'>DeepSeek V4 Pro 0813</a></td></tr>
 <tr><td><a href='https://tailscale.com/blog/sqlite-wal-reset-bug'>Tracking down the 16-year-old WAL-reset SQLite bug</a></td></tr>
-<tr><td><a href='https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/'>The lattice of sets of natural numbers is rich</a></td></tr>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B'>Qwen3.8-2.4T</a></td></tr>
 </table>
 <!-- END:news -->
