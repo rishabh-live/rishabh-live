@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/'>Gemini 3.7 Flash</a></td></tr>
+<tr><td><a href='https://docs.mistral.ai/models/ocr-4-1'>Mistral OCR 4.1</a></td></tr>
 <tr><td><a href='https://github.com/xoreaxeaxeax/skitter-creek-bath-salts'>Spaghettifying DRAM</a></td></tr>
-<tr><td><a href='https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/'>Come for ENIAC, Stay for UNIVAC and Skeduflo</a></td></tr>
-<tr><td><a href='https://deepseek.com/harness/en/'>DeepSeek Harness developer preview</a></td></tr>
-<tr><td><a href='https://gloom.sh/'>Gloomberb</a></td></tr>
-<tr><td><a href='https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around'>How art invented humanity</a></td></tr>
+<tr><td><a href='https://mcfunley.com/choose-boring-technology'>Choose Boring Technology (2015)</a></td></tr>
+<tr><td><a href='https://donkeybas.com/'>Donkey.bas is 45 Years Old – 131 line of Glory</a></td></tr>
 </table>
 <!-- END:news -->
 
