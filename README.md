@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://github.com/deepseek-ai/deepseek-harness'>DeepSeek Harness</a></td></tr>
 <tr><td><a href='https://gloom.sh/'>Gloomberb</a></td></tr>
-<tr><td><a href='https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users'>AI agents lie, cheat and steal. That is putting off users</a></td></tr>
-<tr><td><a href='https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft'>Heart Aerospace Completes First Flight of Largest Electric Aircraft</a></td></tr>
 <tr><td><a href='https://github.com/xoreaxeaxeax/skitter-creek-bath-salts'>Spaghettifying DRAM</a></td></tr>
+<tr><td><a href='https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users'>AI agents lie, cheat and steal. That is putting off users</a></td></tr>
+<tr><td><a href='https://oxide.computer/blog/kubernetes-on-oxide'>Kubernetes on Oxide: How Customer Needs Shaped Our Integrations</a></td></tr>
 </table>
 <!-- END:news -->
 
