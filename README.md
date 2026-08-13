@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/deepseek-ai/deepseek-harness'>DeepSeek Harness</a></td></tr>
-<tr><td><a href='https://gloom.sh/'>Gloomberb</a></td></tr>
 <tr><td><a href='https://github.com/xoreaxeaxeax/skitter-creek-bath-salts'>Spaghettifying DRAM</a></td></tr>
-<tr><td><a href='https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users'>AI agents lie, cheat and steal. That is putting off users</a></td></tr>
-<tr><td><a href='https://oxide.computer/blog/kubernetes-on-oxide'>Kubernetes on Oxide: How Customer Needs Shaped Our Integrations</a></td></tr>
+<tr><td><a href='https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/'>Come for ENIAC, Stay for UNIVAC and Skeduflo</a></td></tr>
+<tr><td><a href='https://deepseek.com/harness/en/'>DeepSeek Harness developer preview</a></td></tr>
+<tr><td><a href='https://gloom.sh/'>Gloomberb</a></td></tr>
+<tr><td><a href='https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around'>How art invented humanity</a></td></tr>
 </table>
 <!-- END:news -->
 
