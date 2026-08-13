@@ -24,8 +24,8 @@
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/'>Gemini 3.7 Flash</a></td></tr>
 <tr><td><a href='https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai'>Accelerating GPT-5.6 Sol Ultrafast</a></td></tr>
 <tr><td><a href='https://gruhn.me/blog/2026-08-13/'>NP-Overrated</a></td></tr>
+<tr><td><a href='https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck'>Understanding is the new bottleneck</a></td></tr>
 <tr><td><a href='https://donkeybas.com/'>Donkey.bas is 45 Years Old – 131 line of Glory</a></td></tr>
-<tr><td><a href='https://docs.mistral.ai/models/ocr-4-1'>Mistral OCR 4.1</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,9 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-<tr><td>Created repository</td><td><a href='https://github.com/rishabh-live/th26'>rishabh-live/th26</a></td><td>-</td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
