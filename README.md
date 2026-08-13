@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openrouter.ai/deepseek/deepseek-v4-pro-0813'>DeepSeek V4 Pro 0813</a></td></tr>
-<tr><td><a href='https://tailscale.com/blog/sqlite-wal-reset-bug'>Tailscale Traces Database Corruption to 16y&#x2F;o SQLite WAL-Reset Bug</a></td></tr>
+<tr><td><a href='https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html'>Mushroom behind &#x27;tiny people&#x27; hallucinations identified</a></td></tr>
+<tr><td><a href='https://tailscale.com/blog/sqlite-wal-reset-bug'>We tracked down the 16-year-old WAL-reset SQLite bug</a></td></tr>
+<tr><td><a href='https://openai.com/codex/'>ChatGPT Desktop (Codex Desktop) for Linux</a></td></tr>
 <tr><td><a href='https://zed.dev/blog/introducing-delta'>Delta</a></td></tr>
-<tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B'>Qwen3.8-2.4T</a></td></tr>
-<tr><td><a href='https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html'>Principia Mathematica is modern and insightful</a></td></tr>
 </table>
 <!-- END:news -->
 
