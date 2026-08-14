@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.bbc.com/news/articles/ce97mm3vvemo'>Count Binface receives over a quarter of votes in Clacton by-election</a></td></tr>
 <tr><td><a href='https://blog.plover.com/2026/08/02/'>Seven books I keep close because I love them</a></td></tr>
 <tr><td><a href='https://rustdesk.com/blog/unattended-remote-access-wayland/'>RustDesk now supports true unattended remote access on Wayland</a></td></tr>
-<tr><td><a href='https://mun-logadan.github.io/why-does-opus-5-feel-worse/'>Why does Opus 5 feel worse to work with?</a></td></tr>
+<tr><td><a href='https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/'>Google is making private AI practical with homomorphic encryption</a></td></tr>
 </table>
 <!-- END:news -->
 
