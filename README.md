@@ -25,7 +25,7 @@
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/'>Gemini 3.7 Flash</a></td></tr>
 <tr><td><a href='https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai'>Accelerating GPT-5.6 Sol Ultrafast</a></td></tr>
 <tr><td><a href='https://themech.net/2026/08/hello-me-its-been-a-while/'>Hello, me. It&#x27;s been a while</a></td></tr>
-<tr><td><a href='https://atproto.com/blog/introducing-bluesky-protocol-services'>Bluesky Protocol Services</a></td></tr>
+<tr><td><a href='https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/'>Why Books Don&#x27;t Work: Constructivism over Transmissionism (2021)</a></td></tr>
 </table>
 <!-- END:news -->
 
