@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://lxe.github.io/everywebsite/'>Every Fucking Website (2020)</a></td></tr>
+<tr><td><a href='https://weightythoughts.com/p/when-genius-failsthe-intellectual'>When Genius Fails: The Intellectual Arrogance of the AI Labs</a></td></tr>
+<tr><td><a href='https://blog.plover.com/2026/08/02/'>Seven books I keep close because I love them</a></td></tr>
+<tr><td><a href='https://www.mixedbread.com/blog/toast-1'>Introducing Toast 1</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5.3'>GLM-5.3: Frontier coding with emergent cyber capabilities</a></td></tr>
-<tr><td><a href='https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications'>Don&#x27;t classify, hallucinate!</a></td></tr>
-<tr><td><a href='https://api-docs.deepseek.com/news/news260813/'>DeepSeek peak&#x2F;off-peak pricing update</a></td></tr>
-<tr><td><a href='https://e360.yale.edu/digest/australia-home-batteries'>In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half</a></td></tr>
-<tr><td><a href='https://codeberg.org/jjba23/lambdock'>Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL</a></td></tr>
 </table>
 <!-- END:news -->
 
