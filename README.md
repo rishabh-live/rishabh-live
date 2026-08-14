@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://z.ai/blog/glm-5.3'>GLM-5.3: Frontier coding with emergent cyber capabilities</a></td></tr>
+<tr><td><a href='https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications'>Don&#x27;t classify, hallucinate!</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/news/news260813/'>DeepSeek peak&#x2F;off-peak pricing update</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/'>Gemini 3.7 Flash</a></td></tr>
-<tr><td><a href='https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai'>Accelerating GPT-5.6 Sol Ultrafast</a></td></tr>
-<tr><td><a href='https://themech.net/2026/08/hello-me-its-been-a-while/'>Hello, me. It&#x27;s been a while</a></td></tr>
+<tr><td><a href='https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/'>Differential Heuristics</a></td></tr>
 </table>
 <!-- END:news -->
 
