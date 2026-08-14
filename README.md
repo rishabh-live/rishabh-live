@@ -23,7 +23,7 @@
 <table>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
 <tr><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td></tr>
-<tr><td><a href='https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/'>Google is making private AI practical with homomorphic encryption</a></td></tr>
+<tr><td><a href='https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV'>RISC-V: They should have known better</a></td></tr>
 <tr><td><a href='https://mun-logadan.github.io/why-does-opus-5-feel-worse/'>Why does Opus 5 feel worse to work with?</a></td></tr>
 <tr><td><a href='https://rustdesk.com/blog/unattended-remote-access-wayland/'>RustDesk now supports true unattended remote access on Wayland</a></td></tr>
 </table>
