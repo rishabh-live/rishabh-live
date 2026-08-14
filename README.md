@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
-<tr><td><a href='https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones'>Study links coffee consumption to metabolic health and sex hormones</a></td></tr>
-<tr><td><a href='https://blog.plover.com/2026/08/02/'>Seven books I keep close because I love them</a></td></tr>
+<tr><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Everything is about to &quot;go dark&quot;</a></td></tr>
 <tr><td><a href='https://rustdesk.com/blog/unattended-remote-access-wayland/'>RustDesk now supports true unattended remote access on Wayland</a></td></tr>
 <tr><td><a href='https://mun-logadan.github.io/why-does-opus-5-feel-worse/'>Why does Opus 5 feel worse to work with?</a></td></tr>
+<tr><td><a href='https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/'>Google is making private AI practical with homomorphic encryption</a></td></tr>
 </table>
 <!-- END:news -->
 
