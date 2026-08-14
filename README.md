@@ -24,8 +24,8 @@
 <tr><td><a href='https://z.ai/blog/glm-5.3'>GLM-5.3: Frontier coding with emergent cyber capabilities</a></td></tr>
 <tr><td><a href='https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications'>Don&#x27;t classify, hallucinate!</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/news/news260813/'>DeepSeek peak&#x2F;off-peak pricing update</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/'>Gemini 3.7 Flash</a></td></tr>
-<tr><td><a href='https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/'>Differential Heuristics</a></td></tr>
+<tr><td><a href='https://e360.yale.edu/digest/australia-home-batteries'>In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half</a></td></tr>
+<tr><td><a href='https://codeberg.org/jjba23/lambdock'>Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL</a></td></tr>
 </table>
 <!-- END:news -->
 
