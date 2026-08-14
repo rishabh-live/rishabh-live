@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
-<tr><td><a href='https://blog.plover.com/2026/08/02/'>Seven books I keep close because I love them</a></td></tr>
-<tr><td><a href='https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf'>Anthropic Risk August 2026 [pdf]</a></td></tr>
 <tr><td><a href='https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones'>Study links coffee consumption to metabolic health and sex hormones</a></td></tr>
+<tr><td><a href='https://blog.plover.com/2026/08/02/'>Seven books I keep close because I love them</a></td></tr>
 <tr><td><a href='https://rustdesk.com/blog/unattended-remote-access-wayland/'>RustDesk now supports true unattended remote access on Wayland</a></td></tr>
+<tr><td><a href='https://mun-logadan.github.io/why-does-opus-5-feel-worse/'>Why does Opus 5 feel worse to work with?</a></td></tr>
 </table>
 <!-- END:news -->
 
