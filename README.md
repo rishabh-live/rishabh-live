@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/'>Gemini 3.7 Flash</a></td></tr>
+<tr><td><a href='https://atproto.com/blog/introducing-bluesky-protocol-services'>Bluesky Protocol Services</a></td></tr>
+<tr><td><a href='https://sparrowmap.com/'>SparrowMap – Cameras that watch government vehicles</a></td></tr>
 <tr><td><a href='https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai'>Accelerating GPT-5.6 Sol Ultrafast</a></td></tr>
-<tr><td><a href='https://gruhn.me/blog/2026-08-13/'>NP-Overrated</a></td></tr>
-<tr><td><a href='https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck'>Understanding is the new bottleneck</a></td></tr>
-<tr><td><a href='https://donkeybas.com/'>Donkey.bas is 45 Years Old – 131 line of Glory</a></td></tr>
+<tr><td><a href='https://deepseek.com/harness/en/'>DeepSeek Harness developer preview</a></td></tr>
 </table>
 <!-- END:news -->
 
