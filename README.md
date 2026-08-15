@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive'>Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</a></td></tr>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
 <tr><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td></tr>
-<tr><td><a href='https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va'>Stop sending me huge PRs; a rant</a></td></tr>
-<tr><td><a href='https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science'>The case for overhauling American science</a></td></tr>
-<tr><td><a href='https://mun-logadan.github.io/why-does-opus-5-feel-worse/'>Why does Opus 5 feel worse to work with?</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/1811.03459'>Simplifying and Refactoring Introductory Calculus</a></td></tr>
+<tr><td><a href='https://blog.ploopy.co/the-aplus-is-finally-here-499'>The Ploopy A+ Trackball Is Here</a></td></tr>
 </table>
 <!-- END:news -->
 
