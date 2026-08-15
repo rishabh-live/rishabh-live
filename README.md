@@ -24,8 +24,8 @@
 <tr><td><a href='https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive'>Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</a></td></tr>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
 <tr><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td></tr>
-<tr><td><a href='https://blog.ploopy.co/the-aplus-is-finally-here-499'>The Ploopy A+ Trackball Is Here</a></td></tr>
-<tr><td><a href='https://eigendrum.com/#p=circle'>eigendrum</a></td></tr>
+<tr><td><a href='https://conic.al/writing/the-other-sean-byrne-doesnt-exist/'>The other Sean Byrne doesn&#x27;t exist</a></td></tr>
+<tr><td><a href='https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/'>I close SSH port 22 (and what I use instead)</a></td></tr>
 </table>
 <!-- END:news -->
 
