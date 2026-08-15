@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
 <tr><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td></tr>
-<tr><td><a href='https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV'>RISC-V: They should have known better</a></td></tr>
+<tr><td><a href='https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va'>Stop sending me huge PRs; a rant</a></td></tr>
+<tr><td><a href='https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science'>The case for overhauling American science</a></td></tr>
 <tr><td><a href='https://mun-logadan.github.io/why-does-opus-5-feel-worse/'>Why does Opus 5 feel worse to work with?</a></td></tr>
-<tr><td><a href='https://rustdesk.com/blog/unattended-remote-access-wayland/'>RustDesk now supports true unattended remote access on Wayland</a></td></tr>
 </table>
 <!-- END:news -->
 
