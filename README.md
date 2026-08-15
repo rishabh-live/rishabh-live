@@ -24,8 +24,8 @@
 <tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to lower predicted dementia risk</a></td></tr>
 <tr><td><a href='https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians'>AI Isn&#x27;t Outthinking Mathematicians. It&#x27;s Out-Remembering Them</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/'>At-home test for infected ticks could improve Lyme Disease diagnosis</a></td></tr>
+<tr><td><a href='https://www.henrikkarlsson.xyz/p/good-ideas'>Cultivating a state of mind where new ideas are born</a></td></tr>
 <tr><td><a href='https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV'>RISC-V: They Should Have Known Better</a></td></tr>
-<tr><td><a href='https://sankalp.bearblog.dev/autoresearch/'>Auto-research with codex: How I achieved a 232x Faster Kernel</a></td></tr>
 </table>
 <!-- END:news -->
 
