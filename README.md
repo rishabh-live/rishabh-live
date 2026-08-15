@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://conic.al/writing/the-other-sean-byrne-doesnt-exist/'>The other Sean Byrne doesn&#x27;t exist</a></td></tr>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
+<tr><td><a href='https://baselashraf81.github.io/eigendrum/'>Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum</a></td></tr>
 <tr><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td></tr>
-<tr><td><a href='https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/'>In 1962, Egypt&#x27;s Missile Program Lost Its Key Scientist Without a Trace</a></td></tr>
-<tr><td><a href='https://doeken.org/wcag-ebook'>Understanding WCAG 2.2 as ePub and PDF</a></td></tr>
+<tr><td><a href='https://uecker.codeberg.page/2026-07-14.html'>Using GCC&#x27;s Nested Functions with Wide Pointers and No Trampolines II</a></td></tr>
 </table>
 <!-- END:news -->
 
