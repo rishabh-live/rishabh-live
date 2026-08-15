@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sankalp.bearblog.dev/autoresearch/'>Auto-research with codex: How I achieved a 232x Faster Kernel</a></td></tr>
+<tr><td><a href='https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs'>Brazilian election filter in X For You timeline</a></td></tr>
 <tr><td><a href='https://conic.al/writing/the-other-sean-byrne-doesnt-exist/'>The other Sean Byrne doesn&#x27;t exist</a></td></tr>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
-<tr><td><a href='https://linebender.org/blog/hyperbezier/'>The mathematical beauty of hyperbezier curves</a></td></tr>
-<tr><td><a href='https://uecker.codeberg.page/2026-07-14.html'>Using GCC&#x27;s Nested Functions with Wide Pointers and No Trampolines II</a></td></tr>
+<tr><td><a href='https://hormuz.now/'>Strait of Hormuz Live Traffic Tracking</a></td></tr>
 </table>
 <!-- END:news -->
 
