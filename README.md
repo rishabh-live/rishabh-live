@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi'>Abdominal fat predicts heart disease risk better than BMI</a></td></tr>
-<tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to lower predicted dementia risk</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/digital-signal-processing'>Bede Liu, a digital signal processing pioneer, has died</a></td></tr>
-<tr><td><a href='https://www.henrikkarlsson.xyz/p/good-ideas'>Cultivating a state of mind where new ideas are born (2023)</a></td></tr>
 <tr><td><a href='https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/'>Engineers will do anything to avoid learning from history</a></td></tr>
+<tr><td><a href='https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi'>Abdominal fat predicts heart disease risk better than BMI</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/digital-signal-processing'>Bede Liu, a digital signal processing pioneer, has died</a></td></tr>
+<tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to lower predicted dementia risk</a></td></tr>
+<tr><td><a href='https://www.henrikkarlsson.xyz/p/good-ideas'>Cultivating a state of mind where new ideas are born (2023)</a></td></tr>
 </table>
 <!-- END:news -->
 
