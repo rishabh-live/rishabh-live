@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to 26% lower 5-year predicted dementia risk</a></td></tr>
 <tr><td><a href='https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians'>AI Isn&#x27;t Outthinking Mathematicians. It&#x27;s Out-Remembering Them</a></td></tr>
+<tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to 26% lower 5-year predicted dementia risk</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/'>The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis</a></td></tr>
-<tr><td><a href='https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV'>RISC-V: They Should Have Known Better</a></td></tr>
+<tr><td><a href='https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really'>So How Is AI Drug Discovery Doing, Really?</a></td></tr>
 <tr><td><a href='https://sankalp.bearblog.dev/autoresearch/'>Auto-research with codex: How I achieved a 232x Faster Kernel</a></td></tr>
 </table>
 <!-- END:news -->
