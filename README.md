@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive'>Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia</a></td></tr>
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
+<tr><td><a href='https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/'>Coin-sized device can hack a Boeing 737</a></td></tr>
+<tr><td><a href='https://ampcode.com/notes/thats-not-soc-2-compliant'>&quot;That&#x27;s not SoC 2 compliant&quot;</a></td></tr>
 <tr><td><a href='https://conic.al/writing/the-other-sean-byrne-doesnt-exist/'>The other Sean Byrne doesn&#x27;t exist</a></td></tr>
-<tr><td><a href='https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/'>I close SSH port 22 (and what I use instead)</a></td></tr>
 <tr><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td></tr>
 </table>
 <!-- END:news -->
