@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://sankalp.bearblog.dev/autoresearch/'>Auto-research with codex: How I achieved a 232x Faster Kernel</a></td></tr>
-<tr><td><a href='https://hormuz.now/'>Strait of Hormuz Live Traffic Tracking</a></td></tr>
+<tr><td><a href='https://opensauce.it/cloudflare-ai-psychosis/'>Cloudflare&#x27;s AI Psychosis</a></td></tr>
+<tr><td><a href='https://alexrios.me/blog/writergate/'>Writergate: Zig I&#x2F;O Interface Overhaul</a></td></tr>
+<tr><td><a href='https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/'>Working with AI Feels More Like Leadership Than Coding</a></td></tr>
 <tr><td><a href='https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3'>GenRec: Towards LLM-Native Recommendation at Netflix</a></td></tr>
-<tr><td><a href='https://conic.al/writing/the-other-sean-byrne-doesnt-exist/'>The other Sean Byrne doesn&#x27;t exist</a></td></tr>
-<tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
 </table>
 <!-- END:news -->
 
