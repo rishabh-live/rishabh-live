@@ -25,7 +25,7 @@
 <tr><td><a href='https://huggingface.co/Qwen/Qwen3.8-27B-FP8'>Qwen 3.8 27B</a></td></tr>
 <tr><td><a href='https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/'>Going Dark, and the era of law enforcement hacking</a></td></tr>
 <tr><td><a href='https://blog.ploopy.co/the-aplus-is-finally-here-499'>The Ploopy A+ Trackball Is Here</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/1811.03459'>Simplifying and Refactoring Introductory Calculus</a></td></tr>
+<tr><td><a href='https://eigendrum.com/#p=circle'>eigendrum</a></td></tr>
 </table>
 <!-- END:news -->
 
