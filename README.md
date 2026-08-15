@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/'>The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis</a></td></tr>
+<tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to 26% lower 5-year predicted dementia risk</a></td></tr>
 <tr><td><a href='https://sankalp.bearblog.dev/autoresearch/'>Auto-research with codex: How I achieved a 232x Faster Kernel</a></td></tr>
-<tr><td><a href='https://sina.bio/posts/costco-hotdog.html'>The price of a Costco hot dog has gone up</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/ai-designed-virus'>AI Can Now Design Functional Viruses. Should We Worry?</a></td></tr>
-<tr><td><a href='https://srikanth.ch/posts/the-ai-situation/'>The AI Situation in Software Development</a></td></tr>
+<tr><td><a href='https://dmitry.gr/?r=06.%20Thoughts&amp;proj=12.%20RV'>RISC-V: They Should Have Known Better</a></td></tr>
+<tr><td><a href='https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/'>2D Gaussian Splatting for Bézier Spline Line Art Vectorization</a></td></tr>
 </table>
 <!-- END:news -->
 
