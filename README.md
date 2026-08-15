@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://sankalp.bearblog.dev/autoresearch/'>Auto-research with codex: How I achieved a 232x Faster Kernel</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/'>The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis</a></td></tr>
-<tr><td><a href='https://alexrios.me/blog/writergate/'>Writergate: Zig I&#x2F;O Interface Overhaul</a></td></tr>
-<tr><td><a href='https://conic.al/writing/the-other-sean-byrne-doesnt-exist/'>The other Sean Byrne doesn&#x27;t exist</a></td></tr>
-<tr><td><a href='https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/'>Working with AI Feels More Like Leadership Than Coding</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/ai-designed-virus'>AI Can Now Design Functional Viruses. Should We Worry?</a></td></tr>
+<tr><td><a href='https://sankalp.bearblog.dev/autoresearch/'>Auto-research with codex: How I achieved a 232x Faster Kernel</a></td></tr>
+<tr><td><a href='https://srikanth.ch/posts/the-ai-situation/'>The AI Situation in Software Development</a></td></tr>
+<tr><td><a href='http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html'>Yadda 3.0.0: BDD in the Age of AI Agents</a></td></tr>
 </table>
 <!-- END:news -->
 
