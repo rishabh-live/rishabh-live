@@ -25,7 +25,7 @@
 <tr><td><a href='https://vectoral.com/blog/who-are-the-token-brokers'>The AI Credit Resale Economy</a></td></tr>
 <tr><td><a href='https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core'>St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core</a></td></tr>
 <tr><td><a href='https://support.mozilla.org/en-US/kb/block-ads-firefox-ios'>Firefox for iOS now has a native adblocker</a></td></tr>
-<tr><td><a href='https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/'>A True Telnet BBS on a Casio Calculator</a></td></tr>
+<tr><td><a href='https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost'>GPS and the Lost Art of Getting Lost</a></td></tr>
 </table>
 <!-- END:news -->
 
