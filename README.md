@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
+<tr><td><a href='https://vectoral.com/blog/who-are-the-token-brokers'>The AI Credit Resale Economy</a></td></tr>
 <tr><td><a href='https://support.mozilla.org/en-US/kb/block-ads-firefox-ios'>Firefox for iOS now has a native adblocker</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2608.08421'>A SAT Attack on Tarski&#x27;s High School Algebra Problem</a></td></tr>
+<tr><td><a href='https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/'>A True Telnet BBS on a Casio Calculator</a></td></tr>
 <tr><td><a href='https://brandur.org/fragments/postgres-without-pgbouncer'>Does anyone run Postgres without PgBouncer?</a></td></tr>
-<tr><td><a href='https://scholar.google.com/scholar?q=%22kidney+disappointment%22'>Research papers using &quot;kidney disappointment&quot; instead of &quot;kidney failure&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
