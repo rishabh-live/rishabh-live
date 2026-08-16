@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://littlelearner-ll.github.io/'>What happens when an LLM never sees material beyond fifth grade?</a></td></tr>
 <tr><td><a href='https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/'>Asus Bike Booster</a></td></tr>
+<tr><td><a href='https://littlelearner-ll.github.io/'>What happens when an LLM never sees material beyond fifth grade?</a></td></tr>
 <tr><td><a href='https://duckdb.org/2026/07/31/asynchronous-io'>Asynchronous I&#x2F;O in DuckDB: Work, Thread, Work</a></td></tr>
-<tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to lower predicted dementia risk</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/research/multiagent-systems'>Patterns and problems in emerging multi-agent systems</a></td></tr>
+<tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to lower predicted dementia risk</a></td></tr>
 </table>
 <!-- END:news -->
 
