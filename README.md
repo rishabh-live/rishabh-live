@@ -24,8 +24,8 @@
 <tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
 <tr><td><a href='https://vectoral.com/blog/who-are-the-token-brokers'>The AI Credit Resale Economy</a></td></tr>
 <tr><td><a href='https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core'>St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core</a></td></tr>
-<tr><td><a href='https://support.mozilla.org/en-US/kb/block-ads-firefox-ios'>Firefox for iOS now has a native adblocker</a></td></tr>
-<tr><td><a href='https://www.newyorker.com/news/annals-of-inquiry/gps-and-the-lost-art-of-getting-lost'>GPS and the Lost Art of Getting Lost</a></td></tr>
+<tr><td><a href='https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/'>Anton Chekhov played at love most of his life</a></td></tr>
+<tr><td><a href='https://publicdomainreview.org/collection/maine-forest-fire-maps/'>Archie G. Norcross&#x27; Maine Forest Fire Maps (1918–22)</a></td></tr>
 </table>
 <!-- END:news -->
 
