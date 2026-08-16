@@ -25,7 +25,7 @@
 <tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
 <tr><td><a href='https://buf.build/blog/protobuf-lsp'>Protobuf has LSP support. You&#x27;re welcome</a></td></tr>
 <tr><td><a href='https://pikuma.com/blog/programming-intel-pentium-mmx-simd'>SIMD in the 90s: Programming Intel&#x27;s Pentium MMX</a></td></tr>
-<tr><td><a href='https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en'>Low-Tech Ceramic Water Filter</a></td></tr>
+<tr><td><a href='https://bernsteinbear.com/blog/zkp/'>A quick look at zero-knowledge proofs</a></td></tr>
 </table>
 <!-- END:news -->
 
