@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/'>Asus Bike Booster</a></td></tr>
-<tr><td><a href='https://ovidem.com/impulsetracker/'>Impulse Tracker</a></td></tr>
 <tr><td><a href='https://duckdb.org/2026/07/31/asynchronous-io'>Asynchronous I&#x2F;O in DuckDB: Work, Thread, Work</a></td></tr>
+<tr><td><a href='https://www.nature.com/articles/s41586-026-10857-1'>Superconducting monolayer cuprate with a single CuO2 plane</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/research/multiagent-systems'>Patterns and problems in emerging multi-agent systems</a></td></tr>
 <tr><td><a href='https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432'>Semaglutide linked to lower predicted dementia risk</a></td></tr>
 </table>
