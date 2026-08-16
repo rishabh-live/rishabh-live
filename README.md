@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
+<tr><td><a href='https://pen.org/banned-words-list/'>Banned Words List</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2608.08421'>A SAT Attack on Tarski&#x27;s High School Algebra Problem</a></td></tr>
-<tr><td><a href='https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/'>Asus Bike Booster</a></td></tr>
-<tr><td><a href='https://www.nature.com/articles/s41586-026-10857-1'>Superconducting monolayer cuprate with a single CuO2 plane</a></td></tr>
-<tr><td><a href='https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/'>Chestnut – eGPU dock with open-source firmware</a></td></tr>
-<tr><td><a href='https://duckdb.org/2026/07/31/asynchronous-io'>Asynchronous I&#x2F;O in DuckDB: Work, Thread, Work</a></td></tr>
+<tr><td><a href='https://nazr.com/blog/how-many-employees-100m-arr'>How Many Employees Does It Take to Reach $100M ARR Now?</a></td></tr>
+<tr><td><a href='https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out'>Is the industry ready for tokens-constrained work?</a></td></tr>
 </table>
 <!-- END:news -->
 
