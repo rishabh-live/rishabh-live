@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://rvembedded.com/blog_post/12/'>A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;</a></td></tr>
 <tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
-<tr><td><a href='https://vectoral.com/blog/who-are-the-token-brokers'>The AI Credit Resale Economy</a></td></tr>
 <tr><td><a href='https://w4g1.dev/blog/models-are-getting-dumber-on-purpose'>Models Are Getting Dumber on Purpose</a></td></tr>
 <tr><td><a href='https://buf.build/blog/protobuf-lsp'>Protobuf has LSP support. You&#x27;re welcome</a></td></tr>
+<tr><td><a href='https://vectoral.com/blog/who-are-the-token-brokers'>The AI Credit Resale Economy</a></td></tr>
 </table>
 <!-- END:news -->
 
