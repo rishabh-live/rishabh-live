@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2608.08421'>A SAT Attack on Tarski&#x27;s High School Algebra Problem</a></td></tr>
 <tr><td><a href='https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/'>Asus Bike Booster</a></td></tr>
 <tr><td><a href='https://www.nature.com/articles/s41586-026-10857-1'>Superconducting monolayer cuprate with a single CuO2 plane</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/research/multiagent-systems'>Patterns and problems in emerging multi-agent systems</a></td></tr>
+<tr><td><a href='https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/'>Chestnut – eGPU dock with open-source firmware</a></td></tr>
 <tr><td><a href='https://duckdb.org/2026/07/31/asynchronous-io'>Asynchronous I&#x2F;O in DuckDB: Work, Thread, Work</a></td></tr>
-<tr><td><a href='https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/'>Software Engineering fundamentals matter more</a></td></tr>
 </table>
 <!-- END:news -->
 
