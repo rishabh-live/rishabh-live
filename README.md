@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
 <tr><td><a href='https://rvembedded.com/blog_post/12/'>A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;</a></td></tr>
+<tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
 <tr><td><a href='https://vectoral.com/blog/who-are-the-token-brokers'>The AI Credit Resale Economy</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers'>NIH is ending a key grant for budding clinical researchers</a></td></tr>
 <tr><td><a href='https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core'>St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers'>NIH is ending a key grant for budding clinical researchers</a></td></tr>
 </table>
 <!-- END:news -->
 
