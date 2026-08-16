@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ivan-gavran.github.io/0-social-processes-paper'>The Case Against Formal Verification, 50 Years Later</a></td></tr>
 <tr><td><a href='https://rvembedded.com/blog_post/12/'>A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;</a></td></tr>
 <tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
 <tr><td><a href='https://buf.build/blog/protobuf-lsp'>Protobuf has LSP support. You&#x27;re welcome</a></td></tr>
 <tr><td><a href='https://pikuma.com/blog/programming-intel-pentium-mmx-simd'>SIMD in the 90s: Programming Intel&#x27;s Pentium MMX</a></td></tr>
+<tr><td><a href='https://ivan-gavran.github.io/0-social-processes-paper'>The Case Against Formal Verification, 50 Years Later</a></td></tr>
 </table>
 <!-- END:news -->
 
