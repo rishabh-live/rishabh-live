@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://duckdb.org/2026/08/17/duckdb-20-highlights'>A Preview of DuckDB v2.0</a></td></tr>
 <tr><td><a href='https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug'>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&#x27;s Jira</a></td></tr>
-<tr><td><a href='https://domenkozar.com/2026/08/17/buy-your-friends-batteries/'>Buy Your Friends Batteries</a></td></tr>
-<tr><td><a href='https://www.librarian.net/notoai/'>How to disable or avoid intrusive AI</a></td></tr>
 <tr><td><a href='https://speko.ai/'>Launch HN: Speko (YC S26) – OpenRouter for Voice AI</a></td></tr>
+<tr><td><a href='https://www.librarian.net/notoai/'>How to disable or avoid intrusive AI</a></td></tr>
+<tr><td><a href='https://blog.roboflow.com/openai-gpt-5-6/'>GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released</a></td></tr>
 </table>
 <!-- END:news -->
 
