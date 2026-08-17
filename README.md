@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf'>The Life and Death of Direct File [pdf]</a></td></tr>
 <tr><td><a href='https://rvembedded.com/blog_post/12/'>A 3rd World Embedded Engineer Responds to &quot;RISC-V They Should Have Known Better&quot;</a></td></tr>
 <tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
-<tr><td><a href='https://pikuma.com/blog/programming-intel-pentium-mmx-simd'>SIMD in the 90s: Programming Intel&#x27;s Pentium MMX</a></td></tr>
-<tr><td><a href='https://bernsteinbear.com/blog/zkp/'>A quick look at zero-knowledge proofs</a></td></tr>
-<tr><td><a href='https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en'>Low-Tech Ceramic Water Filter</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Aug/16/qwen-38-27b/'>Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></td></tr>
+<tr><td><a href='https://blog.racket-lang.org/2026/08/rhombus-v1.1.html'>Rhombus 1.1 is now available</a></td></tr>
 </table>
 <!-- END:news -->
 
