@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://simonwillison.net/2026/Aug/16/qwen-38-27b/'>Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></td></tr>
-<tr><td><a href='https://www.gimp.org/news/2026/08/16/dev-update-august-2026/'>GIMP Development Update</a></td></tr>
-<tr><td><a href='https://linear.axler.net/'>Linear algebra done right</a></td></tr>
+<tr><td><a href='https://asteriskmag.com/issues/15/beware-the-permanent-periphery'>Beware the Permanent Periphery</a></td></tr>
+<tr><td><a href='https://twitter.com/DarioAmodei/status/2088758816376807762'>On A.I. regulation and messaging</a></td></tr>
 <tr><td><a href='https://rvembedded.com/blog_post/12/'>A third world engineer responds to “RISC-V: They should have known better”</a></td></tr>
 <tr><td><a href='https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing'>Anthropic&#x27;s &#x27;watermark&#x27; text adulteration in Claude is a perversion of writing</a></td></tr>
 </table>
