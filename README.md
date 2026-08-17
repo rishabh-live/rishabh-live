@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://simonwillison.net/2026/Aug/16/qwen-38-27b/'>Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></td></tr>
 <tr><td><a href='https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf'>The Life and Death of Direct File [pdf]</a></td></tr>
+<tr><td><a href='https://rvembedded.com/blog_post/12/'>A third world engineer responds to “RISC-V: They should have known better”</a></td></tr>
 <tr><td><a href='https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64'>AGI-64 Brings Sierra Adventures to the Commodore 64</a></td></tr>
-<tr><td><a href='https://rvembedded.com/blog_post/12/'>A third world engineer responds to ”RISC-V: They should have known better“</a></td></tr>
-<tr><td><a href='https://platform.claude.com/docs/en/release-notes/system-prompts'>Claude: System Prompts</a></td></tr>
+<tr><td><a href='https://reticulum.network/'>Reticulum – Decentralized Mesh Network</a></td></tr>
 </table>
 <!-- END:news -->
 
