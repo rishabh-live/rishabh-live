@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://timmarinin.net/2026/bluesky-screenshots/'>Bluesky draws its logo on screenshots</a></td></tr>
+<tr><td><a href='https://timmarinin.net/2026/bluesky-screenshots/'>How Bluesky draws its logo on screenshots</a></td></tr>
+<tr><td><a href='https://fabiensanglard.net/quake_shareware_cd/index.html'>Quake Shareware, a CD-ROM just a little too full</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2608.13759'>GPU Offload in Rust: Portable, Safe, and Fast</a></td></tr>
 <tr><td><a href='https://duckdb.org/2026/08/17/duckdb-20-highlights'>A Preview of DuckDB v2.0</a></td></tr>
-<tr><td><a href='https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug'>AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake&#x27;s Jira</a></td></tr>
-<tr><td><a href='https://www.githubstatus.com/incidents/zkxwbgr0cnmx'>Incident with Github.com</a></td></tr>
+<tr><td><a href='https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera'>Fairphone 6 and PostmarketOS working main camera</a></td></tr>
 </table>
 <!-- END:news -->
 
