@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://simonwillison.net/2026/Aug/16/qwen-38-27b/'>Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></td></tr>
 <tr><td><a href='https://blog.roboflow.com/openai-gpt-5-6/'>GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released</a></td></tr>
-<tr><td><a href='https://twitter.com/DarioAmodei/status/2088758816376807762'>On A.I. regulation and messaging</a></td></tr>
-<tr><td><a href='https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing'>Anthropic&#x27;s &#x27;watermark&#x27; text adulteration in Claude is a perversion of writing</a></td></tr>
-<tr><td><a href='https://rvembedded.com/blog_post/12/'>A third world engineer responds to “RISC-V: They should have known better”</a></td></tr>
+<tr><td><a href='https://mkornreich.me/projects/sokoban/'>Show HN: Sokoban AI Solver</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Aug/16/qwen-38-27b/'>Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></td></tr>
+<tr><td><a href='https://func25.dev/posts/go-sync-nocopy/'>How Go detects struct copies with sync.noCopy</a></td></tr>
+<tr><td><a href='https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/'>Mexico Crackdown on Coastal Development Underway</a></td></tr>
 </table>
 <!-- END:news -->
 
