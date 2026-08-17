@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://simonwillison.net/2026/Aug/16/qwen-38-27b/'>Qwen 3.8 27B is excellent, but it defaults to overthinking things</a></td></tr>
+<tr><td><a href='https://blog.roboflow.com/openai-gpt-5-6/'>GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released</a></td></tr>
 <tr><td><a href='https://twitter.com/DarioAmodei/status/2088758816376807762'>On A.I. regulation and messaging</a></td></tr>
 <tr><td><a href='https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing'>Anthropic&#x27;s &#x27;watermark&#x27; text adulteration in Claude is a perversion of writing</a></td></tr>
 <tr><td><a href='https://rvembedded.com/blog_post/12/'>A third world engineer responds to “RISC-V: They should have known better”</a></td></tr>
-<tr><td><a href='https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/'>The continuing &quot;Q collar&quot; scandal</a></td></tr>
 </table>
 <!-- END:news -->
 
