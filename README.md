@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://philo.gay/linecam/'>Using the railway network as a flatbed scanner</a></td></tr>
-<tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon Tax</a></td></tr>
-<tr><td><a href='https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/'>Fixing a Bricked Framework Laptop</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/'>Apple announces changes for apps in the European Union</a></td></tr>
-<tr><td><a href='https://chriskiehl.com/article/how-i-under-engineered-my-book'>How I Under-Engineered My Book</a></td></tr>
+<tr><td><a href='https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/'>Fixing a bricked Framework laptop</a></td></tr>
+<tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon tax</a></td></tr>
+<tr><td><a href='https://cursor.com/changelog/origin-code-hosting'>Cursor launches Origin, GitHub alternative</a></td></tr>
+<tr><td><a href='https://machine0.io'>Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI</a></td></tr>
 </table>
 <!-- END:news -->
 
