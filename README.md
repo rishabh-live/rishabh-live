@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://pixelcluster.dev/VRAM-Overcommit/'>Linux 7.3 improves performance when running out of vRAM</a></td></tr>
 <tr><td><a href='https://timmarinin.net/2026/bluesky-screenshots/'>How Bluesky draws its logo on screenshots</a></td></tr>
 <tr><td><a href='https://openrouter.ai/openai/gpt-5.6-sol'>GPT-5.6 Sol Pricing Cut by 50%</a></td></tr>
 <tr><td><a href='https://fabiensanglard.net/quake_shareware_cd/index.html'>Quake Shareware, a CD-ROM just a little too full</a></td></tr>
 <tr><td><a href='https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera'>Fairphone 6 and PostmarketOS working main camera</a></td></tr>
-<tr><td><a href='https://duckdb.org/2026/08/17/duckdb-20-highlights'>A Preview of DuckDB v2.0</a></td></tr>
 </table>
 <!-- END:news -->
 
