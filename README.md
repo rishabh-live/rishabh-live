@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban'>Data centers raise nearby temperatures by up to 4 degrees in Phoenix</a></td></tr>
-<tr><td><a href='https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion'>Claude Code May–August 2026 weekly limits promotion</a></td></tr>
 <tr><td><a href='https://github.com/RyanCodrai/turbovec'>Turbovec – Google&#x27;s TurboQuant for vector search in Rust</a></td></tr>
+<tr><td><a href='https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html'>How does IKEA come up with names for its products?</a></td></tr>
 <tr><td><a href='https://philo.gay/linecam/'>Using the railway network as a flatbed scanner</a></td></tr>
+<tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon tax</a></td></tr>
 <tr><td><a href='https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/'>Fixing a bricked Framework laptop</a></td></tr>
 </table>
 <!-- END:news -->
