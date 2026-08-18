@@ -25,7 +25,7 @@
 <tr><td><a href='https://fabiensanglard.net/quake_shareware_cd/index.html'>Quake Shareware, a CD-ROM just a little too full</a></td></tr>
 <tr><td><a href='https://openrouter.ai/openai/gpt-5.6-sol'>GPT-5.6 Sol Pricing Cut by 50%</a></td></tr>
 <tr><td><a href='https://duckdb.org/2026/08/17/duckdb-20-highlights'>A Preview of DuckDB v2.0</a></td></tr>
-<tr><td><a href='https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera'>Fairphone 6 and PostmarketOS working main camera</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet'>Shattered skeleton is first confirmed death from trebuchet</a></td></tr>
 </table>
 <!-- END:news -->
 
