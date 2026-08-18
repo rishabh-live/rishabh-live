@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/'>Beware Management Consultants</a></td></tr>
 <tr><td><a href='https://cdn.kuber.studio/chat/hp-laser-1008a-driver'>Claude Code Teaching macOS to Natively Print to the HP Laser 1008a</a></td></tr>
+<tr><td><a href='https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/'>Being Ambitious and Being a Dad</a></td></tr>
 <tr><td><a href='https://github.com/RyanCodrai/turbovec'>Turbovec – Google&#x27;s TurboQuant for vector search in Rust</a></td></tr>
-<tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon tax</a></td></tr>
-<tr><td><a href='https://philo.gay/linecam/'>Using the railway network as a flatbed scanner</a></td></tr>
+<tr><td><a href='https://github.com/DenisSergeevitch/desktop-fly'>A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></td></tr>
 </table>
 <!-- END:news -->
 
