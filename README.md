@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion'>Claude Code weekly limits reduce by a third tomorrow</a></td></tr>
+<tr><td><a href='https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban'>Data centers raise nearby temperatures by up to 4 degrees in Phoenix</a></td></tr>
 <tr><td><a href='https://philo.gay/linecam/'>Using the railway network as a flatbed scanner</a></td></tr>
 <tr><td><a href='https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/'>Fixing a bricked Framework laptop</a></td></tr>
 <tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon tax</a></td></tr>
-<tr><td><a href='https://cursor.com/changelog/origin-code-hosting'>Cursor launches Origin, GitHub alternative</a></td></tr>
-<tr><td><a href='https://machine0.io'>Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI</a></td></tr>
 </table>
 <!-- END:news -->
 
