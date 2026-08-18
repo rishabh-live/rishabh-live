@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://philo.gay/linecam/'>Using the railway network as a flatbed scanner</a></td></tr>
-<tr><td><a href='https://pixelcluster.dev/VRAM-Overcommit/'>Linux 7.3 improves performance when running out of vRAM</a></td></tr>
-<tr><td><a href='https://tau.dev/2026/08/07/canon'>Teaching my kid to code with a modern MUD</a></td></tr>
+<tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon Tax</a></td></tr>
 <tr><td><a href='https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/'>Fixing a Bricked Framework Laptop</a></td></tr>
-<tr><td><a href='https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962'>Google buys crashed airline Spirit&#x27;s data at auction, because AI</a></td></tr>
+<tr><td><a href='https://pixelcluster.dev/VRAM-Overcommit/'>Linux 7.3 improves performance when running out of vRAM</a></td></tr>
+<tr><td><a href='https://github.com/mukundzha/avouch'>Show HN: I canceled my AI code reviewer and wrote a free local one</a></td></tr>
 </table>
 <!-- END:news -->
 
