@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/'>Beware Management Consultants</a></td></tr>
-<tr><td><a href='https://cdn.kuber.studio/chat/hp-laser-1008a-driver'>Claude Code Teaching macOS to Natively Print to the HP Laser 1008a</a></td></tr>
-<tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon tax</a></td></tr>
-<tr><td><a href='https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/'>Being ambitious and being a dad</a></td></tr>
 <tr><td><a href='https://github.com/DenisSergeevitch/desktop-fly'>A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></td></tr>
+<tr><td><a href='https://whoownsthecode.com/'>Who owns the code?</a></td></tr>
+<tr><td><a href='https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/'>Being ambitious and being a dad</a></td></tr>
+<tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon tax</a></td></tr>
+<tr><td><a href='https://fx.sh'>fx :Tiny, open, native coding agent.</a></td></tr>
 </table>
 <!-- END:news -->
 
