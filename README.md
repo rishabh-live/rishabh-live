@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://timmarinin.net/2026/bluesky-screenshots/'>How Bluesky draws its logo on screenshots</a></td></tr>
-<tr><td><a href='https://fabiensanglard.net/quake_shareware_cd/index.html'>Quake Shareware, a CD-ROM just a little too full</a></td></tr>
+<tr><td><a href='https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/'>I don&#x27;t enjoy the Internet any more</a></td></tr>
 <tr><td><a href='https://openrouter.ai/openai/gpt-5.6-sol'>GPT-5.6 Sol Pricing Cut by 50%</a></td></tr>
+<tr><td><a href='https://fabiensanglard.net/quake_shareware_cd/index.html'>Quake Shareware, a CD-ROM just a little too full</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet'>Shattered skeleton is first confirmed death from trebuchet</a></td></tr>
-<tr><td><a href='https://duckdb.org/2026/08/17/duckdb-20-highlights'>A Preview of DuckDB v2.0</a></td></tr>
 </table>
 <!-- END:news -->
 
