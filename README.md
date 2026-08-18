@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://pixelcluster.dev/VRAM-Overcommit/'>Linux 7.3 improves performance when running out of vRAM</a></td></tr>
-<tr><td><a href='https://acadia.engineering/blog/rethinking-database-programming'>Rethinking Database Programming</a></td></tr>
-<tr><td><a href='https://timmarinin.net/2026/bluesky-screenshots/'>How Bluesky draws its logo on screenshots</a></td></tr>
-<tr><td><a href='https://openrouter.ai/openai/gpt-5.6-sol'>GPT-5.6 Sol Pricing Cut by 50%</a></td></tr>
 <tr><td><a href='https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962'>Google buys crashed airline Spirit&#x27;s data at auction, because AI</a></td></tr>
+<tr><td><a href='https://timmarinin.net/2026/bluesky-screenshots/'>How Bluesky draws its logo on screenshots</a></td></tr>
+<tr><td><a href='https://tau.dev/2026/08/07/canon'>Teaching my kid to code with a modern MUD</a></td></tr>
+<tr><td><a href='https://acadia.engineering/blog/rethinking-database-programming'>Rethinking Database Programming</a></td></tr>
 </table>
 <!-- END:news -->
 
