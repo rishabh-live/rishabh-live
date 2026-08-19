@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf'>New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]</a></td></tr>
+<tr><td><a href='https://www.cerebras.ai/cs4'>Cerebras CS-4</a></td></tr>
 <tr><td><a href='https://github.com/DenisSergeevitch/desktop-fly'>A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></td></tr>
 <tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon tax</a></td></tr>
 <tr><td><a href='https://github.com/pg83/solo'>Solo – a .so loader for static Linux binaries</a></td></tr>
-<tr><td><a href='https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html'>How does IKEA come up with names for its products?</a></td></tr>
-<tr><td><a href='https://modelmap.cc'>Show HN: Interactive, animated architecture of any HuggingFace models</a></td></tr>
 </table>
 <!-- END:news -->
 
