@@ -25,7 +25,7 @@
 <tr><td><a href='https://go.dev/blog/go1.27'>Go 1.27</a></td></tr>
 <tr><td><a href='https://unsloth.ai/docs/basics/dynamic-3.0-ggufs'>Unsloth Dynamic 3.0 GGUFs</a></td></tr>
 <tr><td><a href='https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/'>A joke domain purchase turned in geopolitical warfare</a></td></tr>
-<tr><td><a href='https://yassa9.github.io/osint/gralhix-004/'>Geolocating a random island using geometry and CUDA programming</a></td></tr>
+<tr><td><a href='https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review'>Pixel 11 Pro Fold feels like the end of an era</a></td></tr>
 </table>
 <!-- END:news -->
 
