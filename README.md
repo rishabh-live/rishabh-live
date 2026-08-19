@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf'>New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]</a></td></tr>
 <tr><td><a href='https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco'>Meta&#x27;s blockbuster trial draws parallels to big tobacco</a></td></tr>
 <tr><td><a href='https://openlogi.org/en'>OpenLogi</a></td></tr>
 <tr><td><a href='https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/'>Palomar: A registry of Lean verified mathematics</a></td></tr>
-<tr><td><a href='https://www.cerebras.ai/cs4'>Cerebras CS-4</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=Co57SfcT-h0'>Supersonic Trebuchet [video]</a></td></tr>
+<tr><td><a href='https://github.com/DenisSergeevitch/desktop-fly'>A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></td></tr>
 </table>
 <!-- END:news -->
 
