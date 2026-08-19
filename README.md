@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/117078064184215730'>GrapheneOS in 2027 available on high-end Motorola phones</a></td></tr>
-<tr><td><a href='https://www.raphaelbauer.com:443/posts/postgresql-everything/'>PostgreSQL for Everything</a></td></tr>
 <tr><td><a href='https://yassa9.github.io/osint/gralhix-004/'>Geolocating a random island using geometry and CUDA programming</a></td></tr>
 <tr><td><a href='https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/'>A joke domain purchase turned in geopolitical warfare</a></td></tr>
 <tr><td><a href='https://openlogi.org/en'>OpenLogi</a></td></tr>
+<tr><td><a href='https://twitter.com/NoubarAfeyan/status/2090050162441752787'>Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma</a></td></tr>
 </table>
 <!-- END:news -->
 
