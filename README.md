@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf'>New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]</a></td></tr>
+<tr><td><a href='https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco'>Meta&#x27;s blockbuster trial draws parallels to big tobacco</a></td></tr>
+<tr><td><a href='https://openlogi.org/en'>OpenLogi</a></td></tr>
 <tr><td><a href='https://www.cerebras.ai/cs4'>Cerebras CS-4</a></td></tr>
 <tr><td><a href='https://github.com/DenisSergeevitch/desktop-fly'>A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></td></tr>
-<tr><td><a href='https://seths.blog/2026/08/the-amazon-tax/'>The Amazon tax</a></td></tr>
-<tr><td><a href='https://github.com/pg83/solo'>Solo – a .so loader for static Linux binaries</a></td></tr>
 </table>
 <!-- END:news -->
 
