@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openlogi.org/en'>OpenLogi</a></td></tr>
+<tr><td><a href='https://www.cerebras.ai/cs4'>Cerebras CS-4</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c1l1r1zne1ro'>Scientists stunned by children&#x27;s lung recovery in ultra low emission zone</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=Co57SfcT-h0'>Supersonic Trebuchet [video]</a></td></tr>
 <tr><td><a href='https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/'>Palomar: A registry of Lean verified mathematics</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/c1l1r1zne1ro'>Scientists stunned by children&#x27;s lung recovery in ultra low emission zone</a></td></tr>
-<tr><td><a href='https://github.com/DenisSergeevitch/desktop-fly'>A 3D fruit fly on macOS desktop powered by the real FlyWire connectome</a></td></tr>
 </table>
 <!-- END:news -->
 
