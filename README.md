@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openlogi.org/en'>OpenLogi</a></td></tr>
-<tr><td><a href='https://nautil.us/where-human-sleep-went-wrong-1283797'>Where Human Sleep Went Wrong</a></td></tr>
 <tr><td><a href='https://www.cerebras.ai/cs4'>Cerebras CS-4</a></td></tr>
+<tr><td><a href='https://herecomesthemoon.net/2024/11/two-factions-of-cpp/'>The Two Factions of C++</a></td></tr>
 <tr><td><a href='https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/'>Palomar: A registry of Lean verified mathematics</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=Co57SfcT-h0'>Supersonic Trebuchet [video]</a></td></tr>
+<tr><td><a href='https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/'>Being ambitious and being a dad</a></td></tr>
 </table>
 <!-- END:news -->
 
