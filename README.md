@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openlogi.org/en'>OpenLogi</a></td></tr>
+<tr><td><a href='https://theremin.bizibah.com/'>Air Theremin – a browser theremin you play by waving at your webcam</a></td></tr>
 <tr><td><a href='https://www.cerebras.ai/cs4'>Cerebras CS-4</a></td></tr>
-<tr><td><a href='https://herecomesthemoon.net/2024/11/two-factions-of-cpp/'>The Two Factions of C++</a></td></tr>
-<tr><td><a href='https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/'>Palomar: A registry of Lean verified mathematics</a></td></tr>
+<tr><td><a href='https://herecomesthemoon.net/2024/11/two-factions-of-cpp/'>The Two Factions of C++ (2024)</a></td></tr>
 <tr><td><a href='https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/'>Being ambitious and being a dad</a></td></tr>
 </table>
 <!-- END:news -->
