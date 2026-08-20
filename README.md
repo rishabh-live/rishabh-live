@@ -24,8 +24,8 @@
 <tr><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage, and the work ahead</a></td></tr>
 <tr><td><a href='https://consumerrights.wiki/w/Main_Page'>Consumer Rights Wiki</a></td></tr>
 <tr><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like &#x27;em thick: an apology to my English teachers</a></td></tr>
-<tr><td><a href='https://jsomers.net/i-should-have-loved-biology/'>I should have loved biology (2020)</a></td></tr>
 <tr><td><a href='https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/'>Aaron Swartz was prosecuted for scraping, while Meta does it without consequence</a></td></tr>
+<tr><td><a href='https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html'>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></td></tr>
 </table>
 <!-- END:news -->
 
