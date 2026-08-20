@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://dontpastetheai.com/'>Don&#x27;t Paste the AI, please</a></td></tr>
-<tr><td><a href='https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html'>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></td></tr>
 <tr><td><a href='https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/'>Malicious Rust Crate Arrayref Runs a Build-Time Payload</a></td></tr>
+<tr><td><a href='https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html'>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></td></tr>
 <tr><td><a href='https://simedw.com/2026/08/20/midi-autocomplete/'>Show HN: I trained a 125M model to autocomplete piano on-device</a></td></tr>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803'>Windows brings out the Rorschach test in everyone (2003)</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2608.00146'>DiffusionGemma Technical Report</a></td></tr>
+<tr><td><a href='https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/'>I Spent Twenty Years Becoming Good at the Wrong Game</a></td></tr>
 </table>
 <!-- END:news -->
 
