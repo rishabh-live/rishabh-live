@@ -24,8 +24,8 @@
 <tr><td><a href='https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/'>OpenRouter is joining Stripe</a></td></tr>
 <tr><td><a href='https://go.dev/blog/go1.27'>Go 1.27</a></td></tr>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/117057099753905023'>Google replaced Git tags for certain source code with obtaining via Google Drive</a></td></tr>
+<tr><td><a href='https://www.computerenhance.com/p/turns-are-better-than-radians'>Turns are Better than Radians</a></td></tr>
 <tr><td><a href='https://coca11272000.wixsite.com/manabukosaka'>Manabu Kosaka&#x27;s Handmade Paper Sculptures</a></td></tr>
-<tr><td><a href='https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/'>Unlocking a locked&#x2F;deactivated e-waste Cricut Maker</a></td></tr>
 </table>
 <!-- END:news -->
 
