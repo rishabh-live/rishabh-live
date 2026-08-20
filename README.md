@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803'>Windows brings out the Rorschach test in everyone</a></td></tr>
 <tr><td><a href='https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/'>OpenRouter is joining Stripe</a></td></tr>
 <tr><td><a href='https://www.computerenhance.com/p/turns-are-better-than-radians'>Turns are Better than Radians (2022)</a></td></tr>
 <tr><td><a href='https://go.dev/blog/go1.27'>Go 1.27</a></td></tr>
 <tr><td><a href='https://www.benjoffe.com/fast-day-of-week'>A faster way to calculate the day of the week</a></td></tr>
-<tr><td><a href='https://grapheneos.social/@GrapheneOS/117057099753905023'>Google has stopped pushing Git tags for some Android source code</a></td></tr>
 </table>
 <!-- END:news -->
 
