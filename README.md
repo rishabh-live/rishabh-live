@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html'>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></td></tr>
-<tr><td><a href='https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/'>Malicious Rust crate Arrayref runs a build-time payload</a></td></tr>
+<tr><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like &#x27;em thick: an apology to my English teachers</a></td></tr>
 <tr><td><a href='https://simedw.com/2026/08/20/midi-autocomplete/'>Show HN: I trained a 125M model to autocomplete piano on-device</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2608.00146'>DiffusionGemma Technical Report</a></td></tr>
-<tr><td><a href='https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html'>Hacking with Claude on a $27 Smart Watch</a></td></tr>
+<tr><td><a href='https://chrisburnell.com/html-can-do-that/'>HTML Can Do That</a></td></tr>
+<tr><td><a href='https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/'>Malicious Rust crate Arrayref runs a build-time payload</a></td></tr>
 </table>
 <!-- END:news -->
 
