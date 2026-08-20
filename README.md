@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/'>OpenRouter is joining Stripe</a></td></tr>
-<tr><td><a href='https://go.dev/blog/go1.27'>Go 1.27</a></td></tr>
-<tr><td><a href='https://www.computerenhance.com/p/turns-are-better-than-radians'>Turns are Better than Radians (2022)</a></td></tr>
-<tr><td><a href='https://www.benjoffe.com/fast-day-of-week'>A faster way to calculate the day of the week</a></td></tr>
 <tr><td><a href='https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672'>Error by AI scribe during medical appointment leaves patient devastated</a></td></tr>
+<tr><td><a href='https://www.computerenhance.com/p/turns-are-better-than-radians'>Turns are Better than Radians (2022)</a></td></tr>
+<tr><td><a href='https://go.dev/blog/go1.27'>Go 1.27</a></td></tr>
+<tr><td><a href='https://www.benjoffe.com/fast-day-of-week'>A faster way to calculate the day of the week</a></td></tr>
 </table>
 <!-- END:news -->
 
