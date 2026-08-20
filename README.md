@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like &#x27;em thick: an apology to my English teachers</a></td></tr>
 <tr><td><a href='https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/'>Scientific study reveals TikTok videos deactivate key cognitive brain regions</a></td></tr>
+<tr><td><a href='https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos'>Stop Eating Lady Gaga&#x27;s Oreos</a></td></tr>
 <tr><td><a href='https://jsomers.net/i-should-have-loved-biology/'>I should have loved biology</a></td></tr>
-<tr><td><a href='https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html'>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></td></tr>
-<tr><td><a href='https://chrisburnell.com/html-can-do-that/'>HTML Can Do That</a></td></tr>
+<tr><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like &#x27;em thick: an apology to my English teachers</a></td></tr>
+<tr><td><a href='https://www.danielvaughn.dev/posts/huzzah/'>Show HN: Huzzah – a novel approach to coding with AI</a></td></tr>
 </table>
 <!-- END:news -->
 
