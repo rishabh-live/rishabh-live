@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html'>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></td></tr>
 <tr><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like &#x27;em thick: an apology to my English teachers</a></td></tr>
-<tr><td><a href='https://simedw.com/2026/08/20/midi-autocomplete/'>Show HN: I trained a 125M model to autocomplete piano on-device</a></td></tr>
+<tr><td><a href='https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html'>AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint</a></td></tr>
 <tr><td><a href='https://chrisburnell.com/html-can-do-that/'>HTML Can Do That</a></td></tr>
-<tr><td><a href='https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/'>Malicious Rust crate Arrayref runs a build-time payload</a></td></tr>
+<tr><td><a href='https://simedw.com/2026/08/20/midi-autocomplete/'>Show HN: I trained a 125M model to autocomplete piano on-device</a></td></tr>
+<tr><td><a href='https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&amp;reflink=desktopwebshare_permalink'>CIA funding helped keep NeXT afloat in the 80s</a></td></tr>
 </table>
 <!-- END:news -->
 
