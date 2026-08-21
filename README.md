@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bandarlabs.github.io/Cobalt/'>Kobo can run apps now</a></td></tr>
 <tr><td><a href='https://kagi.com/changelog#11296'>Kagi added a setting for removing paywalled links from search results</a></td></tr>
-<tr><td><a href='https://canews24.online/?p=71'>AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows</a></td></tr>
-<tr><td><a href='https://api-docs.deepseek.com/guides/vision/'>DeepSeek-v4-flash-vision-exp</a></td></tr>
-<tr><td><a href='https://www.0xsid.com/blog/just-want-to-search'>I Just Want to Search</a></td></tr>
 <tr><td><a href='https://www.felonybench.com/'>Felony Bench</a></td></tr>
+<tr><td><a href='https://lina.sh/blog/hijacking-e164-arpa'>I accidentally logged hundreds of thousands of phone calls to military bases</a></td></tr>
+<tr><td><a href='https://api-docs.deepseek.com/guides/vision/'>DeepSeek-v4-flash-vision-exp</a></td></tr>
 </table>
 <!-- END:news -->
 
