@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://annas-archive.gl/blog/physical-destruction.html'>AI companies destroy physical books – let&#x27;s scan rare books before it&#x27;s too late</a></td></tr>
-<tr><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage</a></td></tr>
 <tr><td><a href='https://github.com/openai/codex/issues/37674'>Codex on AWS bedrock bug causing 10x charges</a></td></tr>
+<tr><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage</a></td></tr>
 <tr><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like &#x27;em thick: an apology to my English teachers</a></td></tr>
 <tr><td><a href='https://chrisburnell.com/html-can-do-that/'>HTML Can Do That</a></td></tr>
+<tr><td><a href='https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/'>Malicious Rust crate Arrayref runs a build-time payload</a></td></tr>
 </table>
 <!-- END:news -->
 
