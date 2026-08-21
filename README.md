@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://mathstodon.xyz/@maxpool/117128107757895678'>Copyright does not protect AI-generated content in EU</a></td></tr>
-<tr><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage, and the work ahead</a></td></tr>
-<tr><td><a href='https://consumerrights.wiki/w/Main_Page'>Consumer Rights Wiki</a></td></tr>
+<tr><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage</a></td></tr>
 <tr><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like &#x27;em thick: an apology to my English teachers</a></td></tr>
+<tr><td><a href='https://chrisburnell.com/html-can-do-that/'>HTML Can Do That</a></td></tr>
 <tr><td><a href='https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/'>There&#x27;s no such thing as a small software team anymore</a></td></tr>
+<tr><td><a href='https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/'>Malicious Rust crate Arrayref runs a build-time payload</a></td></tr>
 </table>
 <!-- END:news -->
 
