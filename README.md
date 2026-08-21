@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://kagi.com/changelog#11296'>Kagi added a setting for removing paywalled links from search results</a></td></tr>
 <tr><td><a href='https://annas-archive.pk/blog/physical-destruction.html'>AI companies destroy physical books – let&#x27;s scan rare books before it&#x27;s too late</a></td></tr>
-<tr><td><a href='https://github.com/adnanakil/nobuzz/blob/main/README.md'>Claudette: Make Claude Stop Talking Like a BuzzFeed Article</a></td></tr>
+<tr><td><a href='https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/'>Omacom Foundation Launches with $8M</a></td></tr>
+<tr><td><a href='https://caligra.com/c100/'>c100</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/guides/vision/'>DeepSeek-v4-flash-vision-exp</a></td></tr>
-<tr><td><a href='https://blog.8ball.space/what-we-lost-when-search/'>What We Lost When Search Stopped Making Us Think</a></td></tr>
 </table>
 <!-- END:news -->
 
