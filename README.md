@@ -24,8 +24,8 @@
 <tr><td><a href='https://bandarlabs.github.io/Cobalt/'>Kobo can run apps now</a></td></tr>
 <tr><td><a href='https://www.felonybench.com/'>Felony Bench</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html'>Felony charges for citizen deleting phone data at US Border</a></td></tr>
+<tr><td><a href='https://www.shelvd.org/blog/28000-books'>I own 28,000 books – here&#x27;s what I&#x27;ve learned</a></td></tr>
 <tr><td><a href='https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/'>Scientists release biggest 2D map of the universe</a></td></tr>
-<tr><td><a href='https://kagi.com/changelog#11296'>Kagi added a setting for removing paywalled links from search results</a></td></tr>
 </table>
 <!-- END:news -->
 
