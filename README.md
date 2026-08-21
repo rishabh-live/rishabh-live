@@ -25,7 +25,7 @@
 <tr><td><a href='https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/'>The Lost Treasure of Sid Meier&#x27;s Pirates</a></td></tr>
 <tr><td><a href='https://htmlcat.net/'>Small, native web tricks worth remembering</a></td></tr>
 <tr><td><a href='https://encore.dev/blog/firecracker-apple-silicon'>We Rebuilt the Linux MicroVM Stack on Apple Silicon</a></td></tr>
-<tr><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage</a></td></tr>
+<tr><td><a href='https://annas-archive.pk/blog/physical-destruction.html'>AI companies destroy physical books – let&#x27;s scan rare books before it&#x27;s too late</a></td></tr>
 </table>
 <!-- END:news -->
 
