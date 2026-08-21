@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://kagi.com/changelog#11296'>Kagi added a setting for removing paywalled links from search results</a></td></tr>
-<tr><td><a href='https://annas-archive.pk/blog/physical-destruction.html'>AI companies destroy physical books – let&#x27;s scan rare books before it&#x27;s too late</a></td></tr>
-<tr><td><a href='https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/'>Omacom Foundation Launches with $8M</a></td></tr>
-<tr><td><a href='https://caligra.com/c100/'>c100</a></td></tr>
+<tr><td><a href='https://canews24.online/?p=71'>AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows</a></td></tr>
 <tr><td><a href='https://api-docs.deepseek.com/guides/vision/'>DeepSeek-v4-flash-vision-exp</a></td></tr>
+<tr><td><a href='https://www.0xsid.com/blog/just-want-to-search'>I Just Want to Search</a></td></tr>
+<tr><td><a href='https://www.felonybench.com/'>Felony Bench</a></td></tr>
 </table>
 <!-- END:news -->
 
