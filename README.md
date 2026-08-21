@@ -24,8 +24,8 @@
 <tr><td><a href='https://api-docs.deepseek.com/guides/vision/'>DeepSeek-v4-flash-vision-exp</a></td></tr>
 <tr><td><a href='https://annas-archive.pk/blog/physical-destruction.html'>AI companies destroy physical books – let&#x27;s scan rare books before it&#x27;s too late</a></td></tr>
 <tr><td><a href='https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering'>TigerBeetle Core System Architecture: Deconstructing Performance Engineering</a></td></tr>
-<tr><td><a href='https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/'>The Lost Treasure of Sid Meier&#x27;s Pirates</a></td></tr>
 <tr><td><a href='https://htmlcat.net/'>Small, native web tricks worth remembering</a></td></tr>
+<tr><td><a href='https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/'>The Lost Treasure of Sid Meier&#x27;s Pirates</a></td></tr>
 </table>
 <!-- END:news -->
 
