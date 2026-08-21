@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/'>The Lost Treasure of Sid Meier&#x27;s Pirates</a></td></tr>
 <tr><td><a href='https://encore.dev/blog/firecracker-apple-silicon'>We Rebuilt the Linux MicroVM Stack on Apple Silicon</a></td></tr>
+<tr><td><a href='https://htmlcat.net/'>Small, native web tricks worth remembering</a></td></tr>
 <tr><td><a href='https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/'>The August 17 outage</a></td></tr>
-<tr><td><a href='https://www.experimental-history.com/p/i-like-em-thick'>I like &#x27;em thick: an apology to my English teachers</a></td></tr>
-<tr><td><a href='https://chrisburnell.com/html-can-do-that/'>HTML Can Do That</a></td></tr>
+<tr><td><a href='https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative'>The case against a C alternative (2022)</a></td></tr>
 </table>
 <!-- END:news -->
 
