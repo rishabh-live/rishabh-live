@@ -24,8 +24,8 @@
 <tr><td><a href='https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/'>A Kantian Critique of &quot;Sorry&quot; by Justin Bieber</a></td></tr>
 <tr><td><a href='https://munderdiffl.in/'>Munder Difflin – Agent harness to run an office of your clones</a></td></tr>
 <tr><td><a href='https://blog.modelcontextprotocol.io/posts/mcp-roadmap/'>The New MCP Roadmap</a></td></tr>
-<tr><td><a href='https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi'>Z80–The 1970s Microprocessor Still Alive</a></td></tr>
-<tr><td><a href='https://zaksa.zip/blog/formal-education-is-the-answer/'>A formal degree and algorithmic problem-solving is the answer. Always has been</a></td></tr>
+<tr><td><a href='https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi'>Z80 – The 1970s Microprocessor Still Alive (2021)</a></td></tr>
+<tr><td><a href='https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/'>A Friendly Introduction to Racket</a></td></tr>
 </table>
 <!-- END:news -->
 
