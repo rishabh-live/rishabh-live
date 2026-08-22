@@ -23,8 +23,8 @@
 <table>
 <tr><td><a href='https://rust-glancer.github.io/blog/hello-world/'>Rust Glancer: Rust LSP using 100x less RAM</a></td></tr>
 <tr><td><a href='https://www.felonybench.com/'>Felony Bench</a></td></tr>
+<tr><td><a href='https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi'>Z80–The 1970s Microprocessor Still Alive</a></td></tr>
 <tr><td><a href='https://bandarlabs.github.io/Cobalt/'>Kobo can run apps now</a></td></tr>
-<tr><td><a href='https://danluu.com/perf-opt/'>There&#x27;s no reason for software to be slow anymore</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html'>Felony charges for citizen deleting phone data at US Border</a></td></tr>
 </table>
 <!-- END:news -->
