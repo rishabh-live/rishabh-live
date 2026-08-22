@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.felonybench.com/'>Felony Bench</a></td></tr>
 <tr><td><a href='https://bandarlabs.github.io/Cobalt/'>Kobo can run apps now</a></td></tr>
 <tr><td><a href='https://rust-glancer.github.io/blog/hello-world/'>Rust Glancer: Rust LSP using 100x less RAM</a></td></tr>
-<tr><td><a href='https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/'>Three important steps in my maturation process</a></td></tr>
+<tr><td><a href='https://grapheneos.social/@GrapheneOS/117136278553665985'>Initial focus for our partnership with Motorola is a regular non-folding device</a></td></tr>
 </table>
 <!-- END:news -->
 
