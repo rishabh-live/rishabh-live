@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://lapcatsoftware.com/articles/2026/8/7.html'>hdiutil is deprecated in macOS 27 Golden Gate</a></td></tr>
+<tr><td><a href='https://twitter.com/moxie/status/2091218652133732491'>Scrap</a></td></tr>
 <tr><td><a href='https://quantumi.sh/public/labs.html'>ElevenLabs, TwelveLabs, ThirteenLabs</a></td></tr>
 <tr><td><a href='https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/'>A Friendly Introduction to Racket</a></td></tr>
-<tr><td><a href='https://www.rfcafe.com/'>RF Cafe</a></td></tr>
-<tr><td><a href='https://munderdiffl.in/'>Munder Difflin – Agent harness to run an office of your clones</a></td></tr>
-<tr><td><a href='https://blog.modelcontextprotocol.io/posts/mcp-roadmap/'>New MCP Roadmap</a></td></tr>
+<tr><td><a href='https://hister.org/'>Hister – A private, full content search index that you control</a></td></tr>
 </table>
 <!-- END:news -->
 
