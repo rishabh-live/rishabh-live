@@ -25,7 +25,7 @@
 <tr><td><a href='https://www.felonybench.com/'>Felony Bench</a></td></tr>
 <tr><td><a href='https://bandarlabs.github.io/Cobalt/'>Kobo can run apps now</a></td></tr>
 <tr><td><a href='https://danluu.com/perf-opt/'>There&#x27;s no reason for software to be slow anymore</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html'>Felony charges for citizen deleting phone data at US Border</a></td></tr>
+<tr><td><a href='https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/'>Optimizing meshoptimizer to process billions of triangles in minutes (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
