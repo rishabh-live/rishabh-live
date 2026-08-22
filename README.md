@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/'>A Kantian Critique of &quot;Sorry&quot; by Justin Bieber</a></td></tr>
 <tr><td><a href='https://munderdiffl.in/'>Munder Difflin – Agent harness to run an office of your clones</a></td></tr>
+<tr><td><a href='https://blog.modelcontextprotocol.io/posts/mcp-roadmap/'>The New MCP Roadmap</a></td></tr>
 <tr><td><a href='https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi'>Z80–The 1970s Microprocessor Still Alive</a></td></tr>
-<tr><td><a href='https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations'>Canada suspends trade negotiations with USA and match tariffs dollar for dollar</a></td></tr>
-<tr><td><a href='https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy'>Hook, hold, harvest and hide: Meta&#x27;s alleged strategy laid out in first week</a></td></tr>
-<tr><td><a href='https://rust-glancer.github.io/blog/hello-world/'>Rust Glancer: Rust LSP using 100x less RAM</a></td></tr>
+<tr><td><a href='https://zaksa.zip/blog/formal-education-is-the-answer/'>A formal degree and algorithmic problem-solving is the answer. Always has been</a></td></tr>
 </table>
 <!-- END:news -->
 
