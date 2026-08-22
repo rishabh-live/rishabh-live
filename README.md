@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://danluu.com/perf-opt/'>There&#x27;s no reason for software to be slow anymore</a></td></tr>
-<tr><td><a href='https://developers.openai.com/api/docs/models/gpt-5.6-sol'>GPT 5.6 Sol 20% price reduction</a></td></tr>
-<tr><td><a href='https://grapheneos.social/@GrapheneOS/117136278553665985'>Initial focus for our partnership with Motorola is a regular non-folding device</a></td></tr>
 <tr><td><a href='https://www.felonybench.com/'>Felony Bench</a></td></tr>
+<tr><td><a href='https://rust-glancer.github.io/blog/hello-world/'>Rust Glancer: Rust LSP using 100x less RAM</a></td></tr>
 <tr><td><a href='https://bandarlabs.github.io/Cobalt/'>Kobo can run apps now</a></td></tr>
+<tr><td><a href='https://danluu.com/perf-opt/'>There&#x27;s no reason for software to be slow anymore</a></td></tr>
+<tr><td><a href='https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/'>Optimizing meshoptimizer to process billions of triangles in minutes (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
