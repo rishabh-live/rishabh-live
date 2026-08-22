@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://quantumi.sh/public/labs.html'>ElevenLabs, TwelveLabs, ThirteenLabs</a></td></tr>
 <tr><td><a href='https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/'>A Kantian Critique of &quot;Sorry&quot; by Justin Bieber</a></td></tr>
+<tr><td><a href='https://stario.dev/ox'>Htmx live is cool. Datastar is fast. This cow is raw and strong</a></td></tr>
 <tr><td><a href='https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/'>A Friendly Introduction to Racket</a></td></tr>
 <tr><td><a href='https://blog.modelcontextprotocol.io/posts/mcp-roadmap/'>The New MCP Roadmap</a></td></tr>
-<tr><td><a href='https://munderdiffl.in/'>Munder Difflin – Agent harness to run an office of your clones</a></td></tr>
 </table>
 <!-- END:news -->
 
