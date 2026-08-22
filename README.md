@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lapcatsoftware.com/articles/2026/8/7.html'>hdiutil is deprecated in macOS 27 Golden Gate</a></td></tr>
-<tr><td><a href='https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html'>NetBSD and My Life (2005)</a></td></tr>
 <tr><td><a href='https://twitter.com/moxie/status/2091218652133732491'>Scrap</a></td></tr>
+<tr><td><a href='https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html'>NetBSD and My Life (2005)</a></td></tr>
 <tr><td><a href='https://quantumi.sh/public/labs.html'>ElevenLabs, TwelveLabs, ThirteenLabs</a></td></tr>
 <tr><td><a href='https://hister.org/'>Hister – A private, full content search index that you control</a></td></tr>
 </table>
