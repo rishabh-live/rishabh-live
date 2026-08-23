@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ericpardee.github.io/fire-hd-ownership/'>I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day</a></td></tr>
-<tr><td><a href='https://how.complexsystems.fail/'>How Complex Systems Fail (1998)</a></td></tr>
 <tr><td><a href='https://debloat.dev/'>A website for debloated open source alternatives</a></td></tr>
-<tr><td><a href='https://reinvently.co.uk/tools/ed-o-meter/'>GLM-5.3 (open-weight) beat Anthropic&#x2F;OpenAI models – for 1&#x2F;5 the cost</a></td></tr>
+<tr><td><a href='https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/'>Why Sal Khan&#x27;t: On Learning by Making but Teaching by Telling</a></td></tr>
+<tr><td><a href='https://how.complexsystems.fail/'>How Complex Systems Fail (1998)</a></td></tr>
 <tr><td><a href='https://securelist.com/android-head-unit-malware/121106/'>Malware infects Android-based automotive head unit firmware</a></td></tr>
 </table>
 <!-- END:news -->
