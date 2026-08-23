@@ -22,7 +22,7 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://reinvently.co.uk/tools/ed-o-meter/'>GLM-5.3 (open-weight) beat Anthropic&#x2F;OpenAI models – for 1&#x2F;5 the cost</a></td></tr>
-<tr><td><a href='https://how.complexsystems.fail/'>How Complex Systems Fail</a></td></tr>
+<tr><td><a href='https://how.complexsystems.fail/'>How Complex Systems Fail (1998)</a></td></tr>
 <tr><td><a href='https://ericpardee.github.io/fire-hd-ownership/'>I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day</a></td></tr>
 <tr><td><a href='https://securelist.com/android-head-unit-malware/121106/'>Malware infects Android-based automotive head unit firmware</a></td></tr>
 <tr><td><a href='https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/'>Coconut Oil Jet Fuel Matches Kerosene&#x27;s Efficiency in Engine Tests</a></td></tr>
