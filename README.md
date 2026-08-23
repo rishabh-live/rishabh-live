@@ -19,7 +19,14 @@
 <br/>
 
 <!-- START:news -->
-<i>No news available at the moment.</i>
+### 📰 Latest Tech News
+<table>
+<tr><td><a href='https://securelist.com/android-head-unit-malware/121106/'>Malware infects Android-based automotive head unit firmware</a></td></tr>
+<tr><td><a href='https://how.complexsystems.fail/'>How Complex Systems Fail</a></td></tr>
+<tr><td><a href='https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes'>My favorite nonfiction books about cults, scams, and schemes</a></td></tr>
+<tr><td><a href='https://ericpardee.github.io/fire-hd-ownership/'>I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day</a></td></tr>
+<tr><td><a href='https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/'>Things I want in a modern relational query language</a></td></tr>
+</table>
 <!-- END:news -->
 
 <br/>
