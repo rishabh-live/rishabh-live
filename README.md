@@ -25,7 +25,7 @@
 <tr><td><a href='https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes'>My favorite nonfiction books about cults, scams, and schemes</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cvg92y1wzn8o'>Sydney Marathon medal mistakenly depicts Munich stadium</a></td></tr>
 <tr><td><a href='https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/'>To become a better writer, read as much as you can</a></td></tr>
-<tr><td><a href='http://www.os2museum.com/wp/the-end-of-an-athlon/'>The End of an Athlon</a></td></tr>
+<tr><td><a href='https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/'>Things I want in a modern relational query language</a></td></tr>
 </table>
 <!-- END:news -->
 
