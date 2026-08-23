@@ -19,14 +19,7 @@
 <br/>
 
 <!-- START:news -->
-### 📰 Latest Tech News
-<table>
-<tr><td><a href='https://securelist.com/android-head-unit-malware/121106/'>Malware infects Android-based automotive head unit firmware</a></td></tr>
-<tr><td><a href='https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes'>My favorite nonfiction books about cults, scams, and schemes</a></td></tr>
-<tr><td><a href='https://earendil.com/posts/what-is-a-harness/'>What Is a Harness?</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cvg92y1wzn8o'>Sydney Marathon medal mistakenly depicts Munich stadium</a></td></tr>
-<tr><td><a href='https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/'>Things I want in a modern relational query language</a></td></tr>
-</table>
+<i>No news available at the moment.</i>
 <!-- END:news -->
 
 <br/>
