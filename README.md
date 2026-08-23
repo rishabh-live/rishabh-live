@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://securelist.com/android-head-unit-malware/121106/'>Malware infects Android-based automotive head unit firmware</a></td></tr>
 <tr><td><a href='https://www.bbc.com/news/articles/cvg92y1wzn8o'>Sydney Marathon medal mistakenly depicts Munich stadium</a></td></tr>
 <tr><td><a href='https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/'>To become a better writer, read as much as you can</a></td></tr>
 <tr><td><a href='http://www.os2museum.com/wp/the-end-of-an-athlon/'>The End of an Athlon</a></td></tr>
-<tr><td><a href='https://skylens.yantraai.app/'>Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive</a></td></tr>
-<tr><td><a href='https://martypc.net/'>MartyPC is a cross-platform emulator of early PCs written in Rust</a></td></tr>
+<tr><td><a href='https://malisper.me/jit-compiling-code-in-5-us/'>JIT Compiling Code in 5μs</a></td></tr>
 </table>
 <!-- END:news -->
 
