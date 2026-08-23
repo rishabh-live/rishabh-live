@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://martypc.net/'>MartyPC is a cross-platform emulator of early PCs written in Rust</a></td></tr>
+<tr><td><a href='https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/'>The Golden Rule for Becoming a Better Writer</a></td></tr>
 <tr><td><a href='https://henry.codes/writing/i-dream-of-quieter-computing/'>I Dream of Quieter Computing</a></td></tr>
-<tr><td><a href='https://twitter.com/moxie/status/2091218652133732491'>Scrap (2006)</a></td></tr>
+<tr><td><a href='https://nappertime.com/the-art-of-and-beauty-of-blade-runner/'>The Art and Beauty of Blade Runner</a></td></tr>
 <tr><td><a href='https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917'>Why your local LLM feels dumber than it is</a></td></tr>
-<tr><td><a href='https://www.primeintellect.ai/research/nanogpt-speedrun'>NanoGPT Speedrun Frontier</a></td></tr>
 </table>
 <!-- END:news -->
 
