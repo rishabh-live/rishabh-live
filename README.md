@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://marcua.net/minitools/figmimic/'>Figmimic – A bookmarklet to copy any webpage into Figma as editable layers</a></td></tr>
-<tr><td><a href='https://www.primeintellect.ai/research/nanogpt-speedrun'>NanoGPT Speedrun Frontier</a></td></tr>
 <tr><td><a href='https://twitter.com/moxie/status/2091218652133732491'>Scrap (2006)</a></td></tr>
+<tr><td><a href='https://www.primeintellect.ai/research/nanogpt-speedrun'>NanoGPT Speedrun Frontier</a></td></tr>
 <tr><td><a href='https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917'>Why your local LLM feels dumber than it is</a></td></tr>
 <tr><td><a href='https://quantumi.sh/public/labs.html'>ElevenLabs, TwelveLabs, ThirteenLabs</a></td></tr>
 </table>
