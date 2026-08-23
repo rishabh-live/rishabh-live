@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://lalitm.com/post/find-problems-staff-engineer/'>How I Find Problems to Solve as a Staff Engineer</a></td></tr>
+<tr><td><a href='https://lalitm.com/post/find-problems-staff-engineer/'>How I find problems to solve as a staff engineer</a></td></tr>
 <tr><td><a href='https://debloat.dev/'>A website for debloated open source alternatives</a></td></tr>
-<tr><td><a href='https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html'>Fable and the End of the Free Lunch</a></td></tr>
 <tr><td><a href='https://insufferable.dev/posts/vibe-tax/'>The Vibe Tax</a></td></tr>
+<tr><td><a href='https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/'>Why Sal Khan&#x27;t: On Learning by Making but Teaching by Telling</a></td></tr>
 <tr><td><a href='https://how.complexsystems.fail/'>How Complex Systems Fail (1998)</a></td></tr>
 </table>
 <!-- END:news -->
