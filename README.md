@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://lalitm.com/post/find-problems-staff-engineer/'>How I find problems to solve as a staff engineer</a></td></tr>
-<tr><td><a href='https://alpo.ge/s6.pdf'>A complex structure on S^6 [pdf]</a></td></tr>
+<tr><td><a href='https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/'>Google Workspace thinks my domain is an email provider (2025)</a></td></tr>
 <tr><td><a href='https://how.complexsystems.fail/'>How Complex Systems Fail (1998)</a></td></tr>
 <tr><td><a href='https://fabiensanglard.net/agent.md/index.html'>My agent.md to improve LLM-assisted code quality</a></td></tr>
-<tr><td><a href='https://insufferable.dev/posts/vibe-tax/'>The Vibe Tax</a></td></tr>
+<tr><td><a href='https://earendil.com/posts/what-is-a-harness/'>What Is a Harness?</a></td></tr>
 </table>
 <!-- END:news -->
 
