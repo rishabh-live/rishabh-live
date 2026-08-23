@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://martypc.net/'>MartyPC is a cross-platform emulator of early PCs written in Rust</a></td></tr>
 <tr><td><a href='https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/'>The Golden Rule for Becoming a Better Writer</a></td></tr>
+<tr><td><a href='http://www.os2museum.com/wp/the-end-of-an-athlon/'>The End of an Athlon</a></td></tr>
 <tr><td><a href='https://henry.codes/writing/i-dream-of-quieter-computing/'>I Dream of Quieter Computing</a></td></tr>
-<tr><td><a href='https://nappertime.com/the-art-of-and-beauty-of-blade-runner/'>The Art and Beauty of Blade Runner</a></td></tr>
-<tr><td><a href='https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917'>Why your local LLM feels dumber than it is</a></td></tr>
+<tr><td><a href='https://nappertime.com/the-art-of-and-beauty-of-blade-runner/'>The Art and Beauty of Blade Runner (2015)</a></td></tr>
 </table>
 <!-- END:news -->
 
