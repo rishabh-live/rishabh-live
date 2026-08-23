@@ -25,7 +25,7 @@
 <tr><td><a href='https://malisper.me/jit-compiling-code-in-5-us/'>JIT Compiling Code in 5μs</a></td></tr>
 <tr><td><a href='https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/'>To become a better writer, read as much as you can</a></td></tr>
 <tr><td><a href='https://martypc.net/'>MartyPC is a cross-platform emulator of early PCs written in Rust</a></td></tr>
-<tr><td><a href='https://henry.codes/writing/i-dream-of-quieter-computing/'>I Dream of Quieter Computing</a></td></tr>
+<tr><td><a href='https://erikengdahl.se/autism/isnt/'>Tragically, as many as 9625 out of every 10k individuals may be neurotypical</a></td></tr>
 </table>
 <!-- END:news -->
 
