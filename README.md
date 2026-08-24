@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></td></tr>
 <tr><td><a href='https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs'>How Europe is killing makers and micro-entrepreneurs</a></td></tr>
+<tr><td><a href='https://developers.openai.com/api/docs/pricing'>OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)</a></td></tr>
 <tr><td><a href='https://proofcraft.systems/news-2026/#2026-08-21'>SeL4 security proofs now complete on AArch64</a></td></tr>
-<tr><td><a href='https://twitter.com/paulg/status/2091544343589060625'>I were 17, I&#x27;d learn how to build LLMs from scratch</a></td></tr>
-<tr><td><a href='https://schlarp.com/posts/everything-i-own-owned/'>Everything I own, owned</a></td></tr>
-<tr><td><a href='https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers'>Why older tech is sometimes safer from hackers</a></td></tr>
+<tr><td><a href='https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth'>Hot Chips 2026: Applying High Bandwidth Flash (HBF)</a></td></tr>
 </table>
 <!-- END:news -->
 
