@@ -24,8 +24,8 @@
 <tr><td><a href='https://schlarp.com/posts/everything-i-own-owned/'>Everything I own, owned</a></td></tr>
 <tr><td><a href='https://lalitm.com/post/find-problems-staff-engineer/'>How I find problems to solve as a staff engineer</a></td></tr>
 <tr><td><a href='https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245'>Anthropic&#x27;s best AI model struggles to attract users as cheaper tools thrive</a></td></tr>
+<tr><td><a href='https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps'>Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel</a></td></tr>
 <tr><td><a href='https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/'>Google Workspace thinks my domain is an email provider (2025)</a></td></tr>
-<tr><td><a href='https://fabiensanglard.net/agent.md/index.html'>My agent.md to improve LLM-assisted code quality</a></td></tr>
 </table>
 <!-- END:news -->
 
