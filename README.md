@@ -24,8 +24,8 @@
 <tr><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></td></tr>
 <tr><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></td></tr>
 <tr><td><a href='https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/'>IPFS Maintainers Winding Down</a></td></tr>
-<tr><td><a href='https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs'>How Europe is killing makers and micro-entrepreneurs</a></td></tr>
-<tr><td><a href='https://larsfaye.com/articles/ai-coding-will-prevent-expertise'>Coding expertise is going to collapse from AI reliance</a></td></tr>
+<tr><td><a href='https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure'>A Blackstone real estate company exposed SSN digits, DOBs, addresses and more</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2608.16603'>Public services are increasingly strained by LLM-written appeals for benefits</a></td></tr>
 </table>
 <!-- END:news -->
 
