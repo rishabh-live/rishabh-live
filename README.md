@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://developer.apple.com/news/?id=1ptvdtcm'>iCloud+ Hide My Email addresses will remain on icloud.com</a></td></tr>
 <tr><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></td></tr>
-<tr><td><a href='https://ciechanow.ski/moon/'>Moon</a></td></tr>
-<tr><td><a href='https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk'>One corner of China’s internet is insisting that the Tang Dynasty never existed</a></td></tr>
+<tr><td><a href='https://ciechanow.ski/moon/'>Moon (2024)</a></td></tr>
 <tr><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk'>One corner of China’s internet is insisting that the Tang Dynasty never existed</a></td></tr>
 </table>
 <!-- END:news -->
 
