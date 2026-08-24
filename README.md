@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></td></tr>
 <tr><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></td></tr>
-<tr><td><a href='https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/'>IPFS Maintainers Winding Down</a></td></tr>
 <tr><td><a href='https://sf.thijs.gg/'>The entire city of San Francisco as a video game</a></td></tr>
-<tr><td><a href='https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/'>Anger, Anxiety and Agency</a></td></tr>
+<tr><td><a href='https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/'>IPFS Maintainers Winding Down</a></td></tr>
+<tr><td><a href='https://github.com/l3a0/claude-plugins'>A Claude Code skill that recovers export-blocked Kindle highlights</a></td></tr>
 </table>
 <!-- END:news -->
 
