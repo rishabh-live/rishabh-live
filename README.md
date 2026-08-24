@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs'>How Europe is killing makers and micro-entrepreneurs</a></td></tr>
 <tr><td><a href='https://proofcraft.systems/news-2026/#2026-08-21'>SeL4 security proofs now complete on AArch64</a></td></tr>
 <tr><td><a href='https://twitter.com/paulg/status/2091544343589060625'>I were 17, I&#x27;d learn how to build LLMs from scratch</a></td></tr>
 <tr><td><a href='https://schlarp.com/posts/everything-i-own-owned/'>Everything I own, owned</a></td></tr>
-<tr><td><a href='https://learn.omacom.io/3/omacom/76/omakase-computing'>Omakase Computing</a></td></tr>
-<tr><td><a href='https://essays.georgestrakhov.com/weird/'>The Future Belongs to the Weird</a></td></tr>
+<tr><td><a href='https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/'>FDA clears blood test to aid evaluation for Alzheimer&#x27;s disease</a></td></tr>
 </table>
 <!-- END:news -->
 
