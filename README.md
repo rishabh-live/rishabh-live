@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://schlarp.com/posts/everything-i-own-owned/'>Everything I own, owned</a></td></tr>
+<tr><td><a href='https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/'>FDA clears blood test to aid evaluation for Alzheimer&#x27;s disease</a></td></tr>
+<tr><td><a href='https://twitter.com/paulg/status/2091544343589060625'>I were 17, I&#x27;d learn how to build LLMs from scratch</a></td></tr>
+<tr><td><a href='https://status.claude.com/uptime'>Anthropic Claude and API service outages</a></td></tr>
 <tr><td><a href='https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245'>Anthropic&#x27;s best AI model struggles to attract users as cheaper tools thrive</a></td></tr>
-<tr><td><a href='https://lalitm.com/post/find-problems-staff-engineer/'>How I find problems to solve as a staff engineer</a></td></tr>
-<tr><td><a href='https://fabiensanglard.net/agent.md/index.html'>My agent.md to improve LLM-assisted code quality</a></td></tr>
-<tr><td><a href='https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/'>Google Workspace thinks my domain is an email provider (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
