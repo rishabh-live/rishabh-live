@@ -21,8 +21,8 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://schlarp.com/posts/everything-i-own-owned/'>Everything I own, owned</a></td></tr>
 <tr><td><a href='https://twitter.com/paulg/status/2091544343589060625'>I were 17, I&#x27;d learn how to build LLMs from scratch</a></td></tr>
+<tr><td><a href='https://schlarp.com/posts/everything-i-own-owned/'>Everything I own, owned</a></td></tr>
 <tr><td><a href='https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/'>FDA clears blood test to aid evaluation for Alzheimer&#x27;s disease</a></td></tr>
 <tr><td><a href='https://github.com/thiagotigaz/ocr-it'>OCR It – pull text out of un-copyable documents for your LLM</a></td></tr>
 <tr><td><a href='https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245'>Anthropic&#x27;s best AI model struggles to attract users as cheaper tools thrive</a></td></tr>
