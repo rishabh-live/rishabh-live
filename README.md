@@ -25,7 +25,7 @@
 <tr><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></td></tr>
 <tr><td><a href='https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/'>IPFS Maintainers Winding Down</a></td></tr>
 <tr><td><a href='https://sf.thijs.gg/'>The entire city of San Francisco as a video game</a></td></tr>
-<tr><td><a href='https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs'>How Europe is killing makers and micro-entrepreneurs</a></td></tr>
+<tr><td><a href='https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/'>Anger, Anxiety and Agency</a></td></tr>
 </table>
 <!-- END:news -->
 
