@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk'>One corner of China’s internet is insisting that the Tang Dynasty never existed</a></td></tr>
 <tr><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></td></tr>
 <tr><td><a href='https://sf.thijs.gg/'>The entire city of San Francisco as a video game</a></td></tr>
-<tr><td><a href='https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/'>IPFS Maintainers Winding Down</a></td></tr>
-<tr><td><a href='https://github.com/l3a0/claude-plugins'>A Claude Code skill that recovers export-blocked Kindle highlights</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c62m4gpnp78o'>Oceans hit highest temperature on record</a></td></tr>
 </table>
 <!-- END:news -->
 
