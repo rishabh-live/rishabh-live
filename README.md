@@ -25,7 +25,7 @@
 <tr><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></td></tr>
 <tr><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/moon/'>Moon (2024)</a></td></tr>
-<tr><td><a href='https://sf.thijs.gg/'>The entire city of San Francisco as a video game</a></td></tr>
+<tr><td><a href='https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/'>Was Modern Art a CIA Psy-Op?</a></td></tr>
 </table>
 <!-- END:news -->
 
