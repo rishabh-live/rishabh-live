@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/'>New Mac Studio with M5 Max and M5 Ultra</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/'>New Mac mini, featuring M6 and M5 Pro</a></td></tr>
 <tr><td><a href='https://e360.yale.edu/digest/bomb-fishing-coral-reefs'>Bomb Fishing Is Wreaking Havoc on Indonesia&#x27;s Coral Reefs</a></td></tr>
 <tr><td><a href='https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next'>Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/'>New Mac mini, featuring M6 and M5 Pro</a></td></tr>
 </table>
 <!-- END:news -->
 
