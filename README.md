@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets'>Quantum battery upends the rules of charging</a></td></tr>
+<tr><td><a href='https://dontwordle.com/'>Don&#x27;t Wordle</a></td></tr>
+<tr><td><a href='https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/'>France&#x27;s tax agency got hacked (in French)</a></td></tr>
+<tr><td><a href='https://github.com/PlummersSoftwareLLC/HelloAssembly'>HelloAssembly The smallest possible complete Windows application</a></td></tr>
 <tr><td><a href='https://developer.apple.com/news/?id=1ptvdtcm'>iCloud+ Hide My Email addresses will remain on icloud.com</a></td></tr>
 <tr><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></td></tr>
-<tr><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></td></tr>
-<tr><td><a href='https://paulgraham.com/prepare.html'>How Universities Should Prepare Founders</a></td></tr>
 </table>
 <!-- END:news -->
 
