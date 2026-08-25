@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.bbc.com/news/articles/c4g36yze692o'>Why some US restaurants are banning tips</a></td></tr>
 <tr><td><a href='https://developer.apple.com/news/?id=1ptvdtcm'>iCloud+ Hide My Email addresses will remain on icloud.com</a></td></tr>
 <tr><td><a href='https://twitter.com/lemire/status/2091894299289874926'>Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded</a></td></tr>
 <tr><td><a href='https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/'>MS Paint and Photos inivisibly watermark even locally generated output with GUID</a></td></tr>
 <tr><td><a href='https://paulgraham.com/prepare.html'>How Universities Should Prepare Founders</a></td></tr>
-<tr><td><a href='https://chipsandcheese.com/p/sifives-first-server-platform'>SiFive&#x27;s First Server Platform</a></td></tr>
 </table>
 <!-- END:news -->
 
