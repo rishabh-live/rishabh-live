@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/'>New Mac Studio with M5 Max and M5 Ultra</a></td></tr>
-<tr><td><a href='https://github.com/zedeus/nitter/issues/1442'>Nitter project received cease and desist</a></td></tr>
-<tr><td><a href='https://e360.yale.edu/digest/bomb-fishing-coral-reefs'>Bomb fishing is wreaking havoc on Indonesia&#x27;s coral reefs</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2608.21590'>Black hole singularity is a surface not a point</a></td></tr>
+<tr><td><a href='https://rorz.io/writing/my-friend-aaron'>My Friend Aaron</a></td></tr>
+<tr><td><a href='https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia'>OpenAI Jalapeño: Better than Nvidia Blackwell</a></td></tr>
 </table>
 <!-- END:news -->
 
