@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar'>FDA authorizes first wearable device that monitors ketone and blood sugar levels</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra</a></td></tr>
+<tr><td><a href='https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar'>FDA authorizes first wearable device that monitors ketone and blood sugar levels</a></td></tr>
+<tr><td><a href='https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment'>The brain may be about to have its Ozempic moment</a></td></tr>
 <tr><td><a href='https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia'>OpenAI Jalapeño: Better than Nvidia Blackwell</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/'>New Mac Studio with M5 Max and M5 Ultra</a></td></tr>
-<tr><td><a href='https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability'>When str.lower() is a security vulnerability in Python – Seth Larson</a></td></tr>
 </table>
 <!-- END:news -->
 
