@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws'>AWS Acquires DuckDB</a></td></tr>
+<tr><td><a href='https://z.ai/blog/glm-5.3-flash'>GLM-5.3-Flash</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen3.8-flash-next'>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency</a></td></tr>
-<tr><td><a href='https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think'>RAG Is Simpler Than You Think</a></td></tr>
-<tr><td><a href='https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/'>Meta reaches $16.68B settlement over social media harms to children</a></td></tr>
-<tr><td><a href='https://entropicthoughts.com/curmudgeon-tries-language-server'>A curmudgeon tries a language server</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com/incidents/hcbtzksccj2f'>Disruption with Some GitHub Services</a></td></tr>
+<tr><td><a href='https://www.nebulasans.com'>Nebula Sans</a></td></tr>
 </table>
 <!-- END:news -->
 
