@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openstreetmap.us/news/2026/08/oim-charter-project/'>Oldinsurancemaps.net is now a Charter Project</a></td></tr>
 <tr><td><a href='https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think'>RAG Is Simpler Than You Think</a></td></tr>
+<tr><td><a href='https://rupertlinacre.com/buslens/'>Show HN: Buslens – where can I get to by bus? (UK)</a></td></tr>
+<tr><td><a href='https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek'>Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights</a></td></tr>
 <tr><td><a href='https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/'>Value Classes Still Need Compiler Sympathy</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=656058JxTM0'>Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
