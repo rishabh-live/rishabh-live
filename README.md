@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/tailscale/tailcat'>Tailcat – Like netcat, but over Tailscale’s data plane</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5.3-flash'>GLM-5.3-Flash</a></td></tr>
-<tr><td><a href='https://lwn.net/SubscriberLink/1089390/46116614cc74b814/'>An ongoing 3D-printer AGPL violation</a></td></tr>
+<tr><td><a href='https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu'>Actinide is first startup to produce high-assay low-enriched uranium (HALEU)</a></td></tr>
 <tr><td><a href='https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws'>AWS Acquires DuckLabs</a></td></tr>
-<tr><td><a href='https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf'>Study Reveals UnitedHealth&#x27;s Profit Margins Four Times What It Claimed [pdf]</a></td></tr>
-<tr><td><a href='https://github.com/tailscale/tailcat'>Tailcat</a></td></tr>
+<tr><td><a href='https://lwn.net/SubscriberLink/1089390/46116614cc74b814/'>An ongoing 3D-printer AGPL violation</a></td></tr>
 </table>
 <!-- END:news -->
 
