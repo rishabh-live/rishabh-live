@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.happyfellow.dev/merchants-of-insecurity/'>Omarchy is full of security holes</a></td></tr>
+<tr><td><a href='https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws'>AWS Acquires DuckDB</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen3.8-flash-next'>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency</a></td></tr>
 <tr><td><a href='https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think'>RAG Is Simpler Than You Think</a></td></tr>
-<tr><td><a href='https://openstreetmap.us/news/2026/08/oim-charter-project/'>Oldinsurancemaps.net is now a Charter Project</a></td></tr>
-<tr><td><a href='https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek'>Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra</a></td></tr>
+<tr><td><a href='https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/'>Meta reaches $16.68B settlement over social media harms to children</a></td></tr>
+<tr><td><a href='https://entropicthoughts.com/curmudgeon-tries-language-server'>A curmudgeon tries a language server</a></td></tr>
 </table>
 <!-- END:news -->
 
