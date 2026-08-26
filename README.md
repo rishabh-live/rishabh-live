@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://z.ai/blog/glm-5.3-flash'>GLM-5.3-Flash</a></td></tr>
-<tr><td><a href='https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws'>AWS Acquires DuckDB</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen3.8-flash-next'>Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency</a></td></tr>
-<tr><td><a href='https://www.nebulasans.com'>Nebula Sans</a></td></tr>
-<tr><td><a href='https://cartefibre.arcep.fr'>France reaches 94.9% fiber coverage in 2026</a></td></tr>
+<tr><td><a href='https://lwn.net/SubscriberLink/1089390/46116614cc74b814/'>An ongoing 3D-printer AGPL violation</a></td></tr>
+<tr><td><a href='https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws'>AWS Acquires DuckLabs</a></td></tr>
+<tr><td><a href='https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf'>Study Reveals UnitedHealth&#x27;s Profit Margins Four Times What It Claimed [pdf]</a></td></tr>
+<tr><td><a href='https://github.com/tailscale/tailcat'>Tailcat</a></td></tr>
 </table>
 <!-- END:news -->
 
