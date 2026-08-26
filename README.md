@@ -21,9 +21,9 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra</a></td></tr>
+<tr><td><a href='https://pauldix.com/the-end-of-programming'>The End of Programming</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=656058JxTM0'>Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm'>Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/'>Apple introduces M6 and M5 Ultra</a></td></tr>
 <tr><td><a href='https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar'>FDA authorizes first wearable device that monitors ketone and blood sugar levels</a></td></tr>
 <tr><td><a href='https://fzakaria.com/2026/08/24/actually-queryable-executables'>Queryable Executables</a></td></tr>
 </table>
