@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openstreetmap.us/news/2026/08/oim-charter-project/'>Oldinsurancemaps.net is now a Charter Project</a></td></tr>
 <tr><td><a href='https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think'>RAG Is Simpler Than You Think</a></td></tr>
-<tr><td><a href='https://rupertlinacre.com/buslens/'>Show HN: Buslens – where can I get to by bus? (UK)</a></td></tr>
+<tr><td><a href='https://openstreetmap.us/news/2026/08/oim-charter-project/'>Oldinsurancemaps.net is now a Charter Project</a></td></tr>
+<tr><td><a href='https://mathstodon.xyz/@abuseofnotation/117161292083848755'>It&#x27;s Not the End of Programming</a></td></tr>
 <tr><td><a href='https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek'>Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights</a></td></tr>
-<tr><td><a href='https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/'>Value Classes Still Need Compiler Sympathy</a></td></tr>
+<tr><td><a href='https://rupertlinacre.com/buslens/'>Show HN: Buslens – where can I get to by bus? (UK)</a></td></tr>
 </table>
 <!-- END:news -->
 
