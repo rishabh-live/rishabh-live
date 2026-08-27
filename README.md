@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/tailscale/tailcat'>Tailcat – Like netcat, but over Tailscale’s data plane</a></td></tr>
+<tr><td><a href='https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8'>Nvidia agrees to acquire Hugging Face for $13B</a></td></tr>
+<tr><td><a href='https://www.mturk.com/'>Mechanical Turk shutting down September 30</a></td></tr>
+<tr><td><a href='https://github.com/SenteLabsAI/OpenExecutive'>CEO fired developers to make room for AI. Developers create open source AI CEO</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-5.3-flash'>GLM-5.3-Flash</a></td></tr>
-<tr><td><a href='https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu'>Actinide is first startup to produce high-assay low-enriched uranium (HALEU)</a></td></tr>
-<tr><td><a href='https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws'>AWS Acquires DuckLabs</a></td></tr>
-<tr><td><a href='https://lwn.net/SubscriberLink/1089390/46116614cc74b814/'>An ongoing 3D-printer AGPL violation</a></td></tr>
+<tr><td><a href='https://github.com/tailscale/tailcat'>Tailcat – Like netcat, but over Tailscale’s data plane</a></td></tr>
 </table>
 <!-- END:news -->
 
