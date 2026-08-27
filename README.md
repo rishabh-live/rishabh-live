@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8'>Nvidia agrees to acquire Hugging Face for $13B</a></td></tr>
-<tr><td><a href='https://www.mturk.com/'>Mechanical Turk shutting down September 30</a></td></tr>
-<tr><td><a href='https://github.com/SenteLabsAI/OpenExecutive'>CEO fired developers to make room for AI. Developers create open source AI CEO</a></td></tr>
-<tr><td><a href='https://z.ai/blog/glm-5.3-flash'>GLM-5.3-Flash</a></td></tr>
-<tr><td><a href='https://github.com/tailscale/tailcat'>Tailcat – Like netcat, but over Tailscale’s data plane</a></td></tr>
+<tr><td><a href='https://pollen-robotics.com/microduck/'>Pollen Robotics (Hugging Face) Microduck</a></td></tr>
+<tr><td><a href='https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/'>Harness Engineering</a></td></tr>
+<tr><td><a href='https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/'>CoMaps integration with the wider FLOSS ecosystem – CoMaps</a></td></tr>
+<tr><td><a href='https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31'>Emacs 31: An unofficial guide to Markdown-ts-mode</a></td></tr>
 </table>
 <!-- END:news -->
 
