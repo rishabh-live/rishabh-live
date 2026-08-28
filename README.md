@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html'>Hilariously Fast Volume Computation with the Divergence Theorem</a></td></tr>
 <tr><td><a href='https://blog.cloudflare.com/dns-cache-memory-optimization-1111/'>Saving 100 terabytes of memory by optimizing 1.1.1.1&#x27;s DNS cache</a></td></tr>
 <tr><td><a href='https://calv.info/small-models-have-arrived'>Small Models Have Arrived</a></td></tr>
-<tr><td><a href='https://507movements.com/'>507 Mechanical Movements</a></td></tr>
-<tr><td><a href='https://github.com/elyosh/OpenTIE/'>Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/'>Gemini-3.5-Transcribe</a></td></tr>
+<tr><td><a href='https://subsmith.app'>Show HN: SubSmith – Turn your own videos into language-learning material</a></td></tr>
+<tr><td><a href='https://modal.cx/blog/announcing-flatpak-sta/'>Sovereign Tech Agency invests €500k in Flatpak</a></td></tr>
 </table>
 <!-- END:news -->
 
