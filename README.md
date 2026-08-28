@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8'>Nvidia agrees to acquire Hugging Face for $13B</a></td></tr>
-<tr><td><a href='https://pollen-robotics.com/microduck/'>Pollen Robotics (Hugging Face) Microduck</a></td></tr>
-<tr><td><a href='https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/'>Harness Engineering</a></td></tr>
-<tr><td><a href='https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/'>CoMaps integration with the wider FLOSS ecosystem – CoMaps</a></td></tr>
-<tr><td><a href='https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31'>Emacs 31: An unofficial guide to Markdown-ts-mode</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/dns-cache-memory-optimization-1111/'>Saving 100 terabytes of memory by optimizing 1.1.1.1&#x27;s DNS cache</a></td></tr>
+<tr><td><a href='https://calv.info/small-models-have-arrived'>Small Models Have Arrived</a></td></tr>
+<tr><td><a href='https://507movements.com/'>507 Mechanical Movements</a></td></tr>
+<tr><td><a href='https://github.com/elyosh/OpenTIE/'>Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/'>Gemini-3.5-Transcribe</a></td></tr>
 </table>
 <!-- END:news -->
 
