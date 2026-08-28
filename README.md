@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html'>Hilariously Fast Volume Computation with the Divergence Theorem</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/dns-cache-memory-optimization-1111/'>Saving 100 terabytes of memory by optimizing 1.1.1.1&#x27;s DNS cache</a></td></tr>
-<tr><td><a href='https://calv.info/small-models-have-arrived'>Small Models Have Arrived</a></td></tr>
-<tr><td><a href='https://subsmith.app'>Show HN: SubSmith – Turn your own videos into language-learning material</a></td></tr>
-<tr><td><a href='https://modal.cx/blog/announcing-flatpak-sta/'>Sovereign Tech Agency invests €500k in Flatpak</a></td></tr>
+<tr><td><a href='https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/'>Stopping the smart TV from being used against you</a></td></tr>
+<tr><td><a href='https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html'>GUIs should be fully keyboard-driven</a></td></tr>
+<tr><td><a href='https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/'>25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA</a></td></tr>
+<tr><td><a href='https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released'>Htmx 4.0</a></td></tr>
+<tr><td><a href='https://anil.recoil.org/notes/rumour-is-the-exploit'>Just the rumour of a bug is enough to find an exploit these days</a></td></tr>
 </table>
 <!-- END:news -->
 
