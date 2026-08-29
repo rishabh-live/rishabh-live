@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.stephendiehl.com/posts/internet_predatory_cesspit/'>The Internet Is Kind of a Predatory Cesspit Now</a></td></tr>
-<tr><td><a href='https://dgl.cx/2020/06/sqlite-json-support'>SQLite as a Document Database (2020)</a></td></tr>
-<tr><td><a href='https://tucker.wales/writing/bias-towards-action/'>Calibrate Before You Accelerate: Bias Toward Action in a New Role</a></td></tr>
+<tr><td><a href='https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/'>Tencent Releases and Open-Sources Tencent Hy4 Preview</a></td></tr>
+<tr><td><a href='https://frequal.com/aptera/ProductionDealAug2026.html'>$44M Solar-Powered EV Production Deal Struck</a></td></tr>
+<tr><td><a href='https://github.com/vllm-project/vllm/releases/tag/v0.28.0'>vLLM v0.28.0</a></td></tr>
 <tr><td><a href='https://zackbartel.com/blog/2026/08/tether/'>Tether: iMessage, SMS, etc. on Linux</a></td></tr>
-<tr><td><a href='https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/'>Sleepwalker: Passive Backdoor with Its Own Command Language</a></td></tr>
+<tr><td><a href='https://tucker.wales/writing/bias-towards-action/'>Calibrate Before You Accelerate: Bias Toward Action in a New Role</a></td></tr>
 </table>
 <!-- END:news -->
 
