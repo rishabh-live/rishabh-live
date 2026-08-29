@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/Lakr233/vphone-cli'>Boot a Virtual iPhone via Apple&#x27;s Virtualization.framework</a></td></tr>
-<tr><td><a href='https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/'>9th Circuit sides with states in Kalshi gambling fight</a></td></tr>
+<tr><td><a href='https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing'>Samsung&#x27;s Processing-in-Memory (PIM)</a></td></tr>
+<tr><td><a href='https://parowozowniawolsztyn.pl/?page_id=2141'>Europe&#x27;s last regular standard-gauge steam passenger service</a></td></tr>
 <tr><td><a href='https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html'>GUIs should be fully keyboard-driven</a></td></tr>
-<tr><td><a href='https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/'>Does the Sumerian King List Align with Paleoclimate Events?</a></td></tr>
-<tr><td><a href='https://pwning.systems/posts/llm-memory-program-analysis/'>I accidentally turned LLM memory into program analysis</a></td></tr>
+<tr><td><a href='https://github.com/Lakr233/vphone-cli'>Boot a Virtual iPhone via Apple&#x27;s Virtualization.framework</a></td></tr>
+<tr><td><a href='https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/'>Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems</a></td></tr>
 </table>
 <!-- END:news -->
 
