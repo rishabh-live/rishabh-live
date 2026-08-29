@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://lwn.net/Articles/1091231/'>Debian votes to allow &quot;responsible use of generative AI&quot;</a></td></tr>
+<tr><td><a href='https://uecker.codeberg.page/2026-08-29.html'>Indirect Calling of Nested Functions on GCC Without Executable Stack</a></td></tr>
+<tr><td><a href='https://typebase.io'>Show HN: Typebase – A single-folder back end you write in TypeScript</a></td></tr>
+<tr><td><a href='https://haz.ee/posts/aetheryte-radio.html'>Creating the Aetheryte Radio</a></td></tr>
 <tr><td><a href='https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing'>Samsung&#x27;s Processing-in-Memory (PIM)</a></td></tr>
-<tr><td><a href='https://parowozowniawolsztyn.pl/?page_id=2141'>Europe&#x27;s last regular standard-gauge steam passenger service</a></td></tr>
-<tr><td><a href='https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html'>GUIs should be fully keyboard-driven</a></td></tr>
-<tr><td><a href='https://github.com/Lakr233/vphone-cli'>Boot a Virtual iPhone via Apple&#x27;s Virtualization.framework</a></td></tr>
-<tr><td><a href='https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/'>Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems</a></td></tr>
 </table>
 <!-- END:news -->
 
