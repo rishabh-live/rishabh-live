@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://defrag98.com'>Defrag98: Windows 98 Disk Defragmenter Simulator Online</a></td></tr>
 <tr><td><a href='https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/'>Tencent Releases and Open-Sources Tencent Hy4 Preview</a></td></tr>
-<tr><td><a href='https://frequal.com/aptera/ProductionDealAug2026.html'>$44M Solar-Powered EV Production Deal Struck</a></td></tr>
 <tr><td><a href='https://github.com/vllm-project/vllm/releases/tag/v0.28.0'>vLLM v0.28.0</a></td></tr>
+<tr><td><a href='https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova'>Nancy Grace Roman Space Telescope Launches this Sunday</a></td></tr>
 <tr><td><a href='https://zackbartel.com/blog/2026/08/tether/'>Tether: iMessage, SMS, etc. on Linux</a></td></tr>
-<tr><td><a href='https://tucker.wales/writing/bias-towards-action/'>Calibrate Before You Accelerate: Bias Toward Action in a New Role</a></td></tr>
 </table>
 <!-- END:news -->
 
