@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/'>Stopping the smart TV from being used against you</a></td></tr>
+<tr><td><a href='https://github.com/Lakr233/vphone-cli'>Boot a Virtual iPhone via Apple&#x27;s Virtualization.framework</a></td></tr>
+<tr><td><a href='https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/'>9th Circuit sides with states in Kalshi gambling fight</a></td></tr>
 <tr><td><a href='https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html'>GUIs should be fully keyboard-driven</a></td></tr>
-<tr><td><a href='https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/'>25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA</a></td></tr>
-<tr><td><a href='https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released'>Htmx 4.0</a></td></tr>
-<tr><td><a href='https://anil.recoil.org/notes/rumour-is-the-exploit'>Just the rumour of a bug is enough to find an exploit these days</a></td></tr>
+<tr><td><a href='https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/'>Does the Sumerian King List Align with Paleoclimate Events?</a></td></tr>
+<tr><td><a href='https://pwning.systems/posts/llm-memory-program-analysis/'>I accidentally turned LLM memory into program analysis</a></td></tr>
 </table>
 <!-- END:news -->
 
