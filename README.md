@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6'>Haiku R1&#x2F;beta6 has been released</a></td></tr>
 <tr><td><a href='https://people.kernel.org/monsieuricon/creepy-crawlies'>Creepy Crawlies</a></td></tr>
-<tr><td><a href='https://noaifridays.com/'>No AI Fridays</a></td></tr>
+<tr><td><a href='https://openrun.dev/blog/litestream/'>Running SQLite Apps on Docker and Kubernetes with Litestream</a></td></tr>
+<tr><td><a href='https://komoroske.com/slime-mold/'>Coordination Headwind: How Organizations Are Like Slime Molds</a></td></tr>
 <tr><td><a href='https://greenlightning.eu/diy/hacking-ikea-furniture/'>Hacking IKEA Furniture</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=hpj6r6CjJf8'>Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]</a></td></tr>
-<tr><td><a href='https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/'>What my dad taught me about AI coding in the 90s</a></td></tr>
 </table>
 <!-- END:news -->
 
