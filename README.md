@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/1804.07389'>Longest Straight Line Paths on Water or Land on the Earth (2018)</a></td></tr>
-<tr><td><a href='https://www.qubes-os.org/news/2026/08/29/qsb-118/'>Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel</a></td></tr>
-<tr><td><a href='https://git.zx2c4.com/spark/about/'>Spark: Sparklines in your shell</a></td></tr>
-<tr><td><a href='https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994'>Brits would quite like their private messages to stay private</a></td></tr>
-<tr><td><a href='https://blog.lyc8503.net/en/post/dn42-2-dnet/'>Everyone Should Build Their Own Network Stack</a></td></tr>
+<tr><td><a href='https://people.kernel.org/monsieuricon/creepy-crawlies'>Creepy Crawlies</a></td></tr>
+<tr><td><a href='https://noaifridays.com/'>No AI Fridays</a></td></tr>
+<tr><td><a href='https://greenlightning.eu/diy/hacking-ikea-furniture/'>Hacking IKEA Furniture</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=hpj6r6CjJf8'>Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]</a></td></tr>
+<tr><td><a href='https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/'>What my dad taught me about AI coding in the 90s</a></td></tr>
 </table>
 <!-- END:news -->
 
