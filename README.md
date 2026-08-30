@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://defrag98.com'>Defrag98: Windows 98 Disk Defragmenter Simulator Online</a></td></tr>
-<tr><td><a href='https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/'>Tencent Releases and Open-Sources Tencent Hy4 Preview</a></td></tr>
-<tr><td><a href='https://github.com/vllm-project/vllm/releases/tag/v0.28.0'>vLLM v0.28.0</a></td></tr>
-<tr><td><a href='https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova'>Nancy Grace Roman Space Telescope Launches this Sunday</a></td></tr>
-<tr><td><a href='https://zackbartel.com/blog/2026/08/tether/'>Tether: iMessage, SMS, etc. on Linux</a></td></tr>
+<tr><td><a href='https://danluu.com/bug-blind/'>Bug Blindness</a></td></tr>
+<tr><td><a href='https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws'>Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws</a></td></tr>
+<tr><td><a href='https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/'>Hy4 preview</a></td></tr>
+<tr><td><a href='https://blog.python.org/2026/08/riscv-now-officially-supported/'>RISC-V is now officially supported by CPython</a></td></tr>
+<tr><td><a href='https://freecore.org/'>FreeCORE TrueNAS Core – Continued</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -114,7 +114,6 @@
 
 <!-- START:github_activity -->
 <table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-<tr><td>Created repository</td><td><a href='https://github.com/rishabh-live/th26'>rishabh-live/th26</a></td><td>-</td></tr>
 </table>
 <!-- END:github_activity -->
 
