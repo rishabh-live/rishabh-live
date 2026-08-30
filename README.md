@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://danluu.com/bug-blind/'>Bug Blindness</a></td></tr>
-<tr><td><a href='https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws'>Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws</a></td></tr>
-<tr><td><a href='https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/'>Hy4 preview</a></td></tr>
-<tr><td><a href='https://blog.python.org/2026/08/riscv-now-officially-supported/'>RISC-V is now officially supported by CPython</a></td></tr>
-<tr><td><a href='https://freecore.org/'>FreeCORE TrueNAS Core – Continued</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/1804.07389'>Longest Straight Line Paths on Water or Land on the Earth (2018)</a></td></tr>
+<tr><td><a href='https://www.qubes-os.org/news/2026/08/29/qsb-118/'>Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel</a></td></tr>
+<tr><td><a href='https://git.zx2c4.com/spark/about/'>Spark: Sparklines in your shell</a></td></tr>
+<tr><td><a href='https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994'>Brits would quite like their private messages to stay private</a></td></tr>
+<tr><td><a href='https://blog.lyc8503.net/en/post/dn42-2-dnet/'>Everyone Should Build Their Own Network Stack</a></td></tr>
 </table>
 <!-- END:news -->
 
