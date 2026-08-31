@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://unsung.aresluna.org/i-just-chose-words-carefully/'>“I just chose words carefully”</a></td></tr>
 <tr><td><a href='https://people.kernel.org/monsieuricon/creepy-crawlies'>Creepy Crawlies</a></td></tr>
-<tr><td><a href='https://www.righto.com/2026/08/spacelab-core-memory.html'>Cores in space: The core memory module from a 1980 Spacelab computer</a></td></tr>
+<tr><td><a href='https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/'>Thoughts on Pope Leo XIV&#x27;s Magnifica Humanitas</a></td></tr>
 <tr><td><a href='https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6'>Haiku R1&#x2F;beta6 has been released</a></td></tr>
-<tr><td><a href='https://wilsonharper.net/projects/businesscard/'>NFC Energy-Harvesting PCB Business Card with an MCU</a></td></tr>
-<tr><td><a href='https://sander.ai/2026/08/24/continuous-dlms.html'>Continuous Diffusion Language Models (CDLM&#x27;s)</a></td></tr>
+<tr><td><a href='https://www.righto.com/2026/08/spacelab-core-memory.html'>Cores in space: The core memory module from a 1980 Spacelab computer</a></td></tr>
 </table>
 <!-- END:news -->
 
