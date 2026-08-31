@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/'>OpenShot 4.0: Record, Edit, and Color Like Never Before</a></td></tr>
-<tr><td><a href='https://unsung.aresluna.org/i-just-chose-words-carefully/'>“I just chose words carefully”</a></td></tr>
-<tr><td><a href='https://calpaterson.com/memoryfields.html'>Agent Memory as a File Format</a></td></tr>
-<tr><td><a href='https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/'>Breaking Claude Code Opus 5 Auto Mode</a></td></tr>
-<tr><td><a href='https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling'>What I Learned About AI Trust from Reconciling over 100B Transactions</a></td></tr>
+<tr><td><a href='https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/'>I turned my security cameras into an automatic bird identification system</a></td></tr>
+<tr><td><a href='https://playaphone.com/'>Playa Phone</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=3YtygAx_C6A'>A walkable ASCII cyberpunk city in one HTML file [video]</a></td></tr>
+<tr><td><a href='https://laser.consti.de'>Show HN: Laser Graffiti</a></td></tr>
+<tr><td><a href='https://tmpout.sh/5/'>Tmp.0ut, Vol. 5</a></td></tr>
 </table>
 <!-- END:news -->
 
