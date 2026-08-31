@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/'>OpenShot 4.0: Record, Edit, and Color Like Never Before</a></td></tr>
 <tr><td><a href='https://unsung.aresluna.org/i-just-chose-words-carefully/'>“I just chose words carefully”</a></td></tr>
-<tr><td><a href='https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names'>P99 0 ms* autocomplete for 240M domain names</a></td></tr>
-<tr><td><a href='https://openclaw.ai/blog/openclaw-2-accidentally'>OpenClaw 2.0, Accidentally</a></td></tr>
-<tr><td><a href='https://sandyuraz.com/blogs/tiny-cafe/'>My hobby of building miniatures and taking pretty pictures</a></td></tr>
-<tr><td><a href='https://blog.vghaisas.com/rube-goldberg-doorbell/'>It takes 5 cloud services to hear my doorbell</a></td></tr>
+<tr><td><a href='https://calpaterson.com/memoryfields.html'>Agent Memory as a File Format</a></td></tr>
+<tr><td><a href='https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/'>Breaking Claude Code Opus 5 Auto Mode</a></td></tr>
+<tr><td><a href='https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling'>What I Learned About AI Trust from Reconciling over 100B Transactions</a></td></tr>
 </table>
 <!-- END:news -->
 
