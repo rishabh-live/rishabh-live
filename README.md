@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://unsung.aresluna.org/i-just-chose-words-carefully/'>“I just chose words carefully”</a></td></tr>
-<tr><td><a href='https://people.kernel.org/monsieuricon/creepy-crawlies'>Creepy Crawlies</a></td></tr>
-<tr><td><a href='https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/'>Thoughts on Pope Leo XIV&#x27;s Magnifica Humanitas</a></td></tr>
-<tr><td><a href='https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6'>Haiku R1&#x2F;beta6 has been released</a></td></tr>
-<tr><td><a href='https://www.righto.com/2026/08/spacelab-core-memory.html'>Cores in space: The core memory module from a 1980 Spacelab computer</a></td></tr>
+<tr><td><a href='https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names'>P99 0 ms* autocomplete for 240M domain names</a></td></tr>
+<tr><td><a href='https://openclaw.ai/blog/openclaw-2-accidentally'>OpenClaw 2.0, Accidentally</a></td></tr>
+<tr><td><a href='https://sandyuraz.com/blogs/tiny-cafe/'>My hobby of building miniatures and taking pretty pictures</a></td></tr>
+<tr><td><a href='https://blog.vghaisas.com/rube-goldberg-doorbell/'>It takes 5 cloud services to hear my doorbell</a></td></tr>
 </table>
 <!-- END:news -->
 
