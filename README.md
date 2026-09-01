@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.gpuworld.org/'>GPU World</a></td></tr>
-<tr><td><a href='https://fastpotify.rocks/'>Fastpotify</a></td></tr>
-<tr><td><a href='https://tmpout.sh/5/'>Tmp.0ut Volume 5</a></td></tr>
-<tr><td><a href='https://restroomarchive.com'>Restroom Archive</a></td></tr>
+<tr><td><a href='https://github.com/ankidroid/Anki-Android/issues/21656'>AnkiDroid: Google Play no longer allowing Open Collective donation link</a></td></tr>
+<tr><td><a href='https://mvakde.github.io/blog/44-on-arc-1/'>44% on ARC-AGI-1 in 67 cents</a></td></tr>
 <tr><td><a href='https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/'>American Airlines&#x27; Legendary Mechanic Passes Away at 100 After 80-Year Career</a></td></tr>
+<tr><td><a href='https://fastpotify.rocks/'>Fastpotify</a></td></tr>
+<tr><td><a href='https://frn.sh/io-uring/'>Io_uring Without Readahead</a></td></tr>
 </table>
 <!-- END:news -->
 
