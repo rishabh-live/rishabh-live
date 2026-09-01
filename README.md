@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tailscale.com/blog/tailcat'>Tailcat: Tailscale Without Tailscale, by Tailscale</a></td></tr>
+<tr><td><a href='https://www.gpuworld.org/'>GPU World</a></td></tr>
 <tr><td><a href='https://fastpotify.rocks/'>Fastpotify</a></td></tr>
-<tr><td><a href='https://antigravity.google/docs/boost/'>Google Antigravity introduces Boost deep reasoning (&#x2F;boost)</a></td></tr>
-<tr><td><a href='https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/'>2004 RuneScape fit a multiplayer RPG into 56k dial-up</a></td></tr>
-<tr><td><a href='https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/'>I turned my security cameras into an automatic bird identification system</a></td></tr>
+<tr><td><a href='https://tmpout.sh/5/'>Tmp.0ut Volume 5</a></td></tr>
+<tr><td><a href='https://restroomarchive.com'>Restroom Archive</a></td></tr>
+<tr><td><a href='https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/'>American Airlines&#x27; Legendary Mechanic Passes Away at 100 After 80-Year Career</a></td></tr>
 </table>
 <!-- END:news -->
 
