@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://webiterate.dev/google-removed-extensions-ublock-origin-108/'>Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO</a></td></tr>
+<tr><td><a href='https://tailscale.com/blog/tailcat'>Tailcat: Tailscale Without Tailscale, by Tailscale</a></td></tr>
+<tr><td><a href='https://fastpotify.rocks/'>Fastpotify</a></td></tr>
+<tr><td><a href='https://antigravity.google/docs/boost/'>Google Antigravity introduces Boost deep reasoning (&#x2F;boost)</a></td></tr>
+<tr><td><a href='https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/'>2004 RuneScape fit a multiplayer RPG into 56k dial-up</a></td></tr>
 <tr><td><a href='https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/'>I turned my security cameras into an automatic bird identification system</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-08-mad-honey-heart-sold-online.html'>&#x27;Mad honey&#x27; that can stop your heart is being sold online</a></td></tr>
-<tr><td><a href='https://playaphone.com/'>Playa Phone</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=3YtygAx_C6A'>A walkable ASCII cyberpunk city in one HTML file [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
