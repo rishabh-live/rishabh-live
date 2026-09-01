@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/claude-fable-and-mythos-5-1'>Claude Fable 5.1 and Claude Mythos 5.1</a></td></tr>
-<tr><td><a href='https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html'>Refurbishing a Tektronix TDS7104 Oscilloscope</a></td></tr>
-<tr><td><a href='https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue'>Dyson Launches Toothbrush</a></td></tr>
+<tr><td><a href='https://www.newsonaut.com/articles/hang-on-to-your-firefox'>Hang on to Your Firefox</a></td></tr>
+<tr><td><a href='https://danluu.com/zitron/'>How accurate have Ed Zitron&#x27;s AI skeptic predictions been?</a></td></tr>
+<tr><td><a href='https://masteranza.github.io/weedout/'>Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos</a></td></tr>
 <tr><td><a href='https://simonwillison.net/2026/Sep/1/codex-libreoffice/'>The ChatGPT&#x2F;Codex app bundles a full copy of LibreOffice</a></td></tr>
-<tr><td><a href='https://www.norirobotics.com/'>Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development</a></td></tr>
 </table>
 <!-- END:news -->
 
