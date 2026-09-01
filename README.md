@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566'>Play Store blocks AuroraStore, hurting GrapheneOS users</a></td></tr>
-<tr><td><a href='https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1'>Claude Fable 5.1</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/claude-fable-and-mythos-5-1'>Claude Fable 5.1 and Claude Mythos 5.1</a></td></tr>
+<tr><td><a href='https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html'>Refurbishing a Tektronix TDS7104 Oscilloscope</a></td></tr>
+<tr><td><a href='https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue'>Dyson Launches Toothbrush</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Sep/1/codex-libreoffice/'>The ChatGPT&#x2F;Codex app bundles a full copy of LibreOffice</a></td></tr>
 <tr><td><a href='https://www.norirobotics.com/'>Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development</a></td></tr>
-<tr><td><a href='https://github.com/ankidroid/Anki-Android/issues/21656'>AnkiDroid: Google Play no longer allowing Open Collective donation link</a></td></tr>
-<tr><td><a href='https://ambientcss.vercel.app/'>Ambient CSS v3 – Blender meets CSS</a></td></tr>
 </table>
 <!-- END:news -->
 
