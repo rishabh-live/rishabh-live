@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://deepmind.google/models/model-cards/gemini-3-8-flash/'>Gemini 3.8 Flash</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/'>Gemini 3.8 Flash and 3.8 Flash Cyber</a></td></tr>
 <tr><td><a href='https://lwn.net/Articles/1090585/'>A Note from LWN</a></td></tr>
-<tr><td><a href='https://grapheneos.social/@GrapheneOS/117194007157499435'>GrapheneOS says Pixel 11 has MTE support after all</a></td></tr>
 <tr><td><a href='https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training'>Mistral now trains on user input by default, except on enterprise tier</a></td></tr>
+<tr><td><a href='https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/'>Paint.net 5.2 alpha now runs on Linux</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle'>Biggest dark matter detector spots a single weird particle</a></td></tr>
 </table>
 <!-- END:news -->
