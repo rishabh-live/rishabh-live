@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.newsonaut.com/articles/hang-on-to-your-firefox'>Hang on to Your Firefox</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/claude-fable-and-mythos-5-1'>Claude Fable 5.1 and Claude Mythos 5.1</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2608.29530'>The Emergent Symbolic Structure of Artificial Neural Networks</a></td></tr>
+<tr><td><a href='https://www.lisep.org/tru'>True Rate of Unemployment</a></td></tr>
 <tr><td><a href='https://danluu.com/zitron/'>How accurate have Ed Zitron&#x27;s AI skeptic predictions been?</a></td></tr>
-<tr><td><a href='https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/'>The efficient frontier of LLM inference</a></td></tr>
-<tr><td><a href='https://masteranza.github.io/weedout/'>Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos</a></td></tr>
+<tr><td><a href='https://dbushell.com/2026/09/01/text-editor/'>Fine, I&#x27;ll build my own text editor</a></td></tr>
 </table>
 <!-- END:news -->
 
