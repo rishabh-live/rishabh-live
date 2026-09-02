@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.anthropic.com/claude-fable-and-mythos-5-1'>Claude Fable 5.1 and Claude Mythos 5.1</a></td></tr>
 <tr><td><a href='https://www.newsonaut.com/articles/hang-on-to-your-firefox'>Hang on to Your Firefox</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/claude-fable-and-mythos-5-1'>Claude Fable 5.1 and Claude Mythos 5.1</a></td></tr>
 <tr><td><a href='https://danluu.com/zitron/'>How accurate have Ed Zitron&#x27;s AI skeptic predictions been?</a></td></tr>
+<tr><td><a href='https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/'>The efficient frontier of LLM inference</a></td></tr>
 <tr><td><a href='https://masteranza.github.io/weedout/'>Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/Sep/1/codex-libreoffice/'>The ChatGPT&#x2F;Codex app bundles a full copy of LibreOffice</a></td></tr>
 </table>
 <!-- END:news -->
 
