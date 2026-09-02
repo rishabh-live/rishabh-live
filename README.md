@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://developer.meta.com/ai/models/muse-spark/'>Muse Spark 1.3</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/'>Gemini 3.8 Flash and 3.8 Flash Cyber</a></td></tr>
+<tr><td><a href='https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident'>METR Report on OpenAI &#x2F; Hugging Face Hacking Incident</a></td></tr>
 <tr><td><a href='https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html'>Google avoids a breakup of its ad tech business</a></td></tr>
-<tr><td><a href='https://github.com/PhiloLabs/fable51-worlds'>Fable 5.1 World Modeling</a></td></tr>
-<tr><td><a href='https://werwolv.net/posts/file_format_reverse_engineering/'>Reverse Engineering Unknown File Formats with ImHex</a></td></tr>
+<tr><td><a href='https://martinfowler.com/rachels-ramblings/code-review.html'>Maybe We Shouldn&#x27;t Be Reviewing All This Code</a></td></tr>
 </table>
 <!-- END:news -->
 
