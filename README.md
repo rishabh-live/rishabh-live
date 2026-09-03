@@ -24,8 +24,8 @@
 <tr><td><a href='https://openai.com/index/gpt-6-astra/'>GPT-6 Astra</a></td></tr>
 <tr><td><a href='https://inference-docs.cerebras.ai/models/overview'>Qwen 3.8 27B available on Cerebras at 1500 tokens&#x2F;s</a></td></tr>
 <tr><td><a href='https://neil.fraser.name/news/2026/09/03/'>.name Termination</a></td></tr>
-<tr><td><a href='https://ifm.ai/blog/k2/'>K2 Horizon: A connected fleet of six open models</a></td></tr>
-<tr><td><a href='https://anyhumanever.com/'>Any Human Ever – One life, drawn at random from all who have ever lived</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=nM86DBOqgPM'>The largest electric aircraft just flew [video]</a></td></tr>
+<tr><td><a href='https://armature.tech/blog/which-tools-coding-agents-install'>Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out</a></td></tr>
 </table>
 <!-- END:news -->
 
