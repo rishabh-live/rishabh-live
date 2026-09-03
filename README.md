@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://neil.fraser.name/news/2026/09/03/'>.name Termination</a></td></tr>
 <tr><td><a href='https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0'>Audacity 4.0</a></td></tr>
-<tr><td><a href='https://pola.rs/posts/announcing-polars-2/'>Pre-Release of Polars 2.0</a></td></tr>
-<tr><td><a href='https://kciter.so/posts/the-expensive-main-thread/en/'>The Browser&#x27;s Main Thread Is Expensive</a></td></tr>
-<tr><td><a href='https://colossus.com/article/invisible-companies/'>Invisible Companies</a></td></tr>
-<tr><td><a href='https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026'>What I Learned from My Mom (1941-2026)</a></td></tr>
+<tr><td><a href='https://ifm.ai/blog/k2/'>K2 Horizon: Frontier Performance, Radically Open</a></td></tr>
+<tr><td><a href='https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/'>New York Times and The Athletic workers demand company scrap Kalshi deal</a></td></tr>
+<tr><td><a href='https://anyhumanever.com/'>Any Human Ever – One life, drawn at random from all who have ever lived</a></td></tr>
 </table>
 <!-- END:news -->
 
