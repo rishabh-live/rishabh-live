@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://pola.rs/posts/announcing-polars-2/'>Pre-Release of Polars 2.0</a></td></tr>
 <tr><td><a href='https://developer.meta.com/ai/models/muse-spark/'>Muse Spark 1.3</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/'>Gemini 3.8 Flash and 3.8 Flash Cyber</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html'>Google avoids a breakup of its ad tech business</a></td></tr>
-<tr><td><a href='https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight'>Holden&#x27;s Lightning Flight</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49543530'>Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s</a></td></tr>
+<tr><td><a href='https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/'>Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)</a></td></tr>
+<tr><td><a href='https://scottaaronson.blog/?p=10046'>LLMs and Self-Referentiality</a></td></tr>
 </table>
 <!-- END:news -->
 
