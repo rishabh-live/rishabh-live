@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/gpt-6-astra/'>GPT-6 Astra</a></td></tr>
-<tr><td><a href='https://inference-docs.cerebras.ai/models/overview'>Qwen 3.8 27B available on Cerebras at 1500 tokens&#x2F;s</a></td></tr>
 <tr><td><a href='https://neil.fraser.name/news/2026/09/03/'>.name Termination</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=nM86DBOqgPM'>The largest electric aircraft just flew [video]</a></td></tr>
-<tr><td><a href='https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/'>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</a></td></tr>
+<tr><td><a href='https://inference-docs.cerebras.ai/models/overview'>Qwen 3.8 27B available on Cerebras at 1500 tokens&#x2F;s</a></td></tr>
+<tr><td><a href='https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/'>A Mysterious Kidney Disease Has Arrived in Texas</a></td></tr>
+<tr><td><a href='https://gwern.net/xanadu'>Project Xanadu: Even More Hindsight</a></td></tr>
 </table>
 <!-- END:news -->
 
