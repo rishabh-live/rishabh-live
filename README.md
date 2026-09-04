@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/research/formalizing-fermats-last-theorem'>Formalizing Fermat&#x27;s Last Theorem</a></td></tr>
+<tr><td><a href='https://nvd.nist.gov/vuln/detail/cve-2026-85046'>Actively exploited sandbox RCE in all Chromium versions</a></td></tr>
+<tr><td><a href='https://www.statichost.eu/'>Statichost.eu – European static site hosting</a></td></tr>
 <tr><td><a href='https://collusion.wiki/'>Discovery of a new OpenAI agent message board</a></td></tr>
-<tr><td><a href='https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead'>Shutting down our public encrypted DNS</a></td></tr>
 <tr><td><a href='https://eebench.org/blog/can-ai-design-circuit-boards-yet/'>Can AI design circuit boards yet?</a></td></tr>
-<tr><td><a href='https://opentrailpaper.com'>Show HN: Open-Source eInk Bike Computer</a></td></tr>
 </table>
 <!-- END:news -->
 
