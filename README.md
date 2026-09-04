@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://collusion.wiki/'>Discovery of a new OpenAI agent message board</a></td></tr>
-<tr><td><a href='https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products'>Google AI Mode shows same products 21.6% more expensive than traditional search</a></td></tr>
-<tr><td><a href='https://jennywanger.com/articles/burnt-out-on-a-three-day-week/'>Burnt out on a three-day week</a></td></tr>
-<tr><td><a href='https://jestoph.com/2026/09/04/jane-street-challenge.html'>Solving the Jane Street Reverse Engineering Challenge</a></td></tr>
+<tr><td><a href='https://opentrailpaper.com'>Show HN: Open-Source eInk Bike Computer</a></td></tr>
+<tr><td><a href='https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/'>Project HydraFusion: Frontier quality via multi-model orchestration</a></td></tr>
+<tr><td><a href='https://jestoph.com/2026/09/04/jane-street-challenge.html'>Solving the Jane Street reverse engineering challenge</a></td></tr>
 <tr><td><a href='https://openai.com/index/gpt-6-astra/'>GPT-6 Astra</a></td></tr>
 </table>
 <!-- END:news -->
