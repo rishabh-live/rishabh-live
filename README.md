@@ -25,7 +25,7 @@
 <tr><td><a href='https://inference-docs.cerebras.ai/models/overview'>Qwen 3.8 27B available on Cerebras at 1500 tokens&#x2F;s</a></td></tr>
 <tr><td><a href='https://neil.fraser.name/news/2026/09/03/'>.name Termination</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=nM86DBOqgPM'>The largest electric aircraft just flew [video]</a></td></tr>
-<tr><td><a href='https://armature.tech/blog/which-tools-coding-agents-install'>Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out</a></td></tr>
+<tr><td><a href='https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/'>Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly</a></td></tr>
 </table>
 <!-- END:news -->
 
