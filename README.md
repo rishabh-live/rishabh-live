@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/'>Flock used &#x3E;100 times to track veteran who recorded traffic stop</a></td></tr>
 <tr><td><a href='https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/'>The &quot;$60 Gaming PC&quot; – AMD BC-250 (2025)</a></td></tr>
-<tr><td><a href='https://nvd.nist.gov/vuln/detail/cve-2026-85046'>Actively exploited sandbox RCE in all Chromium versions</a></td></tr>
 <tr><td><a href='https://collusion.wiki/'>Discovery of a new OpenAI agent message board</a></td></tr>
-<tr><td><a href='https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen'>How the Planet-Altering Disaster of &quot;Forever Chemicals&quot; Was Kept Secret</a></td></tr>
+<tr><td><a href='https://nvd.nist.gov/vuln/detail/cve-2026-85046'>Actively exploited sandbox RCE in all Chromium versions</a></td></tr>
 <tr><td><a href='https://codeberg.org/mv12star/shitter/wiki/Instances'>Nitter has more working instances than before the takedowns</a></td></tr>
 </table>
 <!-- END:news -->
