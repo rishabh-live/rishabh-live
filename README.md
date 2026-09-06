@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket'>Private German rocket makes history, reaches orbit from European soil</a></td></tr>
-<tr><td><a href='https://dreamstation.systems/personal/lanfalsehoods.html'>Falsehoods Programmers Believe About LANs</a></td></tr>
-<tr><td><a href='https://github.com/okf-memory/okf-agent-memory'>OKF Agent Memory – Git-native persistent memory for AI coding agents</a></td></tr>
-<tr><td><a href='https://usr.lmf.cnrs.fr/lpo/'>Learn Programming with OCaml</a></td></tr>
-<tr><td><a href='https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/'>Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)</a></td></tr>
+<tr><td><a href='https://cloudinabottle.org/blog/launch-post'>Cloud in a Bottle: making self-hosting accessible to everyone</a></td></tr>
+<tr><td><a href='https://openai.robocurve.org/gpt-6-astra/'>GPT-6 Astra on robot arms</a></td></tr>
+<tr><td><a href='https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/'>The revolt of the reader</a></td></tr>
+<tr><td><a href='http://miod.online.fr/software/openbsd/stories/smd.html'>OpenBSD Stories: Strange Medieval Devices</a></td></tr>
+<tr><td><a href='https://lapcatsoftware.com/articles/2026/9/1.html'>Chrome again exempts Google from user site data settings</a></td></tr>
 </table>
 <!-- END:news -->
 
