@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://feld.com/archives/2026/09/the-real-luxuries-in-life/'>The Real Luxuries In Life</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2609.03344'>LLMs as a Cognitive Virus</a></td></tr>
-<tr><td><a href='https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/'>Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)</a></td></tr>
 <tr><td><a href='https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket'>Private German rocket makes history, reaches orbit from European soil</a></td></tr>
+<tr><td><a href='https://dreamstation.systems/personal/lanfalsehoods.html'>Falsehoods Programmers Believe About LANs</a></td></tr>
+<tr><td><a href='https://github.com/okf-memory/okf-agent-memory'>OKF Agent Memory – Git-native persistent memory for AI coding agents</a></td></tr>
 <tr><td><a href='https://usr.lmf.cnrs.fr/lpo/'>Learn Programming with OCaml</a></td></tr>
+<tr><td><a href='https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/'>Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)</a></td></tr>
 </table>
 <!-- END:news -->
 
