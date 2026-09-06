@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/'>Intellectual Fly Is Open (2025)</a></td></tr>
+<tr><td><a href='https://github.com/zedeus/nitter'>Following legal advice, the Nitter project will continue</a></td></tr>
 <tr><td><a href='https://beige.party/@intransitivelie/117057396732763183'>QBittorrent breaks out of sandbox to commit crimes</a></td></tr>
-<tr><td><a href='https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/'>A&#x2F;I shuts down – Stay human</a></td></tr>
-<tr><td><a href='https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight'>Isar Aerospace reaches orbit and deploys payloads on second flight</a></td></tr>
-<tr><td><a href='https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death'>Doomscrolling Ourselves to Death</a></td></tr>
+<tr><td><a href='https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/'>Your intellectual fly is open (2025)</a></td></tr>
+<tr><td><a href='https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and'>NetBSD 9.5 released and EOL for NetBSD-9</a></td></tr>
+<tr><td><a href='https://openai.com/index/an-alien-mind/'>An Alien Mind</a></td></tr>
 </table>
 <!-- END:news -->
 
