@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight'>Isar Aerospace reaches orbit and deploys payloads on second flight</a></td></tr>
 <tr><td><a href='https://cloudinabottle.org/blog/launch-post'>Cloud in a Bottle: making self-hosting accessible to everyone</a></td></tr>
-<tr><td><a href='https://openai.robocurve.org/gpt-6-astra/'>GPT-6 Astra on robot arms</a></td></tr>
+<tr><td><a href='https://runjs.app/blog/music-theory-for-programmers'>Music Theory for Programmers</a></td></tr>
 <tr><td><a href='https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/'>The revolt of the reader</a></td></tr>
-<tr><td><a href='http://miod.online.fr/software/openbsd/stories/smd.html'>OpenBSD Stories: Strange Medieval Devices</a></td></tr>
-<tr><td><a href='https://lapcatsoftware.com/articles/2026/9/1.html'>Chrome again exempts Google from user site data settings</a></td></tr>
+<tr><td><a href='https://quenq.com/apps/vice-city-online/'>Play GTA Vice City in the Browser</a></td></tr>
 </table>
 <!-- END:news -->
 
