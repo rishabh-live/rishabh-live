@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/'>Intellectual Fly Is Open</a></td></tr>
 <tr><td><a href='https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight'>Isar Aerospace reaches orbit and deploys payloads on second flight</a></td></tr>
-<tr><td><a href='https://cloudinabottle.org/blog/launch-post'>Cloud in a Bottle: making self-hosting accessible to everyone</a></td></tr>
-<tr><td><a href='https://runjs.app/blog/music-theory-for-programmers'>Music Theory for Programmers</a></td></tr>
-<tr><td><a href='https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/'>The revolt of the reader</a></td></tr>
-<tr><td><a href='https://quenq.com/apps/vice-city-online/'>Play GTA Vice City in the Browser</a></td></tr>
+<tr><td><a href='https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death'>Doomscrolling Ourselves to Death</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/M-DISC'>M-DISC – DVD&#x2F;Blu-ray compatible discs that may last up to 1000 years</a></td></tr>
+<tr><td><a href='https://4d-chess.pages.dev/'>I asked astra to make playable 4D chess</a></td></tr>
 </table>
 <!-- END:news -->
 
