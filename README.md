@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/iczelia/bzip3'>bzip3</a></td></tr>
 <tr><td><a href='https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/'>Keep Our Servers Running</a></td></tr>
-<tr><td><a href='https://openbaarvervoerbelgie.be/'>Live map of public transport in Belgium</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=49600233'>Tell HN: OpenAI brings back 5 hour limit for plus and business standard users</a></td></tr>
+<tr><td><a href='https://jyn.dev/simple-is-not-the-same-as-small/'>Simple Is Not Small</a></td></tr>
 <tr><td><a href='https://mathathonchallenge.com/index.html'>Caltech Mathathon – first hackathon ever devoted to research level mathematics</a></td></tr>
-<tr><td><a href='https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus'>Speculative Decoding in vLLM on AMD GPUs</a></td></tr>
-<tr><td><a href='https://www.edge.org/response-detail/27238'>Impedance Matching (2017)</a></td></tr>
 </table>
 <!-- END:news -->
 
