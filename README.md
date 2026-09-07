@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/iczelia/bzip3'>bzip3</a></td></tr>
-<tr><td><a href='https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/'>Keep Our Servers Running</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49600233'>Tell HN: OpenAI brings back 5 hour limit for plus and business standard users</a></td></tr>
-<tr><td><a href='https://jyn.dev/simple-is-not-the-same-as-small/'>Simple Is Not Small</a></td></tr>
-<tr><td><a href='https://mathathonchallenge.com/index.html'>Caltech Mathathon – first hackathon ever devoted to research level mathematics</a></td></tr>
+<tr><td><a href='https://lax-skyline.parcelscope.net/'>Watch Los Angeles get built, one building at a time (1880–2026)</a></td></tr>
+<tr><td><a href='https://kallus.org/blog/dummit_and_foote.html'>Finding a bug in Dummit and Foote&#x27;s Abstract Algebra</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2607.24888'>Trusting-Trust Attack against an Entire Linux Distribution</a></td></tr>
+<tr><td><a href='https://deepmind.google/science/weathernext/'>WeatherNext 3</a></td></tr>
+<tr><td><a href='https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world'>Scientists observe Einstein&#x27;s gravity in the quantum world</a></td></tr>
 </table>
 <!-- END:news -->
 
