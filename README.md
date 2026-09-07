@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/'>Keep Our Servers Running</a></td></tr>
-<tr><td><a href='https://austinhenley.com/blog/python1024.html'>Making a Python interpreter in 1024 bytes</a></td></tr>
-<tr><td><a href='https://claytonwramsey.com/blog/seeing-eye/'>I&#x27;m a seeing-eye dog for a computer</a></td></tr>
-<tr><td><a href='https://anubis.techaro.lol/blog/2026/anubis-wasm/'>It took a year to ship WebAssembly in Anubis</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49577129'>Ask HN: Fable hacked my piano, can I release the results?</a></td></tr>
+<tr><td><a href='https://openbaarvervoerbelgie.be/'>Live map of public transport in Belgium</a></td></tr>
+<tr><td><a href='https://mathathonchallenge.com/index.html'>Caltech Mathathon – first hackathon ever devoted to research level mathematics</a></td></tr>
+<tr><td><a href='https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus'>Speculative Decoding in vLLM on AMD GPUs</a></td></tr>
+<tr><td><a href='https://www.edge.org/response-detail/27238'>Impedance Matching (2017)</a></td></tr>
 </table>
 <!-- END:news -->
 
