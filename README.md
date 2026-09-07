@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/117225539756835649'>GrapheneOS Overhauled Default Apps and Secure Clipboard</a></td></tr>
-<tr><td><a href='https://github.com/marsbos/mador'>Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple</a></td></tr>
+<tr><td><a href='https://austinhenley.com/blog/python1024.html'>Making a Python interpreter in 1024 bytes</a></td></tr>
 <tr><td><a href='https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/'>Your intellectual fly is open (2025)</a></td></tr>
-<tr><td><a href='https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight'>Isar Aerospace reaches orbit and deploys payloads on second flight</a></td></tr>
-<tr><td><a href='https://anubis.techaro.lol/blog/2026/anubis-wasm/'>It took a year to ship WebAssembly in Anubis</a></td></tr>
+<tr><td><a href='https://github.com/marsbos/mador'>Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2505.12540'>Harnessing the Universal Geometry of Embeddings</a></td></tr>
 </table>
 <!-- END:news -->
 
