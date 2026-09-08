@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mcpherrin.ca/2026/09/07/rsa.html'>I&#x27;ve factored the RSA keys of a Certificate Authority from the 90s</a></td></tr>
-<tr><td><a href='https://d2lang.com/blog/tala-is-open-source/'>TALA Is Open-Source</a></td></tr>
-<tr><td><a href='https://jellyfin.org/posts/jellyfin-release-12.0/'>Jellyfin 12.0</a></td></tr>
-<tr><td><a href='https://lax-skyline.parcelscope.net/'>Watch Los Angeles get built, one building at a time (1880–2026)</a></td></tr>
-<tr><td><a href='https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/'>John Margolies&#x27; photographs of roadside America</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/'>Mistral raises €3B</a></td></tr>
+<tr><td><a href='https://www.pm.gov.au/media/my-feed-my-way'>My Feed, My Way</a></td></tr>
+<tr><td><a href='https://jyn.dev/a-year-to-fix-security/'>We have a year to fix security everywhere</a></td></tr>
+<tr><td><a href='https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly'>UAE-based Falcon AI NSFW classifier among top global open-source models (2025)</a></td></tr>
 </table>
 <!-- END:news -->
 
