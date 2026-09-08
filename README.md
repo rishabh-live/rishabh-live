@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://mcpherrin.ca/2026/09/07/rsa.html'>I&#x27;ve factored the RSA keys of a Certificate Authority from the 90s</a></td></tr>
+<tr><td><a href='https://d2lang.com/blog/tala-is-open-source/'>TALA Is Open-Source</a></td></tr>
+<tr><td><a href='https://jellyfin.org/posts/jellyfin-release-12.0/'>Jellyfin 12.0</a></td></tr>
 <tr><td><a href='https://lax-skyline.parcelscope.net/'>Watch Los Angeles get built, one building at a time (1880–2026)</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2607.24888'>Trusting-Trust Attack against an Entire Linux Distribution</a></td></tr>
-<tr><td><a href='https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/'>Leaving VMware just got harder after Broadcom pulled VDDK downloads</a></td></tr>
-<tr><td><a href='https://deepmind.google/science/weathernext/'>WeatherNext 3</a></td></tr>
-<tr><td><a href='https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world'>Scientists observe Einstein&#x27;s gravity in the quantum world</a></td></tr>
+<tr><td><a href='https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/'>John Margolies&#x27; photographs of roadside America</a></td></tr>
 </table>
 <!-- END:news -->
 
