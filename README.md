@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/'>Google DeepMind Releases AlphaGenome Atlas</a></td></tr>
+<tr><td><a href='https://ai.meta.com/muse/'>Muse: Meta&#x27;s personal AI agent, features and capabilities</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/live/c6x2z0yy32ejt'>100s of flights cancelled at UK airports due to ATC issue</a></td></tr>
 <tr><td><a href='https://www.blackmagicdesign.com/media/release/20260908-03'>DaVinci Resolve 21.1</a></td></tr>
 <tr><td><a href='https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/'>Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses</a></td></tr>
-<tr><td><a href='https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/'>The Helicopter with Radioactive Blades</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2504.02246'>C*: Unifying Programming and Verification in C</a></td></tr>
 </table>
 <!-- END:news -->
 
