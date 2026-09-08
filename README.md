@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten'>Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare</a></td></tr>
-<tr><td><a href='https://vale.rocks/posts/html-relics'>Antiquated HTML Snippets and Artefacts</a></td></tr>
-<tr><td><a href='https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html'>PISA 2025 Students&#x27; reading and mathematics performance declined across the OECD</a></td></tr>
-<tr><td><a href='https://mcpherrin.ca/2026/09/07/rsa.html'>I&#x27;ve factored the RSA keys of a Certificate Authority from the 90s</a></td></tr>
-<tr><td><a href='https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks'>Why getting your hands dirty is good for you</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/'>Google DeepMind Releases AlphaGenome Atlas</a></td></tr>
+<tr><td><a href='https://www.blackmagicdesign.com/media/release/20260908-03'>DaVinci Resolve 21.1</a></td></tr>
+<tr><td><a href='https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/'>Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses</a></td></tr>
+<tr><td><a href='https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/'>The Helicopter with Radioactive Blades</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2504.02246'>C*: Unifying Programming and Verification in C</a></td></tr>
 </table>
 <!-- END:news -->
 
