@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH'>Large Language Models Develop Novel Social Biases Through Adaptive Exploration</a></td></tr>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/'>Google DeepMind Releases AlphaGenome Atlas</a></td></tr>
-<tr><td><a href='https://ai.meta.com/muse/'>Muse: Meta&#x27;s personal AI agent, features and capabilities</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/live/c6x2z0yy32ejt'>100s of flights cancelled at UK airports due to ATC issue</a></td></tr>
-<tr><td><a href='https://www.blackmagicdesign.com/media/release/20260908-03'>DaVinci Resolve 21.1</a></td></tr>
-<tr><td><a href='https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/'>Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses</a></td></tr>
+<tr><td><a href='https://cims.nyu.edu/~tristanb/statement.pdf'>Navier-Stokes – Tristan Buckmaster [pdf]</a></td></tr>
+<tr><td><a href='https://openai.com/index/navier-stokes-solution/'>On the Navier–Stokes Millennium Prize Problem</a></td></tr>
+<tr><td><a href='https://github.com/argonautlabsai/deltafin'>Kimi K3 (2.8T) at 1 token&#x2F;s on a MacBook Pro, streamed from four SSDs</a></td></tr>
 </table>
 <!-- END:news -->
 
