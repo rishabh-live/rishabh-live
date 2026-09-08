@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten'>Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare</a></td></tr>
+<tr><td><a href='https://vale.rocks/posts/html-relics'>Antiquated HTML Snippets and Artefacts</a></td></tr>
+<tr><td><a href='https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html'>PISA 2025 Students&#x27; reading and mathematics performance declined across the OECD</a></td></tr>
 <tr><td><a href='https://mcpherrin.ca/2026/09/07/rsa.html'>I&#x27;ve factored the RSA keys of a Certificate Authority from the 90s</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/'>Mistral raises €3B</a></td></tr>
-<tr><td><a href='https://www.pm.gov.au/media/my-feed-my-way'>My Feed, My Way</a></td></tr>
-<tr><td><a href='https://jyn.dev/a-year-to-fix-security/'>We have a year to fix security everywhere</a></td></tr>
-<tr><td><a href='https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly'>UAE-based Falcon AI NSFW classifier among top global open-source models (2025)</a></td></tr>
+<tr><td><a href='https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks'>Why getting your hands dirty is good for you</a></td></tr>
 </table>
 <!-- END:news -->
 
