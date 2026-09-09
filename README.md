@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit'>Flock Wants a Closely Surveilled World with No Exit</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy'>How An AI math breakthrough ignited a controversy</a></td></tr>
-<tr><td><a href='https://buttondown.com/blog/lotus-notes-email'>Lotus Notes and the dangers of starting from scratch</a></td></tr>
-<tr><td><a href='https://ai.meta.com/muse/'>Muse – Meta’s personal AI agent</a></td></tr>
-<tr><td><a href='https://cims.nyu.edu/~tristanb/statement.pdf'>Navier-Stokes – Tristan Buckmaster [pdf]</a></td></tr>
+<tr><td><a href='https://tailwindcss.com/blog/tailwind-is-joining-shopify'>Tailwind Labs is joining Shopify</a></td></tr>
+<tr><td><a href='https://www.nomanssky.com/cosmos-update/'>No Man&#x27;s Sky Cosmos</a></td></tr>
+<tr><td><a href='https://desertant.com/blog/introducing-desert-ant-labs/'>Desert Ant Labs: local, fast models that run on device</a></td></tr>
+<tr><td><a href='https://opusfived.dev/'>Claude, change the &quot;Add to Cart&quot; button to blue</a></td></tr>
+<tr><td><a href='https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and'>GPT-6 Astra, Looped Transformers, and Hidden Reasoning</a></td></tr>
 </table>
 <!-- END:news -->
 
