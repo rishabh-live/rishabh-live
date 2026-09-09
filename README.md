@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://tailwindcss.com/blog/tailwind-is-joining-shopify'>Tailwind Labs is joining Shopify</a></td></tr>
-<tr><td><a href='https://www.nomanssky.com/cosmos-update/'>No Man&#x27;s Sky Cosmos</a></td></tr>
-<tr><td><a href='https://desertant.com/blog/introducing-desert-ant-labs/'>Desert Ant Labs: local, fast models that run on device</a></td></tr>
-<tr><td><a href='https://opusfived.dev/'>Claude, change the &quot;Add to Cart&quot; button to blue</a></td></tr>
-<tr><td><a href='https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and'>GPT-6 Astra, Looped Transformers, and Hidden Reasoning</a></td></tr>
+<tr><td><a href='https://tautology.town/2026/06/01/card-networks.html'>What do Visa and Mastercard do? An intro to card networks</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/'>Apple Unveils iPhone Duo</a></td></tr>
+<tr><td><a href='https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3'>Qwen 3.8 follows GPT-5.5 Pro reasoning prefills</a></td></tr>
+<tr><td><a href='https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and'>GPT-6 Astra, looped transformers, and hidden reasoning</a></td></tr>
 </table>
 <!-- END:news -->
 
