@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH'>Large Language Models Develop Novel Social Biases Through Adaptive Exploration</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/'>Google DeepMind Releases AlphaGenome Atlas</a></td></tr>
+<tr><td><a href='https://ai.meta.com/muse/'>Muse – Meta’s personal AI agent</a></td></tr>
+<tr><td><a href='https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH'>Large language models develop novel social biases through adaptive exploration</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/'>AlphaGenome Atlas: a high-resolution map of human DNA</a></td></tr>
+<tr><td><a href='https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/'>How to build a printer</a></td></tr>
 <tr><td><a href='https://cims.nyu.edu/~tristanb/statement.pdf'>Navier-Stokes – Tristan Buckmaster [pdf]</a></td></tr>
-<tr><td><a href='https://openai.com/index/navier-stokes-solution/'>On the Navier–Stokes Millennium Prize Problem</a></td></tr>
-<tr><td><a href='https://github.com/argonautlabsai/deltafin'>Kimi K3 (2.8T) at 1 token&#x2F;s on a MacBook Pro, streamed from four SSDs</a></td></tr>
 </table>
 <!-- END:news -->
 
