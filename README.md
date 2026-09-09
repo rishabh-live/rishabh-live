@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tailwindcss.com/blog/tailwind-is-joining-shopify'>Tailwind Labs is joining Shopify</a></td></tr>
+<tr><td><a href='https://www.apple.com/iphone-duo/'>iPhone Duo</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/'>AirPods 5</a></td></tr>
+<tr><td><a href='https://tailwindcss.com/blog/tailwind-is-joining-shopify'>Shopify acquires Tailwind</a></td></tr>
 <tr><td><a href='https://tautology.town/2026/06/01/card-networks.html'>What do Visa and Mastercard do? An intro to card networks</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/'>Apple Unveils iPhone Duo</a></td></tr>
-<tr><td><a href='https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3'>Qwen 3.8 follows GPT-5.5 Pro reasoning prefills</a></td></tr>
-<tr><td><a href='https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and'>GPT-6 Astra, looped transformers, and hidden reasoning</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/'>iPhone 18 Pro and iPhone 18 Pro Max</a></td></tr>
 </table>
 <!-- END:news -->
 
