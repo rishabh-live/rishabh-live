@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://simonwillison.net/2026/Sep/8/on-navier-stokes/'>The Navier–Stokes Millennium Prize Problem</a></td></tr>
+<tr><td><a href='https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit'>Flock Wants a Closely Surveilled World with No Exit</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy'>How An AI math breakthrough ignited a controversy</a></td></tr>
+<tr><td><a href='https://buttondown.com/blog/lotus-notes-email'>Lotus Notes and the dangers of starting from scratch</a></td></tr>
 <tr><td><a href='https://ai.meta.com/muse/'>Muse – Meta’s personal AI agent</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html'>Tension wood: A &#x27;muscle&#x27; that can both bend and straighten plants</a></td></tr>
 <tr><td><a href='https://cims.nyu.edu/~tristanb/statement.pdf'>Navier-Stokes – Tristan Buckmaster [pdf]</a></td></tr>
-<tr><td><a href='https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/'>Researchers Spot Fake Ancient Pottery Using the Earth&#x27;s Magnetic Field</a></td></tr>
 </table>
 <!-- END:news -->
 
