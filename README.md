@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.apple.com/iphone-duo/'>iPhone Duo</a></td></tr>
+<tr><td><a href='https://rivendell.dmitrybrant.com/relativity/'>Show HN: What if the speed of light was 5 km&#x2F;h?</a></td></tr>
 <tr><td><a href='https://tailwindcss.com/blog/tailwind-is-joining-shopify'>Shopify acquires Tailwind</a></td></tr>
 <tr><td><a href='https://tautology.town/2026/06/01/card-networks.html'>What do Visa and Mastercard do? An intro to card networks</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/'>AirPods 5</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/'>iPhone 18 Pro and iPhone 18 Pro Max</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/are-self-driving-cars-safe'>Growing proof that autonomous cars save lives</a></td></tr>
 </table>
 <!-- END:news -->
 
