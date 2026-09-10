@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://twitter.com/deepseek_ai/status/2097930608790167907'>DeepSeek v4.1 Flash</a></td></tr>
 <tr><td><a href='https://www.apple.com/iphone-duo/'>iPhone Duo</a></td></tr>
 <tr><td><a href='https://rivendell.dmitrybrant.com/relativity/'>Show HN: What if the speed of light was 5 km&#x2F;h?</a></td></tr>
+<tr><td><a href='https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus'>Larger Pacific Striped Octopus</a></td></tr>
 <tr><td><a href='https://tailwindcss.com/blog/tailwind-is-joining-shopify'>Shopify acquires Tailwind</a></td></tr>
-<tr><td><a href='https://tautology.town/2026/06/01/card-networks.html'>What do Visa and Mastercard do? An intro to card networks</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/are-self-driving-cars-safe'>Growing proof that autonomous cars save lives</a></td></tr>
 </table>
 <!-- END:news -->
 
