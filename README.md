@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/'>Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls</a></td></tr>
-<tr><td><a href='https://honestlyranked.com/guides/streaming-price-increases/'>Show HN: The same nine streaming subscriptions cost $702&#x2F;year more than in 2021</a></td></tr>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683'>What algorithm did Windows XP use to choose your initial user picture?</a></td></tr>
-<tr><td><a href='https://stockfishchess.org/blog/2026/stockfish-19/'>Stockfish 19</a></td></tr>
-<tr><td><a href='https://twitter.com/deepseek_ai/status/2097930608790167907'>DeepSeek v4.1 Flash</a></td></tr>
+<tr><td><a href='https://shopify.engineering/back-to-native'>Shopify moves back to Native from React Native</a></td></tr>
+<tr><td><a href='https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/'>Rust Is Tier-1 Language at Microsoft</a></td></tr>
+<tr><td><a href='https://cognition.com/blog/swe-2'>Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</a></td></tr>
+<tr><td><a href='https://mathstodon.xyz/@andreasthom/117240535270608201'>More questions about whether researchers can trust OpenAI with unpublished math</a></td></tr>
+<tr><td><a href='https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844'>NASA Color Trick Was Meant for Mars. Now It&#x27;s Unveiling Rock Art on Earth</a></td></tr>
 </table>
 <!-- END:news -->
 
