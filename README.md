@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.researchagenda.news/articles/the-waymo-effect.html'>The Waymo effect: how AI is quietly making research less collaborative</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/live/cmd683p01eljt'>Houthis &#x27;take control&#x27; of key island in global shipping route</a></td></tr>
+<tr><td><a href='https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/'>RTK reports token savings, but our cost benchmarks disagree</a></td></tr>
+<tr><td><a href='https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/'>Diesel prices in U.S. top $6 a gallon for first time</a></td></tr>
 <tr><td><a href='http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation'>Cherenkov Radiation - traveling faster than light</a></td></tr>
-<tr><td><a href='https://shopify.engineering/back-to-native'>Shopify is moving from React Native back to Swift and Kotlin</a></td></tr>
-<tr><td><a href='https://blog.jim-nielsen.com/2026/hands-off-my-cables/'>Don&#x27;t let anyone take away your big box of cables</a></td></tr>
-<tr><td><a href='https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/'>Working with Git Worktrees in Magit</a></td></tr>
-<tr><td><a href='https://developers.openai.com/api/docs/guides/agents-api/overview'>OpenAI Agents API</a></td></tr>
 </table>
 <!-- END:news -->
 
