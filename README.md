@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mathandai.org/'>A misalignment of AI in mathematics</a></td></tr>
+<tr><td><a href='https://dayzlegame.com/blog/google-ads-bot-farm/'>I spent $220 on Google app ads and 60% of the installs were robots</a></td></tr>
 <tr><td><a href='https://github.com/GrapheneOS/Messaging/releases/tag/13'>GrapheneOS&#x27; rewritten Messages app is released</a></td></tr>
-<tr><td><a href='https://snap.berkeley.edu/'>Λ Snap – An inviting programming language for kids and adults for CS study</a></td></tr>
-<tr><td><a href='https://support.claude.com/en/articles/15171100-age-assurance-on-claude'>Claude is only available to people over 18 years</a></td></tr>
-<tr><td><a href='https://github.com/kennethwolters/litelm'>Litelm: LiteLLM Without the Bloat</a></td></tr>
+<tr><td><a href='https://cel.cs.brown.edu/blog/design-space-async-await/'>A Design Space Exploration of Async&#x2F;Await</a></td></tr>
+<tr><td><a href='https://blinkenlights.de/en/'>Project Blinkenlights</a></td></tr>
 </table>
 <!-- END:news -->
 
