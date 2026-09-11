@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://cognition.com/blog/swe-2'>Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</a></td></tr>
+<tr><td><a href='https://shopify.engineering/back-to-native'>Shopify is moving from React Native back to Swift and Kotlin</a></td></tr>
 <tr><td><a href='https://mathstodon.xyz/@andreasthom/117240535270608201'>More questions about whether researchers can trust OpenAI with unpublished math</a></td></tr>
-<tr><td><a href='https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/'>The part of Navier-Stokes no one is talking about</a></td></tr>
+<tr><td><a href='https://auberon.xyz/blog/posts/deathray/'>The Deathray: A simple way for an untrusted site to freeze a Mac</a></td></tr>
 <tr><td><a href='https://developers.openai.com/api/docs/guides/agents-api/overview'>OpenAI Agents API</a></td></tr>
-<tr><td><a href='https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844'>NASA Color Trick Was Meant for Mars. Now It&#x27;s Unveiling Rock Art on Earth</a></td></tr>
+<tr><td><a href='https://cognition.com/blog/swe-2'>Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</a></td></tr>
 </table>
 <!-- END:news -->
 
