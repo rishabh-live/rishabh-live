@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.researchagenda.news/articles/the-waymo-effect.html'>The Waymo effect: how AI is quietly making research less collaborative</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/live/cmd683p01eljt'>Houthis &#x27;take control&#x27; of key island in global shipping route</a></td></tr>
-<tr><td><a href='https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/'>RTK reports token savings, but our cost benchmarks disagree</a></td></tr>
-<tr><td><a href='https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/'>Diesel prices in U.S. top $6 a gallon for first time</a></td></tr>
-<tr><td><a href='http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation'>Cherenkov Radiation - traveling faster than light</a></td></tr>
+<tr><td><a href='https://glacierextinction.com'>Global Glacier Extinction Explorer</a></td></tr>
+<tr><td><a href='https://github.com/godot-pty/gpty'>Godot and Rust based multiplexer (terminal panes and more)</a></td></tr>
+<tr><td><a href='https://www.tinybird.co/blog/what-i-learned-operating-clickhouse'>I&#x27;ve operated petabyte-scale ClickHouse clusters for 5 years</a></td></tr>
+<tr><td><a href='https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html'>Logo Programming Language</a></td></tr>
+<tr><td><a href='https://planetscale.com/blog/118-million-queries-per-second-on-neki'>118M Queries per Second on Neki</a></td></tr>
 </table>
 <!-- END:news -->
 
