@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://glacierextinction.com'>Global Glacier Extinction Explorer</a></td></tr>
-<tr><td><a href='https://github.com/godot-pty/gpty'>Godot and Rust based multiplexer (terminal panes and more)</a></td></tr>
-<tr><td><a href='https://www.tinybird.co/blog/what-i-learned-operating-clickhouse'>I&#x27;ve operated petabyte-scale ClickHouse clusters for 5 years</a></td></tr>
-<tr><td><a href='https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html'>Logo Programming Language</a></td></tr>
-<tr><td><a href='https://planetscale.com/blog/118-million-queries-per-second-on-neki'>118M Queries per Second on Neki</a></td></tr>
+<tr><td><a href='https://mathandai.org/'>A misalignment of AI in mathematics</a></td></tr>
+<tr><td><a href='https://github.com/GrapheneOS/Messaging/releases/tag/13'>GrapheneOS&#x27; rewritten Messages app is released</a></td></tr>
+<tr><td><a href='https://snap.berkeley.edu/'>Λ Snap – An inviting programming language for kids and adults for CS study</a></td></tr>
+<tr><td><a href='https://support.claude.com/en/articles/15171100-age-assurance-on-claude'>Claude is only available to people over 18 years</a></td></tr>
+<tr><td><a href='https://github.com/kennethwolters/litelm'>Litelm: LiteLLM Without the Bloat</a></td></tr>
 </table>
 <!-- END:news -->
 
