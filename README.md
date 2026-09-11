@@ -22,8 +22,8 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://shopify.engineering/back-to-native'>Shopify is moving from React Native back to Swift and Kotlin</a></td></tr>
-<tr><td><a href='https://mathstodon.xyz/@andreasthom/117240535270608201'>More questions about whether researchers can trust OpenAI with unpublished math</a></td></tr>
-<tr><td><a href='https://auberon.xyz/blog/posts/deathray/'>The Deathray: A simple way for an untrusted site to freeze a Mac</a></td></tr>
+<tr><td><a href='https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2'>Exercise intensity is associated with cardiometabolic health</a></td></tr>
+<tr><td><a href='https://blog.jim-nielsen.com/2026/hands-off-my-cables/'>Don&#x27;t let anyone take away your big box of cables</a></td></tr>
 <tr><td><a href='https://developers.openai.com/api/docs/guides/agents-api/overview'>OpenAI Agents API</a></td></tr>
 <tr><td><a href='https://cognition.com/blog/swe-2'>Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra</a></td></tr>
 </table>
