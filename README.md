@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.autom.dev/blog/google-search-goto-links'>Google no longer provides direct URLs in search results</a></td></tr>
+<tr><td><a href='https://www.claymath.org/news/navier-stokes-announcement/'>Clay Mathematics Institute on the Navier-Stokes Problem</a></td></tr>
 <tr><td><a href='https://mathandai.org/'>A misalignment of AI in mathematics</a></td></tr>
-<tr><td><a href='https://dayzlegame.com/blog/google-ads-bot-farm/'>I spent $220 on Google app ads and 60% of the installs were robots</a></td></tr>
-<tr><td><a href='https://www.rubyhack.ai/'>OpenAI agents carried out an undisclosed attack on RubyGems</a></td></tr>
-<tr><td><a href='https://cel.cs.brown.edu/blog/design-space-async-await/'>A Design Space Exploration of Async&#x2F;Await</a></td></tr>
-<tr><td><a href='https://github.com/GrapheneOS/Messaging/releases/tag/13'>GrapheneOS&#x27; rewritten Messages app is released</a></td></tr>
+<tr><td><a href='https://www.usenet-rewind.com/'>Usenet rewind archive search engine</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/'>OpenAI agents attacked RubyGems back in May</a></td></tr>
 </table>
 <!-- END:news -->
 
