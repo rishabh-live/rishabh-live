@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.joelotter.com/posts/2026/09/make-it-anyway/'>Fuck it, make it anyway</a></td></tr>
+<tr><td><a href='https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai'>Nvidia is the central bank of AI</a></td></tr>
+<tr><td><a href='https://high5apps.github.io/josm-plugin-website-wizard/'>Make Your First Edit to OpenStreetMap in the Next 15 Minutes</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=iZODN0QUgjI'>IKEA made a mod for Skyrim [video]</a></td></tr>
-<tr><td><a href='https://eiln.github.io/posts/ane.html'>Retrospectively Reverse-Engineering Apple&#x27;s Neural Engine</a></td></tr>
-<tr><td><a href='https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/'>I Fixed a Tractor Using John Deere&#x27;s Self-Repair Service. Farmers Aren&#x27;t Sold</a></td></tr>
-<tr><td><a href='https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/'>The Worst Spam Emails: Inside iLands&#x27; AI Agent Hustle</a></td></tr>
+<tr><td><a href='https://transformer-circuits.pub/2021/framework/index.html'>A Mathematical Framework for Transformer Circuits (2021)</a></td></tr>
+<tr><td><a href='https://github.com/nefarius/vd_agent/'>I refuse to let SPICE die</a></td></tr>
 </table>
 <!-- END:news -->
 
