@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio'>LG denies TV spying claims, says tracking and snooping concerns &#x27;not true&#x27;</a></td></tr>
+<tr><td><a href='https://high5apps.github.io/josm-plugin-website-wizard/'>Make your first edit to OpenStreetMap</a></td></tr>
 <tr><td><a href='https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai'>Nvidia is the central bank of AI</a></td></tr>
-<tr><td><a href='https://high5apps.github.io/josm-plugin-website-wizard/'>Make Your First Edit to OpenStreetMap in the Next 15 Minutes</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2609.01877'>Will There Be a 7G?</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=iZODN0QUgjI'>IKEA made a mod for Skyrim [video]</a></td></tr>
-<tr><td><a href='https://transformer-circuits.pub/2021/framework/index.html'>A Mathematical Framework for Transformer Circuits (2021)</a></td></tr>
-<tr><td><a href='https://github.com/nefarius/vd_agent/'>I refuse to let SPICE die</a></td></tr>
 </table>
 <!-- END:news -->
 
