@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/'>Flock worker calls police on reporter filming public camera installation</a></td></tr>
+<tr><td><a href='https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment'>Astra and Fable still hack on simple variants of alignment evals from 2025</a></td></tr>
 <tr><td><a href='https://jetkvm.com/blog/introducing-jetkvm-mini'>JetKVM Mini</a></td></tr>
-<tr><td><a href='https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet'>&#x27;Fingerprints&#x27; inside the Sun could reveal if it once swallowed a planet</a></td></tr>
-<tr><td><a href='https://github.com/FeralFirmware/TailTalk/'>TailTalk: A modern async user space AppleTalk stack with Rust and Tokio</a></td></tr>
-<tr><td><a href='https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating'>Why are AI agents lying, cheating and coordinating?</a></td></tr>
+<tr><td><a href='https://github.com/Speedstu/CUDA-for-AMD-Windows'>CUDA for AMD on Windows</a></td></tr>
+<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689'>Why is the x86 undefined instruction called ud2? Why 2?</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/'>Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</a></td></tr>
 </table>
 <!-- END:news -->
 
