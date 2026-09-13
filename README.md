@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://icm.museum/'>The Interim Computer Museum</a></td></tr>
 <tr><td><a href='https://high5apps.github.io/josm-plugin-website-wizard/'>Make your first edit to OpenStreetMap</a></td></tr>
-<tr><td><a href='https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai'>Nvidia is the central bank of AI</a></td></tr>
-<tr><td><a href='https://dunstanorchard.com/apple-ipod-engraver/'>Apple iPod Engraver (2019)</a></td></tr>
-<tr><td><a href='https://eiln.github.io/posts/ane-dma.html'>Getting 50 GB&#x2F;S Back from the Apple Neural Engine</a></td></tr>
 <tr><td><a href='https://withspecific.com/benchmarks/real-swe'>Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases</a></td></tr>
+<tr><td><a href='https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai'>Nvidia is the central bank of AI</a></td></tr>
+<tr><td><a href='https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart'>The Succession Crisis That Tore England Apart</a></td></tr>
 </table>
 <!-- END:news -->
 
