@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads'>Why is Google still serving dodgy ads?</a></td></tr>
+<tr><td><a href='https://twitter.com/TechEmails/status/2099214399840059428'>Mark Zuckerberg: &quot;Cambridge Analytica&quot; (2017)</a></td></tr>
+<tr><td><a href='https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/'>Global Shortage Has Led to Motor Oil Rationing at Costco</a></td></tr>
 <tr><td><a href='https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment'>Astra and Fable still hack on simple variants of alignment evals from 2025</a></td></tr>
-<tr><td><a href='https://jetkvm.com/blog/introducing-jetkvm-mini'>JetKVM Mini</a></td></tr>
-<tr><td><a href='https://github.com/Speedstu/CUDA-for-AMD-Windows'>CUDA for AMD on Windows</a></td></tr>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689'>Why is the x86 undefined instruction called ud2? Why 2?</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/'>Garry Tan wants US open-weight AI labs to &#x27;distill&#x27; frontier models, too</a></td></tr>
+<tr><td><a href='https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/'>There Is No AI (It&#x27;s Just People) with Jaron Lanier</a></td></tr>
 </table>
 <!-- END:news -->
 
