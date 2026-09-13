@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/'>Flock worker calls police on reporter filming public camera installation</a></td></tr>
 <tr><td><a href='https://jetkvm.com/blog/introducing-jetkvm-mini'>JetKVM Mini</a></td></tr>
-<tr><td><a href='https://neobrowser.ai/'>Norton Neo Browser</a></td></tr>
+<tr><td><a href='https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet'>&#x27;Fingerprints&#x27; inside the Sun could reveal if it once swallowed a planet</a></td></tr>
+<tr><td><a href='https://github.com/FeralFirmware/TailTalk/'>TailTalk: A modern async user space AppleTalk stack with Rust and Tokio</a></td></tr>
 <tr><td><a href='https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating'>Why are AI agents lying, cheating and coordinating?</a></td></tr>
-<tr><td><a href='https://icm.museum/'>The Interim Computer Museum</a></td></tr>
-<tr><td><a href='https://high5apps.github.io/josm-plugin-website-wizard/'>Make your first edit to OpenStreetMap</a></td></tr>
 </table>
 <!-- END:news -->
 
