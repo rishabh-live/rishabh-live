@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://www.vals.ai/blogs/fable-solves-cyphral-distich'>Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></td></tr>
 <tr><td><a href='https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads'>Why is Google still serving dodgy ads?</a></td></tr>
+<tr><td><a href='https://spaceships.treybastian.com/'>Spaceships (Reverse Asteroid)</a></td></tr>
 <tr><td><a href='https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10'>Registration without a phone number on Signal will use zero-knowledge proofs</a></td></tr>
-<tr><td><a href='https://julialang.org/blog/2026/09/julia-1.13-highlights/'>Julia 1.13 highlights</a></td></tr>
-<tr><td><a href='https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment'>Astra and Fable still hack on simple variants of alignment evals from 2025</a></td></tr>
+<tr><td><a href='https://www.interconnects.ai/p/open-source-ai-reading-list'>Open-Source AI and Open Models Reading List</a></td></tr>
 </table>
 <!-- END:news -->
 
