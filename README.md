@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://andonlabs.com/blog/why-we-built-pion'>Pion, an agent designed to run any company autonomously</a></td></tr>
-<tr><td><a href='https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/'>Iranian banks&#x27; SSL certificates are being revoked due to OFAC sanctions</a></td></tr>
+<tr><td><a href='https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html'>Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit</a></td></tr>
 <tr><td><a href='https://nvartolomei.com/dist-sys-classics/'>Distributed Systems Classics (2017)</a></td></tr>
-<tr><td><a href='https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit'>Why don&#x27;t machine learning research agents overfit?</a></td></tr>
-<tr><td><a href='https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/'>Principles for Fast Tokio Applications</a></td></tr>
+<tr><td><a href='https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/'>A Beginning for Mathematics</a></td></tr>
+<tr><td><a href='https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/'>OpenAI bots knew about the RubyGems caching vulnerability</a></td></tr>
+<tr><td><a href='https://www.serpentine.com/posts/2026/x3-stripes/'>How my e-reader lost its stripes</a></td></tr>
 </table>
 <!-- END:news -->
 
