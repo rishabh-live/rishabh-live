@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/'>What a time to be alive – rouge AI agents attack RubyGems.org</a></td></tr>
+<tr><td><a href='https://github.com/callbacked/kinesis'>Show HN: Kinesis – Control your Mac with the Meta Neural Band</a></td></tr>
+<tr><td><a href='https://www.eurobirdportal.org/ebp/en/'>EuroBirdPortal – Live bird movements across Europe</a></td></tr>
+<tr><td><a href='https://xcancel.com/twitter'>XCancel suspended &quot;due to a new development in the ongoing legal proceedings&quot;</a></td></tr>
 <tr><td><a href='https://www.vals.ai/blogs/fable-solves-cyphral-distich'>Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></td></tr>
-<tr><td><a href='https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads'>Why is Google still serving dodgy ads?</a></td></tr>
-<tr><td><a href='https://spaceships.treybastian.com/'>Spaceships (Reverse Asteroid)</a></td></tr>
-<tr><td><a href='https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10'>Registration without a phone number on Signal will use zero-knowledge proofs</a></td></tr>
-<tr><td><a href='https://www.interconnects.ai/p/open-source-ai-reading-list'>Open-Source AI and Open Models Reading List</a></td></tr>
 </table>
 <!-- END:news -->
 
