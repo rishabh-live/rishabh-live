@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/'>What a time to be alive – rouge AI agents attack RubyGems.org</a></td></tr>
-<tr><td><a href='https://github.com/callbacked/kinesis'>Show HN: Kinesis – Control your Mac with the Meta Neural Band</a></td></tr>
-<tr><td><a href='https://www.eurobirdportal.org/ebp/en/'>EuroBirdPortal – Live bird movements across Europe</a></td></tr>
-<tr><td><a href='https://xcancel.com/twitter'>XCancel suspended &quot;due to a new development in the ongoing legal proceedings&quot;</a></td></tr>
-<tr><td><a href='https://www.vals.ai/blogs/fable-solves-cyphral-distich'>Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</a></td></tr>
+<tr><td><a href='https://andonlabs.com/blog/why-we-built-pion'>Pion, an agent designed to run any company autonomously</a></td></tr>
+<tr><td><a href='https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/'>Iranian banks&#x27; SSL certificates are being revoked due to OFAC sanctions</a></td></tr>
+<tr><td><a href='https://nvartolomei.com/dist-sys-classics/'>Distributed Systems Classics (2017)</a></td></tr>
+<tr><td><a href='https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit'>Why don&#x27;t machine learning research agents overfit?</a></td></tr>
+<tr><td><a href='https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/'>Principles for Fast Tokio Applications</a></td></tr>
 </table>
 <!-- END:news -->
 
