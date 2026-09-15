@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.linuxfromscratch.org/'>Linux from Scratch</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/c8ly49w9g1edo'>Suspected sabotage causes major Netherlands rail disruption</a></td></tr>
+<tr><td><a href='https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua'>I can&#x27;t stop thinking about Papua New Guinea</a></td></tr>
+<tr><td><a href='https://tintotint.eu/whacky-corner/f-droid_slop/'>How much of F-Droid is LLM generated?</a></td></tr>
+<tr><td><a href='https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/'>Alternatives to MinIO for single-node local S3</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/'>iOS 27, iPadOS 27, and macOS 27</a></td></tr>
-<tr><td><a href='https://github.com/enactic/OpenArm'>OpenArm: An open-source 7DOF humanoid arm</a></td></tr>
-<tr><td><a href='https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/'>4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls</a></td></tr>
-<tr><td><a href='https://andonlabs.com/blog/why-we-built-pion'>Pion, an agent designed to run any company autonomously</a></td></tr>
 </table>
 <!-- END:news -->
 
