@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/news/articles/c8ly49w9g1edo'>Suspected sabotage causes major Netherlands rail disruption</a></td></tr>
-<tr><td><a href='https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua'>I can&#x27;t stop thinking about Papua New Guinea</a></td></tr>
-<tr><td><a href='https://tintotint.eu/whacky-corner/f-droid_slop/'>How much of F-Droid is LLM generated?</a></td></tr>
-<tr><td><a href='https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/'>Alternatives to MinIO for single-node local S3</a></td></tr>
-<tr><td><a href='https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/'>iOS 27, iPadOS 27, and macOS 27</a></td></tr>
+<tr><td><a href='https://github.com/arnegiacomo/fugleramme'>Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></td></tr>
+<tr><td><a href='https://www.swift.org/blog/swift-6.4-released/'>Swift 6.4 Released</a></td></tr>
+<tr><td><a href='https://www.formas.ai/cartesian'>Cartesian – AI 3D Modeling for Design</a></td></tr>
+<tr><td><a href='https://withcapsule.app/'>Show HN: Capsule – Single-file web apps that save their data into SQLite</a></td></tr>
+<tr><td><a href='https://bkovac.github.io/modem-thing/'>Show HN: Hacking a $20 4G wireless hotspot into a texting device</a></td></tr>
 </table>
 <!-- END:news -->
 
