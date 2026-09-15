@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://explorator.dev/addiction/'>I&#x27;m not addicted to the internet or my smartphone. I&#x27;m addicted to information</a></td></tr>
+<tr><td><a href='https://www.linuxfromscratch.org/'>Linux from Scratch</a></td></tr>
 <tr><td><a href='https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/'>iOS 27, iPadOS 27, and macOS 27</a></td></tr>
+<tr><td><a href='https://github.com/enactic/OpenArm'>OpenArm: An open-source 7DOF humanoid arm</a></td></tr>
+<tr><td><a href='https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/'>4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls</a></td></tr>
 <tr><td><a href='https://andonlabs.com/blog/why-we-built-pion'>Pion, an agent designed to run any company autonomously</a></td></tr>
-<tr><td><a href='https://dbtcharts.com/blog/charts-built-for-chat/'>Charts built for Chat</a></td></tr>
-<tr><td><a href='https://github.com/JamesRyanATX/fcbnerd'>Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS</a></td></tr>
 </table>
 <!-- END:news -->
 
