@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://typesafe.ai/blog/introducing-system-one-models-and-jev'>Introducing System One Models and Jev</a></td></tr>
 <tr><td><a href='https://github.com/arnegiacomo/fugleramme'>Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></td></tr>
+<tr><td><a href='https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html'>German Rheinmetall open-sources its Battlesuite connected weapon system protcol</a></td></tr>
 <tr><td><a href='https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/'>An Update on Wayback Machine Access</a></td></tr>
-<tr><td><a href='https://typesafe.ai/blog/introducing-system-one-models-and-jev'>Jev: New frontier model 40-400x cheaper and 20-200x faster</a></td></tr>
-<tr><td><a href='https://www.strix.ai/blog/baseten-harbor-github-pat-takeover'>We got admin access to Baseten&#x27;s production GitHub in 25 minutes</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/'>Gemini 3.8 Live and 3.8 Live Extended Thinking</a></td></tr>
+<tr><td><a href='https://mathshistory.st-andrews.ac.uk/Biographies/Serre/'>Jean-Pierre Serre is 100 years old today</a></td></tr>
 </table>
 <!-- END:news -->
 
