@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/arnegiacomo/fugleramme'>Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></td></tr>
-<tr><td><a href='https://www.swift.org/blog/swift-6.4-released/'>Swift 6.4 Released</a></td></tr>
-<tr><td><a href='https://www.formas.ai/cartesian'>Cartesian – AI 3D Modeling for Design</a></td></tr>
-<tr><td><a href='https://withcapsule.app/'>Show HN: Capsule – Single-file web apps that save their data into SQLite</a></td></tr>
-<tr><td><a href='https://bkovac.github.io/modem-thing/'>Show HN: Hacking a $20 4G wireless hotspot into a texting device</a></td></tr>
+<tr><td><a href='https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/'>An Update on Wayback Machine Access</a></td></tr>
+<tr><td><a href='https://typesafe.ai/blog/introducing-system-one-models-and-jev'>Jev: New frontier model 40-400x cheaper and 20-200x faster</a></td></tr>
+<tr><td><a href='https://www.strix.ai/blog/baseten-harbor-github-pat-takeover'>We got admin access to Baseten&#x27;s production GitHub in 25 minutes</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/'>Gemini 3.8 Live and 3.8 Live Extended Thinking</a></td></tr>
 </table>
 <!-- END:news -->
 
