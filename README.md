@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html'>Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit</a></td></tr>
-<tr><td><a href='https://nvartolomei.com/dist-sys-classics/'>Distributed Systems Classics (2017)</a></td></tr>
-<tr><td><a href='https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/'>A Beginning for Mathematics</a></td></tr>
-<tr><td><a href='https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/'>OpenAI bots knew about the RubyGems caching vulnerability</a></td></tr>
-<tr><td><a href='https://www.serpentine.com/posts/2026/x3-stripes/'>How my e-reader lost its stripes</a></td></tr>
+<tr><td><a href='https://explorator.dev/addiction/'>I&#x27;m not addicted to the internet or my smartphone. I&#x27;m addicted to information</a></td></tr>
+<tr><td><a href='https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/'>iOS 27, iPadOS 27, and macOS 27</a></td></tr>
+<tr><td><a href='https://andonlabs.com/blog/why-we-built-pion'>Pion, an agent designed to run any company autonomously</a></td></tr>
+<tr><td><a href='https://dbtcharts.com/blog/charts-built-for-chat/'>Charts built for Chat</a></td></tr>
+<tr><td><a href='https://github.com/JamesRyanATX/fcbnerd'>Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS</a></td></tr>
 </table>
 <!-- END:news -->
 
