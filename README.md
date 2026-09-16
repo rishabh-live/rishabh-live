@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2609.14858'>Dream-RSI: Recursive Self-Improvement through Evolving Worlds</a></td></tr>
-<tr><td><a href='https://will-keleher.com/posts/small-programming-tricks-matter/'>Small Programming Tricks</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/mistral-x-mozilla/'>Mistral X Mozilla: Private, Multilingual AI Browsing</a></td></tr>
-<tr><td><a href='https://typesafe.ai/blog/introducing-system-one-models-and-jev'>Introducing System One Models and Jev</a></td></tr>
-<tr><td><a href='https://ohhelloana.blog/tell-the-speakers/'>Tell the speakers that you liked their talks</a></td></tr>
+<tr><td><a href='https://rohanbansal.com/qorl'>Training a 4B model to produce 81% faster query plans than Postgres</a></td></tr>
+<tr><td><a href='https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html'>Vectorized and performance-portable Quicksort (2022)</a></td></tr>
+<tr><td><a href='https://mimo.xiaomi.com/rl/'>Xiami Mimo 2.6 Live Post-Training Dashboard</a></td></tr>
+<tr><td><a href='https://will-keleher.com/posts/small-programming-tricks-matter/'>Small programming tricks</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2609.14845'>Accurate Models of AMD Matrix Cores</a></td></tr>
 </table>
 <!-- END:news -->
 
