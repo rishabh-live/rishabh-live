@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://gultsch.social/@daniel/117280438824908947'>The Google Play app review process now regularly takes longer than a week</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cjwyzrr9d3dko'>EU chief opens door for Canada to become &#x27;associate member&#x27;</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2609.14858'>Dream-RSI: Recursive Self-Improvement through Evolving Worlds</a></td></tr>
+<tr><td><a href='https://will-keleher.com/posts/small-programming-tricks-matter/'>Small Programming Tricks</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/mistral-x-mozilla/'>Mistral X Mozilla: Private, Multilingual AI Browsing</a></td></tr>
 <tr><td><a href='https://typesafe.ai/blog/introducing-system-one-models-and-jev'>Introducing System One Models and Jev</a></td></tr>
-<tr><td><a href='https://github.com/arnegiacomo/fugleramme'>Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></td></tr>
+<tr><td><a href='https://ohhelloana.blog/tell-the-speakers/'>Tell the speakers that you liked their talks</a></td></tr>
 </table>
 <!-- END:news -->
 
