@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://typesafe.ai/blog/introducing-system-one-models-and-jev'>Introducing System One Models and Jev</a></td></tr>
+<tr><td><a href='https://security.apple.com/blog/apple-reference-image/'>Apple Reference Image: A New Approach for Verified Photography</a></td></tr>
 <tr><td><a href='https://github.com/arnegiacomo/fugleramme'>Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations</a></td></tr>
-<tr><td><a href='https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/'>An Update on Wayback Machine Access</a></td></tr>
-<tr><td><a href='https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html'>German Rheinmetall open-sources its Battlesuite connected weapon system protcol</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/'>Gemini 3.8 Live and 3.8 Live Extended Thinking</a></td></tr>
+<tr><td><a href='https://inflightsimulator.com'>Show HN: I made a flight simulator, except you&#x27;re just a passenger</a></td></tr>
+<tr><td><a href='https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/'>Negativland, Culture Jamming, and the Art of Making Something New</a></td></tr>
 </table>
 <!-- END:news -->
 
