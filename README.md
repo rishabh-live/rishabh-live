@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://rohanbansal.com/qorl'>Training a 4B model to produce 81% faster query plans than Postgres</a></td></tr>
-<tr><td><a href='https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html'>Vectorized and performance-portable Quicksort (2022)</a></td></tr>
-<tr><td><a href='https://mimo.xiaomi.com/rl/'>Xiami Mimo 2.6 Live Post-Training Dashboard</a></td></tr>
-<tr><td><a href='https://will-keleher.com/posts/small-programming-tricks-matter/'>Small programming tricks</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2609.14845'>Accurate Models of AMD Matrix Cores</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2609.16338'>Breaking the 1.58-bit Barrier for Ternary LLMs</a></td></tr>
+<tr><td><a href='https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/'>Nvidia announces native GPU programming in Rust</a></td></tr>
+<tr><td><a href='https://mimo.xiaomi.com/rl/'>Xiaomi Mimo 2.6 live post-training dashboard</a></td></tr>
+<tr><td><a href='https://filipovski.net/2026/09/16/backups-arent-simple.html'>Backups Aren&#x27;t Simple</a></td></tr>
 </table>
 <!-- END:news -->
 
