@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://global.fujitsu/en-global/pr/news/2026/09/14-02'>Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA</a></td></tr>
+<tr><td><a href='https://flat.social'>Show HN: I built a new version of my fun spatial 3D online meeting app</a></td></tr>
 <tr><td><a href='https://servo.org/blog/2026/09/15/one-year-of-sponsorship/'>One Year of Sponsored Servo Development</a></td></tr>
-<tr><td><a href='https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/'>Nvidia announces native GPU programming in Rust</a></td></tr>
-<tr><td><a href='https://ryan.science/blog/keys-not-included'>Keys Not Included: recovering the signing keys for US driver&#x27;s license barcodes</a></td></tr>
-<tr><td><a href='https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/'>I didn&#x27;t sign the Fields medallists&#x27; letter</a></td></tr>
-<tr><td><a href='https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html'>The Relation Between Mathematics and Physics by Paul Dirac</a></td></tr>
+<tr><td><a href='https://www.petervijeh.com/projects/reddit-ner'>I had Gemini train its own replacement for $9</a></td></tr>
+<tr><td><a href='https://www.bbc.com/news/articles/cwly7vkke4jxo'>Canada welcomes EU proposal to become &#x27;associate member&#x27;</a></td></tr>
 </table>
 <!-- END:news -->
 
