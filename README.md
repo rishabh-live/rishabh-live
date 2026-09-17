@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/astra-for-law/'>Astra for Law</a></td></tr>
+<tr><td><a href='https://bend-lang.com/'>Bend – A language that blocks AI mistakes via proof and runs on GPUs</a></td></tr>
+<tr><td><a href='https://henriquenunez.eu/posts/you_did_it_again_ms/'>I Hate You Microsoft</a></td></tr>
 <tr><td><a href='https://github.com/asciimoo/hister'>Hister: A private search engine for the pages you visit and the files you keep</a></td></tr>
-<tr><td><a href='https://global.fujitsu/en-global/pr/news/2026/09/14-02'>Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA</a></td></tr>
-<tr><td><a href='https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure'>CrowdSec Source Code Leak</a></td></tr>
-<tr><td><a href='https://about.gitlab.com/blog/rate-limit-change-2026/'>Rate limits on GitLab.com are changing</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html'>T. Rex Had a Body Temperature of 97 Degrees</a></td></tr>
+<tr><td><a href='https://prismml.com/news/bonsai-2-27b'>Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</a></td></tr>
 </table>
 <!-- END:news -->
 
