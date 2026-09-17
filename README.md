@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ryan.science/blog/keys-not-included'>Keys Not Included: recovering the signing keys for US driver&#x27;s license barcodes</a></td></tr>
+<tr><td><a href='https://servo.org/blog/2026/09/15/one-year-of-sponsorship/'>One Year of Sponsored Servo Development</a></td></tr>
 <tr><td><a href='https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/'>Nvidia announces native GPU programming in Rust</a></td></tr>
-<tr><td><a href='https://rohanbansal.com/qorl'>Training a 4B model to produce 81% faster query plans than Postgres</a></td></tr>
-<tr><td><a href='https://mimo.xiaomi.com/rl/'>Xiaomi Mimo 2.6 live post-training dashboard</a></td></tr>
-<tr><td><a href='https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html'>DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression</a></td></tr>
+<tr><td><a href='https://ryan.science/blog/keys-not-included'>Keys Not Included: recovering the signing keys for US driver&#x27;s license barcodes</a></td></tr>
+<tr><td><a href='https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/'>I didn&#x27;t sign the Fields medallists&#x27; letter</a></td></tr>
+<tr><td><a href='https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html'>The Relation Between Mathematics and Physics by Paul Dirac</a></td></tr>
 </table>
 <!-- END:news -->
 
