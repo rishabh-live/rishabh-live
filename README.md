@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/asciimoo/hister'>Hister: A private search engine for the pages you visit and the files you keep</a></td></tr>
 <tr><td><a href='https://global.fujitsu/en-global/pr/news/2026/09/14-02'>Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA</a></td></tr>
-<tr><td><a href='https://flat.social'>Show HN: I built a new version of my fun spatial 3D online meeting app</a></td></tr>
-<tr><td><a href='https://servo.org/blog/2026/09/15/one-year-of-sponsorship/'>One Year of Sponsored Servo Development</a></td></tr>
-<tr><td><a href='https://www.petervijeh.com/projects/reddit-ner'>I had Gemini train its own replacement for $9</a></td></tr>
-<tr><td><a href='https://www.bbc.com/news/articles/cwly7vkke4jxo'>Canada welcomes EU proposal to become &#x27;associate member&#x27;</a></td></tr>
+<tr><td><a href='https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure'>CrowdSec Source Code Leak</a></td></tr>
+<tr><td><a href='https://about.gitlab.com/blog/rate-limit-change-2026/'>Rate limits on GitLab.com are changing</a></td></tr>
+<tr><td><a href='https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html'>T. Rex Had a Body Temperature of 97 Degrees</a></td></tr>
 </table>
 <!-- END:news -->
 
