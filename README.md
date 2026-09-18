@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/jemalloc/jemalloc/releases/tag/5.4.0'>Jemalloc 5.4.0</a></td></tr>
-<tr><td><a href='https://fex-emu.com/Scourge-of-emulation/'>The scourge of x86 emulation</a></td></tr>
-<tr><td><a href='https://openai.com/index/astra-for-law/'>Astra for Law</a></td></tr>
-<tr><td><a href='https://prismml.com/news/bonsai-2-27b'>Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</a></td></tr>
-<tr><td><a href='https://openjev.com/'>OpenJev</a></td></tr>
+<tr><td><a href='https://blog.liampwll.com/posts/bend_vibe_coding/'>Bend 2 and the Vibe-Coding Trap</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2609.20804'>An Empirical Study of Harness Design for Coding Agents</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret'>AI chatbots becoming experts at changing people&#x27;s minds. What&#x27;s their secret?</a></td></tr>
+<tr><td><a href='https://tokenstead.ai/guides/zcode-silent-git-history-upload'>ZCode, the GLM coding agent, silently uploads your Git history</a></td></tr>
+<tr><td><a href='https://hawksley.dev/blog/i-dont-like-passkeys'>I don&#x27;t like passkeys</a></td></tr>
 </table>
 <!-- END:news -->
 
