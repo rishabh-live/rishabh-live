@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://danluu.com/brain-off/'>There&#x27;s no point at which turning your brain off will work</a></td></tr>
+<tr><td><a href='https://grapheneos.social/@GrapheneOS/117282080803799576'>Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a></td></tr>
+<tr><td><a href='https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899'>Korea raises data breach fines to 10% of revenue</a></td></tr>
 <tr><td><a href='https://try.cloudflare.com/'>Cloudflare Quick Tunnels</a></td></tr>
-<tr><td><a href='https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/'>Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2609.20804'>An Empirical Study of Harness Design for Coding Agents</a></td></tr>
-<tr><td><a href='https://cactuscompute.com/needle'>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/'>Saving another 100TB of RAM with math (and Rust)</a></td></tr>
+<tr><td><a href='https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes'>Apple releases iPhone Duo simulator and Xcode 27.1 beta</a></td></tr>
 </table>
 <!-- END:news -->
 
