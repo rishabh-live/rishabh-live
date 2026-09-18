@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.liampwll.com/posts/bend_vibe_coding/'>Bend 2 and the Vibe-Coding Trap</a></td></tr>
+<tr><td><a href='https://danluu.com/brain-off/'>There&#x27;s no point at which turning your brain off will work</a></td></tr>
+<tr><td><a href='https://try.cloudflare.com/'>Cloudflare Quick Tunnels</a></td></tr>
+<tr><td><a href='https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/'>Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2609.20804'>An Empirical Study of Harness Design for Coding Agents</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret'>AI chatbots becoming experts at changing people&#x27;s minds. What&#x27;s their secret?</a></td></tr>
-<tr><td><a href='https://tokenstead.ai/guides/zcode-silent-git-history-upload'>ZCode, the GLM coding agent, silently uploads your Git history</a></td></tr>
-<tr><td><a href='https://hawksley.dev/blog/i-dont-like-passkeys'>I don&#x27;t like passkeys</a></td></tr>
+<tr><td><a href='https://cactuscompute.com/needle'>Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash</a></td></tr>
 </table>
 <!-- END:news -->
 
