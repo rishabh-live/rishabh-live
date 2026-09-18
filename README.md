@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/astra-for-law/'>Astra for Law</a></td></tr>
-<tr><td><a href='https://bend-lang.com/'>Bend – A language that blocks AI mistakes via proof and runs on GPUs</a></td></tr>
-<tr><td><a href='https://henriquenunez.eu/posts/you_did_it_again_ms/'>I Hate You Microsoft</a></td></tr>
-<tr><td><a href='https://github.com/asciimoo/hister'>Hister: A private search engine for the pages you visit and the files you keep</a></td></tr>
 <tr><td><a href='https://prismml.com/news/bonsai-2-27b'>Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint</a></td></tr>
+<tr><td><a href='https://bend-lang.com/'>Bend – A language that blocks AI mistakes via proof, on CPU and GPU</a></td></tr>
+<tr><td><a href='https://github.com/asciimoo/hister'>Hister: A private search engine for the pages you visit and the files you keep</a></td></tr>
+<tr><td><a href='https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/'>How to Write with an LLM</a></td></tr>
 </table>
 <!-- END:news -->
 
