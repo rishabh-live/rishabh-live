@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://code.claude.com/docs/en/changelog'>Claude Code now reads AGENTS.md if there is no Claude.md</a></td></tr>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/117282080803799576'>Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/'>Saving another 100TB of RAM</a></td></tr>
 <tr><td><a href='https://try.cloudflare.com/'>Cloudflare Quick Tunnels</a></td></tr>
-<tr><td><a href='https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes'>Xcode 27.1 Beta Release Notes</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/'>Saving another 100TB of RAM</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/llms-for-chip-design'>How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip</a></td></tr>
+<tr><td><a href='https://simonklee.dk/farnese-letter'>The Farnese letter</a></td></tr>
 </table>
 <!-- END:news -->
 
