@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://onionfutures.com/'>San Francisco Onion Futures Company</a></td></tr>
 <tr><td><a href='https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'>Human brain is two separate organs, Stanford Medicine-led research finds</a></td></tr>
+<tr><td><a href='https://john.hartnup.uk/2026/06/07/ai-event-posters.html'>AI-generated posters don’t have to be horrible</a></td></tr>
+<tr><td><a href='https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/'>If math is more than proof, we need to better celebrate the rest of it</a></td></tr>
+<tr><td><a href='https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio'>GPT-6 Astra Solves a WWI German Radio Cipher</a></td></tr>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/117282080803799576'>Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a></td></tr>
-<tr><td><a href='https://github.com/awlevin/typesafe-computer-use'>Typesafe-computer-use drives a Mac toward a goal for 1&#x2F;50th of a cent per step</a></td></tr>
-<tr><td><a href='https://sdcc.sourceforge.net/'>SDCC – Small Device C Compiler</a></td></tr>
 </table>
 <!-- END:news -->
 
