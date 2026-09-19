@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://laya.convaiinnovations.com/'>I Built Non-Autoregressive Decision Models with RL a Year Ago</a></td></tr>
+<tr><td><a href='https://laya.convaiinnovations.com/'>I built non-autoregressive decision models with RL a year ago</a></td></tr>
 <tr><td><a href='https://john.hartnup.uk/2026/06/07/ai-event-posters.html'>AI-generated posters don’t have to be horrible</a></td></tr>
-<tr><td><a href='https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'>Human brain is two separate organs, Stanford Medicine-led research finds</a></td></tr>
-<tr><td><a href='https://github.com/mindbox77/zxdesk'>A graphical desktop for the ZX Spectrum</a></td></tr>
-<tr><td><a href='https://planetscale.com/blog/introducing-tin'>Tin: full-text search for Postgres</a></td></tr>
+<tr><td><a href='https://bartosz.fenski.pl/modern-fs-benchmark/'>Btrfs&#x2F;ZFS&#x2F;bcachefs under workloads classic benchmarks skip</a></td></tr>
+<tr><td><a href='https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'>Two parallel neural ectoderm progenitors contribute to the developing brain</a></td></tr>
+<tr><td><a href='https://bw.swerdlow.dev/report'>Brood War Bench</a></td></tr>
 </table>
 <!-- END:news -->
 
