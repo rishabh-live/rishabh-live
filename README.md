@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://onionfutures.com/'>San Francisco Onion Futures Company</a></td></tr>
+<tr><td><a href='https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'>Human brain is two separate organs, Stanford Medicine-led research finds</a></td></tr>
 <tr><td><a href='https://grapheneos.social/@GrapheneOS/117282080803799576'>Android 17 is the first since 3.x to add new APIs without releasing to the AOSP</a></td></tr>
-<tr><td><a href='https://try.cloudflare.com/'>Cloudflare Quick Tunnels</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/'>Saving another 100TB of RAM</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/llms-for-chip-design'>How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip</a></td></tr>
-<tr><td><a href='https://simonklee.dk/farnese-letter'>The Farnese letter</a></td></tr>
+<tr><td><a href='https://github.com/awlevin/typesafe-computer-use'>Typesafe-computer-use drives a Mac toward a goal for 1&#x2F;50th of a cent per step</a></td></tr>
+<tr><td><a href='https://sdcc.sourceforge.net/'>SDCC – Small Device C Compiler</a></td></tr>
 </table>
 <!-- END:news -->
 
