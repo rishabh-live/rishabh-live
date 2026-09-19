@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/'>English: A vs. An</a></td></tr>
 <tr><td><a href='https://laya.convaiinnovations.com/'>I built non-autoregressive decision models with RL a year ago</a></td></tr>
 <tr><td><a href='https://john.hartnup.uk/2026/06/07/ai-event-posters.html'>AI-generated posters don’t have to be horrible</a></td></tr>
-<tr><td><a href='https://bartosz.fenski.pl/modern-fs-benchmark/'>Btrfs&#x2F;ZFS&#x2F;bcachefs under workloads classic benchmarks skip</a></td></tr>
-<tr><td><a href='https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'>Two parallel neural ectoderm progenitors contribute to the developing brain</a></td></tr>
-<tr><td><a href='https://bw.swerdlow.dev/report'>Brood War Bench</a></td></tr>
+<tr><td><a href='https://ooni.org/install'>Measure internet censorship. Contribute to the largest open dataset</a></td></tr>
+<tr><td><a href='https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html'>How Hacker News ranking works: scoring, controversy, and penalties (2013)</a></td></tr>
 </table>
 <!-- END:news -->
 
