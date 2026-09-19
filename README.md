@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://laya.convaiinnovations.com/'>Laya the open source version of Jev</a></td></tr>
-<tr><td><a href='https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/'>What Zig felt like, coming from Rust</a></td></tr>
+<tr><td><a href='https://laya.convaiinnovations.com/'>I Built Non-Autoregressive Decision Models with RL a Year Ago</a></td></tr>
 <tr><td><a href='https://john.hartnup.uk/2026/06/07/ai-event-posters.html'>AI-generated posters don’t have to be horrible</a></td></tr>
 <tr><td><a href='https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html'>Human brain is two separate organs, Stanford Medicine-led research finds</a></td></tr>
+<tr><td><a href='https://github.com/mindbox77/zxdesk'>A graphical desktop for the ZX Spectrum</a></td></tr>
 <tr><td><a href='https://planetscale.com/blog/introducing-tin'>Tin: full-text search for Postgres</a></td></tr>
 </table>
 <!-- END:news -->
