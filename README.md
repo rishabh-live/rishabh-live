@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://pirateface.co/'>Pirate Face Rescues LLM Models from Deletion</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen-image-2.1'>Qwen-Image-2.1: Compact, efficient, and unified image creation</a></td></tr>
-<tr><td><a href='https://toolguyd.com/sherline-tools-shutting-down-usa-production/'>Sherline Tools Is Going Out of Business</a></td></tr>
+<tr><td><a href='https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say'>Samsung is expected to more than double output of its HBM4 and HBM4E DRAM</a></td></tr>
 <tr><td><a href='https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/'>ChatGPT now knows what you do on other websites via ad collector</a></td></tr>
-<tr><td><a href='https://radius.to/'>Show HN: Radius – A Meetup.com Alternative</a></td></tr>
+<tr><td><a href='https://pirateface.co/'>Pirate Face Rescues LLM Models from Deletion</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen-image-2.1'>Qwen Image 2.1</a></td></tr>
+<tr><td><a href='https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books'>Singapore’s National Library Board offers micropayments to build reading habits</a></td></tr>
 </table>
 <!-- END:news -->
 
