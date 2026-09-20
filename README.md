@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://pirateface.co/'>Pirate Face Rescues LLM Models from Deletion</a></td></tr>
 <tr><td><a href='https://qwen.ai/blog?id=qwen-image-2.1'>Qwen-Image-2.1: Compact, efficient, and unified image creation</a></td></tr>
-<tr><td><a href='https://softwarecrisis.dev/letters/llmentalist/'>Chat-based Large Language Models replicate the mechanisms of a psychic&#x27;s con</a></td></tr>
-<tr><td><a href='https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/'>Teen Social Media Bans Miss the Point</a></td></tr>
-<tr><td><a href='https://millenniumproblems.bio/'>The Millennium Problems for Biology</a></td></tr>
-<tr><td><a href='https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/'>AI and the Destruction of the Creative Commons</a></td></tr>
+<tr><td><a href='https://toolguyd.com/sherline-tools-shutting-down-usa-production/'>Sherline Tools Is Going Out of Business</a></td></tr>
+<tr><td><a href='https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/'>ChatGPT now knows what you do on other websites via ad collector</a></td></tr>
+<tr><td><a href='https://radius.to/'>Show HN: Radius – A Meetup.com Alternative</a></td></tr>
 </table>
 <!-- END:news -->
 
