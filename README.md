@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://zuckoff.app/'>ZuckOff Know when a camera is in the room</a></td></tr>
-<tr><td><a href='https://consumerrights.wiki/w/Disney%2B_ad_policy_change'>Disney+: New user agreement allows ads before movies in all subscriptions</a></td></tr>
-<tr><td><a href='https://github.com/jaredpalmer/kev/tree/main'>Kev: Tiny Jev-like family of decision models built on top of Qwen3.5</a></td></tr>
-<tr><td><a href='https://github.com/f/jev-leftpad'>Jev-Leftpad</a></td></tr>
-<tr><td><a href='https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff'>ZuckOff Is a Free App That Sees Meta Glasses Before They See You</a></td></tr>
+<tr><td><a href='https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/'>What Sun got wrong</a></td></tr>
+<tr><td><a href='https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac'>Turn off and restrict access to Apple Intelligence features on Mac</a></td></tr>
+<tr><td><a href='https://alicegg.tech/2026/09/21/attention'>Attention is all you have</a></td></tr>
+<tr><td><a href='https://x.ai/news/grok-4-7'>Grok 4.7</a></td></tr>
+<tr><td><a href='https://twitter.com/Lon/status/2101793422487204027'>Fable 5 – Median thinking declined in August</a></td></tr>
 </table>
 <!-- END:news -->
 
