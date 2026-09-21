@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://mimo.xiaomi.com/mimo-v2-6'>Xiaomi MiMo v2.6</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead'>NASA’s Mars Sample Return mission is dead</a></td></tr>
+<tr><td><a href='https://poloclub.github.io/transformer-explainer/'>Transformers Explained Visually</a></td></tr>
+<tr><td><a href='https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/'>I don&#x27;t want to read what you didn&#x27;t write</a></td></tr>
 <tr><td><a href='https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/'>What Sun got wrong</a></td></tr>
-<tr><td><a href='https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac'>Turn off and restrict access to Apple Intelligence features on Mac</a></td></tr>
-<tr><td><a href='https://alicegg.tech/2026/09/21/attention'>Attention is all you have</a></td></tr>
-<tr><td><a href='https://x.ai/news/grok-4-7'>Grok 4.7</a></td></tr>
-<tr><td><a href='https://twitter.com/Lon/status/2101793422487204027'>Fable 5 – Median thinking declined in August</a></td></tr>
 </table>
 <!-- END:news -->
 
