@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say'>Samsung is expected to more than double output of its HBM4 and HBM4E DRAM</a></td></tr>
 <tr><td><a href='https://agentexecutor.io'>Google&#x27;s Open Agentic Orchestrator</a></td></tr>
+<tr><td><a href='https://libroot.org/posts/what-happened-to-the-snowden-archive'>What happened to the Snowden archive</a></td></tr>
+<tr><td><a href='https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say'>Samsung is expected to more than double output of its HBM4 and HBM4E DRAM</a></td></tr>
 <tr><td><a href='https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/'>ChatGPT now knows what you do on other websites via ad collector</a></td></tr>
-<tr><td><a href='https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/'>Nobody pays for FOSS, we can force them to</a></td></tr>
-<tr><td><a href='https://qwen.ai/blog?id=qwen-image-2.1'>Qwen Image 2.1</a></td></tr>
+<tr><td><a href='https://datagubbe.se/crt/'>The Effect of CRTs on Pixel Art (2024)</a></td></tr>
 </table>
 <!-- END:news -->
 
