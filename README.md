@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf'>Grim Fandango Puzzle Document (1996) [pdf]</a></td></tr>
-<tr><td><a href='https://agentexecutor.io'>AX – Google’s Open Agentic Orchestrator</a></td></tr>
-<tr><td><a href='https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say'>Samsung is expected to more than double output of its HBM4 and HBM4E DRAM</a></td></tr>
-<tr><td><a href='https://libroot.org/posts/what-happened-to-the-snowden-archive'>What happened to the Snowden archive</a></td></tr>
-<tr><td><a href='https://www.aeaweb.org/research/immigration-restrictions-firms-workers'>Winning the Visa Lottery</a></td></tr>
+<tr><td><a href='https://zuckoff.app/'>ZuckOff Know when a camera is in the room</a></td></tr>
+<tr><td><a href='https://consumerrights.wiki/w/Disney%2B_ad_policy_change'>Disney+: New user agreement allows ads before movies in all subscriptions</a></td></tr>
+<tr><td><a href='https://github.com/jaredpalmer/kev/tree/main'>Kev: Tiny Jev-like family of decision models built on top of Qwen3.5</a></td></tr>
+<tr><td><a href='https://github.com/f/jev-leftpad'>Jev-Leftpad</a></td></tr>
+<tr><td><a href='https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff'>ZuckOff Is a Free App That Sees Meta Glasses Before They See You</a></td></tr>
 </table>
 <!-- END:news -->
 
