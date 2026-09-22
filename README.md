@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://openai.com/index/introducing-gpt-6-sol-and-luna/'>GPT-6 Sol and Luna</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/claude-opus-5-5'>Claude Opus 5.5</a></td></tr>
 <tr><td><a href='https://www.cryptocellar.org/bgac/the-mvueh-break.html'>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</a></td></tr>
-<tr><td><a href='https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/'>OpenAI is well positioned to fast-follow Jev</a></td></tr>
-<tr><td><a href='https://allpoetry.com/16-bit-Intel-8088-chip'>16-bit Intel 8088 chip</a></td></tr>
-<tr><td><a href='https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp'>WordPress: Unauthenticated path traversal in page-template resolution</a></td></tr>
+<tr><td><a href='https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/'>SAML: A Fractal of Bad Design</a></td></tr>
+<tr><td><a href='https://artificialanalysis.ai/models/claude-opus-5-5'>Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)</a></td></tr>
 </table>
 <!-- END:news -->
 
