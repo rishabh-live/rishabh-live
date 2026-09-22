@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/introducing-gpt-6-sol-and-luna/'>GPT-6 Sol and Luna</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/claude-opus-5-5'>Claude Opus 5.5</a></td></tr>
+<tr><td><a href='https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/'>&#x27;We hacked the FBI:&#x27; Hackers say they have data on all FBI employees</a></td></tr>
+<tr><td><a href='https://foxscript.org/'>Microsoft killed FoxPro in 2007. Anyway, here&#x27;s FoxPro revived</a></td></tr>
 <tr><td><a href='https://www.cryptocellar.org/bgac/the-mvueh-break.html'>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</a></td></tr>
-<tr><td><a href='https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/'>SAML: A Fractal of Bad Design</a></td></tr>
-<tr><td><a href='https://artificialanalysis.ai/models/claude-opus-5-5'>Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)</a></td></tr>
 </table>
 <!-- END:news -->
 
