@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://mimo.xiaomi.com/mimo-v2-6'>Xiaomi MiMo v2.6</a></td></tr>
+<tr><td><a href='https://status.claude.com/incidents/7g1qpkyz5gxh'>Claude Status – Elevated errors for multiple models</a></td></tr>
+<tr><td><a href='https://brand.io/article/spymarks/'>Spymarks, Not Watermarks</a></td></tr>
 <tr><td><a href='https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead'>NASA’s Mars Sample Return mission is dead</a></td></tr>
-<tr><td><a href='https://poloclub.github.io/transformer-explainer/'>Transformers Explained Visually</a></td></tr>
 <tr><td><a href='https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/'>I don&#x27;t want to read what you didn&#x27;t write</a></td></tr>
-<tr><td><a href='https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/'>What Sun got wrong</a></td></tr>
 </table>
 <!-- END:news -->
 
