@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://board.flatassembler.net/topic.php?t=24261'>AMD&#x27;s random number generator can&#x27;t generate a 0?</a></td></tr>
-<tr><td><a href='https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html'>Type Punning in C and C++</a></td></tr>
-<tr><td><a href='https://nathan.rs/posts/gzip-lm/'>Can gzip be a language model?</a></td></tr>
-<tr><td><a href='https://mimo.xiaomi.com/mimo-v2-6'>MiMo v2.6</a></td></tr>
-<tr><td><a href='https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html'>9 Ads per Minute: FIFA Cup 26 – &quot;the price of the beautiful game&quot;</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/claude-opus-5-5'>Claude Opus 5.5</a></td></tr>
+<tr><td><a href='https://www.cryptocellar.org/bgac/the-mvueh-break.html'>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</a></td></tr>
+<tr><td><a href='https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/'>OpenAI is well positioned to fast-follow Jev</a></td></tr>
+<tr><td><a href='https://allpoetry.com/16-bit-Intel-8088-chip'>16-bit Intel 8088 chip</a></td></tr>
+<tr><td><a href='https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp'>WordPress: Unauthenticated path traversal in page-template resolution</a></td></tr>
 </table>
 <!-- END:news -->
 
