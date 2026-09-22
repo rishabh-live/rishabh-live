@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.bbc.com/news/articles/c607l2j2rj8ro'>Apple Music to open concert venue in Battersea Power Station</a></td></tr>
+<tr><td><a href='https://board.flatassembler.net/topic.php?t=24261'>AMD&#x27;s random number generator can&#x27;t generate a 0?</a></td></tr>
+<tr><td><a href='https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html'>Type Punning in C and C++</a></td></tr>
+<tr><td><a href='https://nathan.rs/posts/gzip-lm/'>Can gzip be a language model?</a></td></tr>
 <tr><td><a href='https://mimo.xiaomi.com/mimo-v2-6'>MiMo v2.6</a></td></tr>
-<tr><td><a href='https://brand.io/article/spymarks/'>Spymarks, Not Watermarks</a></td></tr>
-<tr><td><a href='https://poloclub.github.io/transformer-explainer/'>Transformers Explained Visually</a></td></tr>
-<tr><td><a href='https://alicegg.tech/2026/09/21/attention'>Attention is all you have</a></td></tr>
+<tr><td><a href='https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html'>9 Ads per Minute: FIFA Cup 26 – &quot;the price of the beautiful game&quot;</a></td></tr>
 </table>
 <!-- END:news -->
 
