@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/'>Claude Code reads AGENTS.md only when telemetry is on</a></td></tr>
-<tr><td><a href='https://www.nobodywho.ai/posts/jev-in-25-lines/'>Jev in 25 Lines of Python</a></td></tr>
-<tr><td><a href='https://abagames.github.io/z80-repl/index.html'>Z80 REPL</a></td></tr>
-<tr><td><a href='https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459'>What AI-Native Looks Like</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-gpt-6-sol-and-luna/'>GPT-6 Sol and Luna</a></td></tr>
+<tr><td><a href='https://pointinthecloud.com/2026-04-11-211700.html'>Fixing the Portobello Police Station Clock</a></td></tr>
+<tr><td><a href='https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol'>Radicle: Disclosure of Vulnerability in the Network Protocol</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/'>Gemini 3.8 text-to-speech</a></td></tr>
+<tr><td><a href='https://unlisted.careers/ghost-jobs/report/2026-09'>28% of job postings on company career sites have been open over 90 days</a></td></tr>
+<tr><td><a href='https://strandsagents.com/blog/introducing-strands-harness/'>Strands Harness</a></td></tr>
 </table>
 <!-- END:news -->
 
