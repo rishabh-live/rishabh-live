@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'>Claude discovers a novel enzyme system with CRISPR-like repeats</a></td></tr>
 <tr><td><a href='https://pointinthecloud.com/2026-04-11-211700.html'>Fixing the Portobello Police Station Clock</a></td></tr>
-<tr><td><a href='https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol'>Radicle: Disclosure of Vulnerability in the Network Protocol</a></td></tr>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/'>Gemini 3.8 text-to-speech</a></td></tr>
-<tr><td><a href='https://unlisted.careers/ghost-jobs/report/2026-09'>28% of job postings on company career sites have been open over 90 days</a></td></tr>
-<tr><td><a href='https://strandsagents.com/blog/introducing-strands-harness/'>Strands Harness</a></td></tr>
+<tr><td><a href='https://claude.dev/blog/how-we-made-claude-ai-faster/'>Once Claude can measure something, it can make it faster</a></td></tr>
+<tr><td><a href='https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567'>Italian parliament votes for return to nuclear energy</a></td></tr>
+<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/'>A brief history of Windows scroll bar shortcuts</a></td></tr>
 </table>
 <!-- END:news -->
 
