@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://openai.com/index/introducing-gpt-6-sol-and-luna/'>GPT-6 Sol and Luna</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/claude-opus-5-5'>Claude Opus 5.5</a></td></tr>
-<tr><td><a href='https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/'>&#x27;We hacked the FBI:&#x27; Hackers say they have data on all FBI employees</a></td></tr>
+<tr><td><a href='https://waymo.com/blog/2026/09/transit-rewards/'>Transit rewards</a></td></tr>
+<tr><td><a href='https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think'>Data-only attacks are easier than you think (2024)</a></td></tr>
 <tr><td><a href='https://www.cryptocellar.org/bgac/the-mvueh-break.html'>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</a></td></tr>
-<tr><td><a href='https://github.com/xCuri0/ReBarUEFI'>ReBarUEFI: Resizable BAR for almost any UEFI system</a></td></tr>
 </table>
 <!-- END:news -->
 
