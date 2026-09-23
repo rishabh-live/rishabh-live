@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'>Claude discovers a novel enzyme system with CRISPR-like repeats</a></td></tr>
+<tr><td><a href='https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux'>Linux support is coming to Snapdragon X2 Series</a></td></tr>
+<tr><td><a href='https://fly.io/blog/vscode-ssh-wtf/'>VSCode&#x27;s SSH Agent Is Bananas (2025)</a></td></tr>
+<tr><td><a href='https://artificialanalysis.ai/models/mercury-2-5'>Mercury 2.5 LLM hits 770 tokens per second</a></td></tr>
 <tr><td><a href='https://pointinthecloud.com/2026-04-11-211700.html'>Fixing the Portobello Police Station Clock</a></td></tr>
-<tr><td><a href='https://claude.dev/blog/how-we-made-claude-ai-faster/'>Once Claude can measure something, it can make it faster</a></td></tr>
-<tr><td><a href='https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567'>Italian parliament votes for return to nuclear energy</a></td></tr>
-<tr><td><a href='https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/'>A brief history of Windows scroll bar shortcuts</a></td></tr>
 </table>
 <!-- END:news -->
 
