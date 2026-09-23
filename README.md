@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/'>Claude Code reads AGENTS.md only when telemetry is on</a></td></tr>
+<tr><td><a href='https://www.nobodywho.ai/posts/jev-in-25-lines/'>Jev in 25 Lines of Python</a></td></tr>
+<tr><td><a href='https://abagames.github.io/z80-repl/index.html'>Z80 REPL</a></td></tr>
+<tr><td><a href='https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459'>What AI-Native Looks Like</a></td></tr>
 <tr><td><a href='https://openai.com/index/introducing-gpt-6-sol-and-luna/'>GPT-6 Sol and Luna</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/claude-opus-5-5'>Claude Opus 5.5</a></td></tr>
-<tr><td><a href='https://waymo.com/blog/2026/09/transit-rewards/'>Transit rewards</a></td></tr>
-<tr><td><a href='https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think'>Data-only attacks are easier than you think (2024)</a></td></tr>
-<tr><td><a href='https://www.cryptocellar.org/bgac/the-mvueh-break.html'>OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005</a></td></tr>
 </table>
 <!-- END:news -->
 
