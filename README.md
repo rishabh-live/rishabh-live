@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://transluce.org/agent-activity'>Early rogue AI agent activity and attempts to hack found on urlquery.net</a></td></tr>
+<tr><td><a href='https://macanorak.com/two-tier-encryption-in-the-uk/'>Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection</a></td></tr>
+<tr><td><a href='https://nokiadesignarchive.aalto.fi/index.html'>Nokia Design Archive (2025)</a></td></tr>
 <tr><td><a href='https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux'>Linux support is coming to Snapdragon X2 Series</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'>Claude discovers a novel enzyme system with CRISPR-like repeats</a></td></tr>
 <tr><td><a href='https://lwn.net/SubscriberLink/1095425/2d9f411252325784/'>Ideas on modernizing the open-source desktop</a></td></tr>
-<tr><td><a href='https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/'>ArXiv receives multiyear commitments to support it as an independent nonprofit</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'>Claude discovers a novel enzyme system with CRISPR-like repeats</a></td></tr>
 </table>
 <!-- END:news -->
 
