@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'>Claude discovers a novel enzyme system with CRISPR-like repeats</a></td></tr>
 <tr><td><a href='https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux'>Linux support is coming to Snapdragon X2 Series</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'>Claude discovers a novel enzyme system with CRISPR-like repeats</a></td></tr>
+<tr><td><a href='https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign'>Feds Target AI Critics as &quot;Foreign Agents&quot;</a></td></tr>
+<tr><td><a href='https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/'>ArXiv receives multiyear commitments to support it as an independent nonprofit</a></td></tr>
 <tr><td><a href='https://fly.io/blog/vscode-ssh-wtf/'>VSCode&#x27;s SSH Agent Is Bananas (2025)</a></td></tr>
-<tr><td><a href='https://artificialanalysis.ai/models/mercury-2-5'>Mercury 2.5 LLM hits 770 tokens per second</a></td></tr>
-<tr><td><a href='https://pointinthecloud.com/2026-04-11-211700.html'>Fixing the Portobello Police Station Clock</a></td></tr>
 </table>
 <!-- END:news -->
 
