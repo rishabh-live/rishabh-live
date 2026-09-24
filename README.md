@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html'>F-Droid 2.0</a></td></tr>
+<tr><td><a href='https://bastardica.mitpit.com'>Show HN: Make cursed fonts like Times New Bastard</a></td></tr>
 <tr><td><a href='https://github.com/devdotfast/whiteboard'>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=vDjW_dRyKXY'>Rails World 2026 Opening Keynote [video]</a></td></tr>
-<tr><td><a href='https://linebender.org/blog/fearless-simd-1-0/'>Fearless SIMD v1.0</a></td></tr>
-<tr><td><a href='https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4'>Creatine uptake enhances antitumor immunity</a></td></tr>
+<tr><td><a href='https://koi.rest'>Show HN: Koi.rest – watch some fish and regain your balance</a></td></tr>
+<tr><td><a href='https://launchvideo.io'>Opus 5.5 is good at explainer videos</a></td></tr>
 </table>
 <!-- END:news -->
 
