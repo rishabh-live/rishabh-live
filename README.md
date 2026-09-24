@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://macanorak.com/two-tier-encryption-in-the-uk/'>Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection</a></td></tr>
-<tr><td><a href='https://nokiadesignarchive.aalto.fi/index.html'>Nokia Design Archive (2025)</a></td></tr>
-<tr><td><a href='https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux'>Linux support is coming to Snapdragon X2 Series</a></td></tr>
-<tr><td><a href='https://lwn.net/SubscriberLink/1095425/2d9f411252325784/'>Ideas on modernizing the open-source desktop</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/news/claude-discovers-novel-enzyme-system'>Claude discovers a novel enzyme system with CRISPR-like repeats</a></td></tr>
+<tr><td><a href='https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html'>F-Droid 2.0</a></td></tr>
+<tr><td><a href='https://github.com/devdotfast/whiteboard'>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=vDjW_dRyKXY'>Rails World 2026 Opening Keynote [video]</a></td></tr>
+<tr><td><a href='https://linebender.org/blog/fearless-simd-1-0/'>Fearless SIMD v1.0</a></td></tr>
+<tr><td><a href='https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4'>Creatine uptake enhances antitumor immunity</a></td></tr>
 </table>
 <!-- END:news -->
 
