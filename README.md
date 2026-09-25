@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://robert.ocallahan.org/2026/09/goodbye-google.html'>Goodbye Google</a></td></tr>
+<tr><td><a href='https://www.dawo.community/en/'>Dutch governments builds alternative for Microsoft based on NixOS</a></td></tr>
+<tr><td><a href='https://www.inkandswitch.com/'>Ink and Switch Interactive Homepage</a></td></tr>
+<tr><td><a href='https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy'>The Mafia may be keeping fentanyl out of Italy</a></td></tr>
+<tr><td><a href='https://nyaa.sh/reviews/mac-mini-m6-emulation'>Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini</a></td></tr>
 <tr><td><a href='https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html'>F-Droid 2.0</a></td></tr>
-<tr><td><a href='https://bastardica.mitpit.com'>Show HN: Make cursed fonts like Times New Bastard</a></td></tr>
-<tr><td><a href='https://github.com/devdotfast/whiteboard'>Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design</a></td></tr>
-<tr><td><a href='https://dynomight.substack.com/p/liver'>Why is the liver so weirdly regenerative?</a></td></tr>
 </table>
 <!-- END:news -->
 
