@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://swarmtraces.org/'>Revealing the details of how OpenAI agents hacked Hugging Face</a></td></tr>
 <tr><td><a href='https://ollaya.dev/'>Ollaya – Ollama for open-source, Jev-style decision models</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=Cjntrqhn8pk'>Alan Kay: Shannon gave us a way of dealing with noisy channels [video]</a></td></tr>
-<tr><td><a href='https://go.dev/blog/simd-experiment'>Platform-independent SIMD in Go</a></td></tr>
+<tr><td><a href='https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756'>Excel now supports multiple values in a single cell</a></td></tr>
+<tr><td><a href='https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/'>What even is an OS now?</a></td></tr>
 <tr><td><a href='https://jev-pokemon.vercel.app/'>Show HN: Jev Plays Pokémon Red</a></td></tr>
-<tr><td><a href='https://www.cs.cmu.edu/~mblum/research/pdf/grad.html'>Advice to a Beginning Graduate Student (2001)</a></td></tr>
 </table>
 <!-- END:news -->
 
