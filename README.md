@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.dawo.community/en/'>Dutch governments builds alternative for Microsoft based on NixOS</a></td></tr>
-<tr><td><a href='https://www.inkandswitch.com/'>Ink and Switch Interactive Homepage</a></td></tr>
-<tr><td><a href='https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy'>The Mafia may be keeping fentanyl out of Italy</a></td></tr>
-<tr><td><a href='https://nyaa.sh/reviews/mac-mini-m6-emulation'>Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini</a></td></tr>
-<tr><td><a href='https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html'>F-Droid 2.0</a></td></tr>
+<tr><td><a href='https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html'>U.S. appeals court upholds designation of Anthropic as supply chain risk</a></td></tr>
+<tr><td><a href='https://go.dev/blog/simd-experiment'>Platform-Independent SIMD in Go</a></td></tr>
+<tr><td><a href='https://github.com/git-bug/git-bug'>Git-bug: Distributed, offline-first bug tracker embedded in Git</a></td></tr>
+<tr><td><a href='https://sunilsadasivan.com/writing/first-principles-thinking/'>First Principles Thinking</a></td></tr>
+<tr><td><a href='https://github.com/Avinash-jetwani/jevmem'>Jevmem – automatic project memory for Claude Code, built on Jev</a></td></tr>
 </table>
 <!-- END:news -->
 
