@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html'>U.S. appeals court upholds designation of Anthropic as supply chain risk</a></td></tr>
-<tr><td><a href='https://go.dev/blog/simd-experiment'>Platform-Independent SIMD in Go</a></td></tr>
-<tr><td><a href='https://github.com/git-bug/git-bug'>Git-bug: Distributed, offline-first bug tracker embedded in Git</a></td></tr>
-<tr><td><a href='https://sunilsadasivan.com/writing/first-principles-thinking/'>First Principles Thinking</a></td></tr>
-<tr><td><a href='https://github.com/Avinash-jetwani/jevmem'>Jevmem – automatic project memory for Claude Code, built on Jev</a></td></tr>
+<tr><td><a href='https://ollaya.dev/'>Ollaya – Ollama for open-source, Jev-style decision models</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=Cjntrqhn8pk'>Alan Kay: Shannon gave us a way of dealing with noisy channels [video]</a></td></tr>
+<tr><td><a href='https://go.dev/blog/simd-experiment'>Platform-independent SIMD in Go</a></td></tr>
+<tr><td><a href='https://jev-pokemon.vercel.app/'>Show HN: Jev Plays Pokémon Red</a></td></tr>
+<tr><td><a href='https://www.cs.cmu.edu/~mblum/research/pdf/grad.html'>Advice to a Beginning Graduate Student (2001)</a></td></tr>
 </table>
 <!-- END:news -->
 
