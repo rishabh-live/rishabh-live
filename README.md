@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html'>A single function Jev-like wrapper for LLMs, including vision models</a></td></tr>
+<tr><td><a href='https://gultsch.de/posts/breaking-up-with-google-play/'>Breaking Up with Google Play: Why Conversations Is Now Free</a></td></tr>
+<tr><td><a href='https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story'>Fifteen years later, the Apple Cards origin story</a></td></tr>
 <tr><td><a href='https://swarmtraces.org/'>Revealing the details of how OpenAI agents hacked Hugging Face</a></td></tr>
-<tr><td><a href='https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html'>Plan mode is dead</a></td></tr>
-<tr><td><a href='https://ollaya.dev/'>Ollaya – Ollama for open-source, Jev-style decision models</a></td></tr>
-<tr><td><a href='https://jev-pokemon.vercel.app/'>Show HN: Jev Plays Pokémon Red</a></td></tr>
+<tr><td><a href='https://floci.io'>Floci: Locally emulating any cloud service</a></td></tr>
+<tr><td><a href='https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/'>We&#x27;re gonna need a lot more mathematicians</a></td></tr>
 </table>
 <!-- END:news -->
 
