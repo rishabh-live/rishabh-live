@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html'>A single function Jev-like wrapper for LLMs, including vision models</a></td></tr>
 <tr><td><a href='https://swarmtraces.org/'>Revealing the details of how OpenAI agents hacked Hugging Face</a></td></tr>
+<tr><td><a href='https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html'>Plan mode is dead</a></td></tr>
 <tr><td><a href='https://ollaya.dev/'>Ollaya – Ollama for open-source, Jev-style decision models</a></td></tr>
 <tr><td><a href='https://jev-pokemon.vercel.app/'>Show HN: Jev Plays Pokémon Red</a></td></tr>
-<tr><td><a href='https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/'>What even is an OS now?</a></td></tr>
-<tr><td><a href='https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html'>Plan mode is dead</a></td></tr>
 </table>
 <!-- END:news -->
 
