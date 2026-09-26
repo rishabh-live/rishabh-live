@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://gultsch.de/posts/breaking-up-with-google-play/'>Breaking Up with Google Play: Why Conversations Is Now Free</a></td></tr>
+<tr><td><a href='https://github.com/InfinityLoop1308/PipePipe'>PipePipe: NewPipe hard fork implementing SponsorBlock</a></td></tr>
 <tr><td><a href='https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story'>Fifteen years later, the Apple Cards origin story</a></td></tr>
-<tr><td><a href='https://swarmtraces.org/'>Revealing the details of how OpenAI agents hacked Hugging Face</a></td></tr>
-<tr><td><a href='https://floci.io'>Floci: Locally emulating any cloud service</a></td></tr>
-<tr><td><a href='https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/'>We&#x27;re gonna need a lot more mathematicians</a></td></tr>
+<tr><td><a href='https://github.com/brumar/chess-postmortem-skills'>Show HN: A Claude Code skill to analyze your chess games</a></td></tr>
+<tr><td><a href='https://castle-engine.io/modern_pascal'>Modern Object Pascal Introduction for Programmers – Castle Game Engine</a></td></tr>
 </table>
 <!-- END:news -->
 
