@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://gultsch.de/posts/breaking-up-with-google-play/'>Breaking Up with Google Play: Why Conversations Is Now Free</a></td></tr>
 <tr><td><a href='https://github.com/InfinityLoop1308/PipePipe'>PipePipe: NewPipe hard fork implementing SponsorBlock</a></td></tr>
+<tr><td><a href='https://tangled.org/yanndegat.tngl.sh/drawgent'>Drawgent: Coding agent on a live Excalidraw canvas</a></td></tr>
+<tr><td><a href='https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/'>The Lost Atomic Update on Loongson CPU</a></td></tr>
 <tr><td><a href='https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story'>Fifteen years later, the Apple Cards origin story</a></td></tr>
-<tr><td><a href='https://github.com/brumar/chess-postmortem-skills'>Show HN: A Claude Code skill to analyze your chess games</a></td></tr>
-<tr><td><a href='https://castle-engine.io/modern_pascal'>Modern Object Pascal Introduction for Programmers – Castle Game Engine</a></td></tr>
+<tr><td><a href='https://github.com/reladraw/reladraw'>Show HN: Reladraw – A diagram language where you decide where to place things</a></td></tr>
 </table>
 <!-- END:news -->
 
