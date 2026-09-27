@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://arxiv.org/abs/2609.25021'>&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice</a></td></tr>
+<tr><td><a href='https://mitxela.com/projects/flipflip'>Flip Fluid on Flip Dots</a></td></tr>
 <tr><td><a href='https://www.astralcodexten.com/p/does-georgism-work-five-years-later'>Does Georgism work? Five years later</a></td></tr>
+<tr><td><a href='https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/'>OpenAI Feared &quot;Optics&quot; of what might appear on Hacker News</a></td></tr>
 <tr><td><a href='https://antonz.org/go-concurrency-distilled/'>Go Concurrency Distilled</a></td></tr>
-<tr><td><a href='https://github.com/InfinityLoop1308/PipePipe'>PipePipe: NewPipe hard fork implementing SponsorBlock</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2609.22978'>DeepSeek Elastic Compute (DSec)</a></td></tr>
-<tr><td><a href='https://github.com/reladraw/reladraw'>Show HN: Reladraw – A diagram language where you decide where to place things</a></td></tr>
 </table>
 <!-- END:news -->
 
