@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.astralcodexten.com/p/does-georgism-work-five-years-later'>Does Georgism work? Five years later</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2609.22978'>DeepSeek Elastic Compute (DSec)</a></td></tr>
+<tr><td><a href='https://antonz.org/go-concurrency-distilled/'>Go Concurrency Distilled</a></td></tr>
 <tr><td><a href='https://github.com/InfinityLoop1308/PipePipe'>PipePipe: NewPipe hard fork implementing SponsorBlock</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2609.22978'>DeepSeek Elastic Compute (DSec)</a></td></tr>
 <tr><td><a href='https://github.com/reladraw/reladraw'>Show HN: Reladraw – A diagram language where you decide where to place things</a></td></tr>
-<tr><td><a href='https://dashbit.co/blog/evolving-ai-era'>Evolving programming languages in the AI era</a></td></tr>
 </table>
 <!-- END:news -->
 
