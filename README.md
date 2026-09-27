@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://arxiv.org/abs/2609.25021'>&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice</a></td></tr>
-<tr><td><a href='https://mitxela.com/projects/flipflip'>Flip Fluid on Flip Dots</a></td></tr>
-<tr><td><a href='https://www.astralcodexten.com/p/does-georgism-work-five-years-later'>Does Georgism work? Five years later</a></td></tr>
-<tr><td><a href='https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/'>OpenAI Feared &quot;Optics&quot; of what might appear on Hacker News</a></td></tr>
-<tr><td><a href='https://antonz.org/go-concurrency-distilled/'>Go Concurrency Distilled</a></td></tr>
+<tr><td><a href='https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html'>The Normalization of Inexplicable Failures</a></td></tr>
+<tr><td><a href='https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html'>In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life</a></td></tr>
+<tr><td><a href='https://asawicki.info/articles/writing_efficient_cpp_code.php'>Writing Efficient C++ Code</a></td></tr>
+<tr><td><a href='https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/'>Replacing the old battery on rechargeable bike lights</a></td></tr>
+<tr><td><a href='https://pixelambacht.nl/2026/ten-lines-of-code/'>Ten Lines of Code That Changed My World</a></td></tr>
 </table>
 <!-- END:news -->
 
