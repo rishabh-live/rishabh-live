@@ -23,9 +23,9 @@
 <table>
 <tr><td><a href='https://sancho.bearblog.dev/google-weird/'>When did Google get so weird?</a></td></tr>
 <tr><td><a href='https://fireworks.ai/blog/ember-1'>Ember-1</a></td></tr>
-<tr><td><a href='https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11'>Alan Kay&#x27;s answer to &quot;Did the ENIAC have a BIOS&quot;?</a></td></tr>
+<tr><td><a href='https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html'>Lunar Terminator Paradox</a></td></tr>
+<tr><td><a href='https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11'>Alan Kay&#x27;s answer to “Did the ENIAC have a BIOS”?</a></td></tr>
 <tr><td><a href='https://loficities.com/'>Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi</a></td></tr>
-<tr><td><a href='https://shnatsel.github.io/state-of-simd-rust-2026/'>The state of SIMD in Rust in 2026</a></td></tr>
 </table>
 <!-- END:news -->
 
