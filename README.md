@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html'>The Normalization of Inexplicable Failures</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html'>In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life</a></td></tr>
-<tr><td><a href='https://asawicki.info/articles/writing_efficient_cpp_code.php'>Writing Efficient C++ Code</a></td></tr>
-<tr><td><a href='https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/'>Replacing the old battery on rechargeable bike lights</a></td></tr>
-<tr><td><a href='https://pixelambacht.nl/2026/ten-lines-of-code/'>Ten Lines of Code That Changed My World</a></td></tr>
+<tr><td><a href='https://sancho.bearblog.dev/google-weird/'>When did Google get so weird?</a></td></tr>
+<tr><td><a href='https://fireworks.ai/blog/ember-1'>Ember-1</a></td></tr>
+<tr><td><a href='https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11'>Alan Kay&#x27;s answer to &quot;Did the ENIAC have a BIOS&quot;?</a></td></tr>
+<tr><td><a href='https://loficities.com/'>Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi</a></td></tr>
+<tr><td><a href='https://shnatsel.github.io/state-of-simd-rust-2026/'>The state of SIMD in Rust in 2026</a></td></tr>
 </table>
 <!-- END:news -->
 
