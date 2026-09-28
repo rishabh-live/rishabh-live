@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://git.mills.io/prologic/parley'>Parley: Federated, decentralised chat that speaks plain IRC</a></td></tr>
+<tr><td><a href='https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/'>AI companies in race to demonstrate their model most threatening to humanity</a></td></tr>
 <tr><td><a href='https://colo.to/nvidia-stock-narrative.html'>Owed a billion dollars in Nvidia stock</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2110.01834'>Thinking Fast and Slow in AI: The Role of Metacognition</a></td></tr>
-<tr><td><a href='https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/'>Nissan&#x27;s third generation e-POWER powertrain</a></td></tr>
-<tr><td><a href='https://fireworks.ai/blog/ember-1'>Ember-1</a></td></tr>
-<tr><td><a href='https://sancho.bearblog.dev/google-weird/'>When did Google get so weird?</a></td></tr>
+<tr><td><a href='https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does'>Footguns with Postgres &quot;at time zone &#x27;UTC&#x27;&quot;</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2110.01834'>Thinking fast and slow in AI: The role of metacognition (2021)</a></td></tr>
 </table>
 <!-- END:news -->
 
