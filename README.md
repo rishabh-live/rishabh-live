@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://sancho.bearblog.dev/google-weird/'>When did Google get so weird?</a></td></tr>
+<tr><td><a href='https://colo.to/nvidia-stock-narrative.html'>Owed a billion dollars in Nvidia stock</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2110.01834'>Thinking Fast and Slow in AI: The Role of Metacognition</a></td></tr>
+<tr><td><a href='https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/'>Nissan&#x27;s third generation e-POWER powertrain</a></td></tr>
 <tr><td><a href='https://fireworks.ai/blog/ember-1'>Ember-1</a></td></tr>
-<tr><td><a href='https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html'>Lunar Terminator Paradox</a></td></tr>
-<tr><td><a href='https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11'>Alan Kay&#x27;s answer to “Did the ENIAC have a BIOS”?</a></td></tr>
-<tr><td><a href='https://loficities.com/'>Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi</a></td></tr>
+<tr><td><a href='https://sancho.bearblog.dev/google-weird/'>When did Google get so weird?</a></td></tr>
 </table>
 <!-- END:news -->
 
