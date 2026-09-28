@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://git.mills.io/prologic/parley'>Parley: Federated, decentralised chat that speaks plain IRC</a></td></tr>
-<tr><td><a href='https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/'>AI companies in race to demonstrate their model most threatening to humanity</a></td></tr>
-<tr><td><a href='https://colo.to/nvidia-stock-narrative.html'>Owed a billion dollars in Nvidia stock</a></td></tr>
-<tr><td><a href='https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does'>Footguns with Postgres &quot;at time zone &#x27;UTC&#x27;&quot;</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2110.01834'>Thinking fast and slow in AI: The role of metacognition (2021)</a></td></tr>
+<tr><td><a href='https://mubi.com/en/notebook/posts/pirating-the-pirates'>Pirating the Pirates</a></td></tr>
+<tr><td><a href='https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/'>Hijacking the PS5&#x27;s RTMP stream</a></td></tr>
+<tr><td><a href='https://hn.watch/'>Show HN: HN.watch – Videos of all Hacker News posts</a></td></tr>
+<tr><td><a href='https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola'>Joseph Szabo’s pictures of American adolescents</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/'>Who wrote Elizabeth I&#x27;s most scathing letters?</a></td></tr>
 </table>
 <!-- END:news -->
 
