@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/firelex/jeff'>Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms</a></td></tr>
+<tr><td><a href='https://jagi.studio/posts/phyllotaxis/'>Phyllotaxis: An audio-reactive LED display</a></td></tr>
+<tr><td><a href='https://lolchat.rip/'>1996 chat room simulator connected to Win95 and System 7 web desktops</a></td></tr>
 <tr><td><a href='https://mubi.com/en/notebook/posts/pirating-the-pirates'>Pirating the Pirates</a></td></tr>
-<tr><td><a href='https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/'>12,000-year-old Göbeklitepe burials explain scattered bones</a></td></tr>
-<tr><td><a href='https://stateofutopia.com/experiments/microllmlab/'>MicroLLM Lab – Try 7 tiny LLM&#x27;s in the browser</a></td></tr>
-<tr><td><a href='https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/'>Scientists solve 1840s space weather mystery</a></td></tr>
+<tr><td><a href='http://www.jimsitu.com'>Tank Body Problem</a></td></tr>
 </table>
 <!-- END:news -->
 
