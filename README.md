@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/firelex/jeff'>Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms</a></td></tr>
+<tr><td><a href='https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf'>AI companies leak data to advertisers [pdf]</a></td></tr>
+<tr><td><a href='https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html'>Using any C++ library in Godot</a></td></tr>
 <tr><td><a href='https://jagi.studio/posts/phyllotaxis/'>Phyllotaxis: An audio-reactive LED display</a></td></tr>
-<tr><td><a href='https://lolchat.rip/'>1996 chat room simulator connected to Win95 and System 7 web desktops</a></td></tr>
-<tr><td><a href='https://mubi.com/en/notebook/posts/pirating-the-pirates'>Pirating the Pirates</a></td></tr>
-<tr><td><a href='http://www.jimsitu.com'>Tank Body Problem</a></td></tr>
+<tr><td><a href='https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/'>The systems that no one will test</a></td></tr>
+<tr><td><a href='https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html'>Booted up in 1993, this server still runs – but not for much longer (2017)</a></td></tr>
 </table>
 <!-- END:news -->
 
