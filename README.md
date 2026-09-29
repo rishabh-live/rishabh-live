@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf'>AI companies leak data to advertisers [pdf]</a></td></tr>
-<tr><td><a href='https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html'>Using any C++ library in Godot</a></td></tr>
-<tr><td><a href='https://jagi.studio/posts/phyllotaxis/'>Phyllotaxis: An audio-reactive LED display</a></td></tr>
-<tr><td><a href='https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/'>The systems that no one will test</a></td></tr>
-<tr><td><a href='https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html'>Booted up in 1993, this server still runs – but not for much longer (2017)</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/delhi-electricity-loss'>How Delhi cut electricity loss from 50 to 5 percent</a></td></tr>
+<tr><td><a href='https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf'>A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]</a></td></tr>
+<tr><td><a href='https://github.com/PostHog/jeeves'>Jeeves. Reasoning improves Jev-like decision models</a></td></tr>
+<tr><td><a href='https://www.withouthotair.com/'>Without the Hot Air</a></td></tr>
+<tr><td><a href='https://bookofjoe2.blogspot.com/2026/09/walking-men.html'>Walking Men</a></td></tr>
 </table>
 <!-- END:news -->
 
