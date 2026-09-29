@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/'>U.S. postal inspectors shut down website selling counterfeit postage labels</a></td></tr>
+<tr><td><a href='https://www.tcl-lang.org/software/tcltk/9.1.html'>Tcl&#x2F;Tk 9.1 Released</a></td></tr>
+<tr><td><a href='https://openai.com/index/introducing-gpt-6-1-sol/'>GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a></td></tr>
 <tr><td><a href='https://spectrum.ieee.org/delhi-electricity-loss'>How Delhi cut electricity loss from 50 to 5 percent</a></td></tr>
-<tr><td><a href='https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf'>A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]</a></td></tr>
-<tr><td><a href='https://github.com/PostHog/jeeves'>Jeeves. Reasoning improves Jev-like decision models</a></td></tr>
-<tr><td><a href='https://www.withouthotair.com/'>Without the Hot Air</a></td></tr>
-<tr><td><a href='https://bookofjoe2.blogspot.com/2026/09/walking-men.html'>Walking Men</a></td></tr>
+<tr><td><a href='https://github.com/ntfargo/Relapse-Exploit'>PS5 Relapse Exploit</a></td></tr>
 </table>
 <!-- END:news -->
 
