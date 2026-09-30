@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/'>Gemini 4 Argon</a></td></tr>
+<tr><td><a href='https://www.thespacereview.com/article/4951/1'>The top secret URSALA, RAQUEL, and FARRAH satellites</a></td></tr>
+<tr><td><a href='https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/'>Surprisingly complex waves reveal the brain&#x27;s inner workings</a></td></tr>
+<tr><td><a href='https://edgcpp.org/#transition'>EDG C++ front-end goes public</a></td></tr>
 <tr><td><a href='https://github.com/magnitudedev/magnitude'>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</a></td></tr>
-<tr><td><a href='https://yedhu.me/posts/commit-description-as-a-thinking-tool/'>Commit Description as a Thinking Tool</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/bloomberg-terminal'>A brief history of the Bloomberg terminal</a></td></tr>
-<tr><td><a href='https://earendil.com/posts/you-said-no-mcp/'>You Said No MCP</a></td></tr>
-<tr><td><a href='https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson'>Burning Man Death Rates – A Short Lesson in Statistics</a></td></tr>
 </table>
 <!-- END:news -->
 
