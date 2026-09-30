@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://earendil.com/posts/you-said-no-mcp/'>Pi.dev: You Said No MCP</a></td></tr>
-<tr><td><a href='https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96'>Show HN: JBR-001 – An open-source 3D printable desktop robot</a></td></tr>
-<tr><td><a href='https://github.com/ninjahawk/livenerf'>Livenerf: Has Opus 5.5 been nerfed yet?</a></td></tr>
-<tr><td><a href='https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use'>Most data centers refusing to say how much water, electricity they use</a></td></tr>
-<tr><td><a href='https://exyr.org/2026/solving-factorio-quality/'>Solving Factorio Quality</a></td></tr>
+<tr><td><a href='https://github.com/magnitudedev/magnitude'>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</a></td></tr>
+<tr><td><a href='https://yedhu.me/posts/commit-description-as-a-thinking-tool/'>Commit Description as a Thinking Tool</a></td></tr>
+<tr><td><a href='https://spectrum.ieee.org/bloomberg-terminal'>A brief history of the Bloomberg terminal</a></td></tr>
+<tr><td><a href='https://earendil.com/posts/you-said-no-mcp/'>You Said No MCP</a></td></tr>
+<tr><td><a href='https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson'>Burning Man Death Rates – A Short Lesson in Statistics</a></td></tr>
 </table>
 <!-- END:news -->
 
