@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/ninjahawk/livenerf'>Livenerf: Has Opus 5.5 been nerfed yet?</a></td></tr>
+<tr><td><a href='https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart'>NASA asked several former SR-71A staffers to help secret restart</a></td></tr>
 <tr><td><a href='https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/'>U.S. postal inspectors shut down website selling counterfeit postage labels</a></td></tr>
-<tr><td><a href='https://www.tcl-lang.org/software/tcltk/9.1.html'>Tcl&#x2F;Tk 9.1 Released</a></td></tr>
-<tr><td><a href='https://openai.com/index/introducing-gpt-6-1-sol/'>GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</a></td></tr>
-<tr><td><a href='https://spectrum.ieee.org/delhi-electricity-loss'>How Delhi cut electricity loss from 50 to 5 percent</a></td></tr>
-<tr><td><a href='https://github.com/ntfargo/Relapse-Exploit'>PS5 Relapse Exploit</a></td></tr>
+<tr><td><a href='https://enigma.design'>Show HN: A working 3D model of an Enigma machine</a></td></tr>
+<tr><td><a href='https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms'>Vermont replacing power plants with home batteries</a></td></tr>
 </table>
 <!-- END:news -->
 
