@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/'>Gemini 4 Argon</a></td></tr>
-<tr><td><a href='https://www.thespacereview.com/article/4951/1'>The top secret URSALA, RAQUEL, and FARRAH satellites</a></td></tr>
+<tr><td><a href='https://www.thespacereview.com/article/4951/1'>The top secret URSALA, RAQUEL, and FARRAH satellites (2025)</a></td></tr>
+<tr><td><a href='https://www.worksinprogress.news/p/why-really-caused-the-bronze-age'>Why the Bronze Age Collapsed</a></td></tr>
 <tr><td><a href='https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/'>Surprisingly complex waves reveal the brain&#x27;s inner workings</a></td></tr>
-<tr><td><a href='https://twitter.com/tuakdotsol/status/2105105417760391258'>Singapore govt dating app uses Gale-Shapley stable marriage algorithm</a></td></tr>
-<tr><td><a href='https://56k.rip/'>56k.rip – the 1996 dial-up internet experience</a></td></tr>
+<tr><td><a href='https://github.com/magnitudedev/magnitude'>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</a></td></tr>
 </table>
 <!-- END:news -->
 
