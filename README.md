@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/'>Gemini 4 Argon</a></td></tr>
-<tr><td><a href='https://www.thespacereview.com/article/4951/1'>The top secret URSALA, RAQUEL, and FARRAH satellites (2025)</a></td></tr>
-<tr><td><a href='https://www.worksinprogress.news/p/why-really-caused-the-bronze-age'>Why the Bronze Age Collapsed</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/'>Surprisingly complex waves reveal the brain&#x27;s inner workings</a></td></tr>
-<tr><td><a href='https://github.com/magnitudedev/magnitude'>Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents</a></td></tr>
+<tr><td><a href='https://earendil.com/posts/pi-1-0/'>Pi 1.0</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/clef-decision-models/'>Clef: Open-source decision models, and new RL fine-tuning platform</a></td></tr>
+<tr><td><a href='https://turbopuffer.com/blog/rip-vector-database'>RIP, vector database</a></td></tr>
+<tr><td><a href='https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570'>Oxygen-deprived underwater zones may not be &quot;dead zones&quot; but clue to early life</a></td></tr>
+<tr><td><a href='https://github.com/streetcomplete/StreetComplete/issues/5421'>StreetComplete on iOS is now in public beta</a></td></tr>
 </table>
 <!-- END:news -->
 
