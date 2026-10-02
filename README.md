@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://earendil.com/posts/pi-1-0/'>Pi 1.0</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/clef-decision-models/'>Clef: Open-source decision models, and new RL fine-tuning platform</a></td></tr>
-<tr><td><a href='https://turbopuffer.com/blog/rip-vector-database'>RIP, vector database</a></td></tr>
-<tr><td><a href='https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570'>Oxygen-deprived underwater zones may not be &quot;dead zones&quot; but clue to early life</a></td></tr>
-<tr><td><a href='https://github.com/streetcomplete/StreetComplete/issues/5421'>StreetComplete on iOS is now in public beta</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/clef-decision-models/'>Clef: Open-weight decision models, and new RL fine-tuning platform</a></td></tr>
+<tr><td><a href='https://svelte.dev/blog/sveltekit-3-is-here'>SvelteKit 3</a></td></tr>
+<tr><td><a href='https://github.com/Vibra-Ingenn/Janus'>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD&#x2F;Intel&#x2F;Nvidia</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=49922569'>Ask HN: Who is hiring? (October 2026)</a></td></tr>
 </table>
 <!-- END:news -->
 
