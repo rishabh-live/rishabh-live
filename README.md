@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://earendil.com/posts/pi-1-0/'>Pi 1.0</a></td></tr>
-<tr><td><a href='https://inrng.com/2026/10/shimano-bicycle-museum/'>Shimano Bicycle Museum Review</a></td></tr>
-<tr><td><a href='https://lwn.net/Articles/1097401/'>Several vulnerabilities have been discovered in the Linux kernel</a></td></tr>
-<tr><td><a href='https://github.com/kvoltmer/Audionaut'>Show HN: Audionaut – an open-source cross-platform multitrack audio editor</a></td></tr>
-<tr><td><a href='https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/'>Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude</a></td></tr>
+<tr><td><a href='https://aresluna.org/dutch-computer-museums/'>Dutch computer museums (2022)</a></td></tr>
+<tr><td><a href='https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility'>Court agrees with EFF: Utah&#x27;s VPN law demands a technical impossibility</a></td></tr>
+<tr><td><a href='https://gwern.net/doc/math/1973-halmos.pdf'>The Legend of von Neumann (1973) [pdf]</a></td></tr>
+<tr><td><a href='https://bfl.ai/models/flux-3-image'>FLUX 3 Image</a></td></tr>
+<tr><td><a href='https://chatgpt.com/features/sites/'>Sites in ChatGPT</a></td></tr>
 </table>
 <!-- END:news -->
 
