@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://aresluna.org/dutch-computer-museums/'>Dutch computer museums (2022)</a></td></tr>
+<tr><td><a href='https://ziglang.org/download/0.17.0/release-notes.html'>Zig v0.17.0</a></td></tr>
+<tr><td><a href='https://developer.apple.com/pass-designer/'>Apple Pass Designer</a></td></tr>
+<tr><td><a href='https://blog.sshh.io/p/the-harness-is-the-company'>The Harness Is the Company</a></td></tr>
 <tr><td><a href='https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility'>Court agrees with EFF: Utah&#x27;s VPN law demands a technical impossibility</a></td></tr>
-<tr><td><a href='https://gwern.net/doc/math/1973-halmos.pdf'>The Legend of von Neumann (1973) [pdf]</a></td></tr>
-<tr><td><a href='https://bfl.ai/models/flux-3-image'>FLUX 3 Image</a></td></tr>
-<tr><td><a href='https://chatgpt.com/features/sites/'>Sites in ChatGPT</a></td></tr>
+<tr><td><a href='https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f'>A 12-year sequence of telescope images of a star and four planets orbiting</a></td></tr>
 </table>
 <!-- END:news -->
 
