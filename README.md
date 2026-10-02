@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://earendil.com/posts/pi-1-0/'>Pi 1.0</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/clef-decision-models/'>Clef: Open-weight decision models, and new RL fine-tuning platform</a></td></tr>
-<tr><td><a href='https://svelte.dev/blog/sveltekit-3-is-here'>SvelteKit 3</a></td></tr>
-<tr><td><a href='https://github.com/Vibra-Ingenn/Janus'>Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD&#x2F;Intel&#x2F;Nvidia</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49922569'>Ask HN: Who is hiring? (October 2026)</a></td></tr>
+<tr><td><a href='https://www.deepseek.com/en/harness/'>DeepSeek Harness</a></td></tr>
+<tr><td><a href='https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/'>Meta&#x27;s Muse is fantastic for web scraping</a></td></tr>
+<tr><td><a href='https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works'>How Singapore&#x27;s government-run dating service works</a></td></tr>
+<tr><td><a href='https://inrng.com/2026/10/shimano-bicycle-museum/'>Shimano Bicycle Museum Review</a></td></tr>
 </table>
 <!-- END:news -->
 
