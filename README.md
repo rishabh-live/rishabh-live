@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.extrabigassintelligence.com/'>Extra Big Ass Intelligence</a></td></tr>
 <tr><td><a href='https://www.newgrounds.com/'>Newgrounds.com – A community of games, music, and art</a></td></tr>
 <tr><td><a href='https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility'>Court agrees with EFF: Utah&#x27;s VPN law demands a technical impossibility</a></td></tr>
-<tr><td><a href='https://yuka.dev/blog-2026-10-02-linux-m4.html'>The Forgetful CPU (Linux on M4)</a></td></tr>
-<tr><td><a href='https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/'>Mike Tomlin spent 12 years building a Minecraft city</a></td></tr>
+<tr><td><a href='https://developer.apple.com/pass-designer/'>Apple Pass Designer</a></td></tr>
+<tr><td><a href='https://tej.as/blog/aleph-alpha-kolibri'>Show HN: Germany&#x27;s new sovereign AI model Kolibri</a></td></tr>
+<tr><td><a href='https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/'>GitHub&#x27;s new dashboard experience now the default</a></td></tr>
 </table>
 <!-- END:news -->
 
