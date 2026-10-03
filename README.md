@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://notoriousbfg.com/hole-punch/'>Hole Punch: Sling your spaceship around gravitational fields</a></td></tr>
-<tr><td><a href='https://aleph-alpha.com/downloads/tech-report.pdf'>Kolibri – Tech Report [pdf]</a></td></tr>
-<tr><td><a href='https://blog.cloudflare.com/next-git-platform-on-cloudflare/'>We want you to build the next Git platform on Cloudflare</a></td></tr>
+<tr><td><a href='https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/'>Federal judge calls Flock &#x27;indiscriminate mass surveillance&#x27;</a></td></tr>
+<tr><td><a href='https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict'>Treachery in the Rodin Museum 3D scan verdict</a></td></tr>
+<tr><td><a href='https://ben.stolovitz.com/posts/reasons-not-emt-ranked/'>Reasons I didn&#x27;t become an EMT, ranked</a></td></tr>
 <tr><td><a href='https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/'>Celebrating the 100th birthday of the kidney donated to him as a teenager</a></td></tr>
-<tr><td><a href='https://claude.dev/blog/getting-the-most-out-of-opus-5-5/'>Getting the most out of Opus 5.5 in Claude and Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
