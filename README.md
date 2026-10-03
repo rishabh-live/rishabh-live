@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.newgrounds.com/'>Newgrounds.com – A community of games, music, and art</a></td></tr>
-<tr><td><a href='https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility'>Court agrees with EFF: Utah&#x27;s VPN law demands a technical impossibility</a></td></tr>
-<tr><td><a href='https://developer.apple.com/pass-designer/'>Apple Pass Designer</a></td></tr>
-<tr><td><a href='https://tej.as/blog/aleph-alpha-kolibri'>Show HN: Germany&#x27;s new sovereign AI model Kolibri</a></td></tr>
-<tr><td><a href='https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/'>GitHub&#x27;s new dashboard experience now the default</a></td></tr>
+<tr><td><a href='https://tej.as/blog/aleph-alpha-kolibri'>Kolibri is an open-weight LLM from Aleph Alpha for German and English</a></td></tr>
+<tr><td><a href='https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2'>City building games have a Soul Problem pt.2</a></td></tr>
+<tr><td><a href='https://ftl-os.org/'>FTL: A new operating system for clouds</a></td></tr>
+<tr><td><a href='https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/'>Kolibri Has Landed: A Sovereign Open-Weight Model</a></td></tr>
+<tr><td><a href='http://www.darbiansphotography.com/woking-electrical-control-room-urbex'>Woking Electrical Control Room (2016)</a></td></tr>
 </table>
 <!-- END:news -->
 
