@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://tej.as/blog/aleph-alpha-kolibri'>Kolibri is an open-weight LLM from Aleph Alpha for German and English</a></td></tr>
-<tr><td><a href='https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2'>City building games have a Soul Problem pt.2</a></td></tr>
-<tr><td><a href='https://ftl-os.org/'>FTL: A new operating system for clouds</a></td></tr>
-<tr><td><a href='https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/'>Kolibri Has Landed: A Sovereign Open-Weight Model</a></td></tr>
-<tr><td><a href='http://www.darbiansphotography.com/woking-electrical-control-room-urbex'>Woking Electrical Control Room (2016)</a></td></tr>
+<tr><td><a href='https://notoriousbfg.com/hole-punch/'>Hole Punch: Sling your spaceship around gravitational fields</a></td></tr>
+<tr><td><a href='https://aleph-alpha.com/downloads/tech-report.pdf'>Kolibri – Tech Report [pdf]</a></td></tr>
+<tr><td><a href='https://blog.cloudflare.com/next-git-platform-on-cloudflare/'>We want you to build the next Git platform on Cloudflare</a></td></tr>
+<tr><td><a href='https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/'>Celebrating the 100th birthday of the kidney donated to him as a teenager</a></td></tr>
+<tr><td><a href='https://claude.dev/blog/getting-the-most-out-of-opus-5-5/'>Getting the most out of Opus 5.5 in Claude and Claude Code</a></td></tr>
 </table>
 <!-- END:news -->
 
