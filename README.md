@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/Niko1221/Strata'>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T&#x2F;s</a></td></tr>
+<tr><td><a href='https://github.com/omlahore/RemoveMacAI'>Turn off Apple Intelligence on macOS 27 and get its disk space back</a></td></tr>
+<tr><td><a href='https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/'>Improper redaction reveals Google Data Center water and electricity usage</a></td></tr>
 <tr><td><a href='https://mapped.earth/lighthouses/world'>A map of every lighthouse</a></td></tr>
-<tr><td><a href='https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review'>&#x27;Neanderthals Among Us&#x27; review</a></td></tr>
-<tr><td><a href='https://niklasroy.com/gtc/'>Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=49949438'>Tell HN: Bob Cringely has died</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=eZ8WWZzoaR0'>Homa: The end of TCP for AI clusters [video]</a></td></tr>
 </table>
 <!-- END:news -->
 
