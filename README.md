@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://notoriousbfg.com/hole-punch/'>Hole Punch: Sling your spaceship around gravitational fields</a></td></tr>
-<tr><td><a href='https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/'>Federal judge calls Flock &#x27;indiscriminate mass surveillance&#x27;</a></td></tr>
-<tr><td><a href='https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict'>Treachery in the Rodin Museum 3D scan verdict</a></td></tr>
-<tr><td><a href='https://ben.stolovitz.com/posts/reasons-not-emt-ranked/'>Reasons I didn&#x27;t become an EMT, ranked</a></td></tr>
-<tr><td><a href='https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/'>Celebrating the 100th birthday of the kidney donated to him as a teenager</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=49949438'>Tell HN: Bob Cringely has died</a></td></tr>
+<tr><td><a href='https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/'>Why don&#x27;t more developers &quot;use the platform&quot;?</a></td></tr>
+<tr><td><a href='https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician'>So you think you could be an electrician?</a></td></tr>
+<tr><td><a href='https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/'>We&#x27;re going to need default hard budget caps on pretty much everything</a></td></tr>
+<tr><td><a href='https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU'>The work by Valve&#x27;s Timur Kristóf on improving old AMD GPUs on Linux</a></td></tr>
 </table>
 <!-- END:news -->
 
