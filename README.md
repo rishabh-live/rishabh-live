@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/Niko1221/Strata'>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T&#x2F;s</a></td></tr>
-<tr><td><a href='https://automatictransmission.khoury.northeastern.edu/'>Car is a smartphone on wheels. Here&#x27;s who&#x27;s listening</a></td></tr>
-<tr><td><a href='https://niklasroy.com/gtc/'>Glashütte Trash Clock – A 30-minute pendulum clock made from trash</a></td></tr>
+<tr><td><a href='https://mapped.earth/lighthouses/world'>A map of every lighthouse</a></td></tr>
+<tr><td><a href='https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review'>&#x27;Neanderthals Among Us&#x27; review</a></td></tr>
+<tr><td><a href='https://niklasroy.com/gtc/'>Show HN: Glashütte Trash Clock – A 30-minute pendulum clock made from trash</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49949438'>Tell HN: Bob Cringely has died</a></td></tr>
-<tr><td><a href='https://github.com/allenv0/SCM'>Show HN: AI search for every photo and every frame of video on macOS</a></td></tr>
 </table>
 <!-- END:news -->
 
