@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://gamehistory.org/5k-magazines/'>VGHF Digital Archive passes 5000 magazines. Here&#x27;s what&#x27;s next</a></td></tr>
+<tr><td><a href='https://github.com/Niko1221/Strata'>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T&#x2F;s</a></td></tr>
+<tr><td><a href='https://automatictransmission.khoury.northeastern.edu/'>Car is a smartphone on wheels. Here&#x27;s who&#x27;s listening</a></td></tr>
+<tr><td><a href='https://niklasroy.com/gtc/'>Glashütte Trash Clock – A 30-minute pendulum clock made from trash</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49949438'>Tell HN: Bob Cringely has died</a></td></tr>
-<tr><td><a href='https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/'>Why don&#x27;t more developers “use the platform”?</a></td></tr>
-<tr><td><a href='https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician'>So you think you could be an electrician?</a></td></tr>
-<tr><td><a href='https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU'>The work by Valve&#x27;s Timur Kristóf on improving old AMD GPUs on Linux</a></td></tr>
+<tr><td><a href='https://github.com/allenv0/SCM'>Show HN: AI search for every photo and every frame of video on macOS</a></td></tr>
 </table>
 <!-- END:news -->
 
