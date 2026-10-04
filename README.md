@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://gamehistory.org/5k-magazines/'>VGHF Digital Archive passes 5000 magazines. Here&#x27;s what&#x27;s next</a></td></tr>
 <tr><td><a href='https://news.ycombinator.com/item?id=49949438'>Tell HN: Bob Cringely has died</a></td></tr>
-<tr><td><a href='https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/'>Why don&#x27;t more developers &quot;use the platform&quot;?</a></td></tr>
+<tr><td><a href='https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/'>Why don&#x27;t more developers “use the platform”?</a></td></tr>
 <tr><td><a href='https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician'>So you think you could be an electrician?</a></td></tr>
-<tr><td><a href='https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/'>We&#x27;re going to need default hard budget caps on pretty much everything</a></td></tr>
 <tr><td><a href='https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU'>The work by Valve&#x27;s Timur Kristóf on improving old AMD GPUs on Linux</a></td></tr>
 </table>
 <!-- END:news -->
