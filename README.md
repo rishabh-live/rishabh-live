@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/Niko1221/Strata'>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T&#x2F;s</a></td></tr>
+<tr><td><a href='https://blog.zarfhome.com/2026/10/infidel-goes-wild'>Infidel goes wild</a></td></tr>
 <tr><td><a href='https://github.com/omlahore/RemoveMacAI'>Turn off Apple Intelligence on macOS 27 and get its disk space back</a></td></tr>
-<tr><td><a href='https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/'>Improper redaction reveals Google Data Center water and electricity usage</a></td></tr>
-<tr><td><a href='https://mapped.earth/lighthouses/world'>A map of every lighthouse</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=eZ8WWZzoaR0'>Homa: The end of TCP for AI clusters [video]</a></td></tr>
+<tr><td><a href='https://wieslawsoltes.github.io/VB6/'>A browser-native classic Visual Basic VB6 IDE</a></td></tr>
+<tr><td><a href='https://vincent.bernat.ch/en/blog/2026-http-over-ssh'>Self-hosted HTTP tunnels with SSH and Nginx</a></td></tr>
 </table>
 <!-- END:news -->
 
