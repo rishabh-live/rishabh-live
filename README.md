@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/Niko1221/Strata'>Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T&#x2F;s</a></td></tr>
-<tr><td><a href='https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/'>In the wake of Tippett Studios’ closure, a digital archive appears online</a></td></tr>
-<tr><td><a href='https://frn.sh/go-gc/'>A 40ms Go garbage collector pause caused by swap</a></td></tr>
-<tr><td><a href='https://cedardb.com/blog/sqldoom/'>We ported the original Doom to SQL</a></td></tr>
-<tr><td><a href='https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108'>Replacement of petroleum based products with plant-based materials (2025)</a></td></tr>
+<tr><td><a href='https://dosdays.co.uk/topics/Software/borland_turbo_basic.php'>Borland Turbo Basic</a></td></tr>
+<tr><td><a href='https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/'>Web Search API</a></td></tr>
+<tr><td><a href='https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/'>Making a GTK application in Haskell, part 1</a></td></tr>
+<tr><td><a href='https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger'>Denmark Data Breach Exposes 8.8M People&#x27;s Personal Data</a></td></tr>
+<tr><td><a href='https://github.com/rui314/mold/releases/tag/v3.0.0'>Mold Linker Version 3.0.0 Release – Rewritten in Rust</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
