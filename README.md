@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://dosdays.co.uk/topics/Software/borland_turbo_basic.php'>Borland Turbo Basic</a></td></tr>
-<tr><td><a href='https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/'>Web Search API</a></td></tr>
-<tr><td><a href='https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/'>Making a GTK application in Haskell, part 1</a></td></tr>
-<tr><td><a href='https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger'>Denmark Data Breach Exposes 8.8M People&#x27;s Personal Data</a></td></tr>
-<tr><td><a href='https://github.com/rui314/mold/releases/tag/v3.0.0'>Mold Linker Version 3.0.0 Release – Rewritten in Rust</a></td></tr>
+<tr><td><a href='https://reflection.ai/blog/introducing-beam'>Beam: Reflection&#x27;s 501B open-weight model</a></td></tr>
+<tr><td><a href='https://flattensf.com/'>Find the flattest route between any two points in SF</a></td></tr>
+<tr><td><a href='https://qlabs.sh/research/dust'>Dust: Pretraining Transformers Without Backpropagation</a></td></tr>
+<tr><td><a href='https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors'>Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</a></td></tr>
+<tr><td><a href='https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/'>Using Blu-ray M-Disk as Backup of Last Resort</a></td></tr>
 </table>
 <!-- END:news -->
 
