@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://docs.mistral.ai/models/mistral-large-4-0'>Mistral Large 4</a></td></tr>
-<tr><td><a href='https://github.com/FeSens/openTPU'>AI is now capable of developing its own inference hardware</a></td></tr>
-<tr><td><a href='https://pola.rs/posts/release-polars-2/'>Release of Polars 2.0</a></td></tr>
-<tr><td><a href='https://www.nobelprize.org/prizes/physics/2026/'>Nobel Prize in Physics goes to Francis Halzen</a></td></tr>
-<tr><td><a href='https://worrydream.com/EarlyHistoryOfSmalltalk/'>The Early History of Smalltalk (1993)</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/mistral-large-4/\'>Mistral Large 4</a></td></tr>
+<tr><td><a href='https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/'>EmbeddingGemma 2</a></td></tr>
+<tr><td><a href='https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/'>Paramount Skydance has completed its $111B merger with Warner Bros. Discovery</a></td></tr>
+<tr><td><a href='https://www.nobelprize.org/prizes/physics/2026/'>Nobel Prize in Physics 2026: Francis Halzen</a></td></tr>
+<tr><td><a href='https://github.com/FeSens/openTPU'>OpenTPU – An open-source AI accelerator, developed by AI</a></td></tr>
 </table>
 <!-- END:news -->
 
