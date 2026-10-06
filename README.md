@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://docs.mistral.ai/models/mistral-large-4-0'>Mistral Large 4</a></td></tr>
+<tr><td><a href='https://github.com/FeSens/openTPU'>AI is now capable of developing its own inference hardware</a></td></tr>
+<tr><td><a href='https://pola.rs/posts/release-polars-2/'>Release of Polars 2.0</a></td></tr>
 <tr><td><a href='https://www.nobelprize.org/prizes/physics/2026/'>Nobel Prize in Physics goes to Francis Halzen</a></td></tr>
-<tr><td><a href='https://reflection.ai/blog/introducing-beam'>Beam: Reflection&#x27;s 501B open-weight model</a></td></tr>
-<tr><td><a href='https://liquidbrain.net/blog/accountability-and-joy/'>Accountability mechanisms can be joyful (2024)</a></td></tr>
-<tr><td><a href='https://flattensf.com/'>Find the flattest route between any two points in SF</a></td></tr>
-<tr><td><a href='https://qlabs.sh/research/dust'>Dust: Pretraining Transformers Without Backpropagation</a></td></tr>
+<tr><td><a href='https://worrydream.com/EarlyHistoryOfSmalltalk/'>The Early History of Smalltalk (1993)</a></td></tr>
 </table>
 <!-- END:news -->
 
