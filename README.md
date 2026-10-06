@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://reflection.ai/blog/introducing-beam'>Beam: Reflection&#x27;s 501B open-weight model</a></td></tr>
+<tr><td><a href='https://www.debugbear.com/blog/example-dot-com-redesign-history'>Example.com just launched the biggest redesign in decades</a></td></tr>
 <tr><td><a href='https://flattensf.com/'>Find the flattest route between any two points in SF</a></td></tr>
+<tr><td><a href='https://edworkingpapers.com/ai26-1551'>AI tutoring with Khanmigo in a two-year school experiment</a></td></tr>
 <tr><td><a href='https://qlabs.sh/research/dust'>Dust: Pretraining Transformers Without Backpropagation</a></td></tr>
-<tr><td><a href='https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors'>Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</a></td></tr>
-<tr><td><a href='https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/'>Using Blu-ray M-Disk as Backup of Last Resort</a></td></tr>
 </table>
 <!-- END:news -->
 
