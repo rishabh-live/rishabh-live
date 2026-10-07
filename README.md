@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openai.com/index/sharing-ai-progress-in-mathematics/'>Sharing AI progress in mathematics</a></td></tr>
-<tr><td><a href='https://strandsagents.com/blog/introducing-strands-decider/'>Strands Decider 2B: a small, open-source, decision model</a></td></tr>
-<tr><td><a href='https://developers.openai.com/api/docs/guides/decisions'>Decisions API is in public beta</a></td></tr>
-<tr><td><a href='https://nanochess.org/la_cueva_bbs.html'>La Cueva BBS in Mexico in 1993 (session replay)</a></td></tr>
-<tr><td><a href='https://github.com/M-Abozaid/esp32-c3-adblock'>ESP32-C3 Adblock</a></td></tr>
+<tr><td><a href='https://developer.chrome.com/blog/jpeg-xl-in-chrome'>Shipping JPEG XL in Chrome</a></td></tr>
+<tr><td><a href='https://synthid.com/'>SynthID Detector</a></td></tr>
+<tr><td><a href='https://www.githubstatus.com/incidents/djlmxz2zd0j7'>GitHub Incident with Git Operations, Pull Requests and Actions</a></td></tr>
+<tr><td><a href='https://labs.google/playground'>Google Playground</a></td></tr>
+<tr><td><a href='https://github.com/szabadkai/c64-keyboard-font/'>A font recreated from photographs of classic Commodore 64 keycaps</a></td></tr>
 </table>
 <!-- END:news -->
 
