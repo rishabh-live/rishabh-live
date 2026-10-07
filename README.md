@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://developer.chrome.com/blog/jpeg-xl-in-chrome'>Shipping JPEG XL in Chrome</a></td></tr>
-<tr><td><a href='https://synthid.com/'>SynthID Detector</a></td></tr>
-<tr><td><a href='https://www.githubstatus.com/incidents/djlmxz2zd0j7'>GitHub Incident with Git Operations, Pull Requests and Actions</a></td></tr>
-<tr><td><a href='https://labs.google/playground'>Google Playground</a></td></tr>
-<tr><td><a href='https://github.com/szabadkai/c64-keyboard-font/'>A font recreated from photographs of classic Commodore 64 keycaps</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/claude-haiku-5-5'>Claude Haiku 5.5</a></td></tr>
+<tr><td><a href='https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/'>Meta and Microsoft take steps to reduce employee usage of Claude AI</a></td></tr>
+<tr><td><a href='https://openai.com/index/gpt-6-for-everyone/'>GPT‑6 and Intelligent UI for everyone</a></td></tr>
+<tr><td><a href='https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees'>Visa, Mastercard, Major Banks Facing New Litigation over &#x27;Anticompetitive&#x27; Fees</a></td></tr>
+<tr><td><a href='https://scottaaronson.blog/?p=10169'>The Mathocalypse</a></td></tr>
 </table>
 <!-- END:news -->
 
