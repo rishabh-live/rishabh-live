@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openai.com/index/sharing-ai-progress-in-mathematics/'>Sharing AI progress in mathematics</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/mistral-large-4/\'>Mistral Large 4</a></td></tr>
-<tr><td><a href='https://github.com/boykopovar/AnyPS5'>AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)</a></td></tr>
+<tr><td><a href='https://strandsagents.com/blog/introducing-strands-decider/'>Strands Decider 2B: a small, open-source, decision model</a></td></tr>
 <tr><td><a href='https://developers.openai.com/api/docs/guides/decisions'>Decisions API is in public beta</a></td></tr>
-<tr><td><a href='https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026'>Integer multiplication below n log n</a></td></tr>
+<tr><td><a href='https://nanochess.org/la_cueva_bbs.html'>La Cueva BBS in Mexico in 1993 (session replay)</a></td></tr>
+<tr><td><a href='https://github.com/M-Abozaid/esp32-c3-adblock'>ESP32-C3 Adblock</a></td></tr>
 </table>
 <!-- END:news -->
 
