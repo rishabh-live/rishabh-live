@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://vale.rocks/posts/dvd-menus'>Beauty in DVD Menus</a></td></tr>
 <tr><td><a href='https://mathstodon.xyz/@tao/117395269325940185'>“Math 2.0” will need to value mathematical progress more holistically</a></td></tr>
-<tr><td><a href='https://sheets.works/data-viz/holding-up-the-internet'>People Holding Up the Internet</a></td></tr>
-<tr><td><a href='https://www.anthropic.com/claude-haiku-5-5'>Claude Haiku 5.5</a></td></tr>
-<tr><td><a href='https://100r.ca/site/home.html'>Living off-grid: Hundred Rabbits</a></td></tr>
-<tr><td><a href='https://github.com/zerobrewhq/zerobrew'>A 100x faster* alternative to homebrew</a></td></tr>
+<tr><td><a href='https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/'>The Slow Formation of Durable Software</a></td></tr>
+<tr><td><a href='https://www.telnetbbsguide.com/'>Telnet BBS Guide</a></td></tr>
+<tr><td><a href='https://github.com/openai/math/blob/main/history.md'>OpenAI Withdraws 3 Math Papers</a></td></tr>
 </table>
 <!-- END:news -->
 
