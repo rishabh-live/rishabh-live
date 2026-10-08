@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.anthropic.com/claude-haiku-5-5'>Claude Haiku 5.5</a></td></tr>
-<tr><td><a href='https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/'>Meta and Microsoft take steps to reduce employee usage of Claude AI</a></td></tr>
+<tr><td><a href='https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007'>Margaret Hamilton has died</a></td></tr>
+<tr><td><a href='https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/'>&#x27;Jonathan&#x27; is the oldest land animal on Earth</a></td></tr>
 <tr><td><a href='https://openai.com/index/gpt-6-for-everyone/'>GPT‑6 and Intelligent UI for everyone</a></td></tr>
-<tr><td><a href='https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees'>Visa, Mastercard, Major Banks Facing New Litigation over &#x27;Anticompetitive&#x27; Fees</a></td></tr>
-<tr><td><a href='https://scottaaronson.blog/?p=10169'>The Mathocalypse</a></td></tr>
+<tr><td><a href='https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t'>How did Rosalind Franklin miss the helix in her iconic DNA image? She didn&#x27;t</a></td></tr>
 </table>
 <!-- END:news -->
 
