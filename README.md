@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://vale.rocks/posts/dvd-menus'>Beauty in DVD Menus</a></td></tr>
-<tr><td><a href='https://mathstodon.xyz/@tao/117395269325940185'>“Math 2.0” will need to value mathematical progress more holistically</a></td></tr>
-<tr><td><a href='https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/'>The Slow Formation of Durable Software</a></td></tr>
-<tr><td><a href='https://www.telnetbbsguide.com/'>Telnet BBS Guide</a></td></tr>
-<tr><td><a href='https://github.com/openai/math/blob/main/history.md'>OpenAI Withdraws 3 Math Papers</a></td></tr>
+<tr><td><a href='https://cactuscompute.com/blog/whistle'>Whistle: Speech to Text in 16.9 MB</a></td></tr>
+<tr><td><a href='https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/'>The value of not getting to the point (2015)</a></td></tr>
+<tr><td><a href='https://www.theranos.world/'>Theranos.World</a></td></tr>
+<tr><td><a href='http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html'>Show HN: Making a flexible &quot;neon&quot; t-shirt with LED filaments</a></td></tr>
+<tr><td><a href='https://github.com/p10node/k10s'>Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)</a></td></tr>
 </table>
 <!-- END:news -->
 
