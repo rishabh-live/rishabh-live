@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://mathstodon.xyz/@tao/117395269325940185'>“Math 2.0” will need to value mathematical progress more holistically</a></td></tr>
+<tr><td><a href='https://sheets.works/data-viz/holding-up-the-internet'>People Holding Up the Internet</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/claude-haiku-5-5'>Claude Haiku 5.5</a></td></tr>
-<tr><td><a href='https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007'>Margaret Hamilton has died</a></td></tr>
-<tr><td><a href='https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/'>&#x27;Jonathan&#x27; is the oldest land animal on Earth</a></td></tr>
-<tr><td><a href='https://openai.com/index/gpt-6-for-everyone/'>GPT‑6 and Intelligent UI for everyone</a></td></tr>
-<tr><td><a href='https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t'>How did Rosalind Franklin miss the helix in her iconic DNA image? She didn&#x27;t</a></td></tr>
+<tr><td><a href='https://100r.ca/site/home.html'>Living off-grid: Hundred Rabbits</a></td></tr>
+<tr><td><a href='https://github.com/zerobrewhq/zerobrew'>A 100x faster* alternative to homebrew</a></td></tr>
 </table>
 <!-- END:news -->
 
