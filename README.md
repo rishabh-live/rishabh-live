@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://cactuscompute.com/blog/whistle'>Whistle: Speech to Text in 16.9 MB</a></td></tr>
-<tr><td><a href='https://www.theranos.world/'>Theranos.world</a></td></tr>
 <tr><td><a href='https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/'>Why isn&#x27;t the industry freaking out about DeepSeek 4.1 Flash?</a></td></tr>
-<tr><td><a href='https://karagila.org/2026/openai-pp/'>OpenAI, the Partition Principle, and Mathematics</a></td></tr>
+<tr><td><a href='https://cactuscompute.com/blog/whistle'>Whistle: Speech to Text in 16.9 MB</a></td></tr>
+<tr><td><a href='https://opentelemetry.io/blog/2026/otel-native-by-design/'>OTel-Native by Design – Building Products That Export to Any Observability Stack</a></td></tr>
+<tr><td><a href='https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/'>Keyboard differences between Windows and Macs</a></td></tr>
 <tr><td><a href='https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/'>Man discovers his parents&#x27; coffee machine used 1TB of data in 10 days</a></td></tr>
 </table>
 <!-- END:news -->
