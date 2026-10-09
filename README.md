@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://deno.com/blog/cloudflare'>Deno Is Joining Cloudflare</a></td></tr>
+<tr><td><a href='https://deno.com/blog/cloudflare'>Cloudflare acquires Deno</a></td></tr>
+<tr><td><a href='https://carrierexplode.com/'>Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded</a></td></tr>
 <tr><td><a href='https://oxide.computer/blog/our-445m-series-d'>Our $445M Series D</a></td></tr>
-<tr><td><a href='https://github.com/franzenzenhofer/big-arrow-on-the-screen'>Let your AI agents paint big arrows, boxes and text on your screen</a></td></tr>
-<tr><td><a href='https://iminafleeting.com/'>I&#x27;m in a Meeting</a></td></tr>
-<tr><td><a href='https://www.nobelprize.org/prizes/peace/2026/press-release/'>Nobel Peace Prize for 2026 to Navanethem &quot;NAVI&quot; Pillay</a></td></tr>
+<tr><td><a href='https://minesweeper.mikelacher.com/'>Triple-A Minesweeper</a></td></tr>
+<tr><td><a href='https://typesafe.ai/blog/series-ai'>Typesafe AI raises $870M at $7.5B</a></td></tr>
 </table>
 <!-- END:news -->
 
