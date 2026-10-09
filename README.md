@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://cactuscompute.com/blog/whistle'>Whistle: Speech to Text in 16.9 MB</a></td></tr>
-<tr><td><a href='https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/'>The value of not getting to the point (2015)</a></td></tr>
-<tr><td><a href='https://www.theranos.world/'>Theranos.World</a></td></tr>
-<tr><td><a href='http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html'>Show HN: Making a flexible &quot;neon&quot; t-shirt with LED filaments</a></td></tr>
-<tr><td><a href='https://github.com/p10node/k10s'>Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)</a></td></tr>
+<tr><td><a href='https://www.theranos.world/'>Theranos.world</a></td></tr>
+<tr><td><a href='https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/'>Why isn&#x27;t the industry freaking out about DeepSeek 4.1 Flash?</a></td></tr>
+<tr><td><a href='https://karagila.org/2026/openai-pp/'>OpenAI, the Partition Principle, and Mathematics</a></td></tr>
+<tr><td><a href='https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/'>Man discovers his parents&#x27; coffee machine used 1TB of data in 10 days</a></td></tr>
 </table>
 <!-- END:news -->
 
