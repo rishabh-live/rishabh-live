@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://rea.tools/'>REA Reverse – Engineer Anything</a></td></tr>
 <tr><td><a href='https://deno.com/blog/cloudflare'>Cloudflare acquires Deno</a></td></tr>
+<tr><td><a href='https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/'>Telegram Desktop vulnerability allowed any user&#x27;s file to be stolen</a></td></tr>
 <tr><td><a href='https://minesweeper.mikelacher.com/'>Triple-A Minesweeper</a></td></tr>
-<tr><td><a href='https://carrierexplode.com/'>Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded</a></td></tr>
-<tr><td><a href='https://oxide.computer/blog/our-445m-series-d'>Our $445M Series D</a></td></tr>
-<tr><td><a href='https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344'>Japan&#x27;s Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen</a></td></tr>
+<tr><td><a href='https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo'>Eye of Sauron: Long-Range Hidden Spy Camera Detection</a></td></tr>
 </table>
 <!-- END:news -->
 
