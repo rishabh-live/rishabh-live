@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://purplesyringa.moe/blog/grieving-the-loss-of-details/'>Grieving the Loss of Details</a></td></tr>
-<tr><td><a href='https://www.thomas-huehn.com/knuth-reward-check'>Knuth Reward Check</a></td></tr>
-<tr><td><a href='https://github.com/rociiu/talorys'>Talorys – A self-hosted personal AI agent on Cloudflare&#x27;s free tier</a></td></tr>
-<tr><td><a href='https://ndstudio.gov/posts/say-hello-to-rampart'>Rampart: Browser native on-device PII radaction</a></td></tr>
-<tr><td><a href='https://community.bitwarden.com/t/published-version-update-in-app-stores/102750'>Bitwarden Dual License Model</a></td></tr>
+<tr><td><a href='https://patkerr.co.uk/2d-vehicles/'>2D Vehicles</a></td></tr>
+<tr><td><a href='https://motherduck.com/blog/why-duckdb-20-is-faster/'>Why DuckDB 2.0 is faster</a></td></tr>
+<tr><td><a href='https://www.thomas-huehn.com/knuth-reward-check/'>Knuth reward check</a></td></tr>
+<tr><td><a href='https://epoch.ai/publications/innovationeval'>Recent AI models struggled to match a human algorithmic innovation</a></td></tr>
+<tr><td><a href='https://lightbulbcomputer.com/'>The Lightbulb Computer</a></td></tr>
 </table>
 <!-- END:news -->
 
