@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://deno.com/blog/cloudflare'>Cloudflare acquires Deno</a></td></tr>
+<tr><td><a href='https://minesweeper.mikelacher.com/'>Triple-A Minesweeper</a></td></tr>
 <tr><td><a href='https://carrierexplode.com/'>Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded</a></td></tr>
 <tr><td><a href='https://oxide.computer/blog/our-445m-series-d'>Our $445M Series D</a></td></tr>
-<tr><td><a href='https://minesweeper.mikelacher.com/'>Triple-A Minesweeper</a></td></tr>
-<tr><td><a href='https://typesafe.ai/blog/series-ai'>Typesafe AI raises $870M at $7.5B</a></td></tr>
+<tr><td><a href='https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344'>Japan&#x27;s Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen</a></td></tr>
 </table>
 <!-- END:news -->
 
