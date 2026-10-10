@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/'>`123456&#x27; password used in Danish CPR data breach</a></td></tr>
+<tr><td><a href='https://purplesyringa.moe/blog/grieving-the-loss-of-details/'>Grieving the Loss of Details</a></td></tr>
+<tr><td><a href='https://www.thomas-huehn.com/knuth-reward-check'>Knuth Reward Check</a></td></tr>
 <tr><td><a href='https://github.com/rociiu/talorys'>Talorys – A self-hosted personal AI agent on Cloudflare&#x27;s free tier</a></td></tr>
-<tr><td><a href='https://www.opengroup.org//openbrand/register/'>Apple&#x2F;macOS silently removed from official Unix registry</a></td></tr>
-<tr><td><a href='https://rea.tools/'>REA Reverse – Engineer Anything</a></td></tr>
-<tr><td><a href='https://deno.com/blog/cloudflare'>Cloudflare acquires Deno</a></td></tr>
+<tr><td><a href='https://ndstudio.gov/posts/say-hello-to-rampart'>Rampart: Browser native on-device PII radaction</a></td></tr>
+<tr><td><a href='https://community.bitwarden.com/t/published-version-update-in-app-stores/102750'>Bitwarden Dual License Model</a></td></tr>
 </table>
 <!-- END:news -->
 
