@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://wallhop.io/'>WallHop – 12ft.io is gone, so I built a replacement</a></td></tr>
 <tr><td><a href='https://nishtahir.com/build-your-own-decision-model/'>Build your own decision model</a></td></tr>
 <tr><td><a href='https://patkerr.co.uk/2d-vehicles/'>2D Vehicles</a></td></tr>
 <tr><td><a href='https://housing.over.pizza/'>A city-building game in which the city would prefer you didn&#x27;t</a></td></tr>
-<tr><td><a href='https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger'>Nix wrote half of my debugger</a></td></tr>
-<tr><td><a href='https://lightbulbcomputer.com/'>The Lightbulb Computer</a></td></tr>
+<tr><td><a href='https://atoll92.github.io/agent-standup/'>AI agents in a stand-up call</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
