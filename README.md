@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://wallhop.io/'>WallHop – 12ft.io is gone, so I built a replacement</a></td></tr>
-<tr><td><a href='https://nishtahir.com/build-your-own-decision-model/'>Build your own decision model</a></td></tr>
-<tr><td><a href='https://patkerr.co.uk/2d-vehicles/'>2D Vehicles</a></td></tr>
-<tr><td><a href='https://housing.over.pizza/'>A city-building game in which the city would prefer you didn&#x27;t</a></td></tr>
-<tr><td><a href='https://atoll92.github.io/agent-standup/'>AI agents in a stand-up call</a></td></tr>
+<tr><td><a href='https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/'>I paid people to try and follow my README</a></td></tr>
+<tr><td><a href='https://radar.cloudflare.com/bots/as13238?dateRange=7d'>Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter</a></td></tr>
+<tr><td><a href='https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/'>Don&#x27;t Put Tilde In Your Path</a></td></tr>
+<tr><td><a href='https://lineageos.org/Changelog-32/'>LineageOS 24.0</a></td></tr>
+<tr><td><a href='https://nitter.net'>Nitter: Update Oct 10th seeking funding and legal help</a></td></tr>
 </table>
 <!-- END:news -->
 
