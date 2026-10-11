@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/'>I paid people to try and follow my README</a></td></tr>
-<tr><td><a href='https://radar.cloudflare.com/bots/as13238?dateRange=7d'>Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter</a></td></tr>
-<tr><td><a href='https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/'>Don&#x27;t Put Tilde In Your Path</a></td></tr>
+<tr><td><a href='https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/'>I&#x27;m sorry, but you still have to think</a></td></tr>
+<tr><td><a href='https://github.com/rogerbinns/apsw'>apsw: Another Python SQLite Wrapper</a></td></tr>
+<tr><td><a href='https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/'>The tilde in your PATH may not be your HOME</a></td></tr>
 <tr><td><a href='https://lineageos.org/Changelog-32/'>LineageOS 24.0</a></td></tr>
-<tr><td><a href='https://nitter.net'>Nitter: Update Oct 10th seeking funding and legal help</a></td></tr>
 </table>
 <!-- END:news -->
 
