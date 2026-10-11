@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/'>I paid people to try and follow my README</a></td></tr>
-<tr><td><a href='https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/'>I&#x27;m sorry, but you still have to think</a></td></tr>
-<tr><td><a href='https://github.com/rogerbinns/apsw'>apsw: Another Python SQLite Wrapper</a></td></tr>
-<tr><td><a href='https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/'>The tilde in your PATH may not be your HOME</a></td></tr>
-<tr><td><a href='https://lineageos.org/Changelog-32/'>LineageOS 24.0</a></td></tr>
+<tr><td><a href='https://nanolathe.gg'>Total Annihilation, rebuilt for modern computers</a></td></tr>
+<tr><td><a href='https://twitter.com/karpathy/status/2109361546505966046'>The gap in shared understanding of LLM capability is widening</a></td></tr>
+<tr><td><a href='https://cartographers-nk.wonyoung.so/'>Cartographers of North Korea</a></td></tr>
+<tr><td><a href='https://theonion.com/archivehunt/'>Do You Have Pre-2012 Onion Issues?</a></td></tr>
+<tr><td><a href='https://www.ways-of-seeing.com/ch1'>Chapter 1 of Ways of Seeing by John Berger</a></td></tr>
 </table>
 <!-- END:news -->
 
