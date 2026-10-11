@@ -21,10 +21,10 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://nishtahir.com/build-your-own-decision-model/'>Build your own decision model</a></td></tr>
 <tr><td><a href='https://patkerr.co.uk/2d-vehicles/'>2D Vehicles</a></td></tr>
-<tr><td><a href='https://motherduck.com/blog/why-duckdb-20-is-faster/'>Why DuckDB 2.0 is faster</a></td></tr>
-<tr><td><a href='https://www.thomas-huehn.com/knuth-reward-check/'>Knuth reward check</a></td></tr>
-<tr><td><a href='https://epoch.ai/publications/innovationeval'>Recent AI models struggled to match a human algorithmic innovation</a></td></tr>
+<tr><td><a href='https://housing.over.pizza/'>A city-building game in which the city would prefer you didn&#x27;t</a></td></tr>
+<tr><td><a href='https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger'>Nix wrote half of my debugger</a></td></tr>
 <tr><td><a href='https://lightbulbcomputer.com/'>The Lightbulb Computer</a></td></tr>
 </table>
 <!-- END:news -->
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
