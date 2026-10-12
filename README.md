@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467'>Zod 4.6.6 compromised by malware?</a></td></tr>
-<tr><td><a href='https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is'>Postgres isn&#x27;t slow, your storage is</a></td></tr>
-<tr><td><a href='https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html'>Type-safe HTML templating in Zig</a></td></tr>
-<tr><td><a href='https://royfish.dev/fingerprints-are-the-new-cookies'>Fingerprints are the new cookies</a></td></tr>
-<tr><td><a href='https://jverzani.github.io/CalculusWithJuliaNotes.jl/'>Calculus with Julia</a></td></tr>
+<tr><td><a href='https://z.ai/blog/glm-legal'>GLM-Legal</a></td></tr>
+<tr><td><a href='https://github.com/openai/codex/issues/48195'>Codex CLI installs a persistent, self-updating background daemon by default</a></td></tr>
+<tr><td><a href='https://prophitt.me/writing/a-modern-web-app-in-c'>A Modern Web App in C</a></td></tr>
+<tr><td><a href='https://news.ycombinator.com/item?id=50059096'>Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents</a></td></tr>
+<tr><td><a href='https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/'>AI coding agents generate more code, but not more software</a></td></tr>
 </table>
 <!-- END:news -->
 
