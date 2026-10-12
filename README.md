@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.americanscientist.org/article/whatever-became-of-holography'>Whatever became of holography? (2011)</a></td></tr>
 <tr><td><a href='https://nanolathe.gg'>Total Annihilation, rebuilt for modern computers</a></td></tr>
-<tr><td><a href='https://twitter.com/karpathy/status/2109361546505966046'>The gap in shared understanding of LLM capability is widening</a></td></tr>
-<tr><td><a href='https://cartographers-nk.wonyoung.so/'>Cartographers of North Korea</a></td></tr>
-<tr><td><a href='https://theonion.com/archivehunt/'>Do You Have Pre-2012 Onion Issues?</a></td></tr>
-<tr><td><a href='https://www.ways-of-seeing.com/ch1'>Chapter 1 of Ways of Seeing by John Berger</a></td></tr>
+<tr><td><a href='https://royfish.dev/fingerprints-are-the-new-cookies'>Fingerprints Are the New Cookies</a></td></tr>
+<tr><td><a href='https://cartographers-nk.wonyoung.so/'>Cartographers of North Korea (2019)</a></td></tr>
+<tr><td><a href='https://pub.sakana.ai/mass/'>Recursive self-improvement through collective intelligence</a></td></tr>
 </table>
 <!-- END:news -->
 
