@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.americanscientist.org/article/whatever-became-of-holography'>Whatever became of holography? (2011)</a></td></tr>
-<tr><td><a href='https://nanolathe.gg'>Total Annihilation, rebuilt for modern computers</a></td></tr>
-<tr><td><a href='https://royfish.dev/fingerprints-are-the-new-cookies'>Fingerprints Are the New Cookies</a></td></tr>
-<tr><td><a href='https://cartographers-nk.wonyoung.so/'>Cartographers of North Korea (2019)</a></td></tr>
-<tr><td><a href='https://pub.sakana.ai/mass/'>Recursive self-improvement through collective intelligence</a></td></tr>
+<tr><td><a href='https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467'>Zod 4.6.6 compromised by malware?</a></td></tr>
+<tr><td><a href='https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is'>Postgres isn&#x27;t slow, your storage is</a></td></tr>
+<tr><td><a href='https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html'>Type-safe HTML templating in Zig</a></td></tr>
+<tr><td><a href='https://royfish.dev/fingerprints-are-the-new-cookies'>Fingerprints are the new cookies</a></td></tr>
+<tr><td><a href='https://jverzani.github.io/CalculusWithJuliaNotes.jl/'>Calculus with Julia</a></td></tr>
 </table>
 <!-- END:news -->
 
