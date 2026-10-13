@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://doi.org/10.1111/acel.70751'>Blood cells from 80-year-old donor become stem cells with molecular age under 20</a></td></tr>
-<tr><td><a href='https://nirajrajgor.com/blog/kindle-photo-frame-with-ai'>GPT-6 Astra Helped Me Jailbreak My Kindle</a></td></tr>
+<tr><td><a href='https://jsomers.net/e-coli-chemotaxis/'>The baffling intelligence of a single cell (2024)</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-legal'>GLM-Legal</a></td></tr>
-<tr><td><a href='https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/'>Who Is Vfmaddrnd231pd?</a></td></tr>
+<tr><td><a href='https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html'>Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X</a></td></tr>
 <tr><td><a href='https://prophitt.me/writing/a-modern-web-app-in-c'>A Modern Web App in C</a></td></tr>
+<tr><td><a href='https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident'>Hackers activate automatic defrosting in supermarket fridges across Europe</a></td></tr>
 </table>
 <!-- END:news -->
 
