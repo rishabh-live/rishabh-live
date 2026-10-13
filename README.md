@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://doi.org/10.1111/acel.70751'>Blood cells from 80-year-old donor become stem cells with molecular age under 20</a></td></tr>
+<tr><td><a href='https://nirajrajgor.com/blog/kindle-photo-frame-with-ai'>GPT-6 Astra Helped Me Jailbreak My Kindle</a></td></tr>
 <tr><td><a href='https://z.ai/blog/glm-legal'>GLM-Legal</a></td></tr>
-<tr><td><a href='https://github.com/openai/codex/issues/48195'>Codex CLI installs a persistent, self-updating background daemon by default</a></td></tr>
+<tr><td><a href='https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/'>Who Is Vfmaddrnd231pd?</a></td></tr>
 <tr><td><a href='https://prophitt.me/writing/a-modern-web-app-in-c'>A Modern Web App in C</a></td></tr>
-<tr><td><a href='https://news.ycombinator.com/item?id=50059096'>Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents</a></td></tr>
-<tr><td><a href='https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/'>AI coding agents generate more code, but not more software</a></td></tr>
 </table>
 <!-- END:news -->
 
