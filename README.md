@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://deepmind.google/models/gemini/'>Gemini 4 Argon</a></td></tr>
+<tr><td><a href='https://guitoro.com/'>Show HN: Guitoro, a virtual guitar you strum with your keyboard</a></td></tr>
+<tr><td><a href='https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/'>Ledger confirms spy chip implant behind wallet crypto thefts</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/engineering/redesigning-source-control'>Redesigning source control at Anthropic</a></td></tr>
 <tr><td><a href='https://www.apple.com/apple-homeview/'>Apple HomeView</a></td></tr>
-<tr><td><a href='https://github.com/rust-lang/rust/issues/164250'>11 year old unsoundness bugs found in Rust borrow checker</a></td></tr>
-<tr><td><a href='https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/'>Thunderbird for iOS</a></td></tr>
-<tr><td><a href='https://eg2.haku.sh/'>We turned EmbeddingGemma 2 into a speech-to-text model</a></td></tr>
 </table>
 <!-- END:news -->
 
