@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jsomers.net/e-coli-chemotaxis/'>The baffling intelligence of a single cell (2024)</a></td></tr>
-<tr><td><a href='https://z.ai/blog/glm-legal'>GLM-Legal</a></td></tr>
-<tr><td><a href='https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html'>Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X</a></td></tr>
-<tr><td><a href='https://prophitt.me/writing/a-modern-web-app-in-c'>A Modern Web App in C</a></td></tr>
-<tr><td><a href='https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident'>Hackers activate automatic defrosting in supermarket fridges across Europe</a></td></tr>
+<tr><td><a href='https://deepmind.google/models/gemini/'>Gemini 4 Argon</a></td></tr>
+<tr><td><a href='https://www.apple.com/apple-homeview/'>Apple HomeView</a></td></tr>
+<tr><td><a href='https://github.com/rust-lang/rust/issues/164250'>11 year old unsoundness bugs found in Rust borrow checker</a></td></tr>
+<tr><td><a href='https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/'>Thunderbird for iOS</a></td></tr>
+<tr><td><a href='https://eg2.haku.sh/'>We turned EmbeddingGemma 2 into a speech-to-text model</a></td></tr>
 </table>
 <!-- END:news -->
 
