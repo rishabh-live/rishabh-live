@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://typeof.net/Iosevka/'>Iosevka is an open-source, sans-serif and slab-serif, monospace font</a></td></tr>
-<tr><td><a href='https://scotthelme.co.uk/passkeys-are-not-a-trap/'>Passkeys Are Not a Trap</a></td></tr>
-<tr><td><a href='https://github.com/timescale/pg_vectorsearch'>Pg_vectorsearch: An index that is faster than pgvector&#x27;s IVFFlat and HNSW</a></td></tr>
-<tr><td><a href='https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/'>ASML&#x27;s strong orders ease fears AI spending boom is running out of steam</a></td></tr>
-<tr><td><a href='https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage'>TV4 postpones show after AI agent erases edited material</a></td></tr>
+<tr><td><a href='https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/'>Fire at Starlink site in Bulgaria after suspected sabotage in Poland</a></td></tr>
+<tr><td><a href='https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html'>AI agents aren&#x27;t &#x27;going rogue.&#x27; Frontier labs are skipping security basics</a></td></tr>
+<tr><td><a href='https://go.dev/blog/http-connection-reuse'>Better HTTP&#x2F;1 connection reuse in Go 1.27</a></td></tr>
+<tr><td><a href='https://typeof.net/Iosevka/'>Iosevka is an open-source, sans-serif and slab-serif monospace font</a></td></tr>
+<tr><td><a href='https://phloem.stemdeck.app/'>Phloem: Git history grown like a slime mold</a></td></tr>
 </table>
 <!-- END:news -->
 
