@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://typeof.net/Iosevka/'>Iosevka is an open-source, sans-serif and slab-serif, monospace font</a></td></tr>
 <tr><td><a href='https://deepmind.google/models/gemini/'>Gemini 4 Argon</a></td></tr>
-<tr><td><a href='https://felixrieseberg.com/'>Felix Rieseberg Homepage</a></td></tr>
 <tr><td><a href='https://ciechanow.ski/sound/'>Sound – Bartosz Ciechanowski (2022)</a></td></tr>
+<tr><td><a href='https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/'>What agents mean for Rust (and vice versa)</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/'>Ledger confirms spy chip implant behind wallet crypto thefts</a></td></tr>
-<tr><td><a href='https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/'>Is &#x27;Attention&#x27; the Essence of Intelligence?</a></td></tr>
 </table>
 <!-- END:news -->
 
