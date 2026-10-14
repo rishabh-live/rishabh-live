@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://typeof.net/Iosevka/'>Iosevka is an open-source, sans-serif and slab-serif, monospace font</a></td></tr>
-<tr><td><a href='https://deepmind.google/models/gemini/'>Gemini 4 Argon</a></td></tr>
-<tr><td><a href='https://ciechanow.ski/sound/'>Sound – Bartosz Ciechanowski (2022)</a></td></tr>
-<tr><td><a href='https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/'>What agents mean for Rust (and vice versa)</a></td></tr>
-<tr><td><a href='https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/'>Ledger confirms spy chip implant behind wallet crypto thefts</a></td></tr>
+<tr><td><a href='https://scotthelme.co.uk/passkeys-are-not-a-trap/'>Passkeys Are Not a Trap</a></td></tr>
+<tr><td><a href='https://github.com/timescale/pg_vectorsearch'>Pg_vectorsearch: An index that is faster than pgvector&#x27;s IVFFlat and HNSW</a></td></tr>
+<tr><td><a href='https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/'>ASML&#x27;s strong orders ease fears AI spending boom is running out of steam</a></td></tr>
+<tr><td><a href='https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage'>TV4 postpones show after AI agent erases edited material</a></td></tr>
 </table>
 <!-- END:news -->
 
