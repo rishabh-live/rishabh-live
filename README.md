@@ -25,7 +25,7 @@
 <tr><td><a href='https://guitoro.com/'>Show HN: Guitoro, a virtual guitar you strum with your keyboard</a></td></tr>
 <tr><td><a href='https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/'>Ledger confirms spy chip implant behind wallet crypto thefts</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/engineering/redesigning-source-control'>Redesigning source control at Anthropic</a></td></tr>
-<tr><td><a href='https://www.apple.com/apple-homeview/'>Apple HomeView</a></td></tr>
+<tr><td><a href='https://pulseos.finance'>Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine</a></td></tr>
 </table>
 <!-- END:news -->
 
