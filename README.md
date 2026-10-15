@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/'>Things to know when you get cancer</a></td></tr>
-<tr><td><a href='https://blog.dfb.sh/blog/eap770-root-for-two-zeros/'>Wanted to download an ISO, ended up writing a kernel exploit</a></td></tr>
-<tr><td><a href='https://anoma.ly/notes/opencode-2-0/'>OpenCode 2.0</a></td></tr>
-<tr><td><a href='https://unfenced.land/'>Show HN: Unfenced – Land for sale that borders public land</a></td></tr>
-<tr><td><a href='https://tinylittleoffice.com/'>Tiny Little Office</a></td></tr>
+<tr><td><a href='https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/'>Simons Foundation launches $15M effort to help mathematicians navigate AI era</a></td></tr>
+<tr><td><a href='https://already-clean.goodfire.com/'>Neural Networks Are Already Clean</a></td></tr>
+<tr><td><a href='https://github.com/fyzugx/DEsk'>Wayland desktop for Linux with skeuomorphic design</a></td></tr>
+<tr><td><a href='https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep'>I Know Why the Mathematicians Weep</a></td></tr>
+<tr><td><a href='https://www.krea.ai/krea-3'>Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro</a></td></tr>
 </table>
 <!-- END:news -->
 
