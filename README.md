@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/'>Things to know when you get cancer</a></td></tr>
+<tr><td><a href='https://blog.dfb.sh/blog/eap770-root-for-two-zeros/'>Wanted to download an ISO, ended up writing a kernel exploit</a></td></tr>
 <tr><td><a href='https://anoma.ly/notes/opencode-2-0/'>OpenCode 2.0</a></td></tr>
+<tr><td><a href='https://unfenced.land/'>Show HN: Unfenced – Land for sale that borders public land</a></td></tr>
 <tr><td><a href='https://tinylittleoffice.com/'>Tiny Little Office</a></td></tr>
-<tr><td><a href='https://www.liquid.ai/blog/lfm2-5-24b-a2b'>LFM2.5-24B-A2B: Built for fast on-device agents</a></td></tr>
-<tr><td><a href='https://mapwriting.substack.com/p/dentists'>Do dentists know what they&#x27;re doing?</a></td></tr>
 </table>
 <!-- END:news -->
 
