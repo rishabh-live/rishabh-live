@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/'>Simons Foundation launches $15M effort to help mathematicians navigate AI era</a></td></tr>
-<tr><td><a href='https://already-clean.goodfire.com/'>Neural Networks Are Already Clean</a></td></tr>
-<tr><td><a href='https://github.com/fyzugx/DEsk'>Wayland desktop for Linux with skeuomorphic design</a></td></tr>
-<tr><td><a href='https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep'>I Know Why the Mathematicians Weep</a></td></tr>
-<tr><td><a href='https://www.krea.ai/krea-3'>Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro</a></td></tr>
+<tr><td><a href='https://research.meta.ai/blog/muse-spark-open'>Muse Spark Open</a></td></tr>
+<tr><td><a href='https://already-clean.goodfire.com/'>Neural networks are clean</a></td></tr>
+<tr><td><a href='https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/'>Why are we even doing all this?</a></td></tr>
+<tr><td><a href='https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4'>E Ink Kaleido 4</a></td></tr>
+<tr><td><a href='https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts'>New Withings Users Must Pay $99&#x2F;Year for Apple Health Syncing</a></td></tr>
 </table>
 <!-- END:news -->
 
