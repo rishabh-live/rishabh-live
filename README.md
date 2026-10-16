@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.tesla.com/roadster'>Tesla Roadster</a></td></tr>
+<tr><td><a href='https://bfl.ai/blog/flux-3-image-klein'>FLUX 3 Image Klein</a></td></tr>
 <tr><td><a href='https://www.anthropic.com/research/ecdsa-curve-origins'>Claude reveals ECDSA curve origins</a></td></tr>
 <tr><td><a href='https://github.com/cobanov/PS5LM'>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</a></td></tr>
-<tr><td><a href='https://bfl.ai/blog/flux-3-image-klein'>Flux 3 Image Klein: open weights, 5.6B parameters</a></td></tr>
-<tr><td><a href='https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health'>The Fatal Flaw of 911</a></td></tr>
+<tr><td><a href='https://waymo.com/blog/2026/10/waymo-in-toronto/'>Waymo in Toronto</a></td></tr>
 </table>
 <!-- END:news -->
 
