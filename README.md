@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/'>Meta’s new commercial terms will allow the scraping of news sites: experts</a></td></tr>
 <tr><td><a href='https://research.meta.ai/blog/muse-spark-open'>Muse Spark Open</a></td></tr>
-<tr><td><a href='https://ipinfo.io/blog/rpki-protects-70-internet-routes'>RPKI now protects 70% of internet routes</a></td></tr>
-<tr><td><a href='https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/'>Business accounts will consent to Meta scraping their websites Starting Oct. 30</a></td></tr>
-<tr><td><a href='https://github.com/Saffsanity/sill'>Any window from your Mac, on your iPhone and iPad</a></td></tr>
-<tr><td><a href='https://already-clean.goodfire.com/'>Neural networks are clean</a></td></tr>
+<tr><td><a href='https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban'>New York City&#x27;s iconic horse-drawn carriages expected to take their last trot</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=sjNpfz4UzqU'>Woman who rescued injured crow keeps getting &#x27;thank-you gifts&#x27; from birds [video]</a></td></tr>
+<tr><td><a href='https://lwn.net/Articles/1097760/'>Last rites for Gentoo&#x27;s Chromium package</a></td></tr>
 </table>
 <!-- END:news -->
 
