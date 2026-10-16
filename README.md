@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://research.meta.ai/blog/muse-spark-open'>Muse Spark Open</a></td></tr>
-<tr><td><a href='https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/'>What I Self-Host</a></td></tr>
+<tr><td><a href='https://ipinfo.io/blog/rpki-protects-70-internet-routes'>RPKI now protects 70% of internet routes</a></td></tr>
+<tr><td><a href='https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/'>Business accounts will consent to Meta scraping their websites Starting Oct. 30</a></td></tr>
+<tr><td><a href='https://github.com/Saffsanity/sill'>Any window from your Mac, on your iPhone and iPad</a></td></tr>
 <tr><td><a href='https://already-clean.goodfire.com/'>Neural networks are clean</a></td></tr>
-<tr><td><a href='https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup'>Someone on Torrent Sites Kept Fucking with My Sonarr</a></td></tr>
-<tr><td><a href='https://github.com/fyzugx/DEsk'>Wayland desktop for Linux with skeuomorphic design</a></td></tr>
 </table>
 <!-- END:news -->
 
