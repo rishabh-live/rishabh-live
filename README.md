@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.mercor.com/research/labor-index/benchmark-map/'>90% of US working hours are spent on tasks not covered well by AI benchmarks</a></td></tr>
-<tr><td><a href='https://machinelearning.apple.com/research/mlx-distributed-inference'>Apple ML Research: Muse Spark Open with MLX on Mac Studio</a></td></tr>
-<tr><td><a href='https://calif.io/research/big-fish'>Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD</a></td></tr>
-<tr><td><a href='https://starskirmish.com/bench/v0-2/'>Show HN: Gemini 4 Argon plays StarCraft</a></td></tr>
-<tr><td><a href='https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/'>I Love Software Rendering</a></td></tr>
+<tr><td><a href='https://www.tesla.com/roadster'>Tesla Roadster</a></td></tr>
+<tr><td><a href='https://www.anthropic.com/research/ecdsa-curve-origins'>Claude reveals ECDSA curve origins</a></td></tr>
+<tr><td><a href='https://github.com/cobanov/PS5LM'>Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console</a></td></tr>
+<tr><td><a href='https://bfl.ai/blog/flux-3-image-klein'>Flux 3 Image Klein: open weights, 5.6B parameters</a></td></tr>
+<tr><td><a href='https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health'>The Fatal Flaw of 911</a></td></tr>
 </table>
 <!-- END:news -->
 
