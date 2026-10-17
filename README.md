@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017'>DeepSeek: DeepSeek v4.1 Flash 1017</a></td></tr>
-<tr><td><a href='https://www.paperinstruments.com/ultramarine'>Ultramarine 1 Flash</a></td></tr>
-<tr><td><a href='https://www.tesla.com/roadster'>Tesla Roadster</a></td></tr>
-<tr><td><a href='https://llmspeed.dev/'>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</a></td></tr>
+<tr><td><a href='https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging'>GLP-1 may slow biological aging</a></td></tr>
+<tr><td><a href='https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using'>Making Chicken Transparent Using Dorito Dust</a></td></tr>
 <tr><td><a href='https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017'>DeepSeek-v4.1-Flash-1017</a></td></tr>
+<tr><td><a href='https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/'>Solar surpasses nuclear power globally for first time</a></td></tr>
+<tr><td><a href='https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/'>Rendering pretty sky in Around The World game</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,8 +113,7 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
-</table>
+<i>Could not fetch GitHub activity.</i>
 <!-- END:github_activity -->
 
 <br/>
