@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging'>GLP-1 may slow biological aging</a></td></tr>
-<tr><td><a href='https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using'>Making Chicken Transparent Using Dorito Dust</a></td></tr>
-<tr><td><a href='https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017'>DeepSeek-v4.1-Flash-1017</a></td></tr>
-<tr><td><a href='https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/'>Solar surpasses nuclear power globally for first time</a></td></tr>
-<tr><td><a href='https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/'>Rendering pretty sky in Around The World game</a></td></tr>
+<tr><td><a href='https://www.nature.com/articles/d41586-026-03266-x'>Bleached corals thrive within days when touching healthy neighbour</a></td></tr>
+<tr><td><a href='https://lwn.net/Articles/1088776/'>Development statistics for the 7.2 kernel</a></td></tr>
+<tr><td><a href='https://www.numismaticnews.net/gold-now-top-u-s-export'>Gold is now the top U.S. export</a></td></tr>
+<tr><td><a href='https://github.com/antirez/c64-hw-simulator'>The Commodore 64 hardware simulator: break chips and pins, see the results</a></td></tr>
+<tr><td><a href='https://github.com/valimised/ivxv'>Source code of the Estonian online voting system</a></td></tr>
 </table>
 <!-- END:news -->
 
@@ -113,7 +113,8 @@
 ## My Recent Commits
 
 <!-- START:github_activity -->
-<i>Could not fetch GitHub activity.</i>
+<table><tr><td><b>Commit/Event</b></td><td><b>Repository</b></td><td><b>Link</b></td></tr>
+</table>
 <!-- END:github_activity -->
 
 <br/>
