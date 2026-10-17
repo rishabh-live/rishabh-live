@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017'>DeepSeek: DeepSeek v4.1 Flash 1017</a></td></tr>
-<tr><td><a href='https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf'>&quot;Tame&quot; boar and deer are instinctively adapting to the wolf in the Netherlands</a></td></tr>
 <tr><td><a href='https://www.paperinstruments.com/ultramarine'>Ultramarine 1 Flash</a></td></tr>
-<tr><td><a href='https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search'>Is MCP becoming the common foundation of smart, decentralised search?</a></td></tr>
 <tr><td><a href='https://www.tesla.com/roadster'>Tesla Roadster</a></td></tr>
+<tr><td><a href='https://llmspeed.dev/'>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</a></td></tr>
+<tr><td><a href='https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017'>DeepSeek-v4.1-Flash-1017</a></td></tr>
 </table>
 <!-- END:news -->
 
