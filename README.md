@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.nature.com/articles/d41586-026-03266-x'>Bleached corals thrive within days when touching healthy neighbour</a></td></tr>
-<tr><td><a href='https://lwn.net/Articles/1088776/'>Development statistics for the 7.2 kernel</a></td></tr>
-<tr><td><a href='https://www.numismaticnews.net/gold-now-top-u-s-export'>Gold is now the top U.S. export</a></td></tr>
+<tr><td><a href='https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/'>Chrome and Edge are removing XSLT: what breaks and what does not</a></td></tr>
+<tr><td><a href='https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/'>Dam removals are bringing fish back across the northeastern United States</a></td></tr>
+<tr><td><a href='https://furifont.antfu.me/'>Furifont, a Japanese font that shows furigana</a></td></tr>
 <tr><td><a href='https://github.com/antirez/c64-hw-simulator'>The Commodore 64 hardware simulator: break chips and pins, see the results</a></td></tr>
-<tr><td><a href='https://github.com/valimised/ivxv'>Source code of the Estonian online voting system</a></td></tr>
 </table>
 <!-- END:news -->
 
