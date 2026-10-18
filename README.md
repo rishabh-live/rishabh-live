@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://api-docs.deepseek.com/guides/search/'>DeepSeek search and fetch – $0.75 per 1000 successful requests</a></td></tr>
-<tr><td><a href='https://sphinx-six-theta.vercel.app/'>Show HN: Sphinx – A hook that quizzes you on your AI&#x27;s code before shipping</a></td></tr>
+<tr><td><a href='https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/'>Legal experts warn Meta&#x27;s new terms still grant broad scraping permissions</a></td></tr>
+<tr><td><a href='https://github.com/0x23/MicroManipulatorStepper'>Open MicroManipulator – A sub-micrometer 3D motion control plattform</a></td></tr>
+<tr><td><a href='https://t3.at/blog/2026-10-17-parser-combinators/'>Parser Combinators</a></td></tr>
 <tr><td><a href='https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything'>How the Elizabeth Holmes documentary “You Can See Everything” is deceiving</a></td></tr>
-<tr><td><a href='https://www.nature.com/articles/d41586-026-03266-x'>Bleached corals thrive within days when touching healthy neighbour</a></td></tr>
-<tr><td><a href='https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/'>Lean now ships with verified kernels</a></td></tr>
 </table>
 <!-- END:news -->
 
