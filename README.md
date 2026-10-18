@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550'>macOS 15.8.2 Breaks OpenGL</a></td></tr>
+<tr><td><a href='https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html'>HOA&#x27;s are making the home crisis worse</a></td></tr>
 <tr><td><a href='https://github.com/VikOlliver/RepRapMicron/wiki'>RepRapMicron</a></td></tr>
-<tr><td><a href='https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/'>Legal experts warn Meta&#x27;s new terms still grant broad scraping permissions</a></td></tr>
-<tr><td><a href='https://api-docs.deepseek.com/guides/search/'>DeepSeek search and fetch – $0.75 per 1000 successful requests</a></td></tr>
-<tr><td><a href='https://karrisaarinen.com/posts/someone-behind-the-software/'>Someone Behind the Software</a></td></tr>
+<tr><td><a href='https://karrisaarinen.com/posts/someone-behind-the-software/'>Someone behind the software</a></td></tr>
+<tr><td><a href='https://mitos.computer/'>Mitos editor is a fork of Helix</a></td></tr>
+<tr><td><a href='https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/'>Java sealed classes and exhaustive pattern matching</a></td></tr>
 </table>
 <!-- END:news -->
 
