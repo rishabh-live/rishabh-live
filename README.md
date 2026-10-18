@@ -22,9 +22,9 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://www.nature.com/articles/d41586-026-03266-x'>Bleached corals thrive within days when touching healthy neighbour</a></td></tr>
-<tr><td><a href='https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/'>Chrome and Edge are removing XSLT: what breaks and what does not</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/'>Dam removals are bringing fish back across the northeastern United States</a></td></tr>
 <tr><td><a href='https://furifont.antfu.me/'>Furifont, a Japanese font that shows furigana</a></td></tr>
+<tr><td><a href='https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017'>DeepSeek-v4.1-Flash-1017</a></td></tr>
 <tr><td><a href='https://github.com/antirez/c64-hw-simulator'>The Commodore 64 hardware simulator: break chips and pins, see the results</a></td></tr>
 </table>
 <!-- END:news -->
