@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html'>HOA&#x27;s are making the home crisis worse</a></td></tr>
-<tr><td><a href='https://github.com/VikOlliver/RepRapMicron/wiki'>RepRapMicron</a></td></tr>
+<tr><td><a href='https://arxiv.org/abs/2610.18861'>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a></td></tr>
 <tr><td><a href='https://karrisaarinen.com/posts/someone-behind-the-software/'>Someone behind the software</a></td></tr>
-<tr><td><a href='https://mitos.computer/'>Mitos editor is a fork of Helix</a></td></tr>
-<tr><td><a href='https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/'>Java sealed classes and exhaustive pattern matching</a></td></tr>
+<tr><td><a href='https://www.getlazarus.org/dynamic/'>Free Pascal compiler now supports dynamic packages</a></td></tr>
+<tr><td><a href='https://github.com/VikOlliver/RepRapMicron/wiki'>RepRapMicron</a></td></tr>
+<tr><td><a href='https://github.com/ardiri/palmos-lemmings'>PalmOS Lemmings</a></td></tr>
 </table>
 <!-- END:news -->
 
