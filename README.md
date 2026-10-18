@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything'>How the Elizabeth Holmes Doc &#x27;You Can See Everything&#x27; Is Deceiving You</a></td></tr>
 <tr><td><a href='https://www.nature.com/articles/d41586-026-03266-x'>Bleached corals thrive within days when touching healthy neighbour</a></td></tr>
+<tr><td><a href='https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/'>Lean now ships with verified kernels</a></td></tr>
 <tr><td><a href='https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/'>Dam removals are bringing fish back across the northeastern United States</a></td></tr>
-<tr><td><a href='https://furifont.antfu.me/'>Furifont, a Japanese font that shows furigana</a></td></tr>
-<tr><td><a href='https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017'>DeepSeek-v4.1-Flash-1017</a></td></tr>
-<tr><td><a href='https://github.com/antirez/c64-hw-simulator'>The Commodore 64 hardware simulator: break chips and pins, see the results</a></td></tr>
+<tr><td><a href='https://sphinx-six-theta.vercel.app/'>Show HN: Sphinx – a hook that quizzes you on your AI&#x27;s code before shipping</a></td></tr>
 </table>
 <!-- END:news -->
 
