@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://api-docs.deepseek.com/guides/search/'>DeepSeek search and fetch – $0.75 per 1000 successful requests</a></td></tr>
+<tr><td><a href='https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550'>macOS 15.8.2 Breaks OpenGL</a></td></tr>
+<tr><td><a href='https://github.com/VikOlliver/RepRapMicron/wiki'>RepRapMicron</a></td></tr>
 <tr><td><a href='https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/'>Legal experts warn Meta&#x27;s new terms still grant broad scraping permissions</a></td></tr>
-<tr><td><a href='https://github.com/0x23/MicroManipulatorStepper'>Open MicroManipulator – A sub-micrometer 3D motion control plattform</a></td></tr>
-<tr><td><a href='https://t3.at/blog/2026-10-17-parser-combinators/'>Parser Combinators</a></td></tr>
-<tr><td><a href='https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything'>How the Elizabeth Holmes documentary “You Can See Everything” is deceiving</a></td></tr>
+<tr><td><a href='https://api-docs.deepseek.com/guides/search/'>DeepSeek search and fetch – $0.75 per 1000 successful requests</a></td></tr>
+<tr><td><a href='https://karrisaarinen.com/posts/someone-behind-the-software/'>Someone Behind the Software</a></td></tr>
 </table>
 <!-- END:news -->
 
