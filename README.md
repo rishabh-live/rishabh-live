@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://lwn.net/Articles/1101143/'>Linux 7.3 Released</a></td></tr>
-<tr><td><a href='https://www.construction-physics.com/p/how-to-train-your-robot'>How to Train Your Robot</a></td></tr>
-<tr><td><a href='https://arxiv.org/abs/2610.18861'>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a></td></tr>
-<tr><td><a href='https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html'>Rabbits were a medieval royal luxury in England until the Black Death</a></td></tr>
-<tr><td><a href='https://colo.to/cyberspace.html'>William Gibson and the trademarking of cyberspace</a></td></tr>
+<tr><td><a href='https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository'>I no longer care to work on any Ruby gems so I&#x27;ve archived all my repositories</a></td></tr>
+<tr><td><a href='https://marc.info/?l=openbsd-ports&amp;m=179236125692175'>Wine Ported to OpenBSD</a></td></tr>
+<tr><td><a href='https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/'>CERN and Mistral join forces to accelerate AI for science</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/timestral/'>Timestral: Mistral release time-series foundation models</a></td></tr>
+<tr><td><a href='https://lwn.net/Articles/1101143/'>Linux 7.3</a></td></tr>
 </table>
 <!-- END:news -->
 
