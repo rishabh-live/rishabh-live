@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository'>I no longer care to work on any Ruby gems so I&#x27;ve archived all my repositories</a></td></tr>
-<tr><td><a href='https://marc.info/?l=openbsd-ports&amp;m=179236125692175'>Wine Ported to OpenBSD</a></td></tr>
-<tr><td><a href='https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/'>CERN and Mistral join forces to accelerate AI for science</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/timestral/'>Timestral: Mistral release time-series foundation models</a></td></tr>
-<tr><td><a href='https://lwn.net/Articles/1101143/'>Linux 7.3</a></td></tr>
+<tr><td><a href='https://josie.lol/blog/linux-rtx-spark'>Putting Linux on my RTX spark laptop because I don&#x27;t have a Microsoft account</a></td></tr>
+<tr><td><a href='https://www.minimax.io/blog/minimax-m31f'>MiniMax M3.1 Flash</a></td></tr>
+<tr><td><a href='https://www.youtube.com/watch?v=Ndftcft6XhU'>I built a drone with only one motor [video]</a></td></tr>
+<tr><td><a href='http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves'>The reverts will continue until morale improves</a></td></tr>
+<tr><td><a href='https://marc.info/?l=openbsd-ports&amp;m=179236125692175'>Wine ported to OpenBSD</a></td></tr>
 </table>
 <!-- END:news -->
 
