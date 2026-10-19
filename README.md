@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://lwn.net/Articles/1101143/'>Linux 7.3 Released</a></td></tr>
+<tr><td><a href='https://www.construction-physics.com/p/how-to-train-your-robot'>How to Train Your Robot</a></td></tr>
 <tr><td><a href='https://arxiv.org/abs/2610.18861'>Hybrid Reasoning Agents: LLM agents that think in latent space, act through text</a></td></tr>
+<tr><td><a href='https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html'>Rabbits were a medieval royal luxury in England until the Black Death</a></td></tr>
 <tr><td><a href='https://colo.to/cyberspace.html'>William Gibson and the trademarking of cyberspace</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=LKrwhjOI8Nc'>There&#x27;s never been a better time to go into math (by: 3blue1brown) [video]</a></td></tr>
-<tr><td><a href='https://contextfirst.blog/superlite-hand-an-agent-a-spec/'>Superlite: A Faster Alternatie to Superpowers</a></td></tr>
-<tr><td><a href='https://karrisaarinen.com/posts/someone-behind-the-software/'>Someone behind the software</a></td></tr>
 </table>
 <!-- END:news -->
 
