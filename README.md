@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://josie.lol/blog/linux-rtx-spark'>Putting Linux on my RTX spark laptop because I don&#x27;t have a Microsoft account</a></td></tr>
+<tr><td><a href='https://ipinfo.io/blog/france-fridges-hack'>France&#x27;s Supermarket Fridges Were Vulnerable Online for Months</a></td></tr>
 <tr><td><a href='https://www.minimax.io/blog/minimax-m31f'>MiniMax M3.1 Flash</a></td></tr>
 <tr><td><a href='https://www.youtube.com/watch?v=Ndftcft6XhU'>I built a drone with only one motor [video]</a></td></tr>
-<tr><td><a href='http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves'>The reverts will continue until morale improves</a></td></tr>
 <tr><td><a href='https://marc.info/?l=openbsd-ports&amp;m=179236125692175'>Wine ported to OpenBSD</a></td></tr>
+<tr><td><a href='https://bsd.network/@brynet/117407035545900963'>OpenBSD 8.0 release will have inteldrm&#x2F;radeondrm&#x2F;amdgpu drivers from Linux 6.18</a></td></tr>
 </table>
 <!-- END:news -->
 
