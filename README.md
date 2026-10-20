@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://github.com/deepseek-ai/DeepInfer'>DeepSeek just open-sourced its inference engine</a></td></tr>
-<tr><td><a href='https://mastodon.gamedev.place/@AshleyGullen/117473851565913919'>Facebook now charging to post more than 2 links a month</a></td></tr>
-<tr><td><a href='https://emudhra.we-have-a-problem.com/'>EMudhra Intermediate CA Compromise</a></td></tr>
-<tr><td><a href='https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/'>Apple broke an essential presentation feature of iPads</a></td></tr>
-<tr><td><a href='https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/'>Ofcom Concedes Defeat in the 4chan Case</a></td></tr>
+<tr><td><a href='https://permit.petercai.com/'>SimCity, but with Permits</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/voxtral-3/'>Voxtral 3</a></td></tr>
+<tr><td><a href='https://github.com/deepseek-ai/DeepInfer'>DeepInfer: High-performance inference framework for DeepSeek models</a></td></tr>
+<tr><td><a href='https://github.com/google-pytorch/torch_tpu'>Google open-sources TorchTPU, a native PyTorch back end for TPUs</a></td></tr>
+<tr><td><a href='https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md'>SlopCodeBench 10&#x2F;2026 – Opus 5.5, Astra wins overall, xhigh considered harmful</a></td></tr>
 </table>
 <!-- END:news -->
 
