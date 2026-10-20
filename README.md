@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://ipinfo.io/blog/france-fridges-hack'>France&#x27;s Supermarket Fridges Were Vulnerable Online for Months</a></td></tr>
+<tr><td><a href='https://www.openbsd.org/80.html'>OpenBSD 8.0</a></td></tr>
+<tr><td><a href='https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/'>U.S. Supreme Court to review 1868 federal ban on home distilling of liquor</a></td></tr>
+<tr><td><a href='https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions'>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</a></td></tr>
 <tr><td><a href='https://www.minimax.io/blog/minimax-m31f'>MiniMax M3.1 Flash</a></td></tr>
-<tr><td><a href='https://www.youtube.com/watch?v=Ndftcft6XhU'>I built a drone with only one motor [video]</a></td></tr>
-<tr><td><a href='https://marc.info/?l=openbsd-ports&amp;m=179236125692175'>Wine ported to OpenBSD</a></td></tr>
-<tr><td><a href='https://bsd.network/@brynet/117407035545900963'>OpenBSD 8.0 release will have inteldrm&#x2F;radeondrm&#x2F;amdgpu drivers from Linux 6.18</a></td></tr>
+<tr><td><a href='https://ipinfo.io/blog/france-fridges-hack'>France&#x27;s supermarket fridges were vulnerable online for months</a></td></tr>
 </table>
 <!-- END:news -->
 
