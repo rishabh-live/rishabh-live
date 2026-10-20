@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://permit.petercai.com/'>SimCity, but with Permits</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/voxtral-3/'>Voxtral 3</a></td></tr>
 <tr><td><a href='https://github.com/deepseek-ai/DeepInfer'>DeepInfer: High-performance inference framework for DeepSeek models</a></td></tr>
+<tr><td><a href='https://mistral.ai/news/voxtral-3/'>Voxtral 3</a></td></tr>
+<tr><td><a href='https://stevekrouse.com/ends'>What shall I teach my son?</a></td></tr>
 <tr><td><a href='https://github.com/google-pytorch/torch_tpu'>Google open-sources TorchTPU, a native PyTorch back end for TPUs</a></td></tr>
-<tr><td><a href='https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md'>SlopCodeBench 10&#x2F;2026 – Opus 5.5, Astra wins overall, xhigh considered harmful</a></td></tr>
 </table>
 <!-- END:news -->
 
