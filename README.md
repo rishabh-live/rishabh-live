@@ -22,10 +22,10 @@
 ### 📰 Latest Tech News
 <table>
 <tr><td><a href='https://github.com/deepseek-ai/DeepInfer'>DeepSeek just open-sourced its inference engine</a></td></tr>
-<tr><td><a href='https://github.com/tywr/Nordwand-Mono'>Nordwand Mono – A monospace font for coders and adventurers</a></td></tr>
-<tr><td><a href='https://www.openbsd.org/80.html'>OpenBSD 8.0</a></td></tr>
-<tr><td><a href='https://github.com/microg/GmsCore/wiki'>MicroG: Free-libre re-implementation of Google&#x27;s proprietary Android user space</a></td></tr>
-<tr><td><a href='https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions'>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</a></td></tr>
+<tr><td><a href='https://mastodon.gamedev.place/@AshleyGullen/117473851565913919'>Facebook now charging to post more than 2 links a month</a></td></tr>
+<tr><td><a href='https://emudhra.we-have-a-problem.com/'>EMudhra Intermediate CA Compromise</a></td></tr>
+<tr><td><a href='https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/'>Apple broke an essential presentation feature of iPads</a></td></tr>
+<tr><td><a href='https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/'>Ofcom Concedes Defeat in the 4chan Case</a></td></tr>
 </table>
 <!-- END:news -->
 
