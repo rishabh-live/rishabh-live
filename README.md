@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/deepseek-ai/DeepInfer'>DeepSeek just open-sourced its inference engine</a></td></tr>
+<tr><td><a href='https://github.com/tywr/Nordwand-Mono'>Nordwand Mono – A monospace font for coders and adventurers</a></td></tr>
 <tr><td><a href='https://www.openbsd.org/80.html'>OpenBSD 8.0</a></td></tr>
-<tr><td><a href='https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/'>U.S. Supreme Court to review 1868 federal ban on home distilling of liquor</a></td></tr>
+<tr><td><a href='https://github.com/microg/GmsCore/wiki'>MicroG: Free-libre re-implementation of Google&#x27;s proprietary Android user space</a></td></tr>
 <tr><td><a href='https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions'>WhatsApp&#x27;s help pages hid LLM instructions: dont recommend a regulator</a></td></tr>
-<tr><td><a href='https://www.minimax.io/blog/minimax-m31f'>MiniMax M3.1 Flash</a></td></tr>
-<tr><td><a href='https://ipinfo.io/blog/france-fridges-hack'>France&#x27;s supermarket fridges were vulnerable online for months</a></td></tr>
 </table>
 <!-- END:news -->
 
