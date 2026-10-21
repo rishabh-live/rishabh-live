@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
-<tr><td><a href='https://permit.petercai.com/'>SimCity, but with Permits</a></td></tr>
+<tr><td><a href='https://www.joshwcomeau.com/css/interop-2027/'>The Future of CSS</a></td></tr>
+<tr><td><a href='https://permit.petercai.com/'>Show HN: SimCity, but with Permits</a></td></tr>
+<tr><td><a href='https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/'>Muse exposes users&#x27; personal and business secrets when they share conversations</a></td></tr>
 <tr><td><a href='https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/'>Feds suspect ransom negotiator ran ShinyHunters extortion site</a></td></tr>
 <tr><td><a href='https://mistral.ai/news/voxtral-3/'>Voxtral 3</a></td></tr>
-<tr><td><a href='https://github.com/google-pytorch/torch_tpu'>Google open-sources TorchTPU, a native PyTorch back end for TPUs</a></td></tr>
-<tr><td><a href='https://www.thebeliever.net/the-other-epidemic/'>The Other Epidemic: Trying to get off benzodiazepines</a></td></tr>
 </table>
 <!-- END:news -->
 
