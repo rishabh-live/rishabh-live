@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/'>Eight Bits of Trust; eMudhra&#x27;s CA keys cracked in milliseconds</a></td></tr>
+<tr><td><a href='https://www.ncsc.nl/actueel'>Dutch National Cyber Security Center is Offline because it uses PHP</a></td></tr>
+<tr><td><a href='https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes'>Whatever Happened to Fire Escapes</a></td></tr>
 <tr><td><a href='https://www.joshwcomeau.com/css/interop-2027/'>The Future of CSS</a></td></tr>
-<tr><td><a href='https://permit.petercai.com/'>Show HN: SimCity, but with Permits</a></td></tr>
-<tr><td><a href='https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/'>Muse exposes users&#x27; personal and business secrets when they share conversations</a></td></tr>
-<tr><td><a href='https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/'>Feds suspect ransom negotiator ran ShinyHunters extortion site</a></td></tr>
-<tr><td><a href='https://mistral.ai/news/voxtral-3/'>Voxtral 3</a></td></tr>
+<tr><td><a href='https://news-web.php.net/php.announce/509'>Upcoming critical PHP security release (CVE-2026-109618 &#x2F; -109619)</a></td></tr>
 </table>
 <!-- END:news -->
 
