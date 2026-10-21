@@ -21,11 +21,11 @@
 <!-- START:news -->
 ### 📰 Latest Tech News
 <table>
+<tr><td><a href='https://github.com/php/php-src/releases/tag/php-8.2.35'>PHP 8.2.35</a></td></tr>
+<tr><td><a href='https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/'>Today&#x27;s PHP security release, and how we&#x27;re strengthening security</a></td></tr>
+<tr><td><a href='https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/'>Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor</a></td></tr>
 <tr><td><a href='https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/'>Eight Bits of Trust; eMudhra&#x27;s CA keys cracked in milliseconds</a></td></tr>
-<tr><td><a href='https://www.ncsc.nl/actueel'>Dutch National Cyber Security Center is Offline because it uses PHP</a></td></tr>
-<tr><td><a href='https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes'>Whatever Happened to Fire Escapes</a></td></tr>
-<tr><td><a href='https://www.joshwcomeau.com/css/interop-2027/'>The Future of CSS</a></td></tr>
-<tr><td><a href='https://news-web.php.net/php.announce/509'>Upcoming critical PHP security release (CVE-2026-109618 &#x2F; -109619)</a></td></tr>
+<tr><td><a href='https://duckdb.org/2026/10/21/announcing-duckdb-200'>DuckDB 2.0.0 LTS “Cinnamon Teal”</a></td></tr>
 </table>
 <!-- END:news -->
 
